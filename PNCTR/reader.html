@@ -10,19 +10,13 @@
         <script src="script.js"></script>
         <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
         <script src="https://unpkg.com/vue@next"></script>
-        <script src="i18n.js"></script>
 
         <div id="header" class="header">
-            Arknights Story Text Reader 
-            <span style="font-size: medium;font-weight: normal;">
-                 <a href="https://github.com/050644zf/ArknightsStoryTextReader/blob/master/ASTR/CHANGELOG.md" style="font-weight: bold;text-decoration: underline;">v0.5</a>
-                 by nightsky#3319 on 
-                 <a href="https://discord.gg/rihq" style="font-weight: bold;text-decoration: underline;">Rhodes Island HQ</a>
-                </span>
+            Project Neural Cloud Story Text Reader 
         </div>
         <div id="warning" class="warning" onclick="this.style.display = 'none'">
-            Arknights Story Text Reader is currently under development. The interface and features may receive great changes in the future. If you have any issues or feedbacks please summit it 
-            <a href="https://github.com/050644zf/ArknightsStoryTextReader/issues">here.</a></br>
+            PNC Text Reader is currently under development. The interface and features may receive great changes in the future. If you have any issues or feedbacks please summit it 
+            <a href="https://github.com/050644zf/PNCTextReader/issues">here.</a></br>
             </br>
             <b>Click this message to remove it.</b>
         </div>
@@ -35,18 +29,18 @@
                 <div class="storydata" id="storydata">
                     {{data.eventName}}  {{data.storyCode}}  {{data.avgTag}}  {{data.storyName}}
                 </div>
-                  <div v-for="line in data.storyList" :key="line.id" class="line" :id="'line'+line.id">
+                  <div v-for="(line, lidx) in showList" :key="'line'+lidx" class="line" :id="'line'+lidx">
                     <a :href="getURL(lang,path,line.id)" class="linkButton material-icons">link</a>
                       <div v-if="line.prop == 'name'" class="textblock">
                           <div class="nameblock">{{line.attributes.name}}</div>
-                          <div class="contentblock">{{line.attributes.content.replaceAll('{@nickname}',doctor)}}</div>
+                          <div class="contentblock">{{line.attributes.content}}</div>
                       </div>
                       <div v-if="line.prop == 'Subtitle'" :class="line.prop" :style="{'text-align': line.attributes.alignment}">
-                          {{line.attributes.text.replaceAll('{@nickname}',doctor)}}
+                          {{line.attributes.text}}
                       </div>
                       <div v-if="line.prop == 'Decision'" :class="line.prop">
                           <div v-for="(option, index) in line.attributes.values.split(';')" class="option" @click="jumpTo(line.targetLine['option'+option])" @mouseover="changeColor(line.targetLine['option'+option],'rgba(255,255,255,0.4)')" @mouseout="changeColor(line.targetLine['option'+option],'rgba(0,0,0,0.4)')">
-                              {{line.attributes.options.split(';')[index].replaceAll('{@nickname}',doctor)}}
+                              {{line.attributes.options.split(';')[index]}}
                           </div>
                       </div>
                       <div v-if="line.prop == 'Predicate'" :class="line.prop">
@@ -65,37 +59,25 @@
         <div id="sidebar">
             <div :class="{menuButton:true,'material-icons':true,menuButtonR:showMenu}" @click="showMenu=!showMenu;">chevron_right</div>
             <div :class="{sidebar:true, sidebarhidden:!showMenu}" >
-                <div id="currentLang" class="currentLang">
-                    {{i18n.currentLang[lang]}}: {{i18n.langs[lang]}}
-                    <div id="langSelect" class="langSelect">
-                        <div  v-for="(langtext,langCode,lidx) in i18n.langs" @click="langSwitch(langCode)">
-                            {{langtext}}
-                        </div>
-                    </div>
-                </div>
-                
-                <div v-for="(events, eventType, ETidx) in eventList" class="eventType" :id="eventType">
-                    <div class="eventtype" >{{i18n[eventType][lang]}}</div>
-                    
-                    <eventmenu v-for="(event, Eidx) in events" class="event" :id="event.id" :event="event" :sl="sl" :lang="lang" @hidemenu="showMenu=false"></eventmenu>
-                </div>
+
+                <eventmenu v-for="(event,eventid, Eidx) in data" class="event" :id="eventid" :event="event" :eventid="eventid"  :lang="lang" @hidemenu="showMenu=false"></eventmenu>
             </div>
         </div>
 
         <script type="text/x-template" id="eventmenu">
             <div class="event">
-                <div :class="{eventname:true, eventnamehl:!collapsed}" @click="collapsed = !collapsed" >{{event.name}}</div>
+                <div :class="{eventname:true, eventnamehl:!collapsed}" @click="collapsed = !collapsed" >{{eventid}}</div>
                 <div class="stories" v-show="!collapsed">
-                    <storymenu v-for="(story, STidx) in event.infoUnlockDatas" :story="story" :sl="sl" :lang="lang" @unfoldevent="collapsed = false"></storymenu>
+                    <storymenu v-for="(story,storyid, STidx) in event" :story="story" :lang="lang" :storyid="storyid" @unfoldevent="collapsed = false"></storymenu>
                 </div>
             </div>
         </script>
 
         <script type="text/x-template" id="storymenu">
 
-            <div :class="{story:true, storyFocused:focused}" :id="story.storyId" @click="loadStory(sl, lang, story.storyTxt, showMenu)">
+            <div :class="{story:true, storyFocused:focused}" :id="story.storyId" @click="loadStory(lang, story.storyTxt, showMenu)">
                 <div class="storycode">{{story.storyCode}}  {{story.avgTag}} </div>
-                <div class="storyname">{{story.storyName}}</div>
+                <div class="storyname">{{story.name}}</div>
             </div>
 
         </script>
@@ -104,34 +86,9 @@
             const queryString = window.location.search;
             const urlParams = new URLSearchParams(queryString);
             var l = urlParams.get('l')
-            var doctor = urlParams.get('dr')
-            if(!l){l = 'zh_CN'}
-            if(!doctor){doctor = "{@nickname}"}
+            if(!l){l = 'zh-CN'}
 
             
-            function getEventList(reviewData, chardict){
-                var eventList = {main:[], ss:[], mini:[], or:[]};
-                for(event in reviewData){
-                    if(reviewData[event].entryType == 'MAINLINE'){
-                        eventList.main.push(reviewData[event]);
-                    }
-                    else if(reviewData[event].entryType == 'ACTIVITY'){
-                        eventList.ss.push(reviewData[event]);
-                    }
-                    else if(reviewData[event].entryType == 'MINI_ACTIVITY'){
-                        eventList.mini.push(reviewData[event]);
-                    }
-                    else if(reviewData[event].entryType == 'NONE'){
-                        var cin = event.split('_')[1];
-                        var set = event.split('_')[3];
-                        reviewData[event].name = chardict[cin] + ' - ' + set;
-                        eventList.or.push(reviewData[event]);
-                    }
-                }
-                eventList.ss.sort(function(a,b){return a.startTime - b.startTime;});
-                eventList.mini.sort(function(a,b){return a.startTime - b.startTime;});
-                return eventList;
-            }
             function focus(){
                 var foc = document.getElementsByClassName('storyFocused')[0];
                 if(foc){
@@ -140,16 +97,35 @@
                 console.log('focused!')
             }
 
+
+
             const lr = Vue.createApp({
                 data(){
                     return{
-                        data: {eventName: '< - ' + i18n.selectStory[l]},
+                        data: {},
                         path: urlParams.get('f'),
                         lang: l,
-                        doctor: doctor
+                        showList: [],
+                        currentNode: null
                     }
                 },
                 updated(){
+                    if(!this.currentNode){
+                        this.currentNode = 'node1';
+                    }
+                    var node = this.data[this.currentNode];
+                    if(node){
+                        this.showList.push(node);
+                        if(node.prop == 'Decision'){
+
+                        }
+                        else{
+                            this.currentNode = 'node' + node['nextId'];
+                        }
+                    }
+                    
+                },
+                /*updated(){
                     if(urlParams.get('warp')){
                         var tgt = document.getElementById(urlParams.get('warp'));
                         if(tgt){
@@ -158,7 +134,7 @@
                         }
                     };
                     focus();
-                },
+                },*/
                 methods:{
                     jumpTo(id){
                         var optLine = document.getElementById(id);
@@ -180,25 +156,15 @@
                 data(){
                     return{
                         data: {},
-                        chardict: {},
-                        eventList: {},
                         lang: l,
                         sl: storylist,
-                        i18n: i18n,
                         showMenu: true
-                    }
-                },
-                methods:{
-                    langSwitch(langCode){
-                        req = 'l='+langCode;
-                        if(doctor != "{@nickname}"){req = req + '&dr=' + doctor}
-                        window.location.search = req;
                     }
                 },
                 components:{
                     eventmenu:{
                         template:'#eventmenu',
-                        props:['event','eventid','sl','lang','showMenu'],
+                        props:['event','eventid','lang','showMenu'],
                         emits:['hidemenu','focusStory'],
                         data(){
                             return{
@@ -208,7 +174,7 @@
                         components:{
                             storymenu:{
                                 template:'#storymenu',
-                                props:['event','eventid','sl','lang','story'],
+                                props:['event','eventid','lang','story','storyid'],
                                 emits:['hidemenu','focusstory','unfoldevent'],
                                 data(){
                                     return{
@@ -216,17 +182,14 @@
                                     }
                                 },
                                 mounted(){
-                                    if(urlParams.get('f') == this.story.storyTxt){
+                                    if(urlParams.get('f') == this.storyid){
                                         this.focused = true;
                                         this.$emit('unfoldevent');
                                     }
                                 },
                                 methods:{
                                     loadStory(sl, lang, path){
-                                        req = 'l='+lang;
-                                        req = req + '&f=' + path;
-                                        if(doctor != "{@nickname}"){req = req + '&dr=' + doctor};
-                                        window.location.search = req;
+                                        window.location.search = 'f=' + this.storyid;
                                     }
                                 }
                             }
@@ -236,11 +199,10 @@
                 }
             })
             const menu = sdb.mount('#sidebar');
-            $.getJSON('https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/'+l+'/gamedata/excel/story_review_table.json').done(function(s){menu.data = s;$.getJSON("https://raw.githubusercontent.com/050644zf/ArknightsStoryJson/main/"+l+'/chardict.json').done(function(t){menu.chardict = t;menu.eventList = getEventList(menu.data, menu.chardict);})})
+            $.getJSON('https://050644zf.github.io/PNCTextReader/PNCStoryJson/zh-CN/menu.json').done(function(s){menu.data = s;})
             
             if(urlParams.get('f')){
-                $.getJSON("https://raw.githubusercontent.com/050644zf/ArknightsStoryJson/main/"+l+'/gamedata/story/'+urlParams.get('f')+'.json').done(function(s){storylist.data = s;}).fail(function(){storylist.data = {eventName: 'Error on loading json file: '+ urlParams.get('f') + '!'};});
-
+                $.getJSON("https://050644zf.github.io/PNCTextReader/PNCStoryJson/zh-CN/lua/AvgConfig/"+urlParams.get('f')+'.json').done(function(s){storylist.data = s;}).fail(function(){storylist.data = {eventName: 'Error on loading json file: '+ urlParams.get('f') + '!'};});
             }
             
 

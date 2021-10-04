@@ -93,6 +93,7 @@
             "option1": 11,
             "option2": 12
         },
+        "disableSelected": false,
         "nextId": 11
     },
     "node11": {

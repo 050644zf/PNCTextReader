@@ -838,6 +838,7 @@
             "option2": 96,
             "finalAct": 98
         },
+        "disableSelected": true,
         "nextId": 94
     },
     "node94": {

@@ -267,6 +267,7 @@
             "option1": 30,
             "option2": 32
         },
+        "disableSelected": false,
         "nextId": 30
     },
     "node30": {
@@ -321,6 +322,7 @@
             "option1": 37,
             "option2": 35
         },
+        "disableSelected": false,
         "nextId": 35
     },
     "node35": {
@@ -456,6 +458,7 @@
             "option1": 49,
             "option2": 55
         },
+        "disableSelected": false,
         "nextId": 49
     },
     "node49": {
@@ -769,6 +772,7 @@
         "targetLine": {
             "option1": 83
         },
+        "disableSelected": false,
         "nextId": 83
     },
     "node83": {
@@ -814,6 +818,7 @@
             "option1": 87,
             "option2": 87
         },
+        "disableSelected": false,
         "nextId": 87
     },
     "node87": {

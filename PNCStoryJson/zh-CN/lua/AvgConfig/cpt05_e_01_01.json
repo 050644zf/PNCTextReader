@@ -910,6 +910,7 @@
             "option1": 103,
             "option2": 108
         },
+        "disableSelected": false,
         "nextId": 103
     },
     "node103": {

@@ -303,6 +303,7 @@
             "option1": 34,
             "option2": 42
         },
+        "disableSelected": false,
         "nextId": 34
     },
     "node34": {

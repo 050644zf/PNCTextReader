@@ -49,6 +49,7 @@
             "option1": 6,
             "option2": 7
         },
+        "disableSelected": false,
         "nextId": 6
     },
     "node6": {
@@ -241,6 +242,7 @@
             "option1": 27,
             "option2": 29
         },
+        "disableSelected": false,
         "nextId": 27
     },
     "node27": {
@@ -354,6 +356,7 @@
         "targetLine": {
             "option1": 39
         },
+        "disableSelected": false,
         "nextId": 39
     },
     "node39": {
@@ -463,6 +466,7 @@
         "targetLine": {
             "option1": 51
         },
+        "disableSelected": false,
         "nextId": 51
     },
     "node51": {
@@ -544,6 +548,7 @@
             "option2": 60,
             "option3": 62
         },
+        "disableSelected": false,
         "nextId": 59
     },
     "node59": {
@@ -630,6 +635,7 @@
         "targetLine": {
             "option1": 68
         },
+        "disableSelected": false,
         "nextId": 68
     },
     "node68": {
@@ -671,6 +677,7 @@
         "targetLine": {
             "option1": 72
         },
+        "disableSelected": false,
         "nextId": 72
     },
     "node72": {
@@ -919,6 +926,7 @@
         "targetLine": {
             "option1": 99
         },
+        "disableSelected": false,
         "nextId": 99
     },
     "node99": {

@@ -426,6 +426,7 @@
             "option1": 49,
             "option2": 51
         },
+        "disableSelected": false,
         "nextId": 49
     },
     "node49": {
@@ -534,6 +535,7 @@
             "option1": 60,
             "option2": 64
         },
+        "disableSelected": false,
         "nextId": 60
     },
     "node60": {
@@ -777,6 +779,7 @@
             "option1": 86,
             "option2": 88
         },
+        "disableSelected": false,
         "nextId": 86
     },
     "node86": {

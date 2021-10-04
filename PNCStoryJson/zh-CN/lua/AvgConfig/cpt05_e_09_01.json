@@ -326,6 +326,7 @@
             "option1": 37,
             "option2": 43
         },
+        "disableSelected": false,
         "nextId": 37
     },
     "node37": {
@@ -416,6 +417,7 @@
             "option1": 37,
             "option2": 43
         },
+        "disableSelected": false,
         "nextId": 46
     },
     "node46": {
@@ -434,6 +436,7 @@
             "option1": 49,
             "option2": 47
         },
+        "disableSelected": false,
         "nextId": 47
     },
     "node47": {
@@ -461,6 +464,7 @@
             "option1": 49,
             "option2": 47
         },
+        "disableSelected": false,
         "nextId": 49
     },
     "node49": {
@@ -515,6 +519,7 @@
             "option1": 54,
             "option2": 57
         },
+        "disableSelected": false,
         "nextId": 54
     },
     "node54": {
@@ -900,6 +905,7 @@
         "targetLine": {
             "option1": 96
         },
+        "disableSelected": false,
         "nextId": 96
     },
     "node96": {

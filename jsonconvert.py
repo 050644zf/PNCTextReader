@@ -56,10 +56,10 @@ def reader(avgcfg, avglang):
                 lineDict['attributes']['options'] = options
                 lineDict['targetLine'] = {f"option{value}":line['branch'][value]['jumpAct'] for value in list(line['branch'])  if isinstance(value, int)}
                 if line['branch']['disableSelected']:
-                    line['disableSelected'] = True
+                    lineDict['disableSelected'] = True
                     lineDict['targetLine']['finalAct'] = line['branch']['finalAct']
                 else:
-                    line['disableSelected'] = False
+                    lineDict['disableSelected'] = False
                 
             if line['nextId']:
                 lineDict['nextId'] = line['nextId']

@@ -1152,6 +1152,7 @@
         "targetLine": {
             "option1": 131
         },
+        "disableSelected": false,
         "nextId": 131
     },
     "node131": {

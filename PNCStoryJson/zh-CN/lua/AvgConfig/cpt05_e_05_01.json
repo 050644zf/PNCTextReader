@@ -213,6 +213,7 @@
             "option1": 24,
             "option2": 26
         },
+        "disableSelected": false,
         "nextId": 24
     },
     "node24": {

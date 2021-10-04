@@ -766,6 +766,7 @@
             "option2": 25,
             "option3": 25
         },
+        "disableSelected": false,
         "nextId": 25
     },
     "node301": {

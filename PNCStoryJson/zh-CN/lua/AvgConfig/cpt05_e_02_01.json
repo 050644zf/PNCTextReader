@@ -474,6 +474,7 @@
             "option1": 53,
             "option2": 60
         },
+        "disableSelected": false,
         "nextId": 53
     },
     "node53": {
@@ -598,6 +599,7 @@
         "targetLine": {
             "option1": 66
         },
+        "disableSelected": false,
         "nextId": 66
     },
     "node66": {

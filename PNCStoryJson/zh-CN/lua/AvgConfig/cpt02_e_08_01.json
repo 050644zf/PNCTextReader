@@ -1027,6 +1027,7 @@
             "option1": 116,
             "option2": 991
         },
+        "disableSelected": false,
         "nextId": 116
     },
     "node116": {

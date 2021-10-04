@@ -425,6 +425,7 @@
             "option2": 49,
             "option3": 50
         },
+        "disableSelected": false,
         "nextId": 48
     },
     "node48": {

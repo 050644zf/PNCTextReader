@@ -76,6 +76,7 @@
             "option1": 10,
             "option2": 12
         },
+        "disableSelected": false,
         "nextId": 10
     },
     "node10": {
@@ -139,6 +140,7 @@
             "option2": 17,
             "option3": 16
         },
+        "disableSelected": false,
         "nextId": 16
     },
     "node16": {
@@ -376,6 +378,7 @@
             "option1": 42,
             "option2": 46
         },
+        "disableSelected": false,
         "nextId": 42
     },
     "node42": {
@@ -545,6 +548,7 @@
             "option1": 60,
             "option2": 71
         },
+        "disableSelected": false,
         "nextId": 60
     },
     "node60": {
@@ -813,6 +817,7 @@
             "option1": 89,
             "option2": 89
         },
+        "disableSelected": false,
         "nextId": 89
     },
     "node89": {
@@ -1086,6 +1091,7 @@
             "option1": 119,
             "option2": 125
         },
+        "disableSelected": false,
         "nextId": 119
     },
     "node119": {

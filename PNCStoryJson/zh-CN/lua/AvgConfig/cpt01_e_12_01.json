@@ -772,6 +772,7 @@
         "targetLine": {
             "option1": 87
         },
+        "disableSelected": false,
         "nextId": 87
     },
     "node87": {
