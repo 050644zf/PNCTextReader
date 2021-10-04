@@ -39,16 +39,11 @@
                           {{line.attributes.text}}
                       </div>
                       <div v-if="line.prop == 'Decision'" :class="line.prop">
-                          <div v-for="(option, index) in line.attributes.values" class="option" @click="jumpTo(line.targetLine['option'+option])" @mouseover="changeColor(line.targetLine['option'+option],'rgba(255,255,255,0.4)')" @mouseout="changeColor(line.targetLine['option'+option],'rgba(0,0,0,0.4)')">
-                              {{line.attributes.options.split(';')[index]}}
+                          <div v-for="(option, index) in line.attributes.values" class="option" @click="loadNode(line, option, 'line'+lidx)" @mouseover="changeColor(line.targetLine['option'+option],'rgba(255,255,255,0.4)')" @mouseout="changeColor(line.targetLine['option'+option],'rgba(0,0,0,0.4)')">
+                              {{line.attributes.options[option]}}
                           </div>
                       </div>
-                      <div v-if="line.prop == 'Predicate'" :class="line.prop">
-                            <div v-if="!line.endOfOpt" class="optText">Options: {{line.attributes.references.replaceAll(';',' ')}}</div>
-                            <div v-if="!line.endOfOpt" class="toEnd" @click="jumpTo(line.targetLine)" @mouseover="changeColor(line.targetLine,'rgba(255,255,255,0.4)')" @mouseout="changeColor(line.targetLine,'rgba(0,0,0,0.4)')">End of options</div>
-                            <div v-else class="optText">End of Options</div>
-                          
-                      </div>
+
 
                       <img v-if="line.prop == 'Image' && line.attributes.image" class="Image" :src="'https://aceship.github.io/AN-EN-Tags/img/avg/images/'+line.attributes.image+'.png'"></img>
                       
@@ -106,24 +101,12 @@
                         path: urlParams.get('f'),
                         lang: l,
                         showList: [],
-                        currentNode: null
+                        currentNode: null,
+                        updatedNode: null
                     }
                 },
                 updated(){
-                    if(!this.currentNode){
-                        this.currentNode = 'node1';
-                    }
-                    var node = this.data[this.currentNode];
-                    if(node){
-                        this.showList.push(node);
-                        if(node.prop == 'Decision'){
-
-                        }
-                        else{
-                            this.currentNode = 'node' + node['nextId'];
-                        }
-                    }
-                    
+                    this.updateNode()
                 },
                 /*updated(){
                     if(urlParams.get('warp')){
@@ -146,6 +129,38 @@
                     },
                     getURL(l,path,line){
                         return '?l=' + l + '&f=' + path + '&warp=line' + line;
+                    },
+                    loadNode(decNode,option=null, id){
+                        this.currentNode = 'node'+decNode['targetLine'][option];
+                        if(decNode.disableSelected){
+                            var oidx = decNode['attributes']['values'].indexOf(option);
+                            if (oidx > -1) {
+                                this.data[decNode.id]['attributes']['values'].splice(oidx, 1);
+                            }      
+                        }
+                        this.updateNode();
+                    },
+                    updateNode(){
+                        if(!this.currentNode){
+                        this.currentNode = 'node1';
+                        }
+                        if(this.updatedNode != this.currentNode){
+                            var node = this.data[this.currentNode];
+                            this.updatedNode = this.currentNode;
+                        }
+                        if(node){
+                            const nodeCopy = JSON.parse(JSON.stringify(node))
+                            this.showList.push(nodeCopy);
+                            if(node.prop == 'Decision'){
+                                if(!node['attributes']['values'].length){
+                                    this.currentNode = 'node' + node['targetLine']['finalAct'];
+                                }
+                            }
+                            else{
+                                this.currentNode = 'node' + node['nextId'];
+                            }
+                        }
+                        window.scrollBy(0,200);
                     }
                 }
             });
