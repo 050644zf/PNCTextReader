@@ -1,0 +1,959 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "没想到靠近隔离墙的地方还有这么多净化者……"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，接下来……"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "bravo",
+            "content": "加快速度，我们得尽快到达目标点。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你有什么对策么？"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "解释起来需要时间，总之我们先到那里再说。;包在我身上，你们就看好了吧！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 6,
+            "option2": 7
+        },
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "好，我相信您的判断！"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……这可不是在开玩笑。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {},
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "到了！"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "又见到这面隔离墙了……心情还是一如既往的压抑啊。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……？等一下，教授，你这是把车往哪儿开呢？"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "bravo",
+            "content": "（α 53.44，β 42.11，γ 44.15）。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这又是哪的坐标？怎么听上去像是要往巷子里挤……\n喂，别开玩笑了！你还真的拐弯啊！"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，您……"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "bravo",
+            "content": "别急！就在这里，我们先下车。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "哈？"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "bravo",
+            "content": "前面就是渡鸦的领地了，我们得换个地方侦查情况……"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "？？？",
+            "content": "没有那个必要了吧？反正不管到哪里，你们都快死了。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "！！"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "",
+            "content": "粉发的上位净化者从上空缓缓落下，转瞬之间便到了我们眼前。她的面容被半透明的面罩遮盖，看不清表情，但强大的气场已经镇住了在场的所有人。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "？？？",
+            "content": "那个该死的莉维雅可骗不过我。我就知道基洛普斯扇区有邪灵混进来了。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "？？？",
+            "content": "不过没想到你们居然能一路杀到这里来，下位的那些家伙真是不中用啊。"
+        },
+        "prop": "name",
+        "nextId": 300
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你就是渡鸦？"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "你们这些虫子可没资格叫我的名字！"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "",
+            "content": "不等安冬妮娜回话，渡鸦手中的长枪已然飞出，直冲她而去。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "危险！;（扑开安冬妮娜）"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 27,
+            "option2": 29
+        },
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……！！"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜一个趔趄跌倒在地。下一秒，她身旁的地面已经被飞枪炸出一个坑。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……！！"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "",
+            "content": "我抱着安冬妮娜在地上滚了两圈，再睁开眼时，她刚才站立的地方已经被飞枪炸出一个坑。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "嚯。真是蹩脚的动作，简直让我失望透顶。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "不过，也真亏你能预测到我的攻击方向呢。不对，难道不是预测吗……"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "没事吧！"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……没事。这个家伙很危险……"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜刚从地上爬起来，渡鸦就再度抬起了手。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "糟了！她又要攻击了！"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，快闪开！"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "别慌，她瞄准的是后面！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 39
+        },
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "bravo",
+            "content": "我们先走另一条路逃跑！别被她拖住了！"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "欸？什——"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "",
+            "content": "轰！！"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "",
+            "content": "渡鸦的下一次攻击并没有指向我们，而是干脆利落地朝向了运载屏蔽仪的货车。\n随着一声巨响，我们辛苦运来的屏蔽仪轻而易举地被火海吞没。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "怎么会……这下我们的计划……"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "bravo",
+            "content": "不要管了！先走！"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "",
+            "content": "我拉着帕斯卡和安冬妮娜，跌跌撞撞地逃进了路旁的废弃大楼里。身后传来渡鸦的喃喃自语。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "第二次了……连续两次都被预判到了，果然不是巧合。"
+        },
+        "prop": "name",
+        "nextId": 301
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "你们觉得我会放过吗？这可是我为数不多的乐趣呢……哈哈哈哈！"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {},
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授……您这是？"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "别着急，我们还有反击的机会。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 51
+        },
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这里可是楼顶，你真的觉得没问题吗？万一那个净化者能飞……"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "真是慌不择路啊，虫子的智商也就是这样了吧。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……该死。我怎么跟克罗琦一样乌鸦嘴了……"
+        },
+        "prop": "name",
+        "nextId": 302
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "",
+            "content": "渡鸦的身影自大厦之间缓缓升起，睥睨着缩在屋顶的我们。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "在我处死你们之前，我还有最后一个问题。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "“教授”吗……呵呵。你居然真的能看清我攻击的轨迹。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "你拥有的算量很庞大呢，难道是他们的领导者？"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2",
+                "option3"
+            ],
+            "options": "没错！很惊讶吗？;怎么，我还以为你对“虫子”没兴趣呢。;……"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 59,
+            "option2": 60,
+            "option3": 62
+        },
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "承认得真痛快。那么，我就和你好好玩玩吧。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "你说得对，我也没兴趣在你们这些小虫子上面浪费心思。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "毕竟马上就要说再见了。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "不回答吗？真可惜，难得我有兴趣给小虫子一个留下遗言的机会。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "",
+            "content": "渡鸦轻笑了一声，手只是轻轻地一挥，长枪立刻从下方升起，飞回她的手中。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "又要来了，大家快找掩体！"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "",
+            "content": "紫色的光芒在她的枪柄闪烁，随着长枪转动，光芒逐渐积聚。仅仅凭肉眼观测，瑟缩在掩体后面的我们就能感受到这一击的能量多么巨大。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "",
+            "content": "就在她长枪即将脱手的一瞬间，我意识到时机已到。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "就是现在！散开！！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 68
+        },
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "",
+            "content": "“轰——”"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "",
+            "content": "刹那间烟尘四起，零点几秒前我们所在的位置已被长枪穿过，以此为中心，裂缝层层扩展，剥落的墙面因强大的冲击力浮在空中，仿佛整个扇区都在震动。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授！安冬妮娜！大家都还好吗！"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "我没事。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 72
+        },
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "太好了，我这边也——"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "这就放心了？未免也太天真了。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "",
+            "content": "烟雾再度沸腾起来，在空中旋转着又簌地散开，光凭空气的流动我们便本能地感受到恐惧。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "该死！她还有一柄长枪！"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "",
+            "content": "没有时间做出更多的反应。视野恢复清晰的同时，长枪也已逼近。虽然所有人分散在不同的地方，但渡鸦的长枪对准的只有一人，便是——"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授！！"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "",
+            "content": "将自己的生命作为赌注并非第一次。是的，我必须承认：即便死亡如此之近，近到我能清晰地听见心脏鼓动的声音混杂在冷风的呼啸间，我还是在期待这一刻的到来——如同将棋子落在棋盘的时刻。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "",
+            "content": "这一次，棋局的结果又将如何？"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "",
+            "content": "“啪！”"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "",
+            "content": "——最后一颗棋子落下。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "",
+            "content": "将军。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "什么？！"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "",
+            "content": "来自远方的箭矢精确地击中了高速飞行的长枪，尽管对于长枪来说，那只不过是微不足道的一点力量，丝毫不能削弱其威力，但却足以让其些微地改变飞行的轨道。"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "",
+            "content": "而这些微的改变，便是胜利的关键——"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "席摩",
+            "content": "——克罗琦！开炮！"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "明白！"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "",
+            "content": "巨大的机兵从天而降，凝聚的光束从其双臂的炮口轰然射出，如同流星一般在空中划出闪亮的弧线，紧随渡鸦的长枪而去，仿佛带着无数人的执念，最终，射入了那面横亘基洛普斯扇区的巨大的透明屏障。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "",
+            "content": "“咔——咔嚓——”"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "",
+            "content": "清脆的碎裂声划破基洛普斯扇区的天空。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "席摩",
+            "content": "成功了！打开了一个缺口！"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "还没完呢！尝尝这个！"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "席摩",
+            "content": "脉冲——轰击——"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "",
+            "content": "渡鸦还没回过神来，克罗琦的炮火已经对准了她。她下意识地挥手，试图呼唤长枪回到手中，抵挡攻击。然而——"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "……该死！"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "",
+            "content": "刚才投出的长枪，已经在命中隔离墙的同时化作灰烬，还来不及再生。意识到这一点后，渡鸦匆忙想要改用另一只长枪招架。然而，那仅仅零点几秒的犹豫，已经让她失去了防御的机会——"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "<size=40>呜啊！！</size>"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "击中了！就是现在！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 99
+        },
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "上！反击的时候到了！"
+        },
+        "prop": "name"
+    },
+    "node302": {
+        "id": "node302",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<size=40>？</size>"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node301": {
+        "id": "node301",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "按规定，或许应该上报给“晨星”大人，但如此特殊的战斗机会……"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node300": {
+        "id": "node300",
+        "attributes": {
+            "name": "？？？",
+            "content": "你们能给我带来怎样的战斗呢？我还挺期待的呢。"
+        },
+        "prop": "name",
+        "nextId": 23
+    }
+}

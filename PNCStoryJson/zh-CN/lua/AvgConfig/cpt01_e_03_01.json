@@ -1,0 +1,804 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "绿洲屏障残存时间——1:21:48\n罗萨姆扇区未开放路线LS—1121路口"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "净化者",
+            "content": "【发现异常智能体，净化执行中——】"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "苏尔",
+            "content": "净化者是属苍蝇的吧？真是哪都能看见它们！"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "苏尔",
+            "content": "图灵不是说这些路线都是未公开的吗？！"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "苏尔，这边！这边有个广场，不要和它们纠缠。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "苏尔",
+            "content": "滚开！"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "",
+            "content": "消灭了追击的净化者，避开来往的智能体，我们匿至广场角落。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这里距离数据中心至少还有三十分钟的路程，其他主干道上也有很多净化者。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "苏尔",
+            "content": "能不能连线图灵让她再提供其他路线？"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……我试试。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "",
+            "content": "> 错误10061：远程连线失败。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不行，联系不上。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "苏尔",
+            "content": "可恶……等等！噤声！有其他的净化者过来了。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "",
+            "content": "循声望去，数名净化者走入广场，开始询问来往的智能体。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "净化者",
+            "content": "【目标搜寻中……】\n【发现复数智能体。】"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "净化者",
+            "content": "【询问，是否有目击异常智能体或异常现象？】"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "？？？",
+            "content": "唔唔！异常智能体吗？哎呀，抱歉呐，理子什么都没有看见诶。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "？？？",
+            "content": "不过要说异常现象的话~或许是……那边？之前理子过来的时候，可是听见了好吵好吵的声音诶！"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "净化者",
+            "content": "【感谢配合，无用字句剔除，情报整理开始……】\n【搜寻线路切换中……】 "
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "情况怎么样？"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "苏尔",
+            "content": "好像有人在给净化者指路……它们去别的地方了！"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……真险。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "苏尔",
+            "content": "先别动！那个人好像靠过来了！"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "？？？",
+            "content": "嗨~嗨~？\n不要藏啦，理子的尾巴都没有你们显眼，快点出来吧。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……你是什么人？"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "理子",
+            "content": "哇——不用这么严肃吧？刚刚要不是理子引开净化者，你们已经被发现了诶。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "理子",
+            "content": "不来点表示也就算了，居然还凶理子，好过分。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呃……不好意思，我们只是……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "理子",
+            "content": "诶~没事没事，没什么不好意思的，来点表示就行！"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "",
+            "content": "自称理子的智能体光速变脸。她伸出手指摩挲两下，露出了暧昧不清的笑容。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……表示？什么意思？"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "理子",
+            "content": "啧，我看你啊完全是不懂哦。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "苏尔",
+            "content": "懂……懂什么啊。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "理子",
+            "content": "你想懂啊？那来看我的背包啊！"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "",
+            "content": "说着，理子猛地扯开背包，露出了里面满当当的各类物件。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "理子",
+            "content": "算量、武器、芯片、器械、情报，还有特殊服务……理子这里应有尽有！"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "理子",
+            "content": "只需要一点底格币，不管你想要什么，理子统统都能给你送到！"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "理子",
+            "content": "刚才引开净化者算是诚意服务，象征性地收你们……嗯……1000000！只要10000000枚底格币就好。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我说你后面那个数是不是多加了一个0？"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "理子",
+            "content": "哈……啊哈哈哈，好像是呢。计算嘛，失误在所难免，我们不要计较这个了。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "理子",
+            "content": "要不，理子再给你们提供一套完整的后续服务吧！"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "理子",
+            "content": "避开净化者追踪、安全离开罗萨姆扇区，包括之前的服务……一共十一……啊不，一共九折！"
+        },
+        "prop": "name",
+        "nextId": 902
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "苏尔",
+            "content": "<size=24>……你们有没有觉得这家伙很像个骗子？</size>"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "理子",
+            "content": "喂！理子都听见了！理子才不是骗子呢！"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "",
+            "content": "说着，理子把背包往地上一放，双手叉腰，气鼓鼓的脸上露出了得意的神色。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "理子",
+            "content": "自我介绍一下。理子，去中心化货币交易员，负责通过贸易平衡各个扇区冗余的算量。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "理子",
+            "content": "整个云端的算量平衡可都是由我们来运作的，明白了吗！"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "理子",
+            "content": "理子可是麦戈拉钦定的官方商人，才不是什么骗子呢！"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "这么说你的背包里有很多算量？"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 51
+        },
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "理子",
+            "content": "当然，我算量超多的！怎么，你们想买吗？！"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授？您这是不打算和图灵交易了吗？"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "bravo",
+            "content": "只是不打算把希望都寄托在她身上，我们必须争取所有的可能性。而且，我也并不是要毁约。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "bravo",
+            "content": "如果能提前拿到算量，可以让你或者苏尔先行折返。"
+        },
+        "prop": "name",
+        "nextId": 901
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "唔——的确，您说的很有道理，是我考虑不周了。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "",
+            "content": "说话间，理子接过了我们递交的需求清单。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "理子",
+            "content": "嗯……嗯？？？这回到理子提问你们了。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "理子",
+            "content": "你们真的没有多加一个……不对，两个……还是不对……总之！你们真的没有多加很多个0吗？！"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "理子",
+            "content": "这个数字就算是理子，一时半会也拿不出来啊……"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "清单无误，既然拿不出来，那还是算了吧。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "理子",
+            "content": "别啊，替代品行不行？减少算量消耗的装置可以吗？或者零散地卖？"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "理子",
+            "content": "这个数字的百分之二三十，理子咬咬牙还是拿得出来的。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那就没有意义了，很抱歉，我们必须要到足额的算量。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "理子",
+            "content": "……除了算量什么都不要？"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是的，除了算量什么都不要。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "理子小姐，我们很感谢你方才的帮助，但现在我们需要离开了。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "苏尔",
+            "content": "诶等等，帕斯卡，我们现在怎么离开不就是个难题吗？"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "苏尔",
+            "content": "理子，你有没有什么办法可以快速抵达数据中心？"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "理子",
+            "content": "瞧，这不是还有需要嘛！还有需要，理子就能想办法！"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "理子",
+            "content": "数据中心……理子想想哈……啊！有了！"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "理子",
+            "content": "办法就是……等等，办法理子是有了，那你们有定金吗？"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "忽悠;诚恳"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 72,
+            "option2": 76
+        },
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "bravo",
+            "content": "我们是图灵手下的智能体，你可以找她报销。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "帕斯卡&苏尔",
+            "content": "？？？"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "理子",
+            "content": "这套说辞还是拿去应付净化者吧，理子可不是笨蛋！"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "理子",
+            "content": "图灵手下的智能体什么样子，理子再清楚不过了。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "bravo",
+            "content": "先货后钱，赊个账吧。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "理子",
+            "content": "这可不行。理子从不经营欠款借贷！"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "理子",
+            "content": "交易员要是用这种方式平衡各个扇区的算量，那麦戈拉早就成筛子了！"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "",
+            "content": "说罢，理子凑了上来。绕着我们转了两圈，用意味深长的目光上下打量。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "理子",
+            "content": "诶——原来拿不出钱啊。谈算量交易的时候开口那么豪气，理子还以为你们很有钱呢。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "理子",
+            "content": "既然这样，不如换个交易方式好了。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "理子",
+            "content": "不过在此之前，理子还得确认一个事情。\n你们几个……不是智能体，而是来自现实世界的存在吧？"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "苏尔",
+            "content": "！！！这你都能看出来的吗？"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "理子",
+            "content": "哼哼，可别小瞧理子多年的从商经验呐~别的不说，识人还是有一套的。"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "理子",
+            "content": "既然没错就好说了，一条现实情报换一条路线情报。怎么样，很实惠吧？"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "理子",
+            "content": "交出定金，理子就带你们去数据中心~"
+        },
+        "prop": "name"
+    },
+    "node902": {
+        "id": "node902",
+        "attributes": {
+            "name": "理子",
+            "content": "怎么样？老板考虑考虑？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node901": {
+        "id": "node901",
+        "attributes": {
+            "name": "bravo",
+            "content": "虽然这么做剩下的人需要承担更大的风险，但至少绿洲会先安全。"
+        },
+        "prop": "name",
+        "nextId": 54
+    }
+}

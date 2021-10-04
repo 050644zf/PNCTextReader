@@ -1,0 +1,685 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "—距离删档重置剩余次数8次—"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "",
+            "content": "赫里奥斯扇区，5号反应堆核心。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "（更改设计……不行，三十六号方案里做过，会导致能源过度蓄积……）"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "（目前来看只能同时增强所有反应堆的结构，但做不到，上一次就探明了，赫里奥斯的预制件没有这样强度的……）"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "【(゜-゜)克罗琦，很累就要休息。】"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我不累，现在离过载还早。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "【(oﾟ▽ﾟ)o  克罗琦不累！加油！加油！】"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "",
+            "content": "吵吵闹闹的机器人们带着各式工具在周围工作，克罗琦深深地叹了口气。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唉。我怀念一个人工作的时间……"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "【(゜-゜)我们撤离？】"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不用。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "",
+            "content": "机器人们在克罗琦身边有序地运行着。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦闭了闭眼睛，强迫自己集中精神思考面前的难题。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "（计划之外的冗余数据太多了，必须要排除一些。）"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "（失败……失败……失败。）"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "（失败的次数太多了，只是调用数据就……）"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "（不行，克罗琦，你不能被这种东西摧垮心智。）"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "",
+            "content": "强制封锁了失败的情绪数据后，克罗琦看向反应堆上方。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "要上去才行，但是没有楼梯……算了，硬爬吧。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "",
+            "content": "话音未落，算量搭建的楼梯在她身边形成。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "【(ﾉﾟ▽ﾟ)ﾉBoss来啦！】"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "",
+            "content": "顺着机器人的屏幕朝向，克罗琦看到扇区管理员正向她走来。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不管怎么说，谢了。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【我们会尽力满足客人的要求。】"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "那我只想一个人做我喜欢的工作，哪里也不用去。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不用被重置追赶，快乐水和动画还会在我需要的时候自己跑过来。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【指令错误——无法理解客人的要求。】"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唉，我也没有指望你能理解。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你没接触过动画，也不知道机兵的妙处，心里只有世界之火的计划。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "",
+            "content": "顺着扇区管理员搭建的简易阶梯，克罗琦走到反应堆最上方，开始改装顶层的设施。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "",
+            "content": "管理员和几个小机器人跟着走上来，按克罗琦的指引与她一起进行工作。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【智能体为使命而生，赫里奥斯为世界之火而生。】"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我也有使命，但这不一样。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【接触到陌生的命题……无法理解。】"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "就是说，我的使命不在这里。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我有一个完整的家……不，应该说是完整的归处。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【归处……客人从属的云图扇区吗？】"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不，是流亡者的“绿洲”。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我从漫长的停机里醒来，在空值区躲避着净化者，想要找到我的家。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但我的家已经消失了，哪里都没有我的容身之处……这个时候，我收到了绿洲的信号。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【绿洲扇区接纳了您。】"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "就是这样。我到绿洲的时候，那里还只有基础设施。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我熟悉绿洲的每一块算量，它们都是我亲手搭出来的。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【建造绿洲是您的使命吗？】"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "算是吧。我为建设绿洲扇区出力，而绿洲扇区也收容了我。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "所以我对绿洲扇区以及同伴们有责任，<TA>们为我而来，我就要把<TA>们好好地带回去。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【世界之火完成后，扇区的限制就会解开。】"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "是啊，所以我在这里修反应堆。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "参与世界之火计划，这原本是我的理想……但是现在已经变成了负担。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "万一失败呢？万一完全删档，我们回不去怎么办？"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【我们是同伴，我们一起承担。】"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "同伴？"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "",
+            "content": "像是听到了什么好笑的话一样，克罗琦看向扇区管理员。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你能理解同伴的意思吗？"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【我是世界之火的柴薪，一切为了计划服务。】"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【推进计划，向着同一个目标努力的人就是同伴。】"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这些话和流亡者的口号很像。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【你，和我，是同一个目标的执行者，那就是我们。】"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【扇区有很多个我们，所以世界之火能够推进。】"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "是吗？因为有很多我们……"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "可是这么多我们，责任……实在是太重了啊。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "就算现在还没有失败的苗头，看起来很平稳……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "【[・_・?]Boss，好热。】"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "【( ｣ﾟДﾟ)｣＜要炸了！快跑啊！】"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "",
+            "content": "伴随着能源蓄积，反应堆开始发烫。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "",
+            "content": "温度不断提高，地面震荡着，金属断裂的声音从熔炉内部响起。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【“失败是成功之母”，据说这是人类设置重置程序的理念。】"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "【失败中总会诞生出成功，祝我们在下一次一切顺利。】"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦握紧了手里的图纸。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "",
+            "content": "像是对扇区管理员投注的视线感到刺痛那样，她别开头，注视着已经开始发红的管道。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "",
+            "content": "在她的视野里，一点红色透出管道，迅速化为白炽色。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我承担不起，但我必须去做。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……相信我。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "",
+            "content": "白光吞没了反应堆前的身影，世界化为单一的颜色与声音。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "电子女声",
+            "content": "序号99992，修正开始。"
+        },
+        "prop": "name",
+        "nextId": 77
+    }
+}

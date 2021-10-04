@@ -1,0 +1,1201 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "埃妮阿克的心智空间内。\n狂暴的空间逐渐平静下来，帕斯卡脱力跪倒在地上。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "不该这样……"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "埃妮阿克！你清醒了吗？"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "对不起，我不想伤害任何人……"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "请阻止……失控的我……"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我会帮助你的。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "我……只能控制几分钟……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "请你一定……呜……"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "操作还差一个关键口令，你知道那个口令吗？"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "不……"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "回忆……"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "回忆？"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "快……走……"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "",
+            "content": "埃妮阿克强制断开了连接，帕斯卡的意识再度回到算量黑洞内。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "",
+            "content": "原本混乱的数据流现在无比平静，帕斯卡知道，这是埃妮阿克为她争取的时间。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（输入口令……口令究竟是……）"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（如果诺依曼知道这个口令，就一定会告诉我，但他却没有说……口令应该是埃妮阿克自己所设置的……）"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（但埃妮阿克自己也不知道这个口令……）"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（对了，诺依曼曾经说过，埃妮阿克的神经网络模型非常简单。）"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（也就是说，很有可能是在她还没有智力的情况下，潜意识设置了这个口令。）"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（怎样才能知道埃妮阿克的回忆……回忆……）"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡望向不再流动的数据流，数据漂浮在半空，不时闪烁着影像。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "",
+            "content": "原住智能体、净化者、黑紫色蠕动着的不明程序的影像……诺依曼的影像。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "！"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "没错，在我一开始进入算量黑洞的时候，就见到了埃妮阿克的回忆。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "只要再次找到那段数据流……"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡再度穿梭在各色影像之间，步伐坚定。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {},
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡在一段数据流前停下脚步。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（这是……埃妮阿克还未诞生自主意识的时候……）"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "埃妮阿克……这个名字，应该寄托了许多人的期望吧。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "你究竟会走到什么程度呢？"
+        },
+        "prop": "name",
+        "nextId": 301
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "呵呵，真希望我的语言系统足够优秀，不至于以这样单薄的话语表露我的感情。"
+        },
+        "prop": "name",
+        "nextId": 1500
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "成为最完美的孩子吧，埃妮阿克。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（<color=orange>完美的</color>……看来埃妮阿克潜意识里将它作为自己的底层指令了。）"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（既然如此，这个谜题很可能就是底层口令……那么……）"
+        },
+        "prop": "name",
+        "nextId": 302
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡快步回到计算机前，输入了这串口令。"
+        },
+        "prop": "name",
+        "nextId": 990
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "计算机",
+            "content": "【口令正确，应急模式关闭】"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "计算机",
+            "content": "【底层操作权限开放】"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（太好了……！）"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（……但……）"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "",
+            "content": "计算机的屏幕上缓缓出现埃妮阿克的话语。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 谢谢你……找到了口令……"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 接下来……请阻止这一切吧……"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但如果执行关停程序，量子数据库会永久停下，你也会就此消失。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 是我造成了这一切……差点杀死了诺依曼……"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 所以，我应该为此付出代价……"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你会……再也见不到诺依曼的。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "",
+            "content": "光标停了好几秒钟。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": ">诺依曼不会想见到我了，我是……糟糕的……"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 关停我，然后结束这一切吧……"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 拜托你了……"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡的双手落在屏幕的下方，在那里，输入符号正不断闪烁着。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {},
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "",
+            "content": "算量黑洞前。\n随着时间流逝，算量波动对于人形的影响越发明显。大家只是勉强抵挡着攻击，然而净化者的攻势却更加猛烈。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这些下位净化者怎么变得这么强了啊！甚至没办法突破它们的火力包围……"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不是它们变强了，是我们受到了算量波动影响变弱了……可恶……好难受…… "
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "苏尔",
+            "content": "那些家伙……为什么完全没受到影响啊……"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "咳咳……是那个上位净化者提供了算量。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "看来还是得打趴那个眯眯眼才行！"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "bravo",
+            "content": "（信使提供了算量……）"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "bravo",
+            "content": "克罗琦！你的盾牌还能变回机兵形态吗？"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "如果以用完就报废为前提的话，可能还能使用那么几分钟……"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "如果能顺利回到绿洲，帕斯卡应该很乐意拨款给你做一个全新艾吉斯盾牌。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我也还有一些额外算量。教授，说说你的战术吧。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {},
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "",
+            "content": "咔——咔啦——"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "",
+            "content": "下位净化者的围攻之下，原本保护众人的巨大盾牌瞬间变形为机兵形态，向着信使冲去。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "",
+            "content": "信使在半空中飘浮着，灵巧地避开了机兵的冲撞。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "信使",
+            "content": "抛弃同伴逃跑可不是什么好做法哦。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "谁说我们要逃跑啦？"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "只是想让你知道，会飞并不是净化者的专利罢了！"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "脉冲——轰击——"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "",
+            "content": "飞弹从多个角度自机兵的手臂射出，精准地落在信使所在的区域。"
+        },
+        "prop": "name",
+        "nextId": 1000
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "信使",
+            "content": "很有趣的攻击方式呢。不过，似乎有些太慢了。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我也是这么想的，所以——"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "苏尔！！"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "",
+            "content": "苏尔从机兵内部一跃而下，燃烧着火焰的长刀直冲信使的要害而去。\n信使下意识地举起手中的弓格挡，剑与长弓相击发出噼啪的燃烧声。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "",
+            "content": "铛——"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "信使",
+            "content": "真危险呢……"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "苏尔",
+            "content": "还没完！"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "",
+            "content": "苏尔左手的短剑紧接而来，被挥舞着全力刺向信使的机械翅膀。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "信使",
+            "content": "……？！"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {},
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "",
+            "content": "巨大的冲击波以二人为原点扩散开来，霎时间仿佛整个上空都在震颤。"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "",
+            "content": "苏尔被驾驶着机兵的克罗琦在半空接住落在地面，而翅膀损毁的信使从空中直直地坠落下来，扬起一片烟尘。"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "解决了吗……？"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "下位净化者的行动变慢了，它们的算量来源消失了，看来……"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "",
+            "content": "话音未落，锋利的箭矢便穿过烟尘向我们袭来。\n克罗琦变回盾牌的艾吉斯堪堪挡住攻击，盾面沿着射入的位置片片碎裂。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "苏尔",
+            "content": "那家伙还活着！！"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "",
+            "content": "信使从烟尘中走出，脸上依旧是那副微笑的表情。"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "信使",
+            "content": "居然能把我从天空中拽下来……确实该夸奖你们做得不错呢。"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "信使",
+            "content": "不过，地面作战也不是你们的专利呀。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "",
+            "content": "信使微微躬身，像是要对我们行礼一样。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "",
+            "content": "在她的身后，残破的翅膀重新聚合，然后张开——如同绞肉机般的扇叶旋转起来。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "信使",
+            "content": "教训你们，还是绰绰有余的哟。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "",
+            "content": "她睁开眼睛，目光锁定了我们之中的——"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "苏尔",
+            "content": "小心！！"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "",
+            "content": "苏尔以不可思议的速度推开了克罗琦和安冬妮娜。"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "",
+            "content": "下一瞬间，信使出现在她面前，扇叶将苏尔的手臂搅碎。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "信使",
+            "content": "哎呀？很不错的本能嘛。你的底层指令是保护同伴吗？"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦握着盾牌的残片砸下，信使瞬间闪开。"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "苏尔！"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜扶住苏尔，支撑着她损坏的身体。"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "",
+            "content": "从苏尔伤口里飞散的算量转眼被算量黑洞吸走，苏尔沉重地喘息着，一句话也没有说。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "",
+            "content": "她试图用另一只手握紧刀剑，但谁都看得出，她已经失去了战力。"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "bravo",
+            "content": "安冬妮娜，你带其他人形先行撤退！"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "开什么玩笑，我们可是过来救援你们的！"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "",
+            "content": "这种时候就别嘴硬了！快走！！"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "信使",
+            "content": "别心急嘛，你们一个都跑不掉的。"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "信使",
+            "content": "看在你们这么深情厚谊的份上，我会给你们一个痛快哦。"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "信使",
+            "content": "——就先从你开始吧。"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "",
+            "content": "信使的箭镞再度对准我。我的脑中没有恐惧，也没有慌乱，依旧不断运转着，思考怎样能为大家的撤退多争取一些时间，怎样能为算量黑洞中的帕斯卡多争取一些时间。"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "",
+            "content": "我知道安冬妮娜一定能成功带领人形撤退，也相信帕斯卡一定能成功阻止埃妮阿克的失控，从黑洞中出来。"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "",
+            "content": "所以，即便此时箭镞距离我仅有数尺，我依旧寻求着逆转局势的机会——"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "",
+            "content": "唰——"
+        },
+        "prop": "name",
+        "nextId": 117
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "",
+            "content": "浪潮般的算量从算量黑洞中涌出，铺天盖地一般，遮蔽了所有人的视线。"
+        },
+        "prop": "name",
+        "nextId": 118
+    },
+    "node118": {
+        "id": "node118",
+        "attributes": {
+            "name": "？？？",
+            "content": "抱歉，教授。"
+        },
+        "prop": "name",
+        "nextId": 119
+    },
+    "node119": {
+        "id": "node119",
+        "attributes": {
+            "name": "？？？",
+            "content": "看起来我花费的时间有些久了。"
+        },
+        "prop": "name",
+        "nextId": 120
+    },
+    "node120": {
+        "id": "node120",
+        "attributes": {
+            "name": "bravo",
+            "content": "……不，能看见你回来就够了，帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 121
+    },
+    "node121": {
+        "id": "node121",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，我回来了。"
+        },
+        "prop": "name",
+        "nextId": 122
+    },
+    "node1500": {
+        "id": "node1500",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "——对了，或许我可以为你设置一个谜题。当你解开这个谜题的时候，你就能明白……"
+        },
+        "prop": "name",
+        "nextId": 1501
+    },
+    "node1501": {
+        "id": "node1501",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "就是它了。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node990": {
+        "id": "node990",
+        "attributes": {
+            "name": "计算机",
+            "content": "<color=orange>【YVKVPEVLR】</color>"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node1000": {
+        "id": "node1000",
+        "attributes": {
+            "name": "",
+            "content": "然而在飞弹即将击中的瞬间，信使便出现在了机兵的身前。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node310": {
+        "id": "node310",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，赌一把吧！"
+        },
+        "prop": "name",
+        "nextId": 990
+    },
+    "node309": {
+        "id": "node309",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（教授，这个时候要是你，你会怎么做呢……）"
+        },
+        "prop": "name",
+        "nextId": 310
+    },
+    "node308": {
+        "id": "node308",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（只有一次机会……）"
+        },
+        "prop": "name",
+        "nextId": 309
+    },
+    "node307": {
+        "id": "node307",
+        "attributes": {
+            "name": "计算机",
+            "content": "【请输入口令，口令错误将启动应急模式】"
+        },
+        "prop": "name",
+        "nextId": 308
+    },
+    "node306": {
+        "id": "node306",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡快步回到计算机前。"
+        },
+        "prop": "name",
+        "nextId": 307
+    },
+    "node305": {
+        "id": "node305",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（……既然我知道诺依曼的期望，或许能够猜出明文，继而推理出来其余的字母……）"
+        },
+        "prop": "name",
+        "nextId": 306
+    },
+    "node304": {
+        "id": "node304",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（剩下的部分是……）"
+        },
+        "prop": "name",
+        "nextId": 305
+    },
+    "node303": {
+        "id": "node303",
+        "attributes": {
+            "name": "计算机",
+            "content": "<color=orange>【YVK█PE█LR】</color>"
+        },
+        "prop": "name",
+        "nextId": 304
+    },
+    "node302": {
+        "id": "node302",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡尽力分辨着诺依曼在屏幕中输入的字母，却只依稀分辨出了其中几个。"
+        },
+        "prop": "name",
+        "nextId": 303
+    },
+    "node301": {
+        "id": "node301",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "超越整个恩格玛的想象，超越那位博士的想象，超越人类的想象……"
+        },
+        "prop": "name",
+        "nextId": 33
+    }
+}

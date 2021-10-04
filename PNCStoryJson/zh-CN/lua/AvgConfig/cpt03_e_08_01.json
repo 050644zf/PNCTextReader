@@ -1,0 +1,588 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "睁开双眼，我们回到了巧可的可可屋。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "巧可",
+            "content": "怎么样，找到出去的方法了吗？"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "",
+            "content": "面对巧可的询问，帕斯卡不知道如何开口。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不仅没找到，还发现了闹鬼的雕像。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……大家都看到了吗？那个雕像的眼神。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "",
+            "content": "很在意啊，明明是雕像，但是却扭过头来看了我们。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "克罗琦之前不是说过会闹鬼嘛……"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我现在又觉得不是闹鬼了。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你们跟我来！"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {},
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你们看，这个雕像的动作，是非常标准的检修动作。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "还有那边的雕像也是。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这个雕像的眼睛会动！它在看我！"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这个也是！"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "",
+            "content": "希安默默地在雕像前面打开了屏障。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……谢谢。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "别怕，这些不是雕像，他们应该是原本在这个扇区里的原住智能体。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "",
+            "content": "被变成了雕像吗？"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不……我觉得他们是为了修复这些反应堆。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "重置是为了推进实验，这些原住智能体肯定有重置豁免权限。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "对哦。虽然我们作为其它扇区的智能体，要靠巧可的调制才能吸收权限代码，但他们是不需要的。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "每一次重置都会产生大量的实验数据……冗余数据越来越多，这些AI渐渐的就没法运转了。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "他们的行动越来越慢，越来越慢，最后变成了雕像。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这么说来，那个管理员应该也是因为冗余数据过多，所以只剩下基本功能了。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果我们能修好反应堆，那他们应该也会恢复正常。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "是的。帕斯卡，帮助我读取“雕像”的数据，看看过去的99861次都有哪些有价值的尝试。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "可是这样的话，你也会变成雕像的！"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不会的，我们有巧可。她可以把这些数据调制得……更容易吸收。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "巧可",
+            "content": "虽然不是很明白，但好像巧可能帮上忙！"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "是的，巧可很厉害呢。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "",
+            "content": "巧可露出了开心的笑容。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {},
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "巧可",
+            "content": "做好——啦！"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我尝尝——"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "",
+            "content": "好甜！数据浓度好高！"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我也来尝尝。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "慢点，虽然是经过处理的数据，但是还是很多的。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唉。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "苏尔",
+            "content": "怎么了，克罗琦，你还好吗？"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这些数据……"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "数据怎么了？我这里的数据是关于管理和信息交换的，没有什么特别。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "作为机械专家，这些数据还真是打击我的自信心啊。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "",
+            "content": "火神重工的专家智能体们，几乎把每一种可能性都考虑到了。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "仅仅是2号反应堆的结构，就修改了上千次。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "还做了数百种不同的反应堆关联布局。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但他们还是失败了。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这些都是我崇拜的专家，火神重工也一直是我崇拜的工业公司。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我一直都是追赶着他们的脚步前进的，现在却要解决他们解决不了的问题。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "总觉得是不可能做到的事情呢。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦的情绪有点低落。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "巧可",
+            "content": "但是你有巧可啊！"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "还有我们。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "苏尔",
+            "content": "至少我们已经有了一种新的数据处理方式，对吧巧可。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "巧可",
+            "content": "嗯！"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "bravo",
+            "content": "说起来，我们好像已经做到了很多被认为不可能的事情。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "bravo",
+            "content": "在罗萨姆，还有基洛普斯。我们做到的事情，都被别人认为是不可能的。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唔……"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "教授，这时候灌鸡汤是没有用的。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "希安",
+            "content": "罗萨姆……基洛普斯……希安……想去看看。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我也想带你去看看，那两个扇区有些很有特色的技术……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "对呀，我想到办法了！"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "看你的神情……看来下次重置，我们能有新的目标了。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "bravo",
+            "content": "时间快到了，希安，树立起屏障。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "希安",
+            "content": "好……的……"
+        },
+        "prop": "name",
+        "nextId": 67
+    }
+}

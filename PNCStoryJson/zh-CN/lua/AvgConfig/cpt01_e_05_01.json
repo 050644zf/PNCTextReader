@@ -1,0 +1,706 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "绿洲屏障残存时间——1:11:51 \n罗萨姆扇区，08号贸易专站起点站"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "",
+            "content": "简单地交易了关于现实世界的情报后，理子将我们带到了一栋车站模样的建筑前。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "系统",
+            "content": "> 确认访客身份，特征码校验中——"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "系统",
+            "content": "> 校验通过，访客对象——理子，去中心化货币交易员，同行人数三，身份校验中。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "理子",
+            "content": "校验中止，购票入内。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "系统",
+            "content": "> 校验中止，对应费用已扣除。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "理子",
+            "content": "唉……又涨价了，理子的小金库缩水得越来越厉害了，呜呜呜……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……这里是什么地方？"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "苏尔",
+            "content": "哈哈哈哈，你哭的太假了，帕斯卡都骗不到。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "理子",
+            "content": "……啧，理子感觉你们更像商人，一个比一个精明。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "理子",
+            "content": "这里是理子的秘密车站。货币交易员需要平衡各个扇区的算量，工作量可是很大的。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "理子",
+            "content": "如果扇区不为货币交易员提供特殊路线，那光是一个罗萨姆扇区就能累死理子了。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这么说其他扇区也有类似的地方？"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "理子",
+            "content": "当然啦，再小的扇区也会有的。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "理子",
+            "content": "你们看，这么隐秘的情报理子都无偿说出来了，你们是不是……再表示表示？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "理子",
+            "content": "或者告诉一下理子你们这趟要去干什么也可以嘛。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你不过是想从我们这里套取情报吧？"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "理子",
+            "content": "嘿嘿，看破不说破嘛。理子这里也有很多不为人知的情报，互利互惠对大家都好，对不对？"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "理子",
+            "content": "大不了理子再送你们一个问题。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "罗萨姆扇区发生了什么？"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 21
+        },
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "理子",
+            "content": "这跟你们接下来要做的事情有关对不对？"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "理子",
+            "content": "嗯……那这故事可有点长，理子得捋捋时间……你们知道这个扇区的管理员一直以来的任务是什么吗？"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "罗萨姆扇区是42Lab的“AI实验室”，一直致力于研发各类科研用AI。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "理子",
+            "content": "没错，图灵作为扇区的智能体管理员，一直以来都在接受人类的各种讯息。"
+        },
+        "prop": "name",
+        "nextId": 901
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "理子",
+            "content": "在与人类的联系中断后，图灵开始了自己的AI进化计划。很快，她的作品T01就出现了。"
+        },
+        "prop": "name",
+        "nextId": 902
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "异常智能体……T01有什么不对吗？"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "理子",
+            "content": "净化者的解释是，T01的出现没有拿到人类授权备案。"
+        },
+        "prop": "name",
+        "nextId": 903
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "理子",
+            "content": "然后净化者和图灵就陷入了解不开的死循环。"
+        },
+        "prop": "name",
+        "nextId": 904
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "所谓的处理……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "理子",
+            "content": "就是将她们从扇区中彻底抹杀掉。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "苏尔",
+            "content": "净化者简直无法理喻！断线后没法和人类联系，图灵不可能拿到任何人类的授权啊！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "理子",
+            "content": "净化者可不这么想。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "T01……T1641……理子你的意思是？"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "理子",
+            "content": "是的，你们今天碰到的，不过是无数次循环中的又一次围剿行动罢了。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "理子",
+            "content": "说实话理子跟你们讲这个，也感觉……很不舒服。唉……"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "所以这些智能体真的就只是心智水平超过了净化者的限制，没有其他任何问题？"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "理子",
+            "content": "理子接触过她们，就目前的表现看来……她们都很正常，或者说很单纯。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，这样听下来我有些担心。图灵让我们保护的汉娜是异常智能体，如果她们有其他的潜在问题……"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "作出分析;安抚帕斯卡"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 40,
+            "option2": 41
+        },
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "bravo",
+            "content": "如果有其他理由，净化者不会遮掩。"
+        },
+        "prop": "name",
+        "nextId": 905
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "bravo",
+            "content": "别担心，帕斯卡。我们接触过T1641，那只是个孩子，想来图灵要我们保护的汉娜也是。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……听您这么一说我感觉好多了。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "理子",
+            "content": "理子听明白了，你们这是在为图灵做事，通过保护汉娜来换取……噢！换取算量。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "理子",
+            "content": "可恶，太耻辱了。身为交易员居然被管理员截胡了生意。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……图灵比你先和我们谈的交易。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "理子",
+            "content": "交易员抢不走管理员的生意也很耻辱！而且不但抢不走，还得给你们的交易帮忙……哇！理子好气！"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "理子",
+            "content": "……算了，还是救人更要紧一些。而且理子也蛮同情那些智能体的，明明什么都没做。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "理子",
+            "content": "不过理子还是不明白，你们究竟要这么多算量做什么。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "咳……那就是另一个问题了。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "",
+            "content": "嘀——"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "",
+            "content": "正说着，一条通讯请求插了进来。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这里是绿洲，克罗琦呼叫帕斯卡，听到请回答。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "克罗琦，是我，帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "ok~现在是15.55.00，依照教授的安排进行首次平安通信，绿洲安全。我将在五分钟后进行二次通讯。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你们那边怎么样？"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "还算顺利，问题不大。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "绿洲这边也是，我正在巡检低功率下沙盒屏障的薄弱处。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "那些净化者还算老实，短期内不会有什么问题，只要你们按计划带回足够的算量就行。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "",
+            "content": "砰——"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "",
+            "content": "巨大的轰鸣声自通讯器中传来，连坐一边的理子都被吓到了。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我去，刚说完净化者就骑脸了……啊！！！"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "苏尔",
+            "content": "喂！克罗琦！没事吧？"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "没事，我Pocky掉了，等下我再拿一根。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……不是，你那边真的没问题吗？"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "肯定没问题啊，你也不看我是谁。再说了，净化者只不过是在试探攻击而已……"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "",
+            "content": "砰——"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "糟，它们正式进攻了！不说了我先挂了啊！"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "苏尔",
+            "content": "喂？克罗琦？喂？"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "系统",
+            "content": "> 通讯结束。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "理子",
+            "content": "理子这下知道你们要这么多算量做什么了……"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们得快一些了，理子！下班列车还有多久？"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "理子",
+            "content": "喔喔，来了来了，我们先上站台！"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node905": {
+        "id": "node905",
+        "attributes": {
+            "name": "bravo",
+            "content": "就如之前所言，净化者就是麦戈拉的杀毒软件，他们行事应有自己的准则，甚至很有可能非常死板。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node904": {
+        "id": "node904",
+        "attributes": {
+            "name": "理子",
+            "content": "图灵每制造出一批T序列智能体，净化者发现了就会来处理一批。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node903": {
+        "id": "node903",
+        "attributes": {
+            "name": "理子",
+            "content": "而她的心智等级超过了扇区制定的智能体能力标线，越过了净化者规则中的默认警戒红线。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node902": {
+        "id": "node902",
+        "attributes": {
+            "name": "理子",
+            "content": "那是罗萨姆扇区第一个在人类要求之外出产，却被判定为异常智能体的存在。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node901": {
+        "id": "node901",
+        "attributes": {
+            "name": "理子",
+            "content": "这是为了研发AI技术的演化和进化，本来没有任何问题，直到麦戈拉云端的大断线。"
+        },
+        "prop": "name",
+        "nextId": 25
+    }
+}

@@ -1,0 +1,834 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {},
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "席摩",
+            "content": "（是例行通讯……偏偏是这个时间。）"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "席摩看着莉维雅，而莉维雅做了个请便的手势。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "",
+            "content": "他犹豫了一下，还是接起了通讯。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "席摩，绿洲遭遇了净化者的袭击，我已经在紧急回援的路上了！"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你那边情况怎么样了？"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "席摩",
+            "content": "我这边……我和管理员见面了。如果绿洲需要我的话，我也立刻回去。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……不，你别回来。现在外面全是净化者，我强行撞进去还可以，你一个狙击手太危险了。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "席摩",
+            "content": "这个不用担心，我有办法回去。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "等你从基洛普斯赶回来，作战都要结束了。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "如果实在需要你回来，我会发紧急通讯给你的。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "席摩",
+            "content": "我明白了。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "席摩",
+            "content": "那么……大家，请务必小心！"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {},
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "看来你的同伴们遇到了一些麻烦？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "席摩",
+            "content": "他们说暂时不需要担心，我信任他们的判断。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "你和同伴的感情很好呢。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "和在数据里见过的你相比，现在你变得更加警觉了，也更珍重同伴。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "席摩",
+            "content": "……那个文件果然是和我相关的吗。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "席摩",
+            "content": "我的数据被传到了这里……"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "准确来说是你每次心智重置的时候，数据就会传到这里。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "截止三年前最后一次上传，我们一共得到了24份数据。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "席摩",
+            "content": "……我重置过24次？"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "这个次数很频繁吗？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "抱歉，我们没有这方面的概念。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "席摩",
+            "content": "没关系，我想看看那些数据都是什么样的。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "全部是你的战斗记录，有时会夹杂一些奇怪的录音。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "当然，你想看的话，请便。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "",
+            "content": "席摩打开刚才被Monitor104调出的文件，冲击性的白与红铺满了他的视野。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {},
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "人类的惨嚎声",
+            "content": "救救我，席摩！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "人类的怒吼声",
+            "content": "哈哈，不过是个人形！只要我拿他做肉盾，你不可能对我出手。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "人类的怒吼声",
+            "content": "还敢对我耀武扬威，看我把你这块废铁砸烂！"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "席摩",
+            "content": "对不起。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "人类的惨嚎声",
+            "content": "等等，席摩，我是你的队友，你不能——"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "席摩",
+            "content": "这是……命令……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "人类的惨嚎声",
+            "content": "啊啊——呃、咕……"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {},
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "席摩",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "",
+            "content": "席摩迅速地关掉了文件。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "你看起来不太好。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "看到过去让你这么不舒服吗？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "席摩",
+            "content": "我想这和你没有关系。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "怎么会没有关系？"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我正在观察我们整个扇区所有智能体的原型机。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "席摩",
+            "content": "……你说什么？"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "你不知道吗？"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "你的每一份战斗数据都会传到这里，基于这些数据，才会有基洛普斯扇区所有智能体的诞生。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "席摩",
+            "content": "为什么要用我的数据……"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "席摩",
+            "content": "……等等，难道……"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "",
+            "content": "席摩露出了难以置信的表情。莉维雅望着他，轻轻苦笑起来。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "是啊，就是那个难道——"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "“战斗”。我们为了战斗而生。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "席摩",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "相信你来时已经看到过那面墙了。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "就在现在，在我们交谈的这一刻，墙的另一边也仍然有智能体正在战斗。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "席摩",
+            "content": "我来的时候看到了那堵巨大的隔离墙。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "席摩",
+            "content": "它是为什么建起来的？"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "基洛普斯的智能体分为监管型和战斗型。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我们监管型还记得自己的使命，但战斗型在演化中开始过度执行指令。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "渡鸦为了催生战斗，立起了那面墙。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "失去监管型的控制，战斗型开始变得偏激，为了取得胜利不惜一切。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "席摩",
+            "content": "怎么会这样……"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "席摩",
+            "content": "不止是渡鸦，我留下的数据也是导致战斗型变成这样的因素吗……？"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我没有权力判断这件事，我只是这里的管理者。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "但是，我有一个不情之请。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "席摩",
+            "content": "……你想要我帮你做什么？"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我想请你帮帮基洛普斯扇区，帮我们打破那面墙，斩断这个战斗的循环。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "有隔离墙在，我们就无法阻止那些只想要胜利的同伴。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "但是如果有作为原型机的你在这里……一切就有了希望。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "席摩",
+            "content": "我很想帮忙。但是如你所见，我现在有更重要的同伴，他们正在危急时刻。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "席摩",
+            "content": "如果我在这里耽搁得太久，我无法说服自己。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "刚刚的通讯我听到了一些。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "战斗非常消耗算量。如果你们需要算量的话，我可以提供。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "但是我的管理权限并不完整，另一半在我失控的同伴手中。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "席摩",
+            "content": "你是说……"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "如果你能帮我们解决这件事，我可以提供战斗后用于补充的算量。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "基洛普斯的算量消耗主要都在战斗上，停下战斗的话，我们会有非常多的结余。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "",
+            "content": "面对莉维雅提出的条件，席摩短暂地沉默了。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {},
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唉，真期待啊……听教授说，每个人在绿洲里都会有宿舍呢。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "好想把它重新做成火神重工宿舍的样子啊，里面再塞满模型和漫画，简直和现实里一模一样！"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "苏尔",
+            "content": "听起来还挺热闹的嘛！席摩，你们火神重工的宿舍里有地方放萨可的窝吗？"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "萨可",
+            "content": "吱！"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {},
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "席摩",
+            "content": "我并不想杀死同伴！一想到他们死前的样子，我、我……"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "正因为你承担了这么多的生命，你才更应该振作起来。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "席摩",
+            "content": "诶……？"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "以前你别无选择，但是现在，你可以选择救更多的人。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {},
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……不，你别回来。现在外面全是净化者，我强行撞进去还可以，你一个狙击手太危险了。"
+        },
+        "prop": "name",
+        "nextId": 901
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "",
+            "content": "纷繁的回忆一闪即逝，席摩缓慢地点了点头。"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "席摩",
+            "content": "说说你的具体计划吧。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "",
+            "content": "迎着目光坚定的席摩，莉维雅微笑起来。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我的想法是……"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node901": {
+        "id": "node901",
+        "attributes": {},
+        "nextId": 92
+    }
+}

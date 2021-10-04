@@ -1,0 +1,332 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "绿洲遇袭一段时间前。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "啊，教授来了！"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "刚好，我正要去找您呢。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "bravo",
+            "content": "怎么了？"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "按您之前的建议，针对流落在外的人形，我们建立了<a href=Des:24>心智检索</a>系统。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "目前运转正常，我们可以检索散落在各地的同伴，未来也可以用它和诸多人形建立联系。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但是有一个问题……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "bravo",
+            "content": "什么？"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "请您看看我们现在的报告书吧。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "看不懂。;我们的代号是什么？"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 11,
+            "option2": 12
+        },
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "一切都很完善，但我们缺乏一个对外的代号。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "还没有定下来，这是唯一缺乏的……也是最重要的标志了。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "正如您所见，我想过很多方案……绿洲人？守望者？灯塔？锋芒守护者？"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但感觉都有些不太对。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "bravo",
+            "content": "毕竟我们只是一群流亡者。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……！"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "今天也还是没有找到云图扇区……抱歉，各位。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "？？",
+            "content": "别这么沮丧，帕斯卡。换个角度想想吧。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "？？",
+            "content": "我们现在就是一群流亡者，在寻找属于我们的绿洲。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "？？",
+            "content": "这么一想，是不是很浪漫？"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……这样的浪漫，也只有你能想到了，娜特。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我好多了，谢谢你。\t"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "流亡者……在寻找自己的“绿洲”这一点上，大家是一样的。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "bravo",
+            "content": "帕斯卡？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "抱歉，我走了一下神……想起了之前的一些事。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这个名字很好，我没有意见。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "bravo",
+            "content": "你想说说那些事吗？"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "等我们完全在绿洲立住脚的时候再说吧。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "现在绿洲的气象模拟、对外的信息发送、扇区内各个区块的规划和建设……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "您看，光是听就让人想苦笑了，对吧。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "等到未来吧，我们稍微闲下来一些……"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "bravo",
+            "content": "看来也只能这样了。那就这么定了？"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是的。信标确立，名称注册完成。正在录入……"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们的名字是——<a href=Des:26><color=#ffa500ff>“流亡者”</color></a>。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "",
+            "content": "<b>>> CHAPTER 1 //     E N D . . .</b>"
+        },
+        "prop": "name"
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {},
+        "nextId": 17
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {},
+        "nextId": 23
+    }
+}

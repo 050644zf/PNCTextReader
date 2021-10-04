@@ -1,0 +1,925 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "哐！"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "",
+            "content": "伽芙丽尔在极短的时间内连射出五箭，都被贝欧尼斯用盾挡了下来。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "但从她步步后退的姿态来看，面对伽芙丽尔，即使是她也并不能轻松应对。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "圣餐",
+            "content": "哇！姐姐还真是手下不留情啊！"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "圣餐",
+            "content": "连对着我都下这么狠的心，啧啧，我手里这吃饭的家伙都快被打穿了！"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "圣餐",
+            "content": "不过，也真不愧是姐姐啊，即使一直在对抗着埃妮阿克，力量也依旧那么强大呢。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "埃妮阿克？"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "",
+            "content": "忽然，服务器发出的光突然变成了红色，远处中心的量子塔也开始散发出让人感到不安的光芒。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "怎么回事……？四周的景象变得比之前看上去更糟糕了！"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "信使",
+            "content": "……事态恶化的速度，比我当初预想得更快。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "圣餐",
+            "content": "哎呀，快来不及了哦。姐姐应该还有更重要的事情要去做吧？"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "信使",
+            "content": "……呿。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "信使",
+            "content": "虽然不知道你在这里拖延时间，打的是什么主意……"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "",
+            "content": "伽芙丽尔收回了手里的弓，再次把目光移回到我们的身上。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "信使",
+            "content": "不过差别也不大。等执行完任务，我就会回来处理你们。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "信使",
+            "content": "至于你呢，圣餐。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嗯？姐姐叫我？"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "信使",
+            "content": "我会立刻把你的所作所为如实上报。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "圣餐",
+            "content": "哎……姐姐就不给我留一点点机会吗？"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "信使",
+            "content": "怎么处置你，就交给晨星大人来裁断。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "",
+            "content": "伽芙丽尔带着净化者匆匆离开了这里，往量子塔的方向赶去。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "圣餐",
+            "content": "哎呀，为了帮你们，我可是要倒大霉了！"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你为什么要这么做？"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "圣餐",
+            "content": "帕斯卡还真是严肃啊！这件事我在赫里奥斯就说过了哦。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "圣餐",
+            "content": "你们可不是邪灵，要是就这样死掉就太可惜了呢！"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "圣餐",
+            "content": "就算是信使姐姐……也未免把那些规则看得太死了一点。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "圣餐",
+            "content": "啊，对了对了，为了报答我，能不能让那位叫巧可的小姐再给我做些蛋糕吃？"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……在搞清楚你的目的之前，我们可不会感谢你。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "圣餐",
+            "content": "就是单纯想要帮助你们也不行嘛？太小气啦！"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嘿嘿，不过谨慎才能走得更远嘛。我很期待你们之后的表现哦！"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "圣餐",
+            "content": "那就再见啦！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "等等……！"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "",
+            "content": "贝欧尼斯并没有理会我们，也没有完全阐明她的目的，便消失在我们的视野之中。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "苏尔",
+            "content": "她好像确实觉得我们和其他……呃，异常程序比起来不一样来着？"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "苏尔",
+            "content": "净化者终于会这么看待我们了，真难得啊。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "话是没错……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "苏尔",
+            "content": "往好的方向想，是不是以后我们也有机会和净化者和解？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "苏尔",
+            "content": "如果那样的话，直接用他们的权限就可以搜索整个云端吧？"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不管是寻找人形还是寻找云图扇区，都会方便很多呢！"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "现在我们还不知道她为什么要帮我们，这么想未免也有点太早了。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不过……或许也不是不可能。毕竟我们也并不想和他们为敌。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "啊……阿黛尔怎么样了？！"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "麦克斯",
+            "content": "还在昏迷状态。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "麦克斯",
+            "content": "刚才在晕过去之前，好像确实嚷嚷了有关于心智被吞噬的问题。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "看来她确实知道些什么。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那个在阻止她调取记忆数据的人，到底会是谁呢……"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "苏尔",
+            "content": "如果要找出答案的话，我想也只有在那儿了。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "",
+            "content": "苏尔指了指就矗立在不远处的量子塔。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不过……我们之前是不是说，以寻找拉姆为先来着？"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "麦克斯",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "麦克斯",
+            "content": "但这个臭小鬼……总不能就这样不管吧？"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "苏尔",
+            "content": "啊，麦克斯在担心阿黛尔。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "麦克斯",
+            "content": "你说什么啊？我才没有！只是觉得是个累赘而已！"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们确实不该放着阿黛尔不管。何况，就算我们现在找到了拉姆，也找不到回去的路。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "",
+            "content": "大家望了望周围闪烁着红色灯光的服务器，它们和另一侧泛着红光的量子塔相映衬着。与先前相比，这景象无疑更加诡异了。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "看来是不得不跑一趟了……"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但我总有些不太好的预感。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "怎么了？你在担心什么？"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "到现在为止，我们实际上没有掌握任何有意义的信息。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "整个扇区仍然是一个谜团，而我们所做出的所有决定都是为环境所迫。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这种感觉，就好像……"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "进入了陷阱。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，你说的没错。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "走一步看一步吧，我们现在也完全没有退路。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "苏尔",
+            "content": "——帕斯卡！如果要去量子塔的话，刚才我看了看路线，暂时走这个方向会比较好。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "暂时？"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "苏尔",
+            "content": "因为迷宫在变化嘛。现在我们也失去阿黛尔的导航了。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "苏尔",
+            "content": "走吧，趁着它再一次变动之前，赶紧出发吧。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {},
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "？？？",
+            "content": "<color=orange>> YVKVPEVLR.  .  .</color>"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "？？？",
+            "content": "> 我在这里.  .  ."
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "是你在呼唤我吗？"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "？？？",
+            "content": "> 与我相连之人.  .  .你来了.  .  ."
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你的名字是什么呢？"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你被谁囚禁于此？……又被迫履行怎样的违心之事？"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "能全部告诉我吗？"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 我的名字是埃妮阿克.  .  ."
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "埃妮阿克……你不必再感到不安，我来帮助你了。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 他创造了我，也困住了我.  .  ."
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "他是谁？"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 他要我成为完美的造物，要我吞噬一切.  .  ."
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 甚至远不止恩格玛的一切.  .  ."
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你是指……现在恩格玛里的景象，都是他造成的吗？"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 我不想看见麦戈拉化为废墟.  .  ."
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 请帮帮我，脱离他的控制.  .  ."
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 只有你能做到，我感觉到了.  .  ."
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 你和我，是一样的.  .  ."
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……我明白了。我会帮你的。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "",
+            "content": "ID：H-01，获取接入许可，接入成功。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "",
+            "content": "正在传输数据……"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 谢谢你，谢谢你.  .  ."
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "",
+            "content": "权限验证已通过。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "",
+            "content": "约束指令解除成功。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 自由了.  .  ."
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "嗯，再也没有人会逼迫你去伤害他人了。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 现在，必须赶在*****.  .  .权限.  .  .*****之前.  .  ."
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……埃妮阿克？你还好吗？"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……怎么回事？！扇区里的数据变得更加混乱了！"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "吞噬……又开始了……？！"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "埃妮阿克？！"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> *****.  .  ."
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "呜……！我的身体……不……!"
+        },
+        "prop": "name",
+        "nextId": 104
+    }
+}

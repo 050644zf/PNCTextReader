@@ -1,0 +1,924 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "绿洲，一号气象球周边。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "",
+            "content": "席摩站在绿洲的边际，眺望着远处。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "萨可",
+            "content": "吱！"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "席摩",
+            "content": "啊……萨可，下午好。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "",
+            "content": "雪貂嗅了嗅席摩的手指，像是确认了什么，才亲昵地蹭了蹭他的脸颊。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "席摩",
+            "content": "你总是会跑到我这里来，到底是凭借什么找到我的呢……"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "席摩",
+            "content": "难道你是专门用于侦查的吗？"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "萨可",
+            "content": "吱？"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "席摩",
+            "content": "……原本以为只是设计成动物外观的智能体，看来真的不具备语言辨识功能啊。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "席摩",
+            "content": "嗯……帕斯卡之前说的，和雪貂玩的方法……"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "",
+            "content": "席摩尝试着捞住萨可的腋下，来回地甩了甩它。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "",
+            "content": "萨可放松地挂在席摩手中，像一根雪条般来回摇动。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "席摩",
+            "content": "帕斯卡说这样能让你感到安心，原来是真的啊。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "席摩",
+            "content": "……明明我们才见面不久，你也能这么相信我吗？"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "",
+            "content": "显然，萨可并不能听懂主人的自言自语。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "",
+            "content": "席摩半是笑意半是无奈地摇了摇头。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "席摩",
+            "content": "我的指挥官……教授，这三天也没有对我下达过指令。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "席摩",
+            "content": "任务下达之前，我还是先去训练吧。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "？？？",
+            "content": "等等！就现在，不要动！"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "",
+            "content": "气象球后忽然传来了一个被刻意处理过的声音。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "",
+            "content": "席摩下意识地拔出弩对准了气象球，萨可颇茫然地看了看气象球，又看了看他。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "？？？",
+            "content": "出击路线无障碍，发射系统正常！"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "？？？",
+            "content": "代号“这次绝对要把”……唔唔唔唔唔……"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "席摩",
+            "content": "没有警报……也没有异常的攻击信号。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "席摩",
+            "content": "……是绿洲的哪两位在气象球后面开玩笑吗？"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "？？？",
+            "content": "不要随便捂我的嘴啊，安……唔唔唔……"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "席摩",
+            "content": "……我要往前走了。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "？？？？",
+            "content": "……唉。随便把我拖过来，然后还让我来说这些。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "？？？？",
+            "content": "席摩，你先不要动。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "？？？？",
+            "content": "我们是你的同伴，以后你会知道我们的身份。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "？？？？",
+            "content": "但是现在因为某些人的要求，我们不能现身。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "？？？",
+            "content": "唔唔唔……噗哈！"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "？？？",
+            "content": "因为我们的身份对这次谈话来说不是硬性需要，英雄就该隐姓埋……"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "？？？",
+            "content": "好了我不跑题了，别捂我！"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "席摩",
+            "content": "好吧。绿洲的安全系统没有入侵警报，敌人如果使用这样的手段，也会被教授发现的。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "席摩",
+            "content": "那么，“我的同伴们”，你们想说的是？"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "？？？",
+            "content": "你来绿洲也有三天了，想必整理过自己的心智数据了吧。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "？？？",
+            "content": "你有没有……做一些噩梦之类的？"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "席摩",
+            "content": "……这些会妨碍到执行任务吗？"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "？？？？",
+            "content": "看来是有了。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "？？？？",
+            "content": "别担心，这是正常现象。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "席摩",
+            "content": "……正常，吗？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "？？？？",
+            "content": "是对你来说的正常。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "？？？？",
+            "content": "你应该已经察觉到了，你并不是第一次启动。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "？？？",
+            "content": "<size=24>等等，这么说会不会有点……</size>"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "？？",
+            "content": "<size=24>没事的，他总要知道。</size>"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "席摩",
+            "content": "是的……那些“噩梦”，应该是之前留下的记忆碎片吧。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "？？？？",
+            "content": "你的猜测是正确的，那是你心智系统里留下的一些记忆碎片。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "？？？？",
+            "content": "在梳理数据的时候接触到这些是正常的，这也是我这次来的原因。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "席摩",
+            "content": "……你要清除它们吗？"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "？？？？",
+            "content": "你不想摆脱那些碎片吗？"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "席摩",
+            "content": "会留下这些记忆碎片，就证明我曾经有过这样的过去吧。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "席摩",
+            "content": "……删掉记忆，过去就不存在了吗？"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "？？？？",
+            "content": "怎么可能，过去是不能更改的。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "？？？？",
+            "content": "不管怎么修改数据，总会有信息留下来，有心就能还原当时的情况。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "席摩",
+            "content": "那彻底删除记忆就没有意义。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "席摩",
+            "content": "不管怎么否认过去，它都存在，并且让我在这里出现。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "？？？",
+            "content": "<size=24>但是绿洲里的大家可以当做这份过去不存在……</size>"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "？？",
+            "content": "<size=24>我们总要回到现实中去，他的顾虑是有道理的。</size>"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "席摩",
+            "content": "那个……我的听力模块很发达，就算声音很小也可以听到的。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "？？？",
+            "content": "……你没帮我屏蔽？"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "？？？？",
+            "content": "因为没什么必要，绿洲现在的算量还很紧张，不能随便挥霍。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "？？？",
+            "content": "那我刚刚的吐槽不是全都被听到了吗？！"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "？？？？",
+            "content": "安静，听席摩说。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "席摩",
+            "content": "你说你是我的同伴，那么……"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "席摩",
+            "content": "你能告诉我过去究竟发生了什么吗？"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "？？？？",
+            "content": "你认真的？"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "",
+            "content": "席摩沉默了。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "",
+            "content": "萨可从他手里跳下来，也跑到气象球后面去了。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "？？？？",
+            "content": "不要在心有犹豫的时候做决定，席摩。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "席摩",
+            "content": "……我是Gaul，但教授和帕斯卡告诉我，我叫席摩。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "席摩",
+            "content": "这个名字是过去的我得到的吧，可我却对它代表的故事一无所知。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "席摩",
+            "content": "萨可为什么会亲近我，我也不明白。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "席摩",
+            "content": "不能否定过去，又不去探索的话……我能是谁呢？"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "？？",
+            "content": "就像格式化后留下的碎片，过去始终会影响现在的你。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "？？",
+            "content": "那些噩梦的确是你的过去，我们不能否认它。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "席摩",
+            "content": "……我想也是。这些……是我摆脱不掉的东西吧。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "？？",
+            "content": "但过去留给你的不止是这些，还有“席摩”这个名字，萨可，以及我们。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "？？",
+            "content": "它们存在，但也只是存在。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "席摩",
+            "content": "……这种语气……是您吗，教授？"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "？？",
+            "content": "我们的身份并不重要。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "席摩",
+            "content": "是。这样的话……过去就是必须找回来的东西了。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "？？",
+            "content": "并不是这样。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "？？",
+            "content": "现在你有选择的权力。如果你选择只看着未来，我们也会尊重你。"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "席摩",
+            "content": "只看着未来……可是，过去也仍然存在。"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "？？？？",
+            "content": "有我们在，那些过去追不上你。"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "？？？",
+            "content": "你明明不是主角，怎么能说这么帅的台词！"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "？？？？",
+            "content": "身份不重要，这可是你说的。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "席摩",
+            "content": "……请让我再想想吧。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "？？",
+            "content": "我们会等着你做出选择。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "席摩",
+            "content": "……我现在可以往前走了吗？"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "",
+            "content": "没有人回答席摩。"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "",
+            "content": "等了一会儿，席摩向气象球后走去。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {},
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "",
+            "content": "气象球后空无一人。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "",
+            "content": "萨可抱着一只播音设备，疑惑地和席摩对望。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "",
+            "content": "一天后，指挥部。"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "席摩",
+            "content": "教授，你在吗？"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "席摩",
+            "content": "关于未来和过去的选择，我已经想好了。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "",
+            "content": "在教授的面前，他做了一次深呼吸，目光澄澈而坚定。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "席摩",
+            "content": "我的选择是——"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "",
+            "content": "<b>>> CHAPTER 2 //     E N D . . .</b>"
+        },
+        "prop": "name",
+        "nextId": 104
+    }
+}

@@ -1,0 +1,747 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "\" 警告.  .  .\n> 在未浏览<color=#ffa500ff>当前扇区全部主线剧情</color>文件的情况下，强制读取该文件.  .  .\n> 可能会造成意识紊乱，影响剧情体验.  .  \""
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "content": "\" 记忆数据文件编号：PIERIDES072.  .  .\n> 数据来源：智能体，奥吉塔.  .  \""
+        },
+        "prop": "Subtitle",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "这是《千里江山图》……啊，青绿的颜色真是精妙啊。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "北宋、北宋……应该要归类在12世纪这边……"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "下一份是……巴黎圣母院！是2019年火灾之后修复过之后的数据吗？"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "得好好珍藏起来才行。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "下一份……咦？这幅作品，没有见过呢。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "这种意向的组合虽然离奇却不是超现实派作品……"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "年轻而充满张力，却也不属于波普。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "奇怪，数据库里好像没有这幅作品的任何信息呢……"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "奥、奥吉塔？！"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "啊，姐姐你来了！"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "你……你手里的是……"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "我正在给新的一批数据进行分类。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "不过，仅仅是分类，我好像也做不好呢……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "这幅画属于什么时期，是什么作者的作品，奥吉塔完全无法识别……"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "那、那个交给我就好了！"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "诶？真的吗？"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "可是如果连给作品分类都做不好的话，之后怎么分担姐姐那部分修复工作呢……"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "这个……这个不是你的问题，奥吉塔。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "这幅作品比较特殊，也不需要处理……是我放置错了。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "诶？放置错了？"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "嗯，我误将数据库外的作品混进去了……"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "就算放置错了，我也应该能够辨别才对……除非，这幅画在现实中根本不存在……"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "难难难难道说，这和博物馆后面那片小花园里的画板有关系！"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "你知道这件事了？！"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "不久之前我在打扫卫生时不小心走了进去……难道说姐姐也发现了？！"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐姐，是不是有什么闯入者偷偷在庇厄里亚画画？！"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "如果是那样的话，请务必让奥吉塔也帮忙！"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "我一定会找出那个家伙，保护庇厄里亚的数据的！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "不是，不是这样的奥吉塔……"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "庇厄里亚并没有什么闯入者。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "没有闯入者？那……难道是姐姐放在那里的吗？"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "这……这个……"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "哎，奥吉塔！你要去哪儿？"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "",
+            "content": "小小的天鹅身影穿梭在巨大的博物馆中，她迫不及待地推开了那座秘密画室的门。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "",
+            "content": "哪怕仅有几日未踏足于此，方寸大小的画室内已经装点满了风格不一、光怪陆离的作品。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐姐……这些，都是你画的吗？"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "……嗯。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "我记得你上次说过，我们的工作就是和人类的艺术作品打交道……"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "因而，难免地也会产生想要表达自己的冲动。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "……是这样，没错。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "我知道这不在我们的职责范围之内……"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "我也不应该私自动用扇区富余的算量做这些……"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "不呀，姐姐！千万别这么想！"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "诶……奥吉塔？"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "庇厄里亚只有我们和这些艺术作品，已经很孤单了。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "我们都知道，虽然庇厄里亚比不上娱乐扇区伯班克不夜城那般的巨大规模……"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "这么大的扇区，只有这座小小的博物馆而已。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "但这里却保存着世界上最最珍贵的数据。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "能在这里不断地模仿、学习，然后更好地去表达自我，难道不是件好事吗？"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "",
+            "content": "奥吉塔将她手里那份被“放置错”的作品，小心翼翼地装进剩下的那幅画框里。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "",
+            "content": "画框的周围微微地亮起，画作中明快的颜色成为了画室里最亮眼的存在。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "其实……做这件事情的时候，我也很矛盾，自己究竟是否会被允许这样做……"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "所以我宁可将它们封存起来，让它成为只有我自己知道的秘密……"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐姐，没问题的哦。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "嗯？"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "现在，奥吉塔就是姐姐的画室的第一位参观者。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "而我相信，总有一天……"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "会有更多的人推开这间画室的门……见证姐姐的艺术作品……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "一定会有更多的人，感受到姐姐的那一份心意。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "被……被更多人认可吗……"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "嗯，我相信那一天会到来的，只要有姐姐在，庇厄里亚一定会变得更好。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "奥吉塔……谢谢你。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "不过，庇厄里亚是我们两个人的家。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "所以，应该由我们两个一起，让它变得更好。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐姐的意思是……"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "我记得，你也一直想要建造一个小小的花园吧？"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "……姐姐竟然还记得！"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "没错没错，因为我一直很喜欢那些园林艺术造景……"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "还有躺在油画里的所有漂亮的风景……"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "那这些就交给你了哦，"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "诶？"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "没问题的吧？让庇厄里亚，成为麦戈拉最美的地方。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "把我们心里所认为的美……也通过我们的双手展现出来……"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "当、当然！只要姐姐同意！"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "我可以在这里建一个小池塘吗？"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "嗯，没问题。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "喷泉呢？花园里要是有雕塑就更好了！"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "当然可以啦……"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 84
+    }
+}

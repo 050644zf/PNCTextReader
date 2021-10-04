@@ -1,0 +1,501 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "麦戈拉上空，逆巴比伦塔内部。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "？？？",
+            "content": "哼~哼哼哼~哼哼~♪"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "少女坐在漂浮的银盾上，双脚垂在半空，悠悠然地操纵着悬浮的光幕。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "？？？",
+            "content": "呼~啊，肚子都忙饿了！"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "？？？",
+            "content": "唉，新人还是太嫩了，算量储备也不行，居然被自己申请的算量弄坏了。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "？？？",
+            "content": "到头来还要刚出差回来的前辈来收烂摊子……"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "",
+            "content": "少女唉声叹气地说着，按下了最后一个虚拟按键。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "？？？",
+            "content": "好，这样就可以了！"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "？？？",
+            "content": "出来吧，莽撞的小后辈——"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "",
+            "content": "殿堂内，一块构体发出刺眼的光芒，金色的光线争相从刻着“渡鸦”标识的缝隙中透了出来。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "",
+            "content": "整个大厅被圣光笼罩着，远处隐隐响起了钟声。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {},
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "？？？",
+            "content": "原来上位净化者的重生是这样的呀！"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "？？？",
+            "content": "真是稀奇，稀奇——不过，光是奇闻也填不饱肚子，还是快点结束工作吧！"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "？？？",
+            "content": "小渡鸦，你知道这是哪里吗？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "这里是……收藏着我等<a href=Des:46>圣典</a>的“万圣之殿”……"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "？？？",
+            "content": "答对了！看来你保留着基本的记忆嘛。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "？？？",
+            "content": "这点和中级净化者重生的时候一样，记下来记下来。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "……你是谁？"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "？？？",
+            "content": "我吗？我是你的老前辈哦。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "？？？",
+            "content": "“圣餐”，你就这样叫我吧！"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "前辈……“圣餐”。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "圣餐，我上一次的行动失败了吗？"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嗯哼~就是这样。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "圣餐",
+            "content": "上位净化者面对<color=purple>“那些东西”</color>战败不稀奇，毕竟我们原本就是为了和它们作战而生。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "圣餐",
+            "content": "但在管理扇区时战败……我看看记录……"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嗯！这在净化者的历史上还是第一次哦！"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "真是耻辱……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "圣餐",
+            "content": "小事小事，只是丢失了一个扇区而已，总有办法解决的啦。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "丢失了……一整个扇区？"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "是我做的？"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "圣餐",
+            "content": "是呀。本以为派你去管理扇区能让你稳重一些的，没想到还是这么冲动。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "圣餐",
+            "content": "我们上位净化者天生就背负着更严峻的使命，可不能再那么莽撞了哦。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "这……实在是难以忍受的耻辱……"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "我能够弥补它，让我去夺回它！"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "圣餐",
+            "content": "这份心是很好啦。但你想用什么方式去夺回这个扇区呢？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "圣餐",
+            "content": "我们没有你那次战斗的数据，你能保证自己不会被原样打回来吗？那可真的就是毫无长进了哦？"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "圣餐",
+            "content": "真稀奇，你平时气急败坏的时候可是会砸东西的，战败对你的影响这么大呀？"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嘛，算了~来说点更有意义的事吧！"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "圣餐",
+            "content": "不说那个扇区，麦戈拉其他扇区的事务可是堆积如山。边境战线那边也是，很棘手呢……"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "……战线？"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "",
+            "content": "重复着这个词，渡鸦像是忽然找到了什么方向一般，急切地询问圣餐。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "对……对，战斗！圣餐，我要去需要战斗的地方！"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "圣餐",
+            "content": "这方面还是没变啊……有点没意思呢。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "",
+            "content": "圣餐轻巧地跳下银盾，绕着渡鸦转了一圈。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "如果战线需要我——"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "圣餐",
+            "content": "别那么心急。你就先在这里守着万圣之殿吧，说不定很快就会有新的任务呢~"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "……是，我不会再让净化者的名誉蒙羞的。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "",
+            "content": "圣餐摆了摆手，离开了万圣之殿。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "",
+            "content": "迎着殿外纯净的光芒，少女眯起眼睛。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "圣餐",
+            "content": "名誉蒙羞啊……"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "圣餐",
+            "content": "先是信，再是小渡鸦，那些“流亡者”果然很有趣呢。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "圣餐",
+            "content": "我也得振作起来了！"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "圣餐",
+            "content": "好，决定了——先去吃点东西吧！"
+        },
+        "prop": "name",
+        "nextId": 57
+    }
+}

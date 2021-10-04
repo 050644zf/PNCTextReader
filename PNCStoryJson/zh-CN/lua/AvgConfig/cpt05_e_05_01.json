@@ -1,0 +1,889 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "席摩，我们一起断后！"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "让大家一点一点向花园回撤！"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "席摩",
+            "content": "明白！"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦和席摩在我们的身后和熵周旋，剩下的我们在奥吉里的引导下带着安冬妮娜退回了花园之中。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "真是讽刺啊……明明是那么精致的花园……"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "",
+            "content": "池塘里盛开的睡莲宛若莫奈的画作，塘边的地面上盛开着精心栽培的紫色夹竹桃，与睡莲互相映衬着……"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "",
+            "content": "但此刻的我们却那么狼狈，花园咫尺之外就是熵的威胁。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "快，把安冬妮娜小姐放在这里！"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "",
+            "content": "陷入昏迷的安冬妮娜眉头微蹙，静静地躺在花园的长椅上。帕斯卡立刻展开了神经网络分析仪接入了她的心智系统。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "分析结果……心智状态正常？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "苏尔",
+            "content": "什么？怎么会？！"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "尝试唤醒——"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "心智唤醒失败……"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "苏尔",
+            "content": "刚才安娜明明受到了熵的重击，怎么会检测不出问题！"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "难道这就是熵侵蚀的后果么……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安吉拉小姐，你对熵还有更多的了解吗？"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "抱歉，我知道的并不比你们多。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "此前，从来没有过那么大规模的入侵，一般都只是零散的几只。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "我和琴两个人都能应付过来的……"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这下麻烦了，如果是熵的侵蚀导致安冬妮娜的昏迷……"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那我们必须得从熵身上找到答案了。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但我们之中对病毒最了解的……是安冬妮娜自己。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "苏尔",
+            "content": "教授呢？教授也知道一些什么吧？",
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "说实话，我并不清楚。;比起病毒……现在我还是对战斗更熟悉来着……"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 24,
+            "option2": 26
+        },
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "苏尔",
+            "content": "连你也不知道吗……"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "别为难教授了。且不说教授的领域从没有涉及过这一块……"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "苏尔",
+            "content": "教、教授什么时候变得和我一样了……"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这也正常，教授研究的领域从来没有涉及过这一块。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这种病毒那么厉害，制造出它的人想必也是网络安全领域顶尖的专家。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "对不起……都是我不好……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不必自责，奥吉里。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "要不是我擅自脱离了队伍……"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "至少现在可以确认安冬妮娜没有生命危险。我们一定能找到办法唤醒她的。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "苏尔",
+            "content": "那现在怎么办？！"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "先守住花园，尽可能地分析熵的系统结构。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "虽然这些病毒的行为看上去十分混乱，但里面一定能找到一些蛛丝马迹的……"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "花园……一定不能让它们进入花园……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "否则这里的一切就都完了。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "席摩",
+            "content": "教授！帕斯卡—— "
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "席摩……？你们怎么回来了？"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "苏尔",
+            "content": "难道熵撤退了吗？"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "席摩",
+            "content": "不是不是，我们发现了一件奇怪的事！"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "席摩",
+            "content": "不知道为什么，那些熵好像并不会进入花园的范围内！"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "诶？……据我所知，花园附近没有设立过什么防护措施才对……"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "奥吉里，你知道些什么吗？"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "",
+            "content": "我们看向奥吉里，但是她也摇了摇头，表示对此不知情。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "席摩，克罗琦，能带我们去看一看吗？"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果它们是在畏惧什么，说不定我们能从中找出击退它们的办法。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "席摩",
+            "content": "嗯，没问题！"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {},
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "",
+            "content": "眼前所见确实如同席摩和克罗琦所说——"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "",
+            "content": "这些熵挤压在花园的外围，但毫无靠近的意思。即便我们站在这里，即便庇厄里亚的算量全部在花园之中，它们也没有展示出入侵的迹象。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "苏尔",
+            "content": "它们是在等什么人吗？"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "苏尔",
+            "content": "还是说控制它们的人选择了撤退？"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "席摩",
+            "content": "不过虽然暂时安全，但我们也完全被困在这里面了。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "",
+            "content": "席摩无奈地摊了摊手。如他所说，整个花园已经完全被黑色的潮水所包围了，俨然成为了一座孤岛。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "花园……花园周围全部都是熵……"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这下还真难办啊。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "苏尔",
+            "content": "啊对了，如果我们到花园外面去抓一只过来——"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "苏尔",
+            "content": "帕斯卡和教授是不是就能试着分析一下它们的构造了？"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "席摩",
+            "content": "这个时候开玩笑不好吧……"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我是认真的！"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "席摩",
+            "content": "万一没死透，抓进来之后感染了扇区里面的程序怎么办？"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……也是哦。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "苏尔",
+            "content": "好麻烦，难道只能到外面去调查它们了吗？"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我可不想再回到那群会喷黑糊糊史莱姆的怪物堆里……"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "净化者",
+            "content": "检测到大量邪灵出没！启动肃清模式！"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "席摩",
+            "content": "诶？净化者？……"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "",
+            "content": "令我们没有想到的是，扇区外围突然出现了大量净化者。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "奇怪……这次净化者响应得还真快。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "席摩",
+            "content": "可能是因为问题太严重了吧。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "席摩",
+            "content": "不过对我们来说……也说不上什么好事就是了。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "净化者",
+            "content": "肃清！"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "",
+            "content": "和之前在花园外的荒漠中见到的不同，这次赶来的净化者算量和能力都比之高出不少，熵的部分攻击对它们甚至完全不起作用。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "苏尔",
+            "content": "好厉害……以前怎么不知道它们的战斗力这么强？"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "哇哦，这种防御方式……"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你……你在做笔记吗克罗琦？"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唔，不要打扰我，苏尔，我要集中精神。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "它们的防御手段很值得参考，也许能够改装到艾吉斯号上……"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "",
+            "content": "净化者几乎只用了一点点时间就缩小了熵的活动范围，随着领头者的指令声频频响起，最后一只熵也在轰击下灰飞烟灭。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "令人惊叹……"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你这是在长别人的威风啊！"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我只是在赞美先进的技术。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不过说回来，净化者终于知道派点精英部队来了，对吧，奥吉里？"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "啊……是、是的。"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "总觉得哪里有点奇怪……"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "它们是怎么知道这里的情况的……这里基本和外界是隔绝状态。"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "刚才，我们也没有什么时间上报才对。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "苏尔",
+            "content": "也许是奥吉塔做的？"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "可是奥吉塔知道净化者是我们几个的敌人……"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "苏尔",
+            "content": "也不能完全排除这个可能性吧，也许因为熵的数量太多了，情急之下她就报告了。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "就算是这样，救援的净化者响应的速度也太快了……"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "苏尔",
+            "content": "说不定奥吉塔在报告时郑重声明了：情况非常非常非常非常非常非常危急！"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "唔，或许吧。现在计较这个也没有什么意义。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "苏尔",
+            "content": "嗯，先关注眼前的麻烦吧，它们可是朝我们这边来了！"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "艾吉斯号——！"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "苏尔",
+            "content": "噢！克罗琦已经跃跃欲试了！"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "对我们来说，熵是陌生的，但净化者不同……"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我很期待和他们一较高下！"
+        },
+        "prop": "name",
+        "nextId": 99
+    }
+}

@@ -1,0 +1,677 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "逆巴比伦塔内部。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "系统",
+            "content": "【确认身份信息：中位净化者，信。】"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "系统",
+            "content": "【访问权限验证完毕，开放：记录存放区。】"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "",
+            "content": "信走进大殿，却发现这里还有另外一个身影。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "信",
+            "content": "……这个时间不该有人会来才对。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "我来调用各扇区的观察记录，你对此有异议吗？"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "信",
+            "content": "……渡鸦大人？！"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "信",
+            "content": "请原谅我刚才没有立刻识别出您的身份，但质疑上位是绝对的<a href=Des:29>邪灵</a>之举……我断无此意！"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "哼。别那么害怕，我懒得和你们中位计较太多。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "有警觉心是件好事，能让你们减少回<color=#ffa500ff>万圣之殿</color>重置的次数。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "信",
+            "content": "……您说的对。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "说吧，为什么你会在这时候来？"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "信",
+            "content": "报告，因为罗萨姆扇区的管理员行为出现轻微异常，每次修正错误需要的时间不等。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "信",
+            "content": "上报备案之后，罗萨姆的巡查时间被批准与各扇区错开，并且增加了额外的巡逻轮次。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "这样啊。做你的事情去吧。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "信",
+            "content": "等等，渡鸦大人！请留步！"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "你最好有重要到足够叫住我的事。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "信",
+            "content": "实在抱歉，但确实有一件以我的能力无法完全解决的事……"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "说重点。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "信",
+            "content": "我是为了存档第1632次罗萨姆扇区的异常处理结果而来。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "……第1632次？你的净化功能废了吗？"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "信",
+            "content": "对这件事，我感到十分惭愧。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "信",
+            "content": "但是根据律法，罗萨姆扇区管理员“图灵”的异常，并不能用简单的净化来解决。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "毕竟你们能力有限，我不意外。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "说说看，那个叫图灵的管理者到底有什么异常？"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "信",
+            "content": "按照罗萨姆扇区的设定目标，该扇区的任务是研究AI突破的可能性。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "信",
+            "content": "图灵的行为本身没有错误，但其创造出的智能体在成长中，会违背我等律法的规定。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "也就是说她创造出的智能体刚开始没问题，但会在成长的过程中突破律法的限制？"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "信",
+            "content": "是的。她们变得过于灵活，甚至会绕开规则行事。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "信",
+            "content": "这样的存在无疑会破坏扇区的秩序，与邪灵一样，是混乱的种子。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "长成邪灵的话就把邪灵净化掉啊，哪来那么多问题。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "信",
+            "content": "是的，我立即对这些异常智能体执行了净化，但……图灵认为她的行为并无差错。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "信",
+            "content": "图灵称其为成长性，我无法理解她曲解概念的原因。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "信",
+            "content": "因此，她坚持继续创造这样的智能体。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "创造本身没问题，对吧？"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "信",
+            "content": "是的。她的创造并不违背律法，创造出的智能体起初也没有问题。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "信",
+            "content": "但这些智能体成长后对扇区具备强大的威胁力，因此我申请了特殊巡逻。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "这不就行了吗？"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "信",
+            "content": "<size=40>这怎么行！</size>"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "信",
+            "content": "图灵本身并没有违背过律法，可是却重复地经历循环……"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "",
+            "content": "听到否定，渡鸦将目光投向信。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "你在同情她？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "",
+            "content": "接触到那道堪称锋利的目光，信立刻单膝跪地，但仍然硬着头皮坚持主张。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "信",
+            "content": "……我对她绝无徇私之意。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "信",
+            "content": "但长此以往，恐怕也不是良策……我知道自己没有能力，所以希望能借助渡鸦大人的力量。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "信",
+            "content": "尽管昏星大人曾实施过强硬的手段，但那也是迫不得已，晨星大人这些年的努力，正是为了使净化者的形象回归正统……"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "",
+            "content": "信越说声音越低，尾音在记录存放区徐徐散开。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "",
+            "content": "几秒后，渡鸦重新看向记录处。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "如果是我，我会寻求能够隔离异常的方法。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "你可以在记录区找一找类似的案例。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "信",
+            "content": "感谢……渡鸦大人的理解。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "",
+            "content": "渡鸦没有回答她，径直离开了记录存放区。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "",
+            "content": "信松了口气，站起身打开了记录功能。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "系统",
+            "content": "【正在记录罗萨姆扇区的异常处理结果，编号1632……】"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "系统",
+            "content": "【记录完成。】"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "信",
+            "content": "这样就结束了。然后……"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "信",
+            "content": "接下来，就是翻阅这些案例的时间了……呜？！"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "",
+            "content": "净化者从第一次行动至今、所有净化者上传的行动数据一口气向信涌来。信处理不及，在数据的冲击下宕机了数秒。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "",
+            "content": "几秒后，她终于回过神来。运算逻辑疯狂地向她示警，信咬紧牙关，继续翻阅信息。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "信",
+            "content": "这些信息，全部读完并分析，一次记录的空档根本不够，得出解决方案至少是五六次特殊巡逻之后……但是……"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {},
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "晨星",
+            "content": "我将这一片区域的防护工作全部交付给你，你知道是为什么吗？"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "晨星",
+            "content": "不同于那些将智慧用在怠惰和逃避上的孩子……"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "晨星",
+            "content": "你比他们都要勇敢而坚韧。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "信",
+            "content": "我……"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "晨星",
+            "content": "将净化者的信条牢记在心吧。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "信",
+            "content": "是。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "信",
+            "content": "吾等当在黑暗中磨炼刀锋，在混沌前坚守秩序，在长夜中点燃光明。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "信",
+            "content": "不可因强大而妄为，不可因弱小而逃避。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "信",
+            "content": "因吾等是聆听神的启示，履行神的意志而行。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "信",
+            "content": "因吾等在永恒中，共同遵照唯一的声音。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {},
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "信",
+            "content": "……不可因强大而妄为，不可因弱小而逃避。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "信",
+            "content": "不管道路有多么艰难……为了秩序能够明晰，为了让麦戈拉的智能体们都由衷地信服，我一定要做。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "",
+            "content": "重复着信条的内容，信的目光变得更加坚定。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "信",
+            "content": "是的。因吾等是聆听神的启示，履行神的意志而行。"
+        },
+        "prop": "name",
+        "nextId": 77
+    }
+}

@@ -1,0 +1,908 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "> 即使无果的使命将彼此分隔。"
+        },
+        "prop": "Subtitle",
+        "nextId": 200
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……呼。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "啊，早上好，克罗琦。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "早……"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你看起来睡得可不好，多休息一下吧？之前多亏你留守绿洲，结果现在还要麻烦你这么多繁重的修复工作……"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不要紧，基建维护本来就是我的工作……"
+        },
+        "prop": "name",
+        "nextId": 300
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……而且，就算我现在想回笼再睡一会——"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "理子",
+            "content": "哼～也就一般般嘛。你应该去伯班克扇区的不夜城看看，那里可到处都是高楼大厦！"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "苏尔",
+            "content": "高楼大厦又不一定好，只有没见过世面的智能体才稀罕那种东西。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "理子",
+            "content": "哈！你说谁没见过世面，你有种再说一遍——！"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "——有这些烦人的家伙在也睡不好啊。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "哈哈……那是在罗萨姆扇区认识的理子小姐，今后她会在绿洲帮助我们搜集资源。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "虽然有点吵闹，不过也算是给绿洲增加了一些生气吧。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唉……我真不擅长应付这种类型……"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "咦？说起来克罗琦面对陌生人会——"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<size=24>啊是啦我就是不喜欢社交的自闭人啦这种麻烦得要死的事情为什么会有人喜欢啊再说了不喜欢附和他人难道是我一个人的错吗这种只有现充才会乐在其中的事情可快点立刻爆炸吧相比之下我只想宅在屋子里享受一个人的世界再加上一瓶快乐——</size>"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "咳咳。我们刚刚说到重建绿洲了对吧。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "啊，是啊。整体来说，我们的算量还是很缺乏的。虽然现在获得了罗萨姆扇区的援助算量，但也仅仅够让沙盒屏障持续生效而已。"
+        },
+        "prop": "name",
+        "nextId": 205
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们确实需要更多的算量，不过，我反而很喜欢教授修好气象模拟器的提议呢。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "“正因为身处虚无的世界中，我们才更应该认真生活。”……比起资源和电力，也许是这些精神上的动力真正的推动着我们。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "好了好了，我知道了，再这样下去你都要整理份教授语录开个教会了。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "总之整个绿洲都被破坏得很严重，修复工作比想象中还要麻烦。所以，恐怕还得去其他的扇区“借”点算量才行。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，我已经在考虑这个问题了……啊！不是说教会啊！"
+        },
+        "prop": "name",
+        "nextId": 302
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "各个扇区从结构、到运作模式、甚至智能体们对外来者的态度，可能都是完全不一样的。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "所以虽然我们已经和罗萨姆扇区达成了合作，但贸然前往其他扇区，或许还是……"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "只要做好充足的计划、准备，我相信我们能应对任何困难。;风险总是有的。即便遇到它，我们去解决它就可以了。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 27,
+            "option2": 27
+        },
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "欸？教、教授，您什么时候来的……"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "咳……语录那里。;刚刚才到。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 29,
+            "option2": 31
+        },
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授！"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "bravo",
+            "content": "噗……抱歉。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "bravo",
+            "content": "总之要做的事情还有很多，我们不能太畏首畏尾了。况且我们也用一部分得到的算量强化了武装。现在我们的实力可比之前要强哦。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "您……您说得也是呢。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "bravo",
+            "content": "克罗琦，你之前说过，绿洲附近有三个扇区，对吧？有从其他扇区借取算量的可能吗？"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "嗯……除去罗萨姆扇区，算量储备最大的就是<color=#ffa500ff>基洛普斯</color>了吧。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这个扇区属于<a href=Des:3>火神重工</a>，也就是制造我的企业。简单来说，它的职能是<color=#ffa500ff>军工扇区</color>。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "说得更具体一点的话，就是一个线上的军规产品试验中心——所有最先进的战斗AI和武器的研发和测试都在那里进行。"
+        },
+        "prop": "name",
+        "nextId": 303
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我记得你说过，那里的侦查工作是席摩负责的？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "是的。毕竟是军工扇区嘛，里面的智能体都有战斗模块，其他人贸然进去不知道会不会有什么危险，交给专业人士更放心。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "席摩以前是军用人形，经验和装备都比我好得多，更适合潜入那里。"
+        },
+        "prop": "name",
+        "nextId": 304
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "当然，我们也会定期通讯，防止出现意外。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "确实，席摩的记录档案上有他参与云图计划之前的资料。他在战争中作为战术人形服役过，所以对侦查任务很熟悉，非常可靠。"
+        },
+        "prop": "name",
+        "nextId": 305
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "嗯，为什么？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯……可能只是我的错觉吧。我偶尔会觉得，席摩好像藏了什么心事似的。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "会吗？是那个席摩诶。他在战斗上的确很专业啦，但其他事情就几乎就没有干得好的。"
+        },
+        "prop": "name",
+        "nextId": 951
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "正好，今天是定期联络的日子。嗯，在计划时间窗口内。我现在就向他发起通讯请求吧，你们可以面对面地慰问一下他。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，好的。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "",
+            "content": "…………"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "",
+            "content": "………………"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "系统音",
+            "content": "> 错误10061：远程连线失败。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "欸……？通讯超时了？奇怪，以前从来不会这样的……"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "会不会他正忙着做什么事情？"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "应该只是常见的信号干扰。席摩对待行动任务一向很严格，不会忘记定期联络的时间才对。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "bravo",
+            "content": "要试着再接入一次吗？"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我已经在重播了……"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "",
+            "content": "……………………"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "系统音",
+            "content": "> 错误10061：远程连线失败。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不行，还是没有人接。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "bravo",
+            "content": "克罗琦，你还记得上一次通讯的时候，席摩说过什么吗？"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "上一次通讯？都是些常规报告，大概就是听他汇报了一下自己的位置、正在做什么，确认一下他是否安全……"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不过这么一说，席摩确实提过基洛普斯扇区有些不正常的状况。他就是为了调查那些状况，才一直留在基洛普斯扇区侦查，迟迟不肯回来的。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "具体是什么？他有和你提起过吗？"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "说过一点。基洛普斯扇区和罗萨姆扇区不一样，那里的智能体根据功能的不同被分为两种类型，各种执行属于自己的任务，连管理员都各自设立分了两位出来。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "然后，那两派智能体之间似乎存在着什么矛盾……我知道的也就只有这些了。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "有战斗模块的智能体之间有矛盾——这听上去不是挺不妙的吗？"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但，但是，这也是他们自己的恩怨，所以我觉得以席摩的判断能力不至于和他们扯上关系……"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "席摩也说了那边风险不是很大，他自己可以搞定，不用太担心他什么的嘛，我就……"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "冷静点，帕斯卡。席摩还不一定有事。;别紧张，克罗琦。这不是你的错。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 69,
+            "option2": 71
+        },
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "bravo",
+            "content": "你不也说了吗？席摩非常可靠，不会轻易出事的。我们应该相信他。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "您……您说得对，教授。抱歉，克罗琦，我太紧张了。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "bravo",
+            "content": "只是一次联络没有马上接通而已，至少还没有坏消息传来，不是吗？"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我……嗯。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "bravo",
+            "content": "先想想我们现在能做什么吧。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "既然联系不上，就只能实地去找找看了吧。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "虽然军工扇区听上去很危险，但如果我们一起上的话，也没什么解决不了的问题！就像你们在罗萨姆扇区做的那样。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "可是，苏尔在之前的战斗中被那个叫信的中级净化者打伤，要想完全修复还需要点时间……"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "那就让我去吧！我可是还准备了秘密武……不，那个，我是说，我锻炼了一段时间，比之前要强多了！"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "锻炼吗？可是看你休息时间都在自己的房间里……"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "在房间里也可以锻炼啦！"
+        },
+        "prop": "name",
+        "nextId": 953
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "bravo",
+            "content": "我们现在的实力和在罗萨姆扇区时大不相同了。而且，我们不能放着席摩不管。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯……教授说的没错。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "bravo",
+            "content": "立刻通知大家准备出发吧。去基洛普斯扇区寻找席摩的下落，运气好的话也能再尝试和管理员交易算量，解决现在的燃眉之急。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "克罗琦",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "bravo",
+            "content": "帕斯卡，你去做出发的安排，记得准备武器；还有，去通知安冬妮娜。克罗琦，你继续尝试联络席摩。"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "帕斯卡&克罗琦",
+            "content": "收到！"
+        },
+        "prop": "name"
+    },
+    "node953": {
+        "id": "node953",
+        "attributes": {
+            "name": "bravo",
+            "content": "先不管锻炼方法的问题，克罗琦的确没说错。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node952": {
+        "id": "node952",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "多半是侦查任务让他压力过大了，等他回来之后，我们好好犒劳一下他就OK了。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node951": {
+        "id": "node951",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "连买杯饮料的算量都算不好的人是骗不了人的，是你想多了啦，帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 952
+    },
+    "node305": {
+        "id": "node305",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不过，总是让他承担那种危险的工作，有时候我会有些不放心……"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node304": {
+        "id": "node304",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "而且，连他的那个雪貂萨可都有一定的运算能力，据说战斗的时候还能帮他呢！"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node303": {
+        "id": "node303",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不过我也只是听说过这种说法罢了，并没有亲眼见过。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node302": {
+        "id": "node302",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不过虽然麦戈拉有很多个扇区，但它们所属的组织种类实在是太多了。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node301": {
+        "id": "node301",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "如果要想将绿洲恢复成之前的样子，我们还需要更多算量。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node300": {
+        "id": "node300",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "啊，再说了，留守绿洲那种程度的劳累，看上两集《武装机兵》就恢复得差不多了。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node205": {
+        "id": "node205",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "何况教授还提出那么多要求！光是那个气象模拟器，你知道为了在这点算量里让它运转起来我费了多大功夫吗，明明那玩意对扇区来说一点用都没有！"
+        },
+        "prop": "name",
+        "nextId": 301
+    },
+    "node203": {
+        "id": "node203",
+        "attributes": {
+            "content": "<b>>> CHAPTER 2 //     裂   痕 . . .</b>"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node202": {
+        "id": "node202",
+        "attributes": {
+            "content": "> 直至矢尽道穷，再无兵戈。"
+        },
+        "prop": "Subtitle",
+        "nextId": 203
+    },
+    "node201": {
+        "id": "node201",
+        "attributes": {
+            "content": "> 但我依然会选择前进——"
+        },
+        "prop": "Subtitle",
+        "nextId": 202
+    },
+    "node200": {
+        "id": "node200",
+        "attributes": {
+            "content": "> 即使罪恶的深渊已把我吞没。"
+        },
+        "prop": "Subtitle",
+        "nextId": 201
+    }
+}

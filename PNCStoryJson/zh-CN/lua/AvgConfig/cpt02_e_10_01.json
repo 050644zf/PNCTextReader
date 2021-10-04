@@ -1,0 +1,1069 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "被炸成废墟的智能体工作中心外，莉维雅一瘸一拐地挣扎着走出大门。\n两具破破烂烂的躯体碎在坚硬的地面上，身体已经趋近半透明，几乎难以辨认出原本的模样。\n然而，莉维雅还是一眼就认出了他们。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "<size=40>……塔莎！</size>"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "她不顾一切地奔向塔莎，却又因为腿部的伤口而跌倒在地。她将双手撑在塔莎身旁，身体不住地颤抖着。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "塔莎",
+            "content": "莉……维雅……\n是莉维雅……吗……"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "塔莎！你，你还……"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "塔莎",
+            "content": "呵呵呵……莉维雅……我跟你说啊……那真是一场精彩的战斗……多棒啊！"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "塔莎",
+            "content": "实在是……非常宝贵的战斗数据……如果能够……分析……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "别说了，别再出声了，塔莎！"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "都这种时候了，别再说什么数据了……"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "塔莎",
+            "content": "莉维雅……"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "塔莎",
+            "content": "这是我第一次战败……在这之前，我从未考虑过，“强大”的意义是什么，我们在为了什么而变得强大……"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "塔莎",
+            "content": "你还记得我说过的话吗？朝闻道，夕死可矣……\n你一定能理解这是什么意思吧？"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……我……明白……"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "塔莎",
+            "content": "莉维雅……对不起……我实在太累了……"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "塔莎",
+            "content": "你知道吗？玛拉立起隔离墙的时候……我其实……心里有一点轻松……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "塔莎",
+            "content": "因为……只要我们不能相见……你就不会看到，我那变成怪物一般的模样……"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "塔莎",
+            "content": "拜托了……不要重置我……不要让我再次进入杀戮的循环……\n我已经满足了……也受够了……也实现了那个梦想了……"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "",
+            "content": "塔莎的身体逐渐化作数据碎片，一点一点，顺着破败的地面流逝而去。\n最后，只剩下她一直紧紧握在手中的那把手枪，落在地面，发出“哐当”一声。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "塔莎……<color=red>塔莎</color>……"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "",
+            "content": "莉维雅无助地伏在残垣断壁之间，努力把手从缝隙伸出，握住那把还留有余温的手枪。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {},
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "呜……只靠艾吉斯要支撑不住了……"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "如果这就是你们所谓的“战术”，那不过是在引我发笑罢了！"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "bravo",
+            "content": "安冬妮娜！你能截断她的算量补给吗？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我一直在尝试！但是很难，来源似乎是逆巴比伦塔，就是那个“信”也提过的，净化者的老巢……"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "那些数据的编排方式太复杂了，我需要很多时间……"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "是吗？可惜你们没剩下多少时间了呢。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "蓄力准备——裁断圣……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "呃！？"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "",
+            "content": "渡鸦正准备投下长枪，突然，她的身后发生了爆炸，打断了她的操作。\n她惊愕地往下看去。只见那些刚才为止还在互相残杀的战斗型智能体，都不约而同地停止了手中的动作，抬头看向这里。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "",
+            "content": "她们的脸上已经没有了刚才的疯狂，取而代之的是一种呆滞、茫然的神色。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "这是……"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "智能体全都停下来了？"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不，不止是停下来了。她们似乎还试图攻击渡鸦……"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "？？？",
+            "content": "停手吧，渡鸦。现在立刻离开基洛普斯扇区，否则我们可就不客气了。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你……你是？"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "【身份确认：基洛普斯扇区管理员，莉维雅。】\n唔，你的权限，果然……"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这个人就是莉维雅？确实长得很像……"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "看见塔莎掉下来的时候我还吓了一跳。我本以为死的那个会是你，没想到那个不讨人喜欢的塔莎竟然会输。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "不过其实不管死的是哪个都一样，反正我都会把这一切重置。比起那个，为什么你胆敢攻击我？"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "",
+            "content": "渡鸦用凌厉的目光审视着莉维雅。然而，莉维雅毫不畏惧地反瞪向她。她的眼中燃烧着强烈而慑人的决心，仿佛她才是那个经历过战场多年洗礼的管理员。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "正因为你要重置一切，我才会攻击你。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "说什么我也不会让你把塔莎重新送入这个循环的，因为那是她最后托付给我的愿望……"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "至少这个愿望，我一定会让它实现！"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "无聊。你现在的行为，已经与邪灵等同了。大不了，我就把你们都一起制裁了！"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "哦？是吗？战斗是战斗型智能体的“使命”……你们不是这样说的吗？"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我只是在让他们履行“使命”而已，这有什么不对的吗？"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "毕竟……像你这样的个体，战斗数据一定很宝贵！"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "",
+            "content": "莉维雅一挥手，成千上万的战斗型智能体，一齐将炮口对准了渡鸦。\n在空旷的半空中，渡鸦完全无处可以躲闪。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "现在，你才是被盯上的飞虫了。想攻击的话就尽管来吧，如果你不怕降权处罚的话！"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "有趣……真有趣……你们这些虫豸！"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "大额算量调取请求发动！我——"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "……怎么会？算量调取的控制……偏偏在这种时候！？"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "FIRE——！"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "呃！！！！"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "",
+            "content": "渡鸦的身体迸发出耀眼的紫光，随即被无数的炮火击中。\n在震耳欲聋的轰鸣声中，她的身体被炸得面目全非，失去了支撑身体的力量，垂直坠向大地。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "成功了！"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不，等一下……还不能大意！我还能感觉到异常的算量调取！"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "估计那个白痴净化者一口气发送了太多请求，导致算量传输失控了……"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "但是现在还有算量在源源不断地输送给她！只不过，形式好像有点不一样……"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "",
+            "content": "我们保持着警戒动作，缓缓接近渡鸦坠落的地方。那里只剩下一片被炸毁的废墟。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "看吧，我就说，受了那种程度的伤，不可能还能活下来……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "",
+            "content": "“咔啦——”"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "",
+            "content": "忽然，废墟之中传来了石块被翻动的声音。伴随着机械的断裂声和石块的碎裂声，无形的恐惧几乎在一瞬间扼住了我们的喉咙。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "？？？"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "？？？",
+            "content": "上位居然沦落到这个地步，真是狼狈啊。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "怎么会……这样也能活？"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不对劲！她的样子变了！"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "来吧，客人们。让我看看你们的手段。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "说，说话方式也变了！简直就像《武装机兵》里的……"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "别说什么机兵了！这根本不是渡鸦！我检测到了——"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "不敢动手吗？那可就没有机会了。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "小心，各位！"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "",
+            "content": "渡鸦动了动手指，空气中似乎有什么东西开始重组了。不一会儿，本已被摧毁的双枪再度回到了她的手中。随着长枪的挥动，一股气浪以她为中心扩散开来。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "呃——！这是，好庞大的算量……"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜！你说你检测到了什么？"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……有大量来源不明的数据输入，她的心智系统被什么人接管了！我可以想办法反定位……"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "",
+            "content": "“渡鸦”轻笑一声，胸口忽然发出刺目的光芒，一瞬间笼罩了她的周身。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "呜……！"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "危险，快断开连接！"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜立刻关上移动终端，随即像是失去了支撑似地坐到地上，呆呆地看着前方。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "真幸运，再晚一步你就要被烧毁了。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "你的技术……很有意思。直接读取别人的心智数据，这种做法让我想起了一些“老朋友”……"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "不过，用这种手段套取情报可不礼貌。要想增进对彼此的了解，还是得先学会互相尊重，不是吗？"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不管这家伙是谁，现在的情况都很不妙。"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "刚才的战斗已经很吃力了，现在这个“渡鸦”看上去还要更棘手……"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不，虽然只接入了一瞬间，但我已经可以确定了。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "她现在是在强行调用算量，身体撑不了太久的。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "bravo",
+            "content": "（撑不了太久……）"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "bravo",
+            "content": "（这个人看上去和普通的净化者不大一样，似乎还有对话的余地。既然这样，不如先试着拖延一些时间……）"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "",
+            "content": "我看向帕斯卡，她心领神会地点了点头。"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这位小姐，我们为刚才的失礼行为道歉。\n既然您说要互相尊重，那不如我们好好聊聊，怎么样？"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "你是谁？;你有什么目的？"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 991,
+            "option2": 96,
+            "finalAct": 98
+        },
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "别那么紧张，我只是对你们很感兴趣。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "你们能走到哪一步？你们又会做出怎样的选择？"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "怎么样，问够了吗？"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "那么，你们又能为我解答多少呢？"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "",
+            "content": "“渡鸦”突然转向我所在的位置。我感到彷佛有一道凌厉的视线穿透面罩，朝这里刺来。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不好！保护教授——"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "",
+            "content": "察觉到杀意，克罗琦立刻架起艾吉斯盾牌，然而……"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {},
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "！？"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "",
+            "content": "先前，我们尚且还能观察到“渡鸦”的行动方式；但这一次，却没有一个人能看见，她是如何在一瞬间击中了克罗琦的盾牌。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "她的行动模式也变了！"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "而且这个威力……呜……"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "",
+            "content": "尽管艾吉斯还没有被击穿，但地面上已经被砸出一个大坑。克罗琦半跪在坑里，身体剧烈地颤抖着。"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "我很好奇……如果有一天，你发现自己正被困在一个由自己亲手建起的牢笼里……无论怎样挣扎，也找不到出口……"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {},
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "这时，你会做出什么样的选择呢？"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "“教授”？"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "bravo",
+            "content": "克罗琦，后撤！安冬妮娜到右边去！帕斯卡援护克罗琦！先和目标拉开距离！"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "bravo",
+            "content": "莉维雅！你的人还能帮忙吗？"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "没问题！我们来提供火力支援！"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "bravo",
+            "content": "嗯！交给你了！"
+        },
+        "prop": "name",
+        "nextId": 117
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "bravo",
+            "content": "一定不能在这里输给这个家伙！"
+        },
+        "prop": "name",
+        "nextId": 118
+    },
+    "node992": {
+        "id": "node992",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "我也很想知道，我是谁。"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node991": {
+        "id": "node991",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "呵呵，我是谁？真有意思。"
+        },
+        "prop": "name",
+        "nextId": 992
+    }
+}

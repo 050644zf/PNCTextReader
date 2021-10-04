@@ -1,0 +1,678 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "事件结束后，绿洲。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "（开门声）"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "帕斯卡，我来报告例行维护的结果……"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "帕斯卡？"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "唔……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜慢慢走到帕斯卡身后，将手指伸向她的脸颊。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "戳。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "咿呀？！"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安……安冬妮娜！吓我一大跳……"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我可是叫你好几次了啊。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "欸，是吗？不好意思……我在整理我的记忆数据……"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "唉。从恩格玛扇区回来之后，已经有好几次见到你这样了。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "是发生了什么事情吗？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "没什么……都是我自己个人的问题……"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "让我猜猜。你该不会是在那个算量黑洞里看到了什么吧？"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……你怎么……"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "毕竟你和我们分开的时间也就只有那一段了。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "如果是在我们赶到之前，你和教授遇到了什么事情的话，<TA>应该不会让你一个人在这里暗自发愁。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "虽然是个来历不明的家伙……但现在我也得承认，那家伙还是很靠谱的。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜……"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "所以呢？到底发生了什么？"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……抱歉，我不能说。因为我自己也搞不清楚那到底是怎么回事。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "搞不清楚？"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯。我好像看到了一些不属于我的记忆。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不……也有可能是“现在”不属于我的记忆。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "意思是它们“曾经”属于你了？"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……我不知道。我真的不能下定论。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你也知道，我们不像人类那样能对自己的记忆抱以绝对的自信……人形的记忆是可以被删改的东西。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但记忆又是我们存在的证明。如果这个证明产生了动摇的话……"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……我不知道该怎么办。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "对了，安冬妮娜，你能帮我检查一下吗？"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "检查？"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "对。帮忙看看我的记忆模块吧。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "人工智能可不是我的专长，帕斯卡。那是你的领域。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我也想自己检查，但是医者不能自医。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "拜托了，至少记忆有没有经过删改，这种程度你还是可以查出来的吧？"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我必须确认这件事。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……我明白了。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "到那边躺好吧，神经分析仪借我一下。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "谢谢你，安冬妮娜！"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……不过我得事先说好。就算检查出什么异常，你也不要太过惊讶。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "毕竟，人类对人形的记忆进行修改，本来就是随处可见的事情。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "恐怕在他们眼里，我们也没什么特殊的。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜……"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {},
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "可以了。坐起来吧，帕斯卡。检查已经完成了。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "谢谢。结果怎么样？"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "确实有一段被人为删除过的记录，时间大概是在“心智云图”计划开始之前。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "如果我没记错的话，那段时间你应该还在那位教授的研究室里吧？"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……是的。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但伊莉塔教授……她怎么会……"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "怎么会删除你的记忆，你想这样说吗？"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "老实说，我一点儿也不觉得意外。我刚才就说过了，人类修改人形的记忆是随处可见的事情。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "即使是曾经和你朝夕相处过的那位教授，也会在必要的情况下“牺牲”你的记忆吧。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但……我不认为她会……"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我不是在打击你，帕斯卡。我只是在提醒你。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "过去的那位教授，还有现在的教授，都是和我们不同的人类。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我们终究是不一样的。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {},
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……我先走了。你稍微歇会儿吧，帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "例行检查的报告我放在桌上了，记得之后看一下。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯。谢谢，安冬妮娜。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {},
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "伊莉塔",
+            "content": "呵呵，你真的和帕斯卡博士很不一样呢。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "啊，对不起。我会注意的。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "伊莉塔",
+            "content": "我没有责怪你的意思啦。虽然你和帕斯卡博士的外貌一样，但你有自己的个性，我觉得这是一件好事哦。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是这样吗？但你们将我制造出来，不就是希望我能像帕斯卡博士一样优秀……"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "伊莉塔",
+            "content": "不用像谁一样，你就是你自己哦。你对所有人来说都是独一无二的。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {},
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "伊莉塔教授……"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "把我们推向这里的，究竟是谁呢……"
+        },
+        "prop": "name",
+        "nextId": 78
+    }
+}

@@ -1,0 +1,530 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {},
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "bravo",
+            "content": "——因为我相信帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "锋利的箭簇从我的衣摆间飞速掠过。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "信使",
+            "content": "唉……还真是无聊的回答呢。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "",
+            "content": "得益于算量黑洞对信使产生的影响，我得以与之周旋了几分钟。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "",
+            "content": "也许是对方有意放水，每一次的堪堪躲闪，都让我觉得不会再有下一次。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "信使",
+            "content": "明明毫无胜算，却半步不退。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "信使",
+            "content": "因为虚无缥缈的“相信”而送命，真不知道该说“可悲”还是“可惜”呢。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "",
+            "content": "为了帕斯卡，我不会退缩。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "信使",
+            "content": "本以为你有什么有趣的内容想说，结果就是个脑子不太清醒的异常智能体罢了。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "",
+            "content": "而且争取来的这几分钟，也将成为新的希望——"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "信使",
+            "content": "告诉你一件好事吧，我接到的指令是处理算量黑洞。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "信使",
+            "content": "如果你留着力气尽全力逃走的话，我可以稍后再对付你。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "",
+            "content": "虽然嘴上这么说，信使却还是重新搭弓，把箭头对准了我。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2",
+                "option3"
+            ],
+            "options": "那倒也不必。;我的话还没说完呢。;……"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 16,
+            "option2": 16,
+            "option3": 16
+        },
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "信使",
+            "content": "死到临头，倒是有几分胆识嘛。姐姐有点欣赏你了。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "bravo",
+            "content": "因为除了相信帕斯卡——"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "信使",
+            "content": "什么？"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "——我也相信流亡者！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 20
+        },
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "？？？",
+            "content": "<size=48>——FIRE！！</size>"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "",
+            "content": "不知从何处而来的炮火从数个方向射向信使。信使下意识地与我拉开距离，展开屏障抵挡。一时之间烟尘四起。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "信使",
+            "content": "？！"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "？？？",
+            "content": "克罗琦……你这样会误伤教授的。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "诶，毕竟是千钧一发嘛，难免难免。这时候要求就别这么高啦，安娜。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "重伤之后搬回去多麻烦啊——或者干脆瞄准教授的头，这样也就根本不用搬回去了。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "苏尔",
+            "content": "安娜有时候的发言好可怕啊……"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "那是因为教授又把自己和帕斯卡置于这么危险的境地。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "要不是我们来了，说不定这回真的再也见不到了哦。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2",
+                "option3"
+            ],
+            "options": "你们太慢了吧！;据说“可能会再也见不到”是很吉利的话。\n要好过“回老家结婚”哦。;……"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 30,
+            "option2": 30,
+            "option3": 30
+        },
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "苏尔",
+            "content": "咳咳，总之！"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "苏尔",
+            "content": "教授，流亡者小队，加入战斗！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "啊！这是我想说的台词！"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦的机兵之上挤着的数个人形依次跃下。安冬妮娜走到我面前，简单地为我查看了一下情况。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "没受什么伤啊……真遗憾。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "将诺依曼的求救信息原封不动地发回来作为求救，亏你想得出来。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "bravo",
+            "content": "毕竟被上位净化者盯着不方便传输信息嘛。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "bravo",
+            "content": "能利用定期通讯自动发送信息，已经是我能做到的极限了。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "所以教授，指令！"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "保护算量黑洞，为帕斯卡争取时间！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 40
+        },
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "虽然还有很多想问的……不过……收到！先解决眼前的上位净化者吧。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "",
+            "content": "烟尘散去，信使身周没有丝毫战损的痕迹，在高空之中自上而下俯视着我们。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "信使",
+            "content": "哈哈，原来刚才都是为了拖延时间等援兵吗？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "信使",
+            "content": "而且这么近距离的攻击我居然没发现……"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "可不是嘛，算量黑洞几乎让所有侦测手段都失效了。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "教授肯定是利用这一点，才让你没发现艾吉斯号机兵接近的！"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "信使",
+            "content": "哈哈哈哈，看来你也并不是有勇无谋嘛。姐姐这下有点喜欢你了哦，教授？"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "苏尔",
+            "content": "<size=28>诶？</size>"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "嘴上这么说，但好像你很生气嘛。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "笑着的Boss都很可怕。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "信使",
+            "content": "既然你们打算集体作战，看来我也得叫一些援兵了。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "",
+            "content": "信使拍了拍手，成群的下位净化者从四周向我们聚集而来。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "苏尔",
+            "content": "哦哦哦！这样才有意思嘛！"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你该不会是让我们来陪葬的吧，教授？"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2",
+                "option3"
+            ],
+            "options": "当然不是。;就算真的是陪葬，你们也会来的吧。;你觉得呢？"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 55,
+            "option2": 55,
+            "option3": 55
+        },
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "那么，接下来就看你的指挥了！"
+        },
+        "prop": "name",
+        "nextId": 56
+    }
+}

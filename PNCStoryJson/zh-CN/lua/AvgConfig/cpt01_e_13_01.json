@@ -1,0 +1,1151 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {},
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "理子",
+            "content": "诶？！！！"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "理子",
+            "content": "当时整个罗萨姆都在警告管理员异常，我可是被吓了一大跳！"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "理子",
+            "content": "没想到……发生了那么大的事啊！"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯……"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不过现在【隐藏装置】已经设置好了。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "罗萨姆也会开启沙盒模式，虽然不再受净化者管辖，但我们也会保证它扇区的安全。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "现在是时候折返了。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "理子",
+            "content": "等等，折返？你们还欠着理子好多好多底格币呢！"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这家伙果然是在担心报酬吗！"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "理子",
+            "content": "做生意讲究的就是诚信，你懂不懂啊！"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "苏尔",
+            "content": "哈？你的意思是我们不讲诚信？！我们可没说要赖账！"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "理子",
+            "content": "那你倒是付钱呀！"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我我我……我们的底格币都在绿洲！"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "理子",
+            "content": "那我就和你们一起去取！"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "苏尔",
+            "content": "喂，你认真的吗？！"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "理子",
+            "content": "当然，如果你们拿不出那么多钱，理子还贴心地准备了另外一个选项哦！"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "理子",
+            "content": "之后的旅途，不如带上理子一起吧？之前的钱都可以一笔勾销！"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……你要和我们一起走？"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "理子",
+            "content": "喂喂，别小看理子哦。我搜索富余资源的能力可强了！在情报方面也绝对能派上用场！"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你这家伙……不会是要把我们的情报卖给净化者吧？"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "理子",
+            "content": "理子才不会做这么没有职业道德的事情呢！"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "理子",
+            "content": "我是看中了你们的潜力！放长线，钓大鱼，哼哼，不愧是理子。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "理子",
+            "content": "而且……理子也想知道外面的事情！"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "呵呵，原来如此。教授，你怎么想呢？"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "我们确实需要一个了解麦戈拉情况的人。;虽然但是，理子开出的价格太贵了。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 27,
+            "option2": 36
+        },
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，我也这么觉得呢。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那么，理子小姐，以后就请多指教啦。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "理子",
+            "content": "哼哼，理子绝对不会让你们后悔哒！"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "理子小姐，为了表示合作的诚意，价格方面是不是应该……"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "苏尔",
+            "content": "<size=24>没想到帕斯卡还有这样的一面……</size>"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "理子",
+            "content": "价格方面当然都好商量啦！"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你可要说到做到！"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "理子",
+            "content": "嘿嘿，理子向来言而有信。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "理子",
+            "content": "<size=24>但是，我可没说要朝对谁有利的方向商量哦。</size>"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "苏尔",
+            "content": "对呀对呀，对可怜的流亡者狮子大开口，这就是纯粹的奸商行为！"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "理子小姐，你也看到啦。虽然我很有合作的想法，但这个情况……"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不过，要是你能下调一些价格……"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "理子",
+            "content": "唔唔唔……真是的！理子知道了啦！"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "理子",
+            "content": "以后理子给你们的价格都会是超级友情价！"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "苏尔",
+            "content": "嘿嘿，帕斯卡，教授，干得漂亮！"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "理子",
+            "content": "<size=24>至于超级友情价是比普通价格便宜1000底格币，还是1底格币，就说不准了哦……</size>"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "理子",
+            "content": "话说回来……这么一看，你们似乎增加了一个新同伴呀？"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你好呀，我是42Lab最——棒的网络安全工程师，安冬妮娜！"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呃啊，又来了，这个肉麻的营业语气……呜哇，别踩我，安娜！"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "哈哈……对于42Lab首席网络安全专家来说，或许营业模式也是必要的呢……"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "苏尔",
+            "content": "唔……还是觉得好奇怪，没法适应这样的安娜啊！"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "是安冬妮娜。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "啊，话说回来，这不是教授吗！"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我们之前也共事过呢，只是没有那么熟悉。这次能有机会加深了解真是太好了呢！"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "苏尔",
+            "content": "安娜，你想就这样装作现在才见面也是没用的……呜哇，都说了别踩我啊！"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "实不相瞒，我一直有一个问题想请教教授呢！"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我想你应该不会拒绝吧……那么。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜脸上的笑意骤然消失，取而代之的是冰冷的视线。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你到底，是谁呢？"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜……？"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "还请不要打断我，帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "从你们刚进入罗萨姆的时候，我就已经在观察你了。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这也是为什么，即使伪装成了智，我也始终没有将自己的身份告知你们。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你的身份——是假的吧？"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "苏尔",
+            "content": "诶……安娜在说什么……"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "苏尔，帕斯卡，你们可别被骗了。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "虽然云端的外表完全靠心智投影，说明不了什么……"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "虽然这位“教授”的身份标识特征码和权限，都和真正的教授一样——"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "但你根本不是她吧？"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "我是代替她来的。;我真的就是教授。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 67,
+            "option2": 73
+        },
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "呵，你的身份果然是伪造的。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "我",
+            "content": "但我的目的和你们的那位教授一样，只是想把你们都救出去。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "抱歉，我不可能信任一个连自己身份都不愿意表露的人。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "如果你的目的光明正大，为什么不告诉我们你是谁？"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "我",
+            "content": "我有一些不得已的原因。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不得已？如果你对我们也不信任，我们为什么要信任你？"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你还要狡辩吗？"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "帕斯卡和苏尔多少也意识到了吧？"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "在指挥战斗的时候，你表现出了超乎常人的冷静和判断力，根本不是那个偶尔有些脱线的教授所表现的样子。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这倒确实……"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "虽然苏尔你嘴上不承认，实际上也对教授的身份抱有怀疑，不是吗？"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我……"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜！"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "帕斯卡……"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，不论你到底是谁……"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我相信你。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "帕斯卡，你为什么……"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你听我说，安冬妮娜。"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我感觉得到，教授对我们真切的关心。"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "当我从心智茧房中苏醒过来之后，发现时间已经过去五年了……"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这五年里发生了什么我无从得知。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "醒来以后，我试图寻找云图的人形伙伴们，但无论我多么努力都是徒劳。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "净化者的实力远高于我，缺少算力的我几度无法支撑。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我以为……我以为我们就会这样在云端流亡，然后死去，没有任何人会记得我们的名字……"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但在我最绝望的时候，是教授……"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是您把我从深渊中拉了出来。"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是教授重聚了流离失所的人形们，也是教授建立起“绿洲”，告诉我们这里就是“流亡者”们的新家。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "时至今日，您始终和我们站在一起，从未后退过哪怕半步。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "可即便是这样，你口中的“教授”还是欺骗了你，不是吗？"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不，正是因为我信任“教授”，我才相信这并不是欺骗。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "也许您是需要真正的教授的权限来将我们带离云端……"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "也许，在现实世界里，您也需要隐瞒自己的身份，逃避耳目。"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我曾经不是没有像安冬妮娜这样想过……可是……"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们有什么权利来苛责您呢……"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "倘若您不在我们身边，一切只会更加糟糕。也许此时此刻，我的心智数据也已经消散。"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "因此……"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我接受来自您的指挥权。我接受您下达的任何命令。"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "帕斯卡……这……"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "苏尔",
+            "content": "安娜……"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "苏尔",
+            "content": "虽然这么说很抱歉，但是，我也和帕斯卡一样。"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你们……"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "苏尔",
+            "content": "教授，不论你的真实身份究竟是谁，我都会这样称呼你的！"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我也真心地希望我们仍然能够一同战斗，一起找到所有的人形，一起离开麦戈拉回到现实！"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "苏尔",
+            "content": "嘿嘿。"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "",
+            "content": "苏尔像是为了安慰我一般，拍了拍我的肩膀，露出了冬日的阳光般温暖的笑容。"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜，和我们一起回绿洲吧。"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们需要你，你也需要我们。"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果你相信我，也请你相信教授。"
+        },
+        "prop": "name",
+        "nextId": 117
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "嘁……"
+        },
+        "prop": "name",
+        "nextId": 118
+    },
+    "node118": {
+        "id": "node118",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……好吧，但是我话说在前面。"
+        },
+        "prop": "name",
+        "nextId": 119
+    },
+    "node119": {
+        "id": "node119",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "教授，我是为了苏尔和帕斯卡才加入你们，所以我不会接受你的指挥，只会根据帕斯卡的指令行动。"
+        },
+        "prop": "name",
+        "nextId": 120
+    },
+    "node120": {
+        "id": "node120",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "而且，一旦我判断教授失格就会立刻脱离流亡者。"
+        },
+        "prop": "name",
+        "nextId": 121
+    },
+    "node121": {
+        "id": "node121",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这个条件，你能接受吗？"
+        },
+        "prop": "name",
+        "nextId": 122
+    },
+    "node122": {
+        "id": "node122",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "嗯，没问题。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 123
+        },
+        "nextId": 123
+    },
+    "node123": {
+        "id": "node123",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 124
+    },
+    "node124": {
+        "id": "node124",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "那么……<color=orange>H-01，安冬妮娜报到，请多关照。</color>"
+        },
+        "prop": "name",
+        "nextId": 125
+    },
+    "node125": {
+        "id": "node125",
+        "attributes": {
+            "name": "苏尔",
+            "content": "太好了安娜！"
+        },
+        "prop": "name",
+        "nextId": 126
+    },
+    "node126": {
+        "id": "node126",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "是安冬妮娜。"
+        },
+        "prop": "name",
+        "nextId": 127
+    }
+}

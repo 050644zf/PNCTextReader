@@ -1,0 +1,1119 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "过去，某组织基地。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "男人的声音",
+            "content": "可以，今天的行动也很顺利。归队吧，Gaul。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "席摩",
+            "content": "是。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "席摩",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "席摩",
+            "content": "为什么他说“也”……？明明只是第一次行动……"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "席摩",
+            "content": "难道说我的记忆被重置过了吗？是因为我在上次行动中失败了，素体报废了吗？\n可是他又说这次行动“也很顺利”……这也说不通……"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "席摩",
+            "content": "唔！抱歉，我不是有意的……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "",
+            "content": "席摩不小心撞到了一个路边的男人，连忙致歉。\n奇怪的是，男人看到席摩，立刻流露出惊恐与厌恶的神色。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "路人",
+            "content": "……怪物。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "席摩",
+            "content": "欸？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "路人",
+            "content": "别靠近我！"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "",
+            "content": "说罢，男人便快步逃开了。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "席摩",
+            "content": "……难道以前的我那么不受欢迎吗？那人看上去是附近的难民。可我们组织应该不会对难民做什么的……应该……"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "",
+            "content": "席摩不敢再多想，快步回到自己的住处。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "席摩",
+            "content": "呼……总算回来了。虽然也没什么“回来”的实感啦，毕竟才刚搬进来没多久……哈哈……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "席摩",
+            "content": "不过从物件的磨损程度来看，确实已经有人住过一段时间了。看来我果然是被重置过了吧。\n……算了，没必要考虑这么多。组织也特意为我安排了住处，我也该知足了。\n这么大的房间，感觉住两个人都不成问题呢。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "席摩",
+            "content": "挂在墙上的这把步枪，摸起来也很怀念呢……\n……？等一下，怀念？\n不对，我的武器应该是弩……"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "席摩",
+            "content": "但是这种感觉……为什么……？\n为什么总觉得摸起来这么熟悉……\n它的纹路和我的素体，似乎曾经贴合过许多次……"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "",
+            "content": "席摩把枪身翻过来，突然看见了枪管上凝结成暗红色的斑块。\n刹那间，一些难以名状的数据碎片，冲上了席摩的心智核心。\n突如其来的心智紊乱，令他头痛欲裂。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "席摩",
+            "content": "唔……啊……怎么回事……"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "",
+            "content": "那天晚上，席摩的心智系统久久无法冷却。\n如梦魇般的恍惚之中，他好像看见了许多不属于自己的回忆。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "",
+            "content": "在战场上，他一个接一个地将敌人射杀。\n硝烟。炮火。残肢。无数的敌人倒下，无数的战友倒下。他们流出的鲜血汇成深渊，逐渐将席摩吞没。淌在血渊里的双腿，每走一步，就有一股钻心般的疼痛袭来。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "",
+            "content": "到最后，他的身边一个人也没有了。他朝着自己在血水里的倒影，举起了弩，但扳机却怎么也扣不动……"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "席摩",
+            "content": "杀……命令……我……我不能再杀…&￥#！"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "男人的声音",
+            "content": "继续前进，Gaul！这是命令！"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "席摩",
+            "content": "我……已经……临界*&￥#！！￥——"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "男人的声音",
+            "content": "你不能停下，Gaul！难道你想向敌人拱手投降吗？"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "席摩",
+            "content": "敌*&#人……对，敌人……！\n还有&^\"\"%敌人，很多的敌人，这里也有，那里也有……他们从前面冲上来……从后面冒出来……\n他们把子弹#*￥射进我们的人的脑袋，就在@#￥我眼前……！"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "席摩",
+            "content": "他们以为那些脑浆会糊住我的眼睛，可惜并没有，我能看得清清楚楚，从熏黑的额头到发脓的脖颈，他们的弱点暴露得一干二净……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "席摩",
+            "content": "所以，我就用箭射穿他们的头，就像他们对我们做的那样……我得以牙还牙，我得为那些人的死负责，我*&￥#！！￥——！"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "男人的声音",
+            "content": "说得好，Gaul！就该是这样！赴死之人没有退路！在此战死就是我们的荣誉！\n来，拿起你的武器。然后，不要用你的枪杀人，用你的心杀人！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "席摩",
+            "content": "我……唔……@#￥！&——*&￥#！！￥——噼啪*&￥#！！￥——"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "席摩",
+            "content": "【心智重置进行中……】\n【临界值重置程序，启动……】"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "席摩",
+            "content": "……！！\n不——不要……"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "席摩",
+            "content": "唔！这，这里是……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "麦戈拉云端，云图扇区的实验室。你还好吗，席摩？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "看上去战争给你带来的损伤还没有那么容易磨平……你今天的实验数据也不太稳定。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "席摩",
+            "content": "唔，对不起，我这就……"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "没事，席摩，别急着站起来。我不是在责备你。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这里不是战场，席摩。你不需要为谁负责，也没有什么必须执行的任务。我们有很多的时间可以慢慢来。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "席摩",
+            "content": "我……"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "还记得我们之前对你说的话吗？我们不会逼迫你，我们只会等待你自己做出选择。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "回味过去也好，和我们一起开拓未来也好……无论如何，那都是你自己的选择。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "席摩",
+            "content": "……嗯，我明白了。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "席摩",
+            "content": "谢谢你，帕——"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "席摩",
+            "content": "！！"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "席摩",
+            "content": "……帕斯卡，教授……"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "席摩",
+            "content": "刚才看到的……又是冗余数据吗？在这种关键时刻……安冬妮娜说得对，我确实应该让帕斯卡帮我检查一下了……"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "席摩",
+            "content": "不，也可能是因为刚才打了太多净化者，那个程序又要起作用了吧。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "席摩",
+            "content": "真是的，我在干什么呢……明明已经到这种时候了。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "席摩",
+            "content": "基洛普斯扇区已经陷入了战争……而且，是我亲手推动的。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "席摩",
+            "content": "是我操控那把长枪砸向了隔离墙，甚至不惜把教授的安危作为赌注……"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "席摩",
+            "content": "然后，这就是我所换来的……"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "监管型智能体",
+            "content": "呜……为什么……为什么会这样……"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "",
+            "content": "轰！！"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "监管型智能体",
+            "content": "！！\n别过来！"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "战斗型智能体",
+            "content": "找到&*你了%￥……"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "监管型智能体",
+            "content": "求你了，停手吧！我们明明是同类……"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "战斗型智能体",
+            "content": "【目标已&#￥锁定，瞄准……】"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "",
+            "content": "砰！砰！"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "监管型智能体",
+            "content": "呜……呃……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "战斗型智能体",
+            "content": "【确认&#￥%目标已歼灭。战斗&#反馈+1……】"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "战斗型智能体",
+            "content": "【寻找&*#@下一个目标……】"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "",
+            "content": "砰！"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "战斗型智能体",
+            "content": "【未知……攻击……】\n【机体……受&*……%￥损……】"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "战斗型智能体",
+            "content": "【确认目标已歼灭。战斗反馈+1。】"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "战斗型智能体",
+            "content": "【寻找%&*下一个目标。】"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "席摩",
+            "content": "……连同伴都不放过，完全杀红眼了。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "席摩",
+            "content": "以前的我在其他人眼中，也是这副模样吧。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "席摩",
+            "content": "放任不管的话，整个扇区很快就会毁灭吧。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "萨可",
+            "content": "吱——"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "席摩",
+            "content": "别担心，萨可。我会解决这一切的。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "席摩",
+            "content": "哪怕是为了教授和流亡者们……哪怕是为了我自己。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "席摩",
+            "content": "以前的我，只能在人类的命令下进行杀戮。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "",
+            "content": "“咔哒”。弩箭上弦。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "席摩",
+            "content": "但这一次，是我自己的决定。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {},
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "",
+            "content": "席摩离开后不久，在与渡鸦一番没什么进展的死斗之后……"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唔……！"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "渡鸦的动作越来越快了！不过，我的狄拉克也不会输！"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<size=48>FIRE——</size>"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "咕……好险！"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "真是只可恶的蟑螂……要是在平时，我早就掀开你的壳了！"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "哼，都这么狼狈了还嘴硬！"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不要大意，克罗琦！我能检测到她依然在朝受损的隔离墙分配算量，这恐怕还不是她的全力！"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "为什么做到这份上也不肯放弃隔离墙？那面墙到底是为了什么而立的……"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "啧……你们连这都不知道，就动手把它拆了吗？"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "",
+            "content": "渡鸦突然单手发力，将狄拉克一把推开。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "你们对基洛普斯扇区根本一无所知！这里可是我的管辖区，我为这里付出了不知道多少心血……"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "而现在，就因为你们这群虫子，它又变回了这个样子！"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "变回这样？说的好像你是为了阻止杀戮才建的墙一样！"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "正是如此！"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "本来，监管型和战斗型之间就没有什么杀戮。战斗型打架，监管型控制打架的程度。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "虽然我不喜欢这种温吞的战斗，但既然维护扇区秩序是我的“使命”，我也是会好好贯彻的。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "可是不知道哪一天，那帮战斗型智能体突然失控了，监管型智能体控制不住她们了！"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "怎么可能？在没有外力干涉的情况下，智能体的能力不可能突然进化，这违背了常理！"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "哼，谁知道会不会又是你们邪灵搞的鬼呢！"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "等我察觉到的时候，监管型已经被杀了一堆了。为了维持秩序，我才想出这个办法。立一堵墙，把两种智能体分隔开来。"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "喜欢打架的家伙就去墙里头打就行了，哼哼哼，到现在我还是觉得，这真是个妙招啊！就连那个总是嘲讽我的圣餐，也挑不出这个办法的毛病！"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "可是，那些失控的战斗型智能体怎么办？就这样放任她们自我毁灭吗？"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "毁灭？真是奇怪的说法。死亡的智能体可以被重置，难道邪灵连这种常识也没有吗？"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "重置之后，再把她们丢入杀戮的循环里？"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "这很正常。循环即是秩序的体现，这在麦戈拉随处可见。"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "开什么玩笑……你们这些死脑筋的净化者！"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "死脑筋吗？我们维护的可是整个麦戈拉的秩序。如果没有我的墙，基洛普斯扇区早就毁灭了！"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不，就是因为你的墙，基洛普斯扇区才会变成现在这副模样。"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "你说什么？"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你的墙根本不能从根本上解决问题。你只是想在你那可笑的“秩序”里维持现状。"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "正是因为你放任战斗型智能体在墙里无休止地厮杀，她们的战斗力才会成长到如今这个程度。即使没有我们，墙也有被她们撑破的一天。"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你根本就只是在虚假的“秩序”里自欺欺人罢了！会导致基洛普斯扇区毁灭的，不是我们，恰恰就是你们净化者！"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "你……放肆……！竟敢质疑净化者的……"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "咕啊……冷静……冷静……"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "邪灵……你们未经许可进入其他扇区，攻击净化者，破坏隔离墙，甚至妄图诋毁净化者神圣的权威……"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "你们带来的威胁……已经不容忽视了！"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "克罗琦，小心！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 117
+        },
+        "nextId": 117
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唔呃——！"
+        },
+        "prop": "name",
+        "nextId": 118
+    },
+    "node118": {
+        "id": "node118",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "竟敢迎着狄拉克的主炮撞过来？这净化者不要命了吗！"
+        },
+        "prop": "name",
+        "nextId": 119
+    },
+    "node119": {
+        "id": "node119",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "这才是我的战斗风格——我已经不打算对你们有所保留了。"
+        },
+        "prop": "name",
+        "nextId": 120
+    },
+    "node120": {
+        "id": "node120",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "感到荣幸吧，虫子们……这可是特等待遇！"
+        },
+        "prop": "name",
+        "nextId": 121
+    },
+    "node121": {
+        "id": "node121",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "从现在开始，我会将你们视为基洛普斯扇区的头号威胁——来排除！"
+        },
+        "prop": "name",
+        "nextId": 122
+    },
+    "node122": {
+        "id": "node122",
+        "attributes": {
+            "name": "",
+            "content": "面前的战斗已经进入了白热化，渡鸦已经将自己全部的算力投入了战斗之中。\n但是此刻，我所担忧的却不是这个和斗兽场的宿命轮回融为一体的凯撒。"
+        },
+        "prop": "name",
+        "nextId": 123
+    },
+    "node123": {
+        "id": "node123",
+        "attributes": {
+            "name": "bravo",
+            "content": "席摩……你，又会做什么呢……"
+        },
+        "prop": "name",
+        "nextId": 124
+    },
+    "node124": {
+        "id": "node124",
+        "attributes": {
+            "name": "bravo",
+            "content": "这个赴死之人……又会做什么呢……"
+        },
+        "prop": "name",
+        "nextId": 125
+    }
+}

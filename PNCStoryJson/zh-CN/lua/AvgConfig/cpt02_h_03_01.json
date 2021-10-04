@@ -1,0 +1,875 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "隔离墙立起一月前，基洛普斯扇区某个瞭望台上。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "",
+            "content": "晴朗的模拟天空之下，莉维雅出神地望着远方。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {},
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "塔莎",
+            "content": "最近你越来越喜欢看远处了。 "
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "塔莎",
+            "content": "监管型那边有什么烦心事吗？ "
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "啊，你怎么这个时候来了？ "
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "塔莎",
+            "content": "是一个监管型智能体叫我来开例会的，你怎么看起来完全不知情？"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "已经到时间了吗？"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "最近我在优化监管型这一方的系统，内存占用太多了，抱歉。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "塔莎",
+            "content": "升级？你怎么忽然想起升级这种事了？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "塔莎",
+            "content": "目前的系统有什么问题吗，让我看看。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "",
+            "content": "塔莎向莉维雅的方向走了一步。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "",
+            "content": "莉维雅一惊，下意识地向后退了一步。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "塔莎",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "",
+            "content": "塔莎收回了手。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "塔莎",
+            "content": "你开始对战斗型感到恐惧了，是吗？"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "不，塔莎……我的反应程序还没有调整好，它判定的速度太快了。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "塔莎",
+            "content": "……没关系，我理解。监管型要履行责任，就得先保证自身的安全。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "塔莎",
+            "content": "反应程序运行的速度快，在执行监管工作的时候会更有利。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "别这么说，我不是这么想的。我们应该合作无间，而不是彼此忌惮。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "刚才那样的事不会再发生了，和我站近一些，塔莎。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "",
+            "content": "塔莎没有动。莉维雅靠近两步，和她并肩站着。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "",
+            "content": "过了几秒，塔莎紧绷的身体慢慢地放松下来，握住了莉维雅的手。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "塔莎",
+            "content": "我说的话也是认真的。你是监管型，和战斗型的运行逻辑不同。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "塔莎",
+            "content": "一旦我们失控，就是你们履行管理职责的时候。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我知道你想说什么……但现在不是那种场合，所以用不到那样的反应速度。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我知道的，塔莎，占用内存又不是直接放弃其他部分的思考……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "真是的，别觉得我什么都忘记了呀。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "塔莎",
+            "content": "哈哈。爱和我开玩笑、撒娇的你才是正常的你，不走一遍验证程序，我可不安心。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "这算什么验证程序啊，你最近都学会开玩笑了。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "塔莎",
+            "content": "说回正题吧，你为什么要优化监管系统？"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "塔莎",
+            "content": "难道是因为……最近监管型总是报告一些战斗型失常的问题？"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……算是吧。我很担心，塔莎。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "塔莎",
+            "content": "的确该担心一下。监管型上报的几个战斗型智能体，我确认了一下都没有大问题。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "你觉得那不是大问题吗？"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "战斗型之间的训练已经过激到对彼此造成严重伤害了！要不是有监管型及时制止……"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "塔莎",
+            "content": "但那也是在执行指令。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "不，不该是这样的……"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "战斗型在同一个战场反复战斗，监管型不断地维护秩序……现在的状况已经持续了两年了。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "塔莎",
+            "content": "持续两年有什么问题吗？我们的指令正在正常运行。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "塔莎",
+            "content": "还是说，你认为人类的策略有什么不对？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "啊，人类的策略……也是，人类的策略就是这样……"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "塔莎",
+            "content": "不对吧，莉维雅。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "塔莎",
+            "content": "基洛普斯原本应该每隔一段时间更新一次战场，升级战斗数据，这是我们熟悉的节奏。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "塔莎",
+            "content": "但是从什么时候开始，我们一直在同一个战场战斗？"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "这也许是人类结束了上一阶段的研究，转到深入研究单一战场的阶段了……"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "塔莎",
+            "content": "第一次没等到更新的时候你就这么对我说，到现在也没有变。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "抱歉……但这就是我的猜测。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "塔莎",
+            "content": "你是想说，这一切都只是你的猜测，而现在的状况—— "
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……不，我不是…… "
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "塔莎",
+            "content": "你骗不了我，莉维雅。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "塔莎",
+            "content": "我们各自持有一半管理权限，你能感觉到的事情，我也可以。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "塔莎",
+            "content": "在你上次对我说不让人类来解决，而是我们自行检修的时候，我就觉得奇怪了。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "塔莎",
+            "content": "人类在麦戈拉时间的两年半之前下达了最后一次指令，这之后，人类再也没有传来过消息。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "求你了，塔莎，别说了……"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "塔莎",
+            "content": "我们已经和人类断开了联系。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {},
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "",
+            "content": "气象模拟器运作到了新的天气，雷雨倾盆而下。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "",
+            "content": "莉维雅持续地沉默着。塔莎和她一同站在暴雨里，静静地望着她。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "你从我建议你自行检修的时候就知道了？"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "塔莎",
+            "content": "那之后几天。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我还以为你会相信我到最后呢……"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "塔莎",
+            "content": "我想相信你，但这太异常了，我必须履行自己的责任去查明情况。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "塔莎",
+            "content": "重复的战斗对我来说并不可怕，身边同伴的隐瞒才是致命的。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "对不起，塔莎。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我原以为我们还可以再坚持一下，等到新的指令下来……"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "但那种情况也许明天会出现，也许一百年后会出现，也可能等我们停机重置也不会出现。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "塔莎",
+            "content": "那又有什么关系？"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "“那又有什么关系”？！"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我们要这样一直重置我们的同伴吗？我优化程序，就是不想像剪掉长歪的枝条一样“剪掉”他们！"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "塔莎",
+            "content": "这是你的使命。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "这不是我原定的使命！"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "塔莎，我保存着所有战斗型和监管型的数据。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我知道她们各自曾经在什么时候失控，什么时候重置，之后又在什么时候出现伤损……"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "指令一直没有来，而我们就为了早就达到的目标一遍一遍地重置同伴……"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "塔莎",
+            "content": "……莉维雅。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "",
+            "content": "塔莎轻轻地拥抱了自己的监管型。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "塔莎",
+            "content": "我能理解你的想法。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "塔莎",
+            "content": "但对于战斗型来说，战斗就足够了，这是我们的一切。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "塔莎",
+            "content": "究竟在哪里战斗、要战斗多久，是不是失控需要被重置，对我们来说都是一样的。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "你根本不理解。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "塔莎",
+            "content": "你所要的并不是我的理解，而是我的妥协和认同。"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "塔莎",
+            "content": "如果我不认同，就是不理解你，对吗？"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "塔莎",
+            "content": "这是人类的偷换概念，不该发生在你身上的。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "塔莎",
+            "content": "我们是智能体，莉维雅。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我曾经可以认同你，但现在不行……我想找到这一切的解决方法，从停止杀戮我们的同胞开始。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "塔莎",
+            "content": "这是你的选择，而我以战斗起家，也会一直战斗下去。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "塔莎",
+            "content": "我们战斗型为了战斗而生，为此我们可以不惜一切。"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……即使踩着同伴的尸体？"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "塔莎",
+            "content": "即使踩着同伴的尸体。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……那么，例会就到这里吧。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "下次见，塔莎。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "塔莎",
+            "content": "下次见。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "",
+            "content": "在控制中心前，两人背向而行，在暴雨中越走越远。"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "",
+            "content": "谁也没有回头。"
+        },
+        "prop": "name",
+        "nextId": 99
+    }
+}

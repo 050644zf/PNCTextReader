@@ -1,0 +1,451 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "赫里奥斯扇区。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "苏尔，我找了你好半天，你怎么在这里？ "
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "苏尔向帕斯卡做了一个噤声的手势。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡不明所以地停了话头，顺着苏尔的视线看过去。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "苏尔",
+            "content": "3，2，1……"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡本能地凝神静气，和苏尔一起等待。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "",
+            "content": "然而迎接她们的只有通常运转的机械音，机器人们从她们身边走过。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……苏尔？"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呼——啊！我们真的活过来了！"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你在倒数爆炸的时间吗？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "苏尔",
+            "content": "是啊，这一阵子都过得胆战心惊的。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不倒数一下，真的很难安心啊。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "呵呵……也是。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "苏尔",
+            "content": "说来怎么是你来找我？"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "苏尔",
+            "content": "教授很累了吧，你不去陪着<TA>吗？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授正在休息。菲尔伍德保护着<TA>，克罗琦也在那里。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我想，克罗琦应该很想确认自己亲手保护下来的事物吧。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "苏尔",
+            "content": "哦——给克罗琦和教授留下二人空间啊。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "在调侃我之前最好想想后果哦，“匿名B”。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "苏尔",
+            "content": "什……什么！你发现了啊？！"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "趁克罗琦走的时候在绿洲刚架起来的论坛里开盘，赌克罗琦几分钟后会逃回来……"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授帮你们隐瞒，不代表我真的不知道。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这个嘛……我觉得绿洲的大家能从净化者突袭的阴霾里走出来是好事，所以跟着闹了一下。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "苏尔",
+            "content": "但你是怎么发现匿名B是我的？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "“信我，十分钟。我跟你们港，要说最了解克罗琦的人，那肯定就是我了。”"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "敢说自己“最了解克罗琦”的，除了你和没参与的教授还能有谁？"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不是吧，我都刻意隐瞒了……"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我也知道匿名C是安冬妮娜。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这个又是怎么猜出来的？"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我下不掉的匿名，除了安冬妮娜和教授也没有其他人了吧。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "苏尔",
+            "content": "诶——帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "",
+            "content": "苏尔忽然露出了促狭的表情。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你怎么总是把教授挑出来说啊？"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "苏尔",
+            "content": "该不会你真的很在意给克罗琦和教授创造二人空间的事……"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "苏！尔！"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "苏尔",
+            "content": "好了好了当我没说！"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "",
+            "content": "一阵笑闹后，苏尔长长地出了口气，再次把目光投向远方。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "苏尔",
+            "content": "在这片天空之外，这个方向……就是绿洲的位置。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你想家了吗？"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "苏尔",
+            "content": "嗯，这一趟可真够累的。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不过我们赚到了算量，大家都好好活着，克罗琦也更积极了。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "苏尔",
+            "content": "所以这次行程是圆满结束的，对吧？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "当然，圆满结束。苏尔。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡叫着苏尔的名字，向她举起一只手。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "",
+            "content": "苏尔愣了一下，开心地笑起来。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你还记得我的习惯啊！"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "当然，你在科考队的招牌动作，让人记忆犹新。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "",
+            "content": "苏尔抬起手，和她清脆地一击掌。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "苏尔",
+            "content": "<size=40>任务完成，准备回家！</size>"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "",
+            "content": "<b>>> CHAPTER 3 //     E N D . . .</b>"
+        },
+        "prop": "name",
+        "nextId": 51
+    }
+}

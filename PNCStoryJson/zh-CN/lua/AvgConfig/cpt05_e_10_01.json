@@ -1,0 +1,511 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "只要不直接接触到熵或感染体，就不会被病毒影响。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "小菜一碟！"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦手持艾吉斯，旋风一般向前挥击，半圆范围内的熵尽数被横向劈开。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我和那家伙可不一样。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "",
+            "content": "另一侧，苏尔正小心翼翼地寻找落脚点，大喊大叫地挥舞着手里的双刀。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "啊，可惜了，应该拍下来的。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "做成鬼畜的话会大火吧。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "苏尔",
+            "content": "喝！——哈！——"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "苏尔",
+            "content": "啊啊啊啊——"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "好了别叫了，已经都清理掉了。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "苏尔",
+            "content": "诶？没有了吗？"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "幸亏庇厄里亚只有两个智能体，不然真是丢人丢大了。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "琴",
+            "content": "太好了，大家都还挺有精神的。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "琴！能不能告诉我们到底发生了什么？"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "琴",
+            "content": "奥吉塔来找我时，花园已经被熵包围了。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "琴",
+            "content": "我们击退了部分熵，找到了早就晕倒了的你们。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "果然就是那时候开始出现问题的……"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "琴",
+            "content": "奥吉里的状况很严重，你们则是轻微感染。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "琴",
+            "content": "不过至今我还没弄明白安冬妮娜身上发生了什么，她的心智系统没有问题。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们现在怀疑是她启动了自己的防御机制。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "现在唯一能做的只有保护好她。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "琴",
+            "content": "不过，现在拖不了很久呢。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "琴",
+            "content": "扇区里到处都是熵，就算我们退守博物馆，我们也坚持不了多久的。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "关于这一点，我们有另一个办法。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "奥吉塔……"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "诶？需要我帮忙吗？"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们希望你能相信我们……"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "能否将扇区的权限密钥交给我们呢？只要我们能够开启沙盒模式……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "至少能把尚未进入扇区的熵隔离开。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "苏尔",
+            "content": "对哦，上一次开启的沙盒模式居然是在“梦境”里，想想还真怪啊……"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "琴",
+            "content": "原来如此，那样一来，我们只要处理已经进入扇区内的那部分就行了。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "那样的话，整个花园都会没事的，是吗？"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……抱歉，这一点我们也没办法保证。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "熵的数量比我们想得要多得多，而且我们对它们也不是很熟悉。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "那至少，至少保证博物馆的安全，可以吗？"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "博物馆里的数据，绝对绝对不能丢失！"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "花园被毁坏了……真的没关系吗？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "如果没有你们帮助的话，连博物馆也留不下来的！"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "而且，虽然我也非常珍惜我和姐姐共同创造出来的花园……"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "但比起这些，博物馆里那些人类艺术品的数据更加珍贵。",
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "我觉得艺术创作没有贵贱之分。;你能那么想真是太好了。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 41,
+            "option2": 45
+        },
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "教授……谢谢您！不过，即使如此……"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "博物馆里可是藏着已经在战争中被损毁的建筑、雕塑、绘画作品等数据呢。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "相比之下，我和姐姐却可以继续创作下去……"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "况且，我们的职责就是保护好那些数据呀！",
+            "values": [
+                "option1"
+            ],
+            "options": "那我们答应你，一定会保护好博物馆的。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 48
+        },
+        "nextId": 48
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "教授可能有所不知，其实……"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "博物馆里可是藏着已经在战争中被损毁的建筑、雕塑、绘画作品等数据呢。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "保护好人类的艺术文明是我们的职责，所以这些数据无论如何都不可以丢失。",
+            "values": [
+                "option1"
+            ],
+            "options": "那我们答应你，一定会保护好博物馆的。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 48
+        },
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "太好了！为了博物馆和姐姐……"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "我带大家去存放密钥的地方！"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是在博物馆里，对吗？一株美丽的泛着荧光的植物。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "诶？帕斯卡姐姐是怎么知道的，好神奇！"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那就带上安冬妮娜和奥吉……"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡还没说完，看到琴已经打横抱起了奥吉里，而安冬妮娜也已经趴在了克罗琦的肩头。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "走。路上可能会有熵的攻击，大家不要放松警惕。"
+        },
+        "prop": "name",
+        "nextId": 55
+    }
+}

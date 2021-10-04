@@ -1,0 +1,696 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "睁开双眼，我们再一次回到了巧可的可可屋。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "苏尔",
+            "content": "啊，又回来了。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不过看起来克罗琦好像找到解决的办法了呢。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "是的。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但是这个解决方案还是有很大的难度。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "先来说说看？"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "好的。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦将七个反应堆投影至众人面前，席地而坐。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "在吸收这里的原住智能体们留下的数据时，我发现了一个非常奇怪的特点。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "他们所有的解决方案全部都在现有的七个反应堆上打转。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "似乎完全没有吸收其他扇区——比如基普洛斯，还有罗萨姆——先进技术的想法。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "可能是因为在断连之前，都是由人类直接更新它们的技术。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "而现在他们没有办法离开赫里奥斯，也无法联系人类，从而导致了技术的停滞。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但是我们可以把新的技术带给他们！"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "苏尔",
+            "content": "原，原来是这样啊，我完全理解了（呆）。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "克罗琦，请你用就算是苏尔也能听懂的方式说明吧。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呜？"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "抱歉，说到技术上的事情我就有些兴奋。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "简而言之，赫里奥斯扇区现有的技术没有办法在有限的空间内收纳高强度的能源。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这是造成他们反复失败的主要原因。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那我们要怎么解决这个问题？"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "还记得基洛普斯扇区吗？！"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "基洛普斯……你是说……！"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "隔离墙！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 25
+        },
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "对，不愧是教授！基洛普斯的隔离墙数据密度极高，我们可以尝试借用那种技术！"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "只要把所有反应堆都改造成隔离墙，就可以轻而易举地限制住世界之火的能源逸散！"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "听上去确实可行……我当时应该还保存了隔离墙的一部分数据。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不仅如此，还有罗萨姆扇区！"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "苏尔",
+            "content": "罗萨姆？"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "人工智能研究。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 31
+        },
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "对，而且为了更好地开展研究，她们设立了AI控制中枢。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这正是这里的智能体缺少的东西！"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "的确，这里的智能体智能太低了，所以实验效率才会这么低下。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "七个反应堆联合运转所需的计算量何其庞大，单靠这里简陋的AI系统根本不可能实现。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但……如果我们为他们提供一些援助的话……"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "",
+            "content": "在克罗琦的解释下，众人终于明白了解决问题的关键。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "",
+            "content": "重复了近百次的循环，终于迎来了一丝曙光，大家都忍不住露出了笑容。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "",
+            "content": "但克罗琦的表情却仍然很凝重。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "克罗琦？"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "虽然理论上是这样的，但是实际操作起来，有很大的风险。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你们看到的这些雕像，是扇区内的原住智能体。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "他们要执行的巨大计算量，和一次次循环留下的冗余数据，把他们的运行速度拖到了无限慢。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "如果我们要代替他们来完成技术更新，并将反应堆联合运转启动的话。我们也有可能会变成雕像。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "小机器人C",
+            "content": "(～￣▽￣)～ 好快乐呀——"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "ヽ(°▽、°)ﾉ好快乐呀——"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "小机器人C&B",
+            "content": "ヽ(ﾟ∀ﾟ)ﾒ(ﾟ∀ﾟ)ﾉ 一起快乐—— "
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "ヽ(°▽、°)ﾉ我的螺栓全都拧好啦！"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "小机器人C",
+            "content": "(～￣▽￣)～能源运转正常！"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "小机器人C",
+            "content": "︿(￣︶￣)︿除了巧克力，没有额外的需求！"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "小机器人C",
+            "content": "ヽ(￣▽￣)ﾉ不加班——吃巧克力——"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "(´▽`)ﾉ 我也要巧克力！"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "(╬￣皿￣)先工作，再吃巧克力！"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "(〃＞皿＜)观测者都在了！不许摸鱼！"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "小机器人C",
+            "content": "⊙０⊙哦——小A来了。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "\"Σ(☉▽☉\"快跑快跑。\""
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "(〝▼皿▼)世界之火还没有燃烧起来！我们要努力！"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "小机器人C",
+            "content": "ヾ(°∀°ゞ)好——"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……或者变成他们这样，在这种情况下，只有这些超简单的AI能够工作。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "一想到克罗琦会顶着表情包跑来跑去，突然就觉得没那么糟糕了呢。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……喂喂严肃一点啊。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "(〝▼皿▼)严肃！"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "说正事。如果我们都变成表情包战士的话。你还会记得自己要去做什么吗？"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呃……"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "",
+            "content": "苏尔叫住了一个小机器人。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你记得你要做什么吗？"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "小机器人C",
+            "content": "ヾ(°∀°ゞ)维修——"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "苏尔",
+            "content": "维修哪里？"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "小机器人C",
+            "content": "ヾ(°∀°ゞ)不知道——"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "就是这个问题。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "(´▽`)ﾉ 我们要维修这个人类！"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "(╬￣皿￣)人类不能被维修！"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "哎？对了，人类……"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦转向我，少女的眼中有着非常纯粹的认真。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "教授，我们需要你的帮助。"
+        },
+        "prop": "name",
+        "nextId": 77
+    }
+}

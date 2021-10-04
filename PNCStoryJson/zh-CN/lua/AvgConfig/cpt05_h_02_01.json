@@ -1,0 +1,752 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "> 警告.  .  .\n> 在未浏览<color=#ffa500ff>当前扇区全部主线剧情</color>文件的情况下，强制读取该文件.  .  .\n> 可能会造成意识紊乱，影响剧情体验.  .  "
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "content": "> 记忆数据文件编号：PIERIDES433.  .  .\n> 数据来源：人形，琴.  .  \""
+        },
+        "prop": "Subtitle",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "？？？",
+            "content": "醒醒，醒醒……"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "？？？",
+            "content": "大哥哥，你还好吗？"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "？？？",
+            "content": "大姐姐，他真的没事吗？"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "？？？",
+            "content": "没事的，不要担心，奥吉塔。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "琴",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "琴",
+            "content": "唔，这里是……"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "他醒了！"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "你还好吗，琴先生？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "琴",
+            "content": "这里是……"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "你还记得刚才发生了什么吗？"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "琴",
+            "content": "唔，之前是在……云图扇区里……进行心智实验。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "啊，太好了，看来我的记忆没有出问题。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "琴",
+            "content": "之后……发生了什么？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "之后，我们不明原因地，忽然就被传送到了这里。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "然后，这个扇区的智能体发现了我们。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "嗯嗯，是奥吉塔找到了你们哦！"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "当时，连安吉拉姐姐看上去都是晕乎乎的呢。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "说回来，还要谢谢你呢，奥吉塔。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "哎呀没什么啦！"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "总之，欢迎你们来到庇厄里亚！"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "庇厄里亚？"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "是的是的，这里是艺术扇区庇厄里亚，虽然地方不大……"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "但是，我和姐姐还是很用心地装点了我们的花园呢。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "不介意的话，大哥哥和大姐姐，一起去花园里坐一坐吧！"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "琴",
+            "content": "可是我们现在……"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "要思考之后的对策，说起来就话长了呢。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "既然奥吉塔都盛情邀请了，先休息一会，理清一下思路也不错。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "我想，一名合格的绅士是不会拒绝女士的邀请的吧？"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "琴",
+            "content": "……嗯。那就有劳奥吉塔小姐带路了。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "嘿嘿，包在我身上。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {},
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐姐！姐姐！"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "你看——我们有客人了！"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "诶？……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "我来介绍我来介绍！"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "这位是安吉拉小姐，这位是琴先生。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "啊，见到你们很高兴。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "他们好像是从其他扇区过来的呢。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "其他扇区？可是庇厄里亚从来没有和其他扇区有过数据交流啊……"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "抱歉，因为现在连我们自己也没搞清楚发生了什么事……"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "但是他们不是异常程序哦！这一点奥吉塔可以向姐姐保证！"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "也许这么说有些欠妥了，如果你们不接受，我们也完全理解……"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "不！怎么会怎么会？！"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐姐，安吉拉姐姐和琴先生都是很友好的人。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "也许，他们能成为你的画室的新访客！"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "奥吉塔……"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "谢谢你为我着想，不过，要是客人们还有其他着急的事……"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "这样强行留他们下来是不对的。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "好吧，抱歉，我太心急了……"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "这座花园……真的好漂亮。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "阳光照射在片草坪上，看上去就像乔治·修拉的《大碗岛星期天的下午》。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "琴",
+            "content": "如果我没有听错的话，花园里正在播放的音乐是《G弦上的咏叹调》。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "嗯？你对古典乐也有了解么？我还以为调酒师是专精爵士的呢。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "琴",
+            "content": "这是……个人原因。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "噢？是吗？我倒是很有兴趣想听一听呢。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "等等等等，你们刚才说什么？"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "你们是提到了修拉和巴赫……吗？"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "……是的。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "我们在谈论这座漂亮的花园。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "没想到云端还存在着这样宛若仙境的地方……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "我还以为，用数据搭建起来的世界都是那种冷冰冰的城市呢。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "哼哼，其实呀，这座花园是我和姐姐一起建造的哦。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "哎？不是直接模拟生成的吗？"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "模拟生成的，只有那座博物馆而已。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "这片花园，是我们用富余的算量搭建起来的呢。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "琴",
+            "content": "真是令人印象深刻啊……"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "真的吗？你们觉得这里很漂亮吗？"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "琴",
+            "content": "嗯，当然。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐姐你看！安吉拉小姐和琴先生都很喜欢这座花园！"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "谢……谢谢你们的厚爱……"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "说实话，这是庇厄里亚第一次出现外来的客人……"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "能得到你们的肯定，真是太好了……"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "我告诉过你嘛，姐姐，你做得已经非常非常好了！"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "虽然你总是希望得到他人的肯定……"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "但我觉得，只要我们自己知道，我们已经把想要表述的东西具现出来就好啦。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "那……二位，若是不嫌弃的话，还请在庇厄里亚多逗留一段时间……"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "……唔，我们确实得理清一下先前到底发生了什么，还要寻找回到云图扇区的方法，对吧？"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "琴",
+            "content": "嗯，是我们要叨扰你们了才对。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "不，请别这么说……"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "那……我们就先带你们参观一下庇厄里亚吧？"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "那就有劳你们啦。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "嘿嘿，太好了！安吉拉姐姐，琴先生，请跟着我哦！"
+        },
+        "prop": "name",
+        "nextId": 85
+    }
+}

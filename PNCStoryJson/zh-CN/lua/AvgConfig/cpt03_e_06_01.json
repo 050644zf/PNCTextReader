@@ -1,0 +1,596 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "再次睁开双眼，我们又回到了起点。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "",
+            "content": "只是这一次回到的不是我们联络克罗琦的位置，而是巧可的可可屋。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "苏尔",
+            "content": "大家没事吧？！咦……我们怎么回到这儿了。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "怎么会这样，为什么还会有爆炸？"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我们明明修好了1号反应堆。我的技术不可能有问题！"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "冷静一点，克罗琦，这不是你的问题。我们相信你的技术。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "希安",
+            "content": "爆炸……不是……1号反应堆……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "",
+            "content": "希安的回答让我们陷入了沉默之中，突发的情况过于意外，以至于我们需要时间来整理思绪。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "",
+            "content": "唔——唔唔——唔——"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "",
+            "content": "吧唧吧唧吧唧——"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "",
+            "content": "在我们陷入沉默后，房间的角落响起了分外明显的奇怪声音。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "巧可",
+            "content": "小……小餐？！"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "圣餐",
+            "content": "唔——你们回来了？还挺快的。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "圣餐",
+            "content": "啊，好吃！巧可你做的巧克力真好吃！还有吗？"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "圣餐",
+            "content": "要知道为了今天来吃你做的巧克力，我可是从昨天晚上开始就没吃饭，人都快饿没了。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "巧可",
+            "content": "诶？！这可不行，身子不能饿坏了！巧可这就给你做。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "苏尔",
+            "content": "等等！别过去！"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "",
+            "content": "苏尔一个跨步拦在了巧可面前，同时隐隐亮出武器。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "圣餐",
+            "content": "真是的，有什么不能先吃完再说嘛。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "圣餐",
+            "content": "干饭可是最神圣的事情，其他的一切都得给干饭让步。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "苏尔",
+            "content": "确实……不对！你这家伙，到底为什么会出现在这里？"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "苏尔",
+            "content": "还有你之前说的话……难不成把我们困在这里的人是你？！"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "圣餐",
+            "content": "诶！你可不要乱扣帽子，爆炸才不是我做的呢！"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "圣餐",
+            "content": "你这样乱说话，要是让巧可误会了，不给我做巧克力了怎么办？这可是我工作之余唯一的小确幸了。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "圣餐",
+            "content": "净化者每天奔波在麦戈拉，操心劳力的，就指着这么一块巧克力治愈身心。难道这一点点幸福你们都要剥夺吗？真是个带恶人啊。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不要转移话题，这究竟是怎么一回事？"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "圣餐",
+            "content": "我为什么要告诉你们啊？你们几个，就是之前其他净化者提到过的异常智能体吧？"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "圣餐",
+            "content": "建立绿洲，夺取其他扇区权限……虽然我是很无所谓啦，但就立场来说，我们是敌人吧？"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "圣餐",
+            "content": "既然是敌人，我又不欠你们什么，为什么要回答你们的问题？"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "希安",
+            "content": "小餐……吃了……很多……巧克力……"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "圣餐",
+            "content": "呃……吃巧克力的事儿，能算账么！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "圣餐",
+            "content": "我凭本事白吃的，算什么账！"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "巧可",
+            "content": "小餐，我今天刚研究出新的巧克力配方……"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "圣餐",
+            "content": "！！！"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "圣餐",
+            "content": "咳，虽然我们是敌对关系，不过我对你们很感兴趣，透露一些情报也不是不可以。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "圣餐",
+            "content": "那个，巧可啊，你先去做巧克力，我来跟你的朋友们好好聊聊。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "",
+            "content": "我和帕斯卡交换了一下眼神，旋即给圣餐让出了位置。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "圣餐",
+            "content": "先简单问几个问题吧，你们知不知道赫里奥斯扇区是做什么的？"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "火神重工的实验类能源扇区，负责多项重要的能源革新实验。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "圣餐",
+            "content": "对，但不全对，赫里奥斯扇区其实只负责一项实验，那就是“世界之火”计划。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "世界之火……你是说这七个反应堆都是为了世界之火而建造的？！"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "难怪我在所有项目里都找不到世界之火的记录，原来整个扇区就是世界之火的全部。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "圣餐",
+            "content": "对啊，所以你们明白我之前的意思了吗？"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "圣餐",
+            "content": "你们不会还真以为赫里奥斯扇区的问题就只是一个1号反应堆吧？"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "圣餐",
+            "content": "你一个普通智能体……"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我是机械专家。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "圣餐",
+            "content": "好啰好啰，机械专家。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "圣餐",
+            "content": "要是世界之火计划的问题是你一个机械专家就能解决的，那赫里奥斯扇区存在的意义又是什么呢？"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "圣餐",
+            "content": "难不成整个扇区还不如你一个人吗？"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那重置又是怎么一回事？"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "圣餐",
+            "content": "重置？那就是额外问题啦！"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "圣餐",
+            "content": "巧可！巧克力做好了吗？"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "巧可",
+            "content": "做好啦，给，这些全都是今天新配方研制出来的。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "圣餐",
+            "content": "真香！"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嗯？你们怎么还看着我？"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "圣餐",
+            "content": "重置这个事儿我就真不能跟你们说了，为什么你们不去问问扇区管理员呢？"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你是说……管理员知道这一切？"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "圣餐",
+            "content": "当然啦……哦！我明白了，你们把重置当成扇区发生的错误了吗？"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "圣餐",
+            "content": "哈哈哈哈，当然不是这样的啦。如果重置是扇区的错误或者病毒导致的，那我早就出手了。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "圣餐",
+            "content": "别看我这样，好歹也是个上位净化者呢。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "圣餐",
+            "content": "好了，闲话到此为止！多谢款待，我要走了。巧可，再给我打包一点巧克力~"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "bravo",
+            "content": "还有最后一个问题，你为什么不对我们出手？"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "圣餐",
+            "content": "啊，我知道你，教授。异常智能体的头头，我对你也很感兴趣喔~"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "圣餐",
+            "content": "这个问题嘛……我之前已经告诉过你们了啊，因为没有必要。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "圣餐",
+            "content": "看在巧克力的份上给你们一句忠告，你们的动作，最好快点，不然……嘿嘿。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "",
+            "content": "圣餐轻笑着接过打包好的巧克力，头也不回地离开了可可屋。"
+        },
+        "prop": "name",
+        "nextId": 67
+    }
+}

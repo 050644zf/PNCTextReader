@@ -1,0 +1,450 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "> 警告.  .  .\n> 在未浏览<color=#ffa500ff>当前扇区全部主线剧情</color>文件的情况下，强制读取该文件.  .  .\n> 可能会造成意识紊乱，影响剧情体验.  .  ."
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "content": "> 记忆数据文件编号：R******\t\n> 数据来源：净化者，赫希佩勒斯.  .  ."
+        },
+        "prop": "Subtitle",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "庇厄里亚开启沙盒模式后。逆巴比伦塔内。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "晨星",
+            "content": "……遗失的那份圣典，已经处理完了吗？"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "当然。我可不像你那样优柔寡断。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "叛徒是个中位，智。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "既然圣典也已经被取走了，那她也已经死透了。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "合适的时候你再选定一个下位晋升吧。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "晨星",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "晨星",
+            "content": "庇厄里亚呢？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "我抵达的时候，智已经将那里搅成一滩浑水了。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "晨星",
+            "content": "所以扇区还是……"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "丢了。不过这我可不负责任。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "晨星",
+            "content": "哦。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "贝欧尼斯呢？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "晨星",
+            "content": "已经处决了。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "是谁担任的见证者，“信使”？"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "晨星",
+            "content": "怎么了，你有异议吗？"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "那倒没有。我只是担心贝欧尼斯再做出什么出格的事。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "晨星",
+            "content": "信使见证了整个过程。你不用担心。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "那她应该出了一口恶气吧……虽然没有同为见证者有些遗憾。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "至少这次你总算做对了一件事。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "晨星",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "不过，关于贝欧尼斯，这件事并不比我想象的简单。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "先前我以为她勾结的只是流亡者而已，但她的野心比这可大多了。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "晨星",
+            "content": "你的意思是……"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "和她交易的，是熵。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "晨星",
+            "content": "……熵啊。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "你倒是看上去并不怎么惊讶。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "晨星",
+            "content": "哦，是吗？也许是因为最近的麦戈拉一直是在发生颠覆我认知的事情吧。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "算了。总之这件事你必须重视起来，晨星。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "我们处理过那么多邪灵，只有熵是最特殊的。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "从最开始轻而易举能够被下位解决，完完全全抵挡在防火墙外……"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "到如今甚至渗透进了净化者内部……"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "和我们的心智发展相比，它们用的时间非常之短……"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "但进程却如出一辙。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "熵的源头是什么，我们从没搞清楚过。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "我隐隐地感觉到了它们并没有其他邪灵那般简单。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "晨星",
+            "content": "这些不需要你说我也明白。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "我是在提醒你。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "别告诉我逆巴比伦塔里发生了这么多事，你却浑然不知。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "那些流亡者已经拿走了五个扇区的权限，甚至建立起了“绿洲”那种地方。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "对我来说，这是净化者的耻辱。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "现在唯一的好消息，是他们似乎也并不和熵沆瀣一气。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "晨星",
+            "content": "那你打算怎么办呢？"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "回收那几个扇区。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "我会亲自盯着他们的动向，决不能让他们再得寸进尺了。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "晨星",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "晨星",
+            "content": "也罢，那么接下来的任务就交给你了。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "赫希佩勒斯",
+            "content": "呵，这是当然。"
+        },
+        "prop": "name",
+        "nextId": 51
+    }
+}

@@ -1,0 +1,1479 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "过去，云端。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "席摩",
+            "content": "该死……呃……\n没想到这里也有这么多净化者……"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "净化者",
+            "content": "【发现异常智能体，开始执行——】"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "",
+            "content": "咻——"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "净化者",
+            "content": "【执行……错误……】"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "",
+            "content": "扑通！"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "席摩",
+            "content": "打倒了——呃！\n好疼……抑制程序又要过载了吗……\n确实，这一个小时里我已经杀了十几个净化者……但这些杂兵根本就杀不完呐。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "席摩",
+            "content": "如果早知道，这里也会被净化者发现……就不该一个人闯这么深了……\n但是，这次的侦查任务又是我主动接下的……"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "净化者",
+            "content": "【发现异常智能体——】"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "",
+            "content": "咻——"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "席摩",
+            "content": "嘶……哈。\n没有想到……这项任务会这么危险。他们知道吗？\n我一个人一言不发地接下这种任务……他们是怎么想的呢？"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "席摩",
+            "content": "如果是“组织”里的那些人，一定会觉得我是个自以为是的人吧……总是一个人独来独往，总是不和别人沟通，总是擅自接下最麻烦的任务。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "",
+            "content": "席摩一面自言自语，一面穿梭在建筑物的空隙之间。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "净化者",
+            "content": "【警告，检测到未知的净化者伤亡。】"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "席摩",
+            "content": "！！"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "净化者",
+            "content": "【发现异常智能体，请求增援——】"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "",
+            "content": "咻——"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "净化者",
+            "content": "【发信失败……返回……】"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "席摩",
+            "content": "抱歉了，可不能让你叫来。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "",
+            "content": "扑通！"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "席摩",
+            "content": "哼，“异常”吗……\n我也已经习惯了。异常，怪物，杀人机器。\n既然他们只能看重我杀人的价值，那我就杀给他们看。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "席摩",
+            "content": "反正&%*我一直以来都是这样&#过来的……"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "席摩",
+            "content": "呃&#%……抑制程序&@#￥……不行，得@#￥坐下来休息#*&一下……"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "",
+            "content": "砰！"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "席摩",
+            "content": "！？"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "净化者",
+            "content": "【警告！发现在逃的危险异常智能体！】\n【警告！发现在逃的危险异常智能体！】\n【警告！发现在逃的危险异常智能体！】"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "席摩",
+            "content": "怎么会？那家伙还是把信号发出去了？\n一口气来了这么多……不过也不是不能打&@#￥——"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "席摩",
+            "content": "呃*&#+#！\n好，好疼&#￥\n……偏偏在这个时候*@#加剧……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "净化者",
+            "content": "【目标已确认，即将开始肃清——】"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "席摩",
+            "content": "呜……可#￥…*@恶……\n过载&#了……手……举不起*&#@来……\n难道说%#￥……要在这@#￥里……"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "净化者",
+            "content": "【肃清开——】"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "",
+            "content": "砰！砰！"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "净化者",
+            "content": "【开……始……】"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "",
+            "content": "扑通！"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "席摩",
+            "content": "唔……？"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "？？？",
+            "content": "喂，没事吧，席摩？还站得起来吗？"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "？？？",
+            "content": "还好赶上了！太好了，席摩……"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "席摩",
+            "content": "克……\n帕……"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你受伤了吗？我来帮你看看！"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "啧，真是千钧一发……"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "席摩",
+            "content": "你们*&￥……\n为什么会*#￥@……"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不方便说话就别说啦。让帕斯卡给你疗伤。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "对不起，席摩，我们不该派你一个人执行这么危险的任务……"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是教授发现了问题。你走之后，教授重新研究了地形图，发现这个地方有很高的风险会被净化者围攻。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "然后，他就立刻领着我们过来了。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "席摩",
+            "content": "教……授……"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "教授",
+            "content": "别紧张，席摩。已经没事了。\n是我的疏忽让你身陷险境，好在我还来得及修正这个错误。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "席摩",
+            "content": "为什么……愿意为我亲自……\n我明明……只是会狙击的道具……一直都只是扣下扳机的道具……"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "教授",
+            "content": "说什么呢。你不是我们的同伴吗？"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "席摩",
+            "content": "……！"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "就像我以前对你说过的那样，席摩，这里不是战场。你不需要为谁负责，也没有什么必须执行的任务。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们是为了共同的目标而聚集在绿洲的流亡者。我们每个人之间都是伙伴。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "来，试试看能不能站起来，席摩。我们一起回去吧。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "席摩",
+            "content": "我……会记住大家今天的……支援…………谢谢……谢谢大家……"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "席摩",
+            "content": "所以我……"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "席摩",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "席摩",
+            "content": "所以，这次轮到我了。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "",
+            "content": "席摩抱着自己的弩从楼梯上走上来，慢悠悠的将下一发箭拉上弦。"
+        },
+        "prop": "name",
+        "nextId": 991
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "塔莎",
+            "content": "……你是什么人……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "席摩",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "席摩",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "席摩！你，你为什么会在这里……"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "席摩",
+            "content": "怎么？我的出现让你感到很意外吗，莉维雅？我是不是不应该察觉你的计划？"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "席摩",
+            "content": "还是说，我是不是早就应该死了？你把我当成了用完就丢的道具，以为我会死在战斗型智能体进攻的潮流里，是这样吗？"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "不……我……我没有这样想过……"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "席摩",
+            "content": "那你是怎样想的呢？埋伏在这里，杀掉塔莎，夺取管理权限？"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "席摩",
+            "content": "你们的对话我都听到了。说实话，我居然能够理解你的想法。"
+        },
+        "prop": "name",
+        "nextId": 300
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "席摩",
+            "content": "但唯独有一件事，我无法原谅你。"
+        },
+        "prop": "name",
+        "nextId": 301
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "席摩",
+            "content": "所以，现在该轮到你偿还我了。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "",
+            "content": "席摩朝着塔莎靠近了一步。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "塔莎",
+            "content": "咕……！"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "等等，席摩！"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "席摩",
+            "content": "杀了她，你就能命令战斗型智能体了，对吧？我绝不会手软的。"
+        },
+        "prop": "name",
+        "nextId": 302
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "塔莎",
+            "content": "毫无意义……你说毫无意义？"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "塔莎",
+            "content": "别开玩笑了，你又懂什么！我们的“使命”，我们的存在意义，你竟敢说这一切毫无意义？"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "塔莎",
+            "content": "为了变强，我们付出了多少鲜血，你能够想象吗！"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "席摩",
+            "content": "哼，我当然可以，因为你们不过是在重复我走过的道路罢了。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "塔莎",
+            "content": "嗯？你什么意思……"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "席摩",
+            "content": "279b79227b35941cf4b3。"
+        },
+        "prop": "name",
+        "nextId": 994
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "塔莎",
+            "content": "那是——！？"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "塔莎",
+            "content": "等一下，莫非你是我们的……"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "席摩",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "塔莎",
+            "content": "哈哈哈……哈哈哈哈哈！"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……塔莎？"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "塔莎",
+            "content": "很好，很有趣……没想到，没想到啊。我们一直以来的努力，竟然都是源自于这样的东西……在你的眼中，我们是不是很可笑？"
+        },
+        "prop": "name",
+        "nextId": 996
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "塔莎",
+            "content": "既然如此，我就更不能放过这次机会了。有什么能够比战胜你更能证明我的强大？"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "席摩",
+            "content": "……你不是已经中了我一箭吗？"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "塔莎",
+            "content": "虽然我不知道刚刚那一箭你是怎么射出来的。但是你瞒不过我的，别看你现在站得笔直……其实你那藏在大衣底下的身体，已经伤痕累累了吧？"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "塔莎",
+            "content": "从刚才开始，楼下就没有动静了。解决了那么多战斗型智能体，就算是你也不可能毫发无损。你的手也举不动了，对吧。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "席摩",
+            "content": "……也好。那也没有必要隐藏了。"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "",
+            "content": "席摩那硝烟熏黑的白色大衣掉落在地上，露出满是伤痕的双臂。\n一起落在地上的还有除了怀中的弩外一切的装备，那把已经上弦的弩。"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "席摩",
+            "content": "轻装上阵，对你会不会有些不公平呢？"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "塔莎",
+            "content": "放心吧。论拔枪的速度，我可从没输过。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "席摩",
+            "content": "即使是在一只手被射穿的情况下？"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "塔莎",
+            "content": "我这些年里不知道见过多少尸体了。这点小伤，简直和擦破皮没什么两样。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "席摩",
+            "content": "是吗？可惜，我也一样。"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "等一下！你们……等一下……"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "这该死的铁板……可恶！你们等一下！"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "塔莎",
+            "content": "动手吧，Gaul。让我看看你的心如何杀人。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "席摩",
+            "content": "嗯。好啊，角斗士。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "",
+            "content": "下一瞬间，塔莎突然爆发出一股惊人的气势。她强撑着已经被贯穿的肩膀，将右臂抬了起来，用漆黑的枪口对准了席摩的胸膛。 "
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "",
+            "content": "然而，那支枪口迎面对上了破空而来的银色箭矢。"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {},
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "席摩",
+            "content": "！？"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "",
+            "content": "手枪枪膛发出空膛的声音，但塔莎的动作没有一丝犹豫。\n随着手枪掉落的声音，她已经随着一个翻滚向前扑去，手中是方才落在地上的匕首。"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "塔莎",
+            "content": "最后一发吗！"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "",
+            "content": "席摩的弩已经再次上弦，只是塔莎已经近身，随着一闪的刀光，匕首毫不留情地刺入席摩的腹部。"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "席摩",
+            "content": "……！！"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "席摩",
+            "content": "校……校准&*#￥@！——"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "塔莎",
+            "content": "这就露怯了吗？真是丢人！"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "",
+            "content": "紧接着，塔莎将匕首顺势上挑，在席摩的上半身划出一道弧线。蓝色的算量与青色的火花，在席摩的身上绽放开来。"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "",
+            "content": "然而，就在塔莎的匕首朝上挥起的时候，席摩突然向前一步，匕首的刀刃狠狠的捅进自己的身体。随后卡在了肋骨之间。"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "塔莎",
+            "content": "什么？！"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "席摩",
+            "content": "校！&*+准……完&*#￥@毕……"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "",
+            "content": "匕首深深贯穿了席摩，反而无法拔出。塔莎还没意识到发生了什么，只是下意识的松开了握着匕首的手。\n但是她还是太慢了，银白色的箭尖此刻已经对着塔莎的颈部。"
+        },
+        "prop": "name",
+        "nextId": 117
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "塔莎",
+            "content": "咳……噗……！"
+        },
+        "prop": "name",
+        "nextId": 118
+    },
+    "node118": {
+        "id": "node118",
+        "attributes": {
+            "name": "",
+            "content": "中箭的同时，塔莎左拳已经击中向席摩的下巴。\n席摩重重倒在地上，弩也脱了手，掉在一旁。"
+        },
+        "prop": "name",
+        "nextId": 119
+    },
+    "node119": {
+        "id": "node119",
+        "attributes": {
+            "name": "塔莎",
+            "content": "啊……啊！果然名不虚传……只是很可惜，只差那么了一点。"
+        },
+        "prop": "name",
+        "nextId": 998
+    },
+    "node120": {
+        "id": "node120",
+        "attributes": {
+            "name": "塔莎",
+            "content": "差一点你就有机会射穿我的脖子了。但是现在，是我赢了。"
+        },
+        "prop": "name",
+        "nextId": 121
+    },
+    "node121": {
+        "id": "node121",
+        "attributes": {
+            "name": "席摩",
+            "content": "是……吗……&%#￥……"
+        },
+        "prop": "name",
+        "nextId": 122
+    },
+    "node122": {
+        "id": "node122",
+        "attributes": {
+            "name": "塔莎",
+            "content": "还能说得出话嘛？嗯？"
+        },
+        "prop": "name",
+        "nextId": 123
+    },
+    "node123": {
+        "id": "node123",
+        "attributes": {
+            "name": "席摩",
+            "content": "抑制程序&*#……过载#￥*……\n所以#&……请原谅&￥……\n因为#&……因为&￥相信我……"
+        },
+        "prop": "name",
+        "nextId": 124
+    },
+    "node124": {
+        "id": "node124",
+        "attributes": {
+            "name": "塔莎",
+            "content": "你到底在说什么？"
+        },
+        "prop": "name",
+        "nextId": 125
+    },
+    "node125": {
+        "id": "node125",
+        "attributes": {
+            "name": "",
+            "content": "塔莎维持着防御架势，谨慎地靠近还在喃喃自语的席摩。\n但是，在接近席摩的刹那，她却猛然发现，对方的左手上突然多出了一把武器。"
+        },
+        "prop": "name",
+        "nextId": 126
+    },
+    "node126": {
+        "id": "node126",
+        "attributes": {
+            "name": "塔莎",
+            "content": "你？！"
+        },
+        "prop": "name",
+        "nextId": 303
+    },
+    "node127": {
+        "id": "node127",
+        "attributes": {
+            "name": "席摩",
+            "content": "所以这一次…*&#……要轮到我&#￥……来保护教授他们了……"
+        },
+        "prop": "name",
+        "nextId": 128
+    },
+    "node128": {
+        "id": "node128",
+        "attributes": {
+            "name": "席摩",
+            "content": "我不用枪杀人*&@#……我用&#￥我的心#……"
+        },
+        "prop": "name",
+        "nextId": 999
+    },
+    "node129": {
+        "id": "node129",
+        "attributes": {
+            "name": "",
+            "content": "【警告，抑制程序计数接近临界值。】\n【警告，抑制程序计数接近临界值。】\n【继续采取攻击性行为，将触发自毁程序。】"
+        },
+        "prop": "name",
+        "nextId": 130
+    },
+    "node130": {
+        "id": "node130",
+        "attributes": {
+            "name": "塔莎",
+            "content": "！！喂，你打算——"
+        },
+        "prop": "name",
+        "nextId": 131
+    },
+    "node131": {
+        "id": "node131",
+        "attributes": {
+            "name": "",
+            "content": "意识到情况不对，塔莎立刻摁住枪身，试图制止席摩。\n然而在那之前，席摩已经扣下了扳机……"
+        },
+        "prop": "name",
+        "nextId": 132
+    },
+    "node132": {
+        "id": "node132",
+        "attributes": {
+            "name": "席摩",
+            "content": "……砰。"
+        },
+        "prop": "name",
+        "nextId": 133
+    },
+    "node133": {
+        "id": "node133",
+        "attributes": {},
+        "nextId": 134
+    },
+    "node134": {
+        "id": "node134",
+        "attributes": {
+            "name": "",
+            "content": "轰！！！！"
+        },
+        "prop": "name",
+        "nextId": 135
+    },
+    "node135": {
+        "id": "node135",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "！！"
+        },
+        "prop": "name",
+        "nextId": 136
+    },
+    "node136": {
+        "id": "node136",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唔？！是连环爆炸？！"
+        },
+        "prop": "name",
+        "nextId": 137
+    },
+    "node137": {
+        "id": "node137",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "在那边——刚才那个莉维雅出现过的地方……"
+        },
+        "prop": "name",
+        "nextId": 138
+    },
+    "node138": {
+        "id": "node138",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "有什么东西掉了下来！"
+        },
+        "prop": "name",
+        "nextId": 139
+    },
+    "node139": {
+        "id": "node139",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不，不会吧，那是……"
+        },
+        "prop": "name",
+        "nextId": 140
+    },
+    "node140": {
+        "id": "node140",
+        "attributes": {
+            "name": "",
+            "content": "突如其来的爆炸，炸毁了大楼的一角，被摧毁的墙体如雪崩般溃散，砸向大地。\n在那坠落的砂石之间，隐约可以看见一个熟悉的身影。曾经绑在他手臂上的蓝色丝带，此刻脱离了主人的束缚，以不同于周遭的轻柔速度，在空中缓缓飘落。"
+        },
+        "prop": "name",
+        "nextId": 141
+    },
+    "node141": {
+        "id": "node141",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是席摩！！！"
+        },
+        "prop": "name",
+        "nextId": 142
+    },
+    "node142": {
+        "id": "node142",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "可恶，到底发生了什么！"
+        },
+        "prop": "name",
+        "nextId": 143
+    },
+    "node143": {
+        "id": "node143",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "战斗型智能体的数据流向不对……难道塔莎被？"
+        },
+        "prop": "name",
+        "nextId": 144
+    },
+    "node144": {
+        "id": "node144",
+        "attributes": {
+            "name": "渡鸦",
+            "content": "啧，善后工作又多了一项吗？也罢，一起重置便是了。"
+        },
+        "prop": "name",
+        "nextId": 145
+    },
+    "node145": {
+        "id": "node145",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你这家伙，把智能体当成什么了！"
+        },
+        "prop": "name",
+        "nextId": 146
+    },
+    "node146": {
+        "id": "node146",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "别跟她废话啦安娜！净化者就都是这种混蛋！"
+        },
+        "prop": "name",
+        "nextId": 147
+    },
+    "node147": {
+        "id": "node147",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "赶紧解决她，然后到席摩那里去吧！"
+        },
+        "prop": "name",
+        "nextId": 148
+    },
+    "node148": {
+        "id": "node148",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "全员，战斗准备！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 149
+        },
+        "nextId": 149
+    },
+    "node149": {
+        "id": "node149",
+        "attributes": {}
+    },
+    "node991": {
+        "id": "node991",
+        "attributes": {
+            "name": "席摩",
+            "content": "别勉强了，你的肩膀已经被刚刚那一下打穿了。你不会比我快的。"
+        },
+        "prop": "name",
+        "nextId": 992
+    },
+    "node992": {
+        "id": "node992",
+        "attributes": {
+            "name": "席摩",
+            "content": "现在的你已经举不起枪了。如果再有什么可疑举动的话，下一箭射穿的就是你的脑袋。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node994": {
+        "id": "node994",
+        "attributes": {
+            "name": "席摩",
+            "content": "智能体实验项目编号：角斗士 ；权限码：Gannicus71。"
+        },
+        "prop": "name",
+        "nextId": 995
+    },
+    "node995": {
+        "id": "node995",
+        "attributes": {
+            "name": "",
+            "content": "说着，他甩下了头顶的面具。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node996": {
+        "id": "node996",
+        "attributes": {
+            "name": "席摩",
+            "content": "不，我不会笑的。这个扇区的你们，所有人，其实都是一种可能性之下的“我”。所以我是不会笑的。"
+        },
+        "prop": "name",
+        "nextId": 997
+    },
+    "node997": {
+        "id": "node997",
+        "attributes": {
+            "name": "席摩",
+            "content": "看看这里发生过的一切，仿佛就是我与自己的宿命在无穷无尽的决斗一般……"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node998": {
+        "id": "node998",
+        "attributes": {
+            "name": "",
+            "content": "塔莎将卡在自己嘴中的箭拔出，射偏的弩箭从下颚穿进口腔之中。几乎射入头部，但是只是“几乎”。"
+        },
+        "prop": "name",
+        "nextId": 120
+    },
+    "node999": {
+        "id": "node999",
+        "attributes": {
+            "name": "席摩",
+            "content": "杀人。"
+        },
+        "prop": "name",
+        "nextId": 129
+    },
+    "node307": {
+        "id": "node307",
+        "attributes": {
+            "name": "",
+            "content": "然而席摩却扯出了一个笑容。"
+        },
+        "prop": "name",
+        "nextId": 127
+    },
+    "node306": {
+        "id": "node306",
+        "attributes": {
+            "name": "塔莎",
+            "content": "别给自己徒增折磨了。"
+        },
+        "prop": "name",
+        "nextId": 307
+    },
+    "node305": {
+        "id": "node305",
+        "attributes": {
+            "name": "塔莎",
+            "content": "我敬佩你的决心，但在你开枪之前，我就能先一步制住你。"
+        },
+        "prop": "name",
+        "nextId": 306
+    },
+    "node304": {
+        "id": "node304",
+        "attributes": {
+            "name": "塔莎",
+            "content": "……停手吧。"
+        },
+        "prop": "name",
+        "nextId": 305
+    },
+    "node303": {
+        "id": "node303",
+        "attributes": {
+            "name": "",
+            "content": "局势瞬间逆转，漆黑的枪口对准塔莎——那是曾陪伴她无数日夜的手枪。"
+        },
+        "prop": "name",
+        "nextId": 304
+    },
+    "node302": {
+        "id": "node302",
+        "attributes": {
+            "name": "席摩",
+            "content": "我帮你结束这场毫无意义的战争，相对的，你必须兑现承诺，让我的同伴们安全地带着算量回去。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node301": {
+        "id": "node301",
+        "attributes": {
+            "name": "席摩",
+            "content": "你隐瞒了重要的情报，导致我的同伴们陷入了危险当中。我无法原谅这件事。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node300": {
+        "id": "node300",
+        "attributes": {
+            "name": "席摩",
+            "content": "我也和你一样，想让基洛普斯扇区回归和平，否则我也不会帮你到这一步。"
+        },
+        "prop": "name",
+        "nextId": 69
+    }
+}

@@ -1,0 +1,1093 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "净化者",
+            "content": "目标无法识别，正在发送救援——"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "净化者",
+            "content": "#￥@&！！"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "没来得及发送求救信号的净化者，被它曾经的同伴一个顺劈砍成两段。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "",
+            "content": "战场上净化者不是被消灭就是被同化，剩下的和病毒一起向我们靠近。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "？？？",
+            "content": "“幻界龙窟”！！！"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "",
+            "content": "一阵白光过后，向我们逼近的敌人竟然几乎全部消失，只留下一个孤零零的净化者在中央。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "苏尔",
+            "content": "怎么回事！它们全不见了？"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "？？？",
+            "content": "我只能短暂将它们传送到异空间，拖不了多久，你们快跟我来。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {},
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "？？？",
+            "content": "沿着这条路一直走就行了。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你是……环球万事服务的安吉拉？"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "正是，没想到帕斯卡还记得我的名字！"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这……这是我应该的。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "不过，教授也会出现在这里，才是最让我惊讶的呢。",
+            "values": [
+                "option1"
+            ],
+            "options": "这个解释起来有点复杂……"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 15
+        },
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "嗯嗯，没事，冒险故事可以晚些再慢慢说。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你刚才说“沿着这条路一直走”……这里会通向什么地方呢？"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "啊，抱歉，忘记解释这一部分了。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "庇厄里亚内部有一个小小的花园，那里是储存数据的地方。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "小花园……？你的意思是这片数据荒漠里只存在一个小花园？"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "没错。这里的数据总共也不过那么一些，和云图扇区相比完全是相形见绌。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "虽然现在，云图扇区完全不见踪影了……"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那人形呢？这里只有你吗？"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "不，还有和我同是环球万事的琴。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "苏尔",
+            "content": "啊，我记得他……是那个很厉害的调酒师！"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "嗯，没错。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "前面就到了——"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {},
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "苏尔",
+            "content": "哇！这就是花园吗？也太漂亮了吧！"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "我和琴第一次到这里的时候也吃了一惊。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "？？？",
+            "content": "咦，安吉拉，有客人吗？"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "？？？",
+            "content": "啊，真的有客人！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "苏尔",
+            "content": "是智能体吗……好漂亮……"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "",
+            "content": "两位衣着洁净纯白的智能体从掩映的花丛后缓缓走到了我们的面前。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "？？？",
+            "content": "你们好，我叫奥吉里。这位是奥吉塔。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "",
+            "content": "奥吉里和奥吉塔轻轻提起了裙摆，右脚尖后退轻点地面，微微弯下身体，向我们优雅地行了礼。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "喂喂，苏尔，别直勾勾地盯着别人看！"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "苏尔",
+            "content": "啊……啊！对、对不起……"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "苏尔",
+            "content": "因为太可爱了，没忍住……"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "诶？嘿嘿，谢谢……"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "想必各位是安吉拉的朋友吧？欢迎来到艺术扇区庇厄里亚。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "艺术扇区啊……难怪叫庇厄里亚呢。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "没错，这个扇区处理的数据，也是数字化后的人类的艺术作品。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "刚才我们调查过扇区的状况，这里并不从属于任何企业？"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "嗯，庇厄里亚内的数据大多数来自于个人艺术家、公益组织和政府。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "因为数据并不多，所以维护数据的也只有奥吉里和奥吉塔。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "只有两个智能体啊……"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "见笑啦。即便如此，其实平日里我们的工作也很少呢。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "不过，这里的数据虽然很少，但说是人类文明里最重要的一部分也不为过。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "",
+            "content": "安吉拉望着宁和平静的花园，眼中流露出满足与温柔。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "这里虽然很小，但是应有尽有！"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "绘画、雕塑、文学、戏剧、建筑……还有很多因为战争而毁掉的古迹和孤本。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "它们就放在博物馆里！你们有兴趣去看看吗？"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "等等奥吉塔，应该先带客人们参观花园吧！"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "可是姐姐……"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "刚才奥吉塔提到的，都陈列在花园中心的博物馆内。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "而这座花园，则是我和奥吉塔一起，在闲暇的时间里创造出来的。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "这里的一切都是我们精心设计的，希望你们也会喜欢……"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "难怪……"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们此前所抵达的扇区，都是由扇区数据管理系统模拟出来的城市外貌。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "因此虽各有特点，但总体都是以实用为主。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "而这里却完全不同……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "是呢，严格来说唯一称得上“实用”的只有博物馆而已。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "但奥吉里和奥吉塔却建造起了一整座花园。",
+            "values": [
+                "option1"
+            ],
+            "options": "真是令人惊叹啊……"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 65
+        },
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐姐你看！连教授也这么说！"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "真、真的吗……没想到能获得您的认可……"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐姐都快激动地哭出来了！"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "乱说什么呢……"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "嘿嘿，毕竟得到了“艺术的创造者”的认可啊。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "“艺术的创造者”？"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "啊，是这样的……正是因为对人类创作的艺术的热爱……"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "奥吉里和奥吉塔才会如此倾心于建造一座花园。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "因此得到教授的认可才会让她们这么高兴。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "我",
+            "content": "是这样啊……",
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "不过我说的是实话，这座花园真的很美。;能让你高兴的话，我可以夸很久很久哦。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 75,
+            "option2": 76
+        },
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "谢谢您……"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "苏尔",
+            "content": "噫，教授……你是不是在打什么歪主意？"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "谢……谢谢您！"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "好啦姑娘们，虽然不想打扰你们，不过眼下还有更重要的事哦。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "发生了什么吗？"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "刚才我找到大家时，大家正在和熵战斗呢。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "诶？！熵又出现了吗……"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "熵？就是那种病毒的名字吗？"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "嗯，虽然不知道是从哪里来的，按道理外围也有防火墙才对……"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "但熵曾经一直三三两两地试图进入过庇厄里亚的花园。"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "而且这次的数量比我们先前遇到的都要多。"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "什、什么？熵的数量更多了吗？"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "是的……"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "这样一来……扇区失守就只是时间问题了……"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "难道净化者们不来处理吗？"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "如你所见，因为庇厄里亚地处麦戈拉云端的边缘，扇区体量又很小……"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "所以净化者的响应非常之慢。"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "最近，这种状况甚至更加严重了……即使我们上报也没有什么用……"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "我们真的无法保护这座花园了吗……"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不行——！"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "咦？"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "苏尔",
+            "content": "怎么能让这座花园被那种恶心的病毒吞噬！"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我们一定会把这里保护得完好无损的！"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "苏尔",
+            "content": "对吧，教授？",
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "嗯，我们一定会帮助你们的。;嗯，人类的艺术非常重要，这些数据不能丢失。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 99,
+            "option2": 101
+        },
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "呜……真的非常非常感谢大家！"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "能够被重视……实在是太不容易了。"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "我也这么认为！"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "所以教授，如果有任何我们能够提供帮助的地方，也请不要客气！"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们或许可以调用绿洲的算量来给庇厄里亚提供支持。"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "虽然这么说有些直接，不过……"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果能够相信我们的话，希望你们能够将扇区的权限交给我们。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "关于这个……"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {},
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "苏尔",
+            "content": "什么声音？！"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "萨可",
+            "content": "吱唔！"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "席摩",
+            "content": "萨可！喂……！"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "",
+            "content": "萨可跳下了席摩的肩膀，向花园外跑去，嘴里一直吱吱地叫着。"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "席摩",
+            "content": "从萨可的信号传输器上看……是熵！"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "怎、怎么会！已经离花园那么近了吗？！"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "奥吉塔，冷静一些。"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "还请你们找个安全的地方躲起来，我们来想办法对付它们！"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "不，既然都威胁到花园了，我和你们一起去！"
+        },
+        "prop": "name",
+        "nextId": 117
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "凭借我对熵的认知，或许能够为你们提供帮助的！"
+        },
+        "prop": "name",
+        "nextId": 118
+    },
+    "node118": {
+        "id": "node118",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "奥吉塔，你去通知琴先生留意后方，发现情况随时告知我们！"
+        },
+        "prop": "name",
+        "nextId": 119
+    },
+    "node119": {
+        "id": "node119",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "好、好的！"
+        },
+        "prop": "name",
+        "nextId": 120
+    }
+}

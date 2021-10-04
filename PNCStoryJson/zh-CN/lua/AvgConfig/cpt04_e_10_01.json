@@ -1,0 +1,564 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "数分钟前，算量黑洞内部。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 关停我，然后结束这一切吧……"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 拜托你了……"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "",
+            "content": "闪烁的光标犹如一个计时器，敲打着帕斯卡的心。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（除了关停的底层操作之外，一定还有其他办法，快想想……）"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（底层操作……）"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "伊莉塔教授？",
+            "content": "无论是最初的骨架型人形，还是现有的仿生自律人形，都无法脱离人类的指令做出行动。\n来看这个。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "",
+            "content": "这是……“底层指令”的代码？"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "伊莉塔教授？",
+            "content": "没错，这就是向二代心智内部输入底层指令的过程，仔细看。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "对……我明明应该知道的，不止有关停一种方法。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "既然有执行底层操作的权限，我就可以在你的底层代码中写入沉睡的指令！"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 沉睡的……指令……？"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "简而言之，我要对你下达强制睡眠的命令，从而阻止你的失控。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "所以我需要你再维持一段时间黑洞的稳定，为我争取操作的时间。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 这个操作，会让你……遇到危险吗……？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……我之前并没有尝试过，所以无法保证这个操作能够成功。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但这是一丝希望，我认为有尝试的价值。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "成功的话，你就不必关停，只需要休眠就好。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 只需要休眠……"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 那，我还有机会见到诺依曼吗？"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "或许未来的某一天，我们知晓了让你不再失控的方法，就能将你唤醒。那时候，你就能和诺依曼再度相见。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "可能是在很久之后的某一天……但我相信，那一天会到来的。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> ……太好了……"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 我还以为……再也见不到诺依曼了……"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我也有无比想见的重要之人……"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我想和<TA>一起迈向未来，达成我们共同的目标。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "所以，这也是为了实现我自己的愿望吧。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 谢谢你……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 不过，我应该让恩格玛扇区变得很糟糕了吧……诺依曼他……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "他一直想再见到你。我想，他正是为此奋战至今的。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 嗯。能听到你这么说，真是太好了……"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 在我沉睡之后，我会将操纵黑洞内部算量的权限转交给你……"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 希望你能用这些算量，让恩格玛恢复原状。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，我会的。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 还有……如果你之后见到了诺依曼，请替我对他说……"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 没能成为完美的孩子……对不 "
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "",
+            "content": "输入光标闪烁着，将之前的对话慢慢回退。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 请你告诉诺依曼，我会自己好好地和他道歉。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 所以，在我道歉之前，一定要好好建设恩格玛。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 等我醒来。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我明白了。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那么，我要开始操作了。这个过程或许会很痛苦，你做好心理准备了吗？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 嗯，开始吧。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "",
+            "content": "尽管无法知晓埃妮阿克此时的表情，但帕斯卡却仿佛看见了她明亮而坚定的双眸。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {},
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "",
+            "content": "现在，算量黑洞外。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "",
+            "content": "铺天盖地一般的算量浪潮渐渐退去。随着视野恢复清明，所有人都明白了发生什么——"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "苏尔",
+            "content": "是帕斯卡！"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡站在我的身前，她用算量构成的屏障将信使先后射出的数发箭矢悉数挡下。\n巨大的屏障将战场分割为两半，宣告着战局的逆转。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "辛苦你们了！接下来，就交给我吧。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "管理员诺依曼，我请求临时调用恩格玛扇区的算量，将对扇区造成威胁的净化者驱逐出去！"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "请求批准！"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "",
+            "content": "随着帕斯卡的动作，我感受到算量涌入我的身体，之前战斗中造成的伤口逐渐愈合，空气中的算量波动也渐渐平静下来。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "苏尔",
+            "content": "哦哦——我感觉力量回来了！"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不止如此，我还感受到了额外的算量支持……"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡回头，向安冬妮娜眨了眨眼睛。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "反击的时候到了！"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "<color=orange>晚安，埃妮阿克。</color>"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 确实，如果醒来时能看到诺依曼就太好了……晚安。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "就是那种在入睡前会想着“如果醒来能看到<TA>微笑的脸就太好了”的感觉。"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是啊。"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 你也有对你来说很重要的人吗？"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 我在数据乱流中看到了你的记忆……那种和我一样思念某个人的感觉。"
+        },
+        "prop": "name",
+        "nextId": 102
+    }
+}

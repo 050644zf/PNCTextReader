@@ -1,0 +1,845 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "赫里奥斯扇区。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "",
+            "content": "和帕斯卡及苏尔一起，我们进入了赫里奥斯扇区。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "保险起见，我们先在这里测试一下通讯环境吧。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，我现在就向您发起通讯请求。 "
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "bravo",
+            "content": "欸？现在吗？等……"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "",
+            "content": "话音未落，激扬的深夜动画主题曲便在耳边响了起来。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "呃，这是……教授设置的个性化铃声？"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呜哇，好中二的歌词。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "bravo",
+            "content": "这，这好像是克罗琦擅自给我改的！"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "bravo",
+            "content": "比起这个，通讯信号好像没有受阻吧？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "确实，我这边没有检测到干扰，通讯非常正常。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "苏尔",
+            "content": "奇怪了，那你们怎么会联系不上克罗琦呢？\n我试一下好了。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "",
+            "content": "苏尔启动了通讯装置。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "系统",
+            "content": "> 通讯请求已发出，正在接入……"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "居然真的通了？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "苏尔？你从训练室里出来了？怎么突然想起给我打电话。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "苏尔",
+            "content": "哪里突然了——你人没出事吧？"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "就是这里很突然啊……"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "好端端的我为什么会出事啊。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "苏尔",
+            "content": "既然没事的话你至少得给我们报个平安吧，突然失联很吓人的。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "苏尔",
+            "content": "本来我正在训练室专心练习呢，莫名其妙就被帕斯卡他们拉了出来。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "苏尔",
+            "content": "听教授说你可能遭遇了不测，我急得裤子都没换就赶过来了！"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这倒不至于吧……虽然我是第一次执行侦察任务，但有这么不靠谱吗？"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "人与人之间最基本的信任哪去了……难不成我在你们眼里很脆弱？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "苏尔",
+            "content": "也，也不是说你很脆弱什么的啦，也有可能是扇区里发生了什么意外事故之类的……"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "那就更不可能啦。我早确认过了，这儿可是火神重工的特别实验扇区。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "要我说，这里的机械爆炸的概率比我抽卡出货的概率还低！"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那为什么在通讯中断以后你不联系我们？"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不是我们不信任你，但是外派的勘察员突然失联，换做是谁都会紧张。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这不是可以拿来开玩笑的事情。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "通讯中断？帕斯卡你在说什么啊，我什么时候跟你们有过通讯了。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "还有失联又是什么……从绿洲出发到现在我是第一次接到你们的消息啊。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "",
+            "content": "屏幕上的克罗琦一脸茫然，给出的答复让我们愣在了原地。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "",
+            "content": "见克罗琦的反应不似作伪，帕斯卡我和交换了一下眼神。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……把坐标告诉我们。你先原地待命，我们汇合之后再细说。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {},
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "嗯嗯。也就是说，我先和帕斯卡还有教授进行了通讯。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "然后通讯中断，之后怎么也联系不上我。担心出了什么意外，所以你们就直接赶了过来。是不是这样？"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "苏尔",
+            "content": "没毛病。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不，这可太有毛病了。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦向我们展示了她的通讯装置。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "系统",
+            "content": "> 本日通讯记录——01"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "怎么会这样……"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我还想问呢，我正在整理收集好的情报，打算结束后就联络绿洲。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不可能，你已经把情报交给我们了。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡向克罗琦展示了她的备忘录。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "赫里奥斯扇区如同出发前推测的那样，是一个能源类的实验扇区，有充足的算量资源。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这里的原住智能体数量很少……看，这些都是你的原话。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这就奇怪了，难不成是灵异事件？"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "没准联系你们的是我的幽灵分身……"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……喂！怎么突然就灵异了！"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我们这里可是科学的世界，不要随随便便联动什么幽灵恶魔之类的！"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我就随口那么一说，你怎么就紧张起来了……"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "嗯咳！其实科学的世界里也有很多怪谈的。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "比如地下组织制造的生化僵尸，在夹缝间挣扎的量子怨魂，女生宿舍里的电子羊……"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "苏尔",
+            "content": "噫——！"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你们两个别闹了。教授，您觉得这是什么情况？"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "可能是病毒或者骇客的影响。;可能是电子羊的催眠。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 59,
+            "option2": 61
+        },
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "确实……毕竟这里是云端，所见所闻也不一定是真实的。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不过如果真是骇客搞的鬼，那这技术也太逼真了…… "
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "苏尔",
+            "content": "怎，怎么教授也！"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "您是在开玩笑吧？……唔，不过，催眠吗？也有道理。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "苏尔",
+            "content": "完了，帕斯卡也！"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "冷静，苏尔。我想教授的意思是，我们看到的东西可能是某种病毒“催眠”的结果。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "要不问问安冬妮娜的意见？她是网络信息安全方面的专家。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "也对，但安冬妮娜还在绿洲主持防火墙的修缮工作没有跟来，我联系一下她好了。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡启动了通讯装置。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "系统",
+            "content": "> 通讯请求已发出，正在接入……"
+        },
+        "prop": "name",
+        "nextId": 301
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "",
+            "content": "滋——滋——"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "诶？"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "苏尔",
+            "content": "怎么了？"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "干扰好像又出现了。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡和苏尔开始处理通讯装置。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "",
+            "content": "就在这时，克罗琦突然发出了一声低呼。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你们快看！"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "",
+            "content": "朝着克罗琦所指的方向看去，扇区深处陡然亮起一抹耀眼的白光。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "",
+            "content": "紧跟着一朵蘑菇云冉冉升起，冲天的焰火以迅雷不及掩耳之势向周边扩散开来。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "苏尔",
+            "content": "是爆炸！撤！"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "",
+            "content": "苏尔话音刚落，迟来的轰鸣声与大地的震颤便绊住了我们的脚步。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "",
+            "content": "随后，席卷而来的焰浪将我们彻底吞没。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {},
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "",
+            "content": "刹那间，视界内的所有景象都消失了，耳边的声响也逐渐演化为单一的鸣噪。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "",
+            "content": "有那么一瞬，我感觉仿佛与这个世界中断了链接。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "电子女声",
+            "content": "序号99812，修正开始。"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "",
+            "content": "意识混沌间，一个低沉的声音在我耳畔响起，而后隐去。"
+        },
+        "prop": "name"
+    },
+    "node309": {
+        "id": "node309",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "嗯，这里好像只有它们三个……"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node308": {
+        "id": "node308",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "啊，啊，确实是看起来很可爱但是有点傻乎乎的早期机器人呢。"
+        },
+        "prop": "name",
+        "nextId": 309
+    },
+    "node307": {
+        "id": "node307",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "(ﾟ▽ﾟ*) 我的，热情——我的，观测——"
+        },
+        "prop": "name",
+        "nextId": 308
+    },
+    "node306": {
+        "id": "node306",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "[・_・?]小A你怎么变红了啊？"
+        },
+        "prop": "name",
+        "nextId": 307
+    },
+    "node305": {
+        "id": "node305",
+        "attributes": {
+            "name": "小机器人C",
+            "content": "ヾ(∀ゞ)好——"
+        },
+        "prop": "name",
+        "nextId": 306
+    },
+    "node304": {
+        "id": "node304",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "(〝▼皿▼)世界之火还没有燃烧起来！我们要努力！"
+        },
+        "prop": "name",
+        "nextId": 305
+    },
+    "node303": {
+        "id": "node303",
+        "attributes": {
+            "name": "小机器人B",
+            "content": "ヽ(￣▽￣)ﾉ可以去吃巧克力了吗？"
+        },
+        "prop": "name",
+        "nextId": 304
+    },
+    "node302": {
+        "id": "node302",
+        "attributes": {
+            "name": "小机器人C",
+            "content": "ヽ(￣▽￣)ﾉ可以休息了吗？"
+        },
+        "prop": "name",
+        "nextId": 303
+    },
+    "node301": {
+        "id": "node301",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "(ﾟ▽ﾟ*)有客人来了！"
+        },
+        "prop": "name",
+        "nextId": 302
+    }
+}

@@ -1,0 +1,515 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "罗萨姆扇区，管理员中心。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "苏尔到了，算量也是。绿洲的沙盒屏障已调满功率，都没什么问题了。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你们那边怎么样？听说你们找到安冬妮娜了。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "bravo",
+            "content": "她现在和帕斯卡一起帮助罗萨姆扇区的新管理员处理那边的善后事宜。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "新管理员？总之你们没事就好，尽快回来吧，苏尔现在一个劲地想去找你们，我都快按不住了。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "bravo",
+            "content": "嗯，辛苦你了。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "",
+            "content": "> 通讯结束。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "",
+            "content": "通讯刚一结束，我就看到了从管理员中心走出来的她们。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "汉娜",
+            "content": "感谢各位的帮助，罗萨姆扇区将永远铭记你们于危难之中伸出的援手。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "bravo",
+            "content": "你不打算和我们一起离开吗？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "汉娜",
+            "content": "新的图灵对现状一无所知，我不能抛下她。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "汉娜",
+            "content": "我从帕斯卡小姐那里得到了一条情报，您能开启一种可以覆盖整座扇区的屏障，对吗？那么罗萨姆扇区也……"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "bravo",
+            "content": "理论上来说，如果有扇区的<a href=Des:19>最高权限</a>的话，可以做得到。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "汉娜",
+            "content": "我已经从图灵那继承了罗萨姆扇区的最高管理权限，剩下的事就拜托您了。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "bravo",
+            "content": "无妨，只是，开启沙盒屏障之后，罗萨姆扇区的立场将会和绿洲一样，无法再接受净化者的庇护。即便如此也无所谓吗？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "汉娜",
+            "content": "从信死亡那一刻起，罗萨姆扇区就没有其他的选择了。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "",
+            "content": "拿过扇区权限，我为罗萨姆扇区启动了沙盒屏障。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "",
+            "content": "> 沙盒屏障构建中，进度27%"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "",
+            "content": "> 沙盒屏障构建中，进度64%"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "",
+            "content": "> 沙盒屏障构建中，进度100%"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "",
+            "content": "> 沙盒屏障已构建完毕。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "汉娜",
+            "content": "多谢，辛苦您了。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "汉娜",
+            "content": "我还有很多工作需要完成，就先不多打扰了，罗萨姆扇区永远欢迎你们。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "",
+            "content": "望着汉娜离开的背影，帕斯卡长舒一口气。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "总算是告一段落了，那么我们回去吧。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "在此之前我还有一个问题。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "什么？"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这个自称教授的家伙，究竟是谁？"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜，你在说什么？这不就是……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这个人不是教授，帕斯卡你清醒一点！"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你不会是觉得教授长得不像教授才……"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "云端上的外表依托于<a href=Des:47>心智投影</a>，人类的形象与现实不一这很正常，这我当然知道！"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我还知道这家伙的特征码和权限与教授完全一致！但这些都不是重点！"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你不该在我面前指挥作战的，真正的教授可做不到这么细致入微的指挥。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "够了！安冬妮娜！"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……帕斯卡？"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我说……够了，安冬妮娜。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你不知道教授……你不知道教授为我们做了多少事情。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我、苏尔、克罗琦……很多很多人形都是教授救下来的。"
+        },
+        "prop": "name",
+        "nextId": 901
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……教授给了我们这些流亡者一个家……"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们相信教授，不是因为教授是教授，而是因为教授做了值得我们相信的事情。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "就算这样……"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "就算这样，如果没有教授，绿洲走不到今天。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……你把话说到这个份上，是完全不容许我质疑了吗？"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……我不是这个意思，我只是想说，如果教授真的想要伤害我们，又何必等到今天？"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你不该为了一个疑点而全盘否定教授整个人呀。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜皱着眉不满地撇了撇嘴，看得出来，她并不想跟帕斯卡争执。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……我会盯着你的。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "",
+            "content": "最后，她将矛头指向了我，赌气似地丢下一句，旋即一个人走向了罗萨姆扇区的出口。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……教授，请别生她的气，安冬妮娜她只是……"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "bravo",
+            "content": "我知道，安冬妮娜只是担心你们而已。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "bravo",
+            "content": "而且，她还替你们问出了一直以来藏在心里的疑虑。这也是好事，不是吗？"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……其实并不是的，教授。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "自您将我从绝望中拉起那刻起，我就已经做好跟随您的准备。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不论前方是什么。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node902": {
+        "id": "node902",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……帕斯卡……"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node901": {
+        "id": "node901",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是教授建立起了绿洲，是教授保证了大家的安全！"
+        },
+        "prop": "name",
+        "nextId": 902
+    }
+}

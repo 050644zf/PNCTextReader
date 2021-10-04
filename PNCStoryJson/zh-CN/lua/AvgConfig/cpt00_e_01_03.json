@@ -1,0 +1,454 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {},
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "中环战线稳定住了！"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "苏尔",
+            "content": "教授刚才释放的战术技能可是帮上大忙了啊！"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但还远没到松懈的时候，毕竟我们只是勉强维持住了僵持的局势。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "现在净化者还在源源不断地补充兵力，我们必须尽快商讨出下一步对策。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "嘁，真是受够了。明明花费了那么多<color=orange>算量</color>，好不容易才搭建起绿洲。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "苏尔",
+            "content": "是啊！就因为离开了原本的<a href=Des:15>扇区</a>，那些净化者就对我们穷追不舍，有必要吗？！"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "净化者……？;我有些混乱，从头解释一下情况吧。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 9,
+            "option2": 11
+        },
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "就是现在正在攻打绿洲的那些机械怪嘛。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授重启战斗模块后，记忆数据有一些混乱，还是我来解释吧。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "强制重启战斗模块不会对教授的心智产生什么影响吧……"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "只是记忆数据有些混乱而已，不用担心。还是由我来说明情况吧。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们……也就是在绿洲的这些<a href=Des:17>智能体</a>，原本都是参与了“云图计划”的人形们。"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但是因为<a href=Des:14>一场事故</a>，我们所属的“云图计划”扇区消失了。我们不得不在云端中四处流浪。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "而<a href=Des:27>净化者</a>是云端中的安全程式。"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "并在扇区外围设立了“<color=orange>沙盒屏障</color>”，以保证自身的安全。"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……这就是现在我们面临的情况。净化者用强攻的方式突破了沙盒屏障，我们必须想办法将它们赶出去。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但……我们连维持现有的局势都异常艰难……"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "苏尔",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "克罗琦",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "帕斯卡，只有最后一种选择了——派出小队掩护我前往绿洲外围，重启沙盒屏障！"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但只要我们成功，沙盒屏障就能切断净化者源源不断补充的火力。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "之后再来个瓮中捉鳖，把扇区内的净化者也全部干翻！"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "苏尔",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我们没有其他选择了，帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "最坏的打算就是我们这个小队全部死于净化者的攻击下。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "大不了<a href=Des:25>重置</a>之后记忆被清空嘛……但只要能救下绿洲，也算不亏了。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "别这么说，克罗琦！"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……我没办法用你们之中任何一个的记忆来赌，一定有其他选择……"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "苏尔",
+            "content": "帕斯卡，现在可是有教授作为我们的指挥者。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "苏尔",
+            "content": "只要有教授在，无论是怎样的敌人，我们都能把它狠狠揍趴！"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2",
+                "option3"
+            ],
+            "options": "别担心，帕斯卡。我一定会让你们平安回来的。;我什么大风大浪没见过，听我指挥！;相信我。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 38,
+            "option2": 38,
+            "option3": 38
+        },
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……我明白了。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "克罗琦，我和苏尔也会和你一同出发。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，我们的命运，整个绿洲的命运，都掌握在您的手上了。"
+        },
+        "prop": "name"
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "在它们看来，我们这些没有扇区归属的智能体都是<a href=Des:28>异常程序</a>，于是试图把我们赶尽杀绝。"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "后来在您的带领下，我们终于在这个<a href=Des:32>“绿洲”扇区</a>建立了属于我们的临时家园。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我还以为有了沙盒屏障就能过几天平静日子，好好建设绿洲，没想到……"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不仅要分出当前战线的战力，而且寥寥数人的小队，很可能在净化者的集火下溃灭。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……我想过这种办法，但这么做的风险太高了。"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "经过我的改造，它可以将净化者通通挡在外面。"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<a href=Des:20>“沙盒屏障”</a>是依赖于教授的特殊权限所开启的防御性屏障。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "我",
+            "content": "沙盒屏障？"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们的心智上传后，到了这个云端里的<a href=Des:16>“云图计划”扇区</a>中。"
+        },
+        "prop": "name",
+        "nextId": 14
+    }
+}

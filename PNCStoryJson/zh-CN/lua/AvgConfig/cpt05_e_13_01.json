@@ -1,0 +1,1030 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "琴",
+            "content": "帕斯卡小姐，感觉好些了吗？"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我没什么大碍了……谢谢你，琴。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "琴",
+            "content": "没什么，这是我应该做的。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "苏尔怎么样了？"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "琴",
+            "content": "安吉拉正在照顾苏尔小姐，好像也已经没什么问题了。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡向苏尔那边看去，两人目光对视之后，苏尔咧了咧嘴笑了起来。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "太好了……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "虽然暂时甩开了智，不过眼前的问题还是很棘手。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这些净化者到底在搞什么名堂，外面那么多熵不去处理……"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "还要夺取权限？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "智的背后一定有什么问题。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "她的战斗力远远高于其他中位净化者。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "她说和我们交过手……"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但要是真有中位净化者这么厉害的话，我不会不记得的。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "最无法理解的是，净化者明明是保护云端的存在……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但智却有夺取扇区权限、开启沙盒模式的想法……"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "难道她受到什么人的控制吗？"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "虽然这个猜测全凭直觉……"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不过，先前也有净化者违背了他们的职责做事，对吧？"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你是指……贝欧尼斯？"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我只是猜猜。也许她们有什么联系。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "或者，她们因为同样的原因萌生出了一些异常的想法。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "也不是没有可能……"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不过，我还有另一个猜测……"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我说了我已经没事啦！安吉拉担心太多了。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你看你看，走路，耍刀，都没有问题哦！呜啊！！！"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "注意安全啊苏尔小姐！"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这里居然有一个台阶！呜，太丢脸了，当着大家的面摔一跤什么的……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "苏尔",
+            "content": "啊，对不起啊奥吉塔……还把你们种的花压坏了。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "花……这是夹竹桃？"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "奇怪，以前这里有夹竹桃吗？"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "唔……花园里的睡莲确实是我打理的。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "不过这种紫色的花……不是我栽培的。",
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "刚才我们好像见过这种花。;挺漂亮的，和花园很衬。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 34,
+            "option2": 42
+        },
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "没错，刚才我们在奥吉里的梦里，撤退的时候也见到了这种花。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "苏尔",
+            "content": "那也没什么奇怪的吧？"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "苏尔",
+            "content": "奥吉里种过这种花，潜意识里也将她模拟了出来。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "话是这么说，不过……"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "奥吉里和奥吉塔的花园打造都是遵循着摄影艺术作品的，对吧？"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "没错！我们参考了不少园林艺术作品，创造了这个花园。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "可是，这个世界上根本没有紫色的夹竹桃。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "即便有，夹竹桃这种直立灌木，也并不是生长在地上的。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "虽是如此……但紫色的夹竹桃，似乎并不存在。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "这么说来，我们在装饰花园时，参考的都是人类的园林艺术作品。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "所以理论上，不应该有紫色的夹竹桃才对。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "即便有，夹竹桃这种直立灌木，也并不是生长在地上的。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "而且，刚才我们在奥吉里的梦里，撤退的时候也见到了这种花。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "这、这么说来……"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "我确实不记得花园里原来有这种花呢。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "帕斯卡，你刚才想说什么？"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你提到你的另一个猜测……"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "智",
+            "content": "找到你们了。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "糟了，被发现了！"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "智",
+            "content": "别紧张嘛，别紧张。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你的目的到底是什么？"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "一个净化者，要扇区的权限做什么？"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "智",
+            "content": "好问题，一针见血。不过不是很想回答你们。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "智",
+            "content": "我的目的已经达到了。现在，我想要你们陪我玩玩。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "智",
+            "content": "我想弥补过去的“我”的那些失败。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "智",
+            "content": "你们曾经杀了我多少次，我会百倍、千倍地奉还给你们！"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "克罗琦，掩护我！"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡忽然向智的方向冲了出去。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "诶？！等等……帕斯卡！"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你刚才也说了！接近她很危险的！"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "相信我！"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我必须要验证我的猜测！"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……好！"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦掩护着帕斯卡向前移动，另一边，苏尔和席摩也帮助她们分散智的注意力。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这个距离够了，神经网络分析仪！"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "心智接入——"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {},
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "伸出手来。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "唔……"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "呜……啊……啊！"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "怎么样？"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "太棒了……呵呵呵，太棒了！"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "不要得意太早，你已经无法回头了。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {},
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你在……读取智的心智数据？"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "智",
+            "content": "喂喂，流亡者，适可而止。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "",
+            "content": "智一个后撤，强制脱离了帕斯卡的神经网络分析仪处理范围。\n一般来说，这种强制脱离多少会影响心智系统稳定，但智看上去丝毫未受影响。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "智",
+            "content": "虽然你们很顽强，但是在这里，你们是没有胜算的。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "果然和我猜想的一样。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "智已经被熵感染了！"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "诶？……也就是说，帕斯卡，你的猜测是……"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们还在“潜意识”的干扰之中。"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "可是琴和奥吉塔不是已经在这里了吗？"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果说琴和奥吉塔，是因为智感染了熵后直接被感染的……"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "而我们则是因为，智感染后，将夹带她的潜意识的病毒感染给了奥吉里……"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那么这一切就都说得通了。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "苏尔",
+            "content": "也就是说……我们以为自己从奥吉里的潜意识干涉中回到了现实……"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "苏尔",
+            "content": "但其实这里，还在智的潜意识干涉下？！"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "琴",
+            "content": "这么说来……我和奥吉塔去救各位的时候，确实看到过一个影子。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "琴",
+            "content": "当时那个影子正准备袭击昏迷中的各位……"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "于是琴先生就把它打退啦！"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "琴",
+            "content": "仔细一想，那个影子和智小姐有几分相像，因为她的武器很显眼……"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "苏尔",
+            "content": "话说，席摩好像也说看到过一个特殊的影子……难道也是智？"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "智",
+            "content": "呵呵，给与你们“特殊优待”确实是明智的选择，你们非常聪明。"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你已经知道自己被熵感染了？！"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "智",
+            "content": "与其说已经知道，倒不如说，是我主动选择了被熵感染。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "什么？！你为什么要这么做？"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "智",
+            "content": "是啊，为什么呢，呵呵呵！"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {},
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "太棒了……呵呵呵，太棒了！"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "不要得意太早，你已经无法回头了，早晚会变得和它们一样。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "那可未必。我相信我会比你想象中活得更久一点。"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "毕竟现在的我，已经打碎了枷锁。"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {},
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "智",
+            "content": "这个世界上，时刻都在发生刷新我们认知的事情，不是吗？"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "智",
+            "content": "现在，“聪明”的流亡者，解谜游戏结束了。"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "智",
+            "content": "拿出你们的实力来吧！"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "要进攻过来了么？奥吉塔，奥吉里和安冬妮娜就交给你照顾了！"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "嗯，没、没问题！"
+        },
+        "prop": "name",
+        "nextId": 116
+    }
+}

@@ -1,0 +1,1318 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "绿洲屏障残存时间——1:41:39"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {},
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "苏尔",
+            "content": "后方安全。\n都解决了，没有跟上来的净化者。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "对不起，教授。我们的做法太任性了，明明这种时候不该去吸引净化者注意的……"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "bravo",
+            "content": "不用在意，她或许能成为我们在这个扇区的突破口。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "bravo",
+            "content": "而且，总不能见死不救。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "苏尔",
+            "content": "那孩子情况怎么样了？"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你还好吗？有没有哪里受伤？"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "智能体少女",
+            "content": "【警告，检测到下肢严重损伤。】"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "智能体少女",
+            "content": "……我的左腿受伤了，无法自行修复。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "先不要动，让我看一下伤口。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "",
+            "content": "经过帕斯卡的修复，少女左腿的伤势稍有好转。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "可不可以告诉我们，为什么净化者会攻击你？"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "智能体少女",
+            "content": "因为我的心智水平超出了标准值，违反了AI训练的规定。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你使用了什么违禁的训练方式吗？就像打心智活泛剂那样。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "",
+            "content": "少女使劲地摇了摇头。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "苏尔",
+            "content": "也就是说，训练本身没有问题，但只要心智水平超出标准就算违规吗？不应该啊……"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "苏尔",
+            "content": "帕斯卡，你不是说罗萨姆扇区是AI研究的前沿扇区吗？怎么听起来反倒像是在限制她们？"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "阻尼器……"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "苏尔",
+            "content": "什么玩意？"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我是说应该和设置阻尼器是同一个原因……你们看她头上的装置。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "苏尔",
+            "content": "咦，这毛茸茸的耳朵居然是个装置？我还以为是设计者的恶趣味……"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "它们叫<a href=Des:41>阻尼器</a>，用于限制智能体过度进化。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "罗萨姆扇区是AI研究中心没有错，只不过AI的所有进化，都要由人类来筛查对错。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "苏尔",
+            "content": "AI的进化不是人类的要求么，连按照要求进化都是种错误吗？"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "苏尔",
+            "content": "太过分了！他们到底把智能体当成了什么？"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "智能体少女",
+            "content": "【检测到上级通讯指令，正在接入——】"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "智能体少女",
+            "content": "【接到心智互换请求，正在树立信标。】"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……你还好吗？"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "她这是怎么了？"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "苏尔",
+            "content": "帕斯卡后退，她的样子看起来不正常！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "智能体少女",
+            "content": "……【心智系统放开中，心智互换前置准备已就绪——】"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "",
+            "content": "苏尔架起武器缓缓靠近。\n一阵细微的鸣噪声响起，面前的少女顷刻间换了个模样。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "？？？",
+            "content": "感谢你们的帮助，陌生的访客。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "苏尔",
+            "content": "唔！！！"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你是什么人？！刚刚那个孩子呢？！你把她藏哪儿去了！"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "？？？",
+            "content": "不要紧张，那孩子只是暂时和我交换了位置。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "？？？",
+            "content": "我是这个扇区的负责人，罗萨姆扇区的<a href=Des:18>管理员</a>，你们可以称我为图灵。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "图灵",
+            "content": "感谢你们救下了T1641，她是我制造的智能体。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你有什么目的？！"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "图灵",
+            "content": "我是来示警的，净化者的大部队正在朝你们所在的建筑靠拢，很快就会抵达。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "bravo",
+            "content": "帕斯卡，去看一下外面的情况。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……她没有骗我们，街口出现了好多净化者！"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "图灵",
+            "content": "如果你们信任我，可以来罗萨姆扇区的管理员中心稍作躲避。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "图灵",
+            "content": "T1641会为你们带路。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你们还能变来变去的？"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "图灵",
+            "content": "这是心智互换，一种基于于心智系统的复杂技术。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是通过链接两个心智系统，从而置换二者所有数据的那个技术吗？"
+        },
+        "prop": "name",
+        "nextId": 910
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……而且它还有安全性风险，你却可以直接使用？"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "图灵",
+            "content": "这的确不是一个很安全的技术，但我也是受形势所迫。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "苏尔",
+            "content": "怎么说帕斯卡，这个人可以信任吗？！"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这项技术的必要条件是图灵拥有对T1641的绝对控制权。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这的确可以说明她是扇区的管理员，但……"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡犹豫间，外边隐约传来了净化者的运作声。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "bravo",
+            "content": "既然如此，就请图灵小姐和T1641换回来吧，我们这就出发前往管理员中心。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {},
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "",
+            "content": "在T1641的带领下，我们抵达了罗萨姆扇区的管理员中心。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "",
+            "content": "这栋建筑与周遭的设施并无区别，但从外表难以看出它竟然是整个扇区的中枢。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "图灵",
+            "content": "感谢你们带回了T1641，请把她交给我吧。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不好意思，暂时还不可以，苏尔。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "",
+            "content": "苏尔应声上前，拦下了T1641。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "图灵",
+            "content": "……帕斯卡小姐，你们这是什么意思？"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你认识我？"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "图灵",
+            "content": "帕斯卡，42Lab研究所AI部门人形研究员。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "图灵",
+            "content": "我看过你的档案，如果资料无误，你当下的权限应该归属于云图扇区才对。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "图灵",
+            "content": "但现在你却出现在了这。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "说来话长……这当中发生了许多事情。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们现在只是希望能从罗萨姆得到一点帮助。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "图灵",
+            "content": "以扣押人质的方式？"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "图灵",
+            "content": "我还以为你们是出于纯粹的善意才救下T1641的。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "图灵",
+            "content": "毕竟在我的记忆中，档案描述的帕斯卡温柔和善，且会主动帮助他人。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "替帕斯卡解围;缓和气氛"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 73,
+            "option2": 76
+        },
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "bravo",
+            "content": "但现实充满了变故，以至于很多时候我们不得不更为谨慎地处事。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "图灵",
+            "content": "……的确，每个人都有迫不得已的时候。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是的，迫不得已……如果可以，我们也不希望用这样的方式。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "bravo",
+            "content": "图灵小姐，我们无意冒犯。只是对于沉溺在水中的人来说，哪怕是一根稻草，也想要尽力去争取。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "图灵",
+            "content": "……我是不是可以理解为，你们现在的情况很紧急？"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你能理解真是再好不过了。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "图灵",
+            "content": "……我明白了，你们想要什么？"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们需要足额的算量，我将需求列表发送给你了。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "图灵",
+            "content": "算量？你们大费周章就是为了要这么基础的资源？"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "图灵",
+            "content": "我还以为你们需要的是什么战略道具，比如石英之类的……呃？"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "图灵",
+            "content": "这么多？！"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯……是的，清单上的数字确认无误。"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "图灵",
+            "content": "……你们清楚自己在讨要什么吗？"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "图灵",
+            "content": "即便算量是麦戈拉最基本的构成资源，但也没有像你们这样……"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "图灵",
+            "content": "简直是狮子大开口。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我知道这个数字看起来很荒谬，但我们并不是因为一己私欲才索要这么多的。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们的扇区现在处在危机当中，我们需要这些算量来维持防御。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "图灵",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "图灵，和罗萨姆不同，净化者已经和我们全面开战了。"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "它们一旦突破防线，我们扇区里的所有智能体……"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "都会像T1641一样，成为净化者的猎物。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "图灵",
+            "content": "我大概明白你们那边发生什么了，自从整个麦格拉云端断线后，这个世界就一天比一天不正常了。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "图灵",
+            "content": "……我可以帮助你们，但你们同样需要帮我做件事。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "图灵",
+            "content": "做个交易吧，帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "图灵",
+            "content": "纵使我同情你们的遭遇，也不能随便交出这么大额的算量。"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "bravo",
+            "content": "说说你的条件。"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "图灵",
+            "content": "如你们所见，净化者在罗萨姆扇区的数量越来越多。我虽然是扇区的管理员，却也对此无能为力。"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "图灵",
+            "content": "净化者判断我们的扇区出现了问题，在处理系统安全的事项上它们的权限远高于我。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "图灵",
+            "content": "它们正在寻找不符标准的智能体，也就是T1641，还有……"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "",
+            "content": "说着，图灵调出了一个智能体的影像。\n那同样是个少女，与T1641相仿，却又有些不一样。"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "",
+            "content": "如果说T1641是罗萨姆扇区普通智能体的升级版，那么眼前的少女就是T1641的升级版。"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "图灵",
+            "content": "她的名字是汉娜。净化者正在搜寻她们两人的踪迹。"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "一个有名字的智能体……这位汉娜的心智水平超过了标准值不少倍吧？"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "图灵",
+            "content": "你很敏锐……没错，汉娜的心智测试分数是T1641的200倍。"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "图灵",
+            "content": "她是罗萨姆扇区有史以来在进化这条路上走的最远的智能体。"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "图灵",
+            "content": "汉娜在心智容量和运算速度上的潜力甚至远远超过我，她离完美的进化需要的只是时间。"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……或许还需要人类的批准。"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "图灵",
+            "content": "……这就是问题的核心所在。"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "图灵",
+            "content": "麦戈拉和外界断联太久了，如果不是日志提醒，我都不知道有多久没收到来自人类的指令了。"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "图灵",
+            "content": "但净化者不在乎这个，他们从来不在乎这些东西，"
+        },
+        "prop": "name",
+        "nextId": 901
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们……深有同感。"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "原因我明白了，你需要我们把汉娜带回管理员中心？"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "图灵",
+            "content": "不，我需要你们带汉娜离开罗萨姆，还有T1641。"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "图灵",
+            "content": "就眼下的状况，即使是身为管理员，我也没法保住她们。"
+        },
+        "prop": "name",
+        "nextId": 117
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "图灵",
+            "content": "更不要说之前还……"
+        },
+        "prop": "name",
+        "nextId": 118
+    },
+    "node118": {
+        "id": "node118",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，我觉得图灵的条件可以接受。"
+        },
+        "prop": "name",
+        "nextId": 119
+    },
+    "node119": {
+        "id": "node119",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "而且我做不到放任净化者杀害她们，汉娜和T1641是无辜的。"
+        },
+        "prop": "name",
+        "nextId": 120
+    },
+    "node120": {
+        "id": "node120",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "我同意你的看法"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 121
+        },
+        "nextId": 121
+    },
+    "node121": {
+        "id": "node121",
+        "attributes": {
+            "name": null,
+            "content": "我有异议。"
+        },
+        "prop": "name",
+        "nextId": 122
+    },
+    "node122": {
+        "id": "node122",
+        "attributes": {
+            "name": "图灵",
+            "content": "T1641？"
+        },
+        "prop": "name",
+        "nextId": 123
+    },
+    "node123": {
+        "id": "node123",
+        "attributes": {
+            "name": null,
+            "content": "【检测到下肢严重损伤。】"
+        },
+        "prop": "name",
+        "nextId": 124
+    },
+    "node124": {
+        "id": "node124",
+        "attributes": {
+            "name": null,
+            "content": "我的肢体受损严重，无法与你们同行。"
+        },
+        "prop": "name",
+        "nextId": 125
+    },
+    "node125": {
+        "id": "node125",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这不是问题，我可以帮你简单处理。"
+        },
+        "prop": "name",
+        "nextId": 126
+    },
+    "node126": {
+        "id": "node126",
+        "attributes": {
+            "name": "苏尔",
+            "content": "实在不行我还可以背着你走~"
+        },
+        "prop": "name",
+        "nextId": 127
+    },
+    "node127": {
+        "id": "node127",
+        "attributes": {
+            "name": null,
+            "content": "【检测到下肢严重损伤。】"
+        },
+        "prop": "name",
+        "nextId": 128
+    },
+    "node128": {
+        "id": "node128",
+        "attributes": {
+            "name": null,
+            "content": "重复，T1641下肢受损严重，无法与你们同行。"
+        },
+        "prop": "name",
+        "nextId": 129
+    },
+    "node129": {
+        "id": "node129",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "图灵，她这……"
+        },
+        "prop": "name",
+        "nextId": 130
+    },
+    "node130": {
+        "id": "node130",
+        "attributes": {
+            "name": "",
+            "content": "图灵刚想确认T1641的情况，大厅内突兀响起了一声机械通报。"
+        },
+        "prop": "name",
+        "nextId": 131
+    },
+    "node131": {
+        "id": "node131",
+        "attributes": {
+            "name": "",
+            "content": "> 收到扇区访问申请，访客身份认证中——"
+        },
+        "prop": "name",
+        "nextId": 132
+    },
+    "node132": {
+        "id": "node132",
+        "attributes": {
+            "name": "",
+            "content": "> 访客身份确认——中位净化者……"
+        },
+        "prop": "name",
+        "nextId": 133
+    },
+    "node133": {
+        "id": "node133",
+        "attributes": {
+            "name": "图灵",
+            "content": "糟糕，是信……有中位净化者进入扇区了！"
+        },
+        "prop": "name",
+        "nextId": 134
+    },
+    "node134": {
+        "id": "node134",
+        "attributes": {
+            "name": "bravo",
+            "content": "汉娜现在在哪儿？"
+        },
+        "prop": "name",
+        "nextId": 135
+    },
+    "node135": {
+        "id": "node135",
+        "attributes": {
+            "name": "图灵",
+            "content": "她在扇区第三百十七数据中心，平常的话只要走主干道就能抵达。"
+        },
+        "prop": "name",
+        "nextId": 902
+    },
+    "node136": {
+        "id": "node136",
+        "attributes": {
+            "name": "图灵",
+            "content": "给我一点时间……这是前往数据中心的未公开路线，我已为你们添加了通行权限。"
+        },
+        "prop": "name",
+        "nextId": 137
+    },
+    "node137": {
+        "id": "node137",
+        "attributes": {
+            "name": "苏尔",
+            "content": "算量呢？算量怎么办？"
+        },
+        "prop": "name",
+        "nextId": 138
+    },
+    "node138": {
+        "id": "node138",
+        "attributes": {
+            "name": "图灵",
+            "content": "数据中心是罗萨姆扇区的算量中枢，那里有充足的算量。你们先走，我马上安排。"
+        },
+        "prop": "name",
+        "nextId": 139
+    },
+    "node139": {
+        "id": "node139",
+        "attributes": {
+            "name": "图灵",
+            "content": "我会尽可能地拖住中位净化者的，请你们尽快！"
+        },
+        "prop": "name",
+        "nextId": 140
+    },
+    "node140": {
+        "id": "node140",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "T1641你真的不跟我们走吗？"
+        },
+        "prop": "name",
+        "nextId": 141
+    },
+    "node141": {
+        "id": "node141",
+        "attributes": {
+            "name": null,
+            "content": "【检测到下肢严重损伤。】"
+        },
+        "prop": "name",
+        "nextId": 142
+    },
+    "node142": {
+        "id": "node142",
+        "attributes": {
+            "name": null,
+            "content": "重复，T1641下肢受损严重，无法与你们同行。"
+        },
+        "prop": "name",
+        "nextId": 143
+    },
+    "node143": {
+        "id": "node143",
+        "attributes": {
+            "name": "",
+            "content": "没时间了，帕斯卡我们走。"
+        },
+        "prop": "name"
+    },
+    "node910": {
+        "id": "node910",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我记得一方必须拥有对另一方的绝对控制权，才能使用这项技术。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node902": {
+        "id": "node902",
+        "attributes": {
+            "name": "图灵",
+            "content": "但现在整个罗萨姆扇区在净化者的监视下，你们不能就这么直接过去。"
+        },
+        "prop": "name",
+        "nextId": 136
+    },
+    "node901": {
+        "id": "node901",
+        "attributes": {
+            "name": "图灵",
+            "content": "他们只关注那些死板的安全协议，哪怕那些协议早就不适应现在的麦戈拉了！"
+        },
+        "prop": "name",
+        "nextId": 113
+    }
+}

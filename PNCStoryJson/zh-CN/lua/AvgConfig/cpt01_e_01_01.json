@@ -1,0 +1,966 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "> 时间流逝无序不歇，规则成长停滞不前。"
+        },
+        "prop": "Subtitle",
+        "nextId": 300
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "content": "绿洲屏障残存时间——1:55:56 \n罗萨姆扇区外围。"
+        },
+        "prop": "Subtitle",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "银白色的高墙耸立在麦戈拉荒芜的旷野之上，它是扇区的第一道防线。亦如现实世界的城墙，护佑着扇区内的一切不受外界侵害。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "苏尔",
+            "content": "怎么样了？能破解吗？"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "系统",
+            "content": "> 确认访客身份，<a href=Des:30>特征码</a>校验中—— \n> 校验错误——"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不行，罗萨姆扇区的<a href=Des:40>防火墙</a>设计得太周密了，根本找不到漏洞。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "毕竟罗萨姆扇区归属于<color=orange>42Lab</color>的线上研究体系内，他们的技术实力非常强。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "和小企业的通用防火墙相比，42Lab所属扇区的防火墙复杂得多。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不应该啊，我们之前在的<color=orange>云图扇区</color>不也是归属于42Lab的吗？那里的防火墙可烂了，还需要你们来打补丁。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不是这样的，苏尔，云图扇区和罗萨姆扇区没有可比性。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "罗萨姆扇区负责了42Lab大部分的AI突破研究工作，云图计划的地位和那些研究没法相提并论。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "和罗萨姆扇区比起来，云图扇区不过是个用来测试心智备份的小地方。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呃，原来有这么大的差距么？那能不能暴力破解？"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "哪有那么简单，扇区的防火墙防御力很高，你就是站在这里砍上一天一夜，也不见得能劈开一个口子。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "向绿洲求援？"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 16
+        },
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "很遗憾，教授。出发之前我专门确认了一个问题，目前绿洲擅长信息技术的只有我一个。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这也不行那也不行，头疼……啊，对了，我们不是有安娜吗！"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是啊，安冬妮娜要是在的话，以她的技术，肯定能很轻松地破解这里的防火墙。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我不是这个意思啦，我记得安娜不是说过她以前就是42Lab那边的内部技术人员吗？"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "苏尔",
+            "content": "那她有没有和你说过有什么后门一类的？"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……对！安冬妮娜负责过云图扇区防攻系统的维护，罗萨姆扇区说不定也是用的同一套管理逻辑！"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我知道怎么做了。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "系统",
+            "content": ">二次校验中止……切换至访问申请模式。\n> 访问申请录入中……确认，观光申请，通行人数三。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "苏尔",
+            "content": "？？？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这就破解了？好快，安娜的名字这么管用？"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不是的，我并没有破解防火墙。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "只是因为我很熟悉安冬妮娜的手法，清楚她设置后门的格式习惯，所以尝试钻了个空子。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "要不是你提醒，我还真想不起来这点。帮大忙了苏尔。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "苏尔",
+            "content": "咦，原来是我的功劳吗？"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是的喔，大功臣苏尔~快进去吧，绿洲还在等着我们拿算量回去呢。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "苏尔",
+            "content": "好嘞，接下来就是领队的时间了，跟我来！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {},
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "",
+            "content": "越过防火墙，走出通道，一座极具未来感的科幻都市展现在我们眼前。宽阔交错的街道，鳞次栉比的高楼，来来往往的智能体……一切的一切都与外围的旷野形成了鲜明的对比。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "苏尔",
+            "content": "好大啊……这就是罗萨姆扇区吗？不知道的还以为我们返回现实世界的哪座城市了。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "还是有区别的，现实世界的城市里居住着人类，而云端上的扇区则居住着智能体。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "和人类不同，扇区中的<color=orange>原住智能体</color>只会按照<a href=Des:50>指令</a>行动，且大多没有完整的自主意识。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "苏尔",
+            "content": "就像人形？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "有……点差别，原住智能体在现实中没有自己的<a href=Des:11>躯体</a>。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "而且他们无法离开所属的扇区，在这点上，人形比扇区中的原住智能体更自由。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果有朝一日人类下达了关闭扇区的指令，没有及时转移的原住智能体会和扇区一同消亡。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……这……这么残忍的吗？他们不能想办法自己离开吗？"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "离开所属扇区的下场……苏尔你应该很清楚才对，我们自己就是最好的例子。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "即使我们是被迫离开我们的所属云图扇区的，但<color=orange>净化者</color>同样没有放过我们。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "苏尔",
+            "content": "唉……该死的净化者，明明作为麦戈拉云端的管理系统应该好好为我们着想才对……"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "现在还是更多地关注当下的难题吧，我们得尽快找到可以获取算量的地方。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "苏尔，有办法识别我们所在的区域吗？"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "苏尔",
+            "content": "交给我，辨认地形分析位置可是我领队探险的看家本领！"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "怎么样？"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "苏尔",
+            "content": "嗯……啊……这……咳，我好像识别不太出来。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这些建筑的相似度也太离谱了，单从外观上根本分辨不出来对应的功能作用。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我很想说科考探险这么长时间，什么地形我没见过……但这种状况我还真没见过。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我疏忽了，毕竟智能体不需要通过外饰来区别功用，只有我们才要。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "该怎么办呢，教授？"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "先去寻找算量;先去查询地图"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 56,
+            "option2": 59
+        },
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "bravo",
+            "content": "既然我们的目标是算量，就只考虑怎么获取算量。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "您的意思是……我明白了。但这恐怕不行，先不论我们能不能找到存储有足够算量的地方。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "退一步说，就算找到了，以我们现在的身份权限也无法进入。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "bravo",
+            "content": "能不能通过骇入附近的建筑，连上整个扇区的网络，然后查询地图？ "
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……难度太大，我们之前通过扇区防火墙还是靠着安冬妮娜留下的后门。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这些建筑的防火墙就算强度没有那么高，恐怕也不是现在的我们可以攻破的。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "苏尔",
+            "content": "要不我们干脆一点，直接找个智能体问路怎么样？"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "呃……这应该行不通。智能体都是按照指令行事的，未必会回答我们。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "苏尔",
+            "content": "那总不能什么都不做吧？教授肯定也是这么想的对不对？"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "好……好吧，那你试试。发现不对马上回来，千万别冒进。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "苏尔",
+            "content": "安啦安啦。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "",
+            "content": "苏尔在街上一连招呼了数位智能体，没过多久就摊着手走了回来。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "苏尔",
+            "content": "行不通，好像是我们的身份有问题。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不管问谁，问什么东西，得到的答复都是“权限不足”。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "果然空子不是那么好钻的，罗萨姆扇区的安全机制比我们想象的更严格……"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不过倒也不是完全没有收获，我回来的时候在街角的屋子里看到了一个智能体。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "苏尔",
+            "content": "她看起来和其他的智能体都不太一样，怎么说呢……感觉很灵动。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "她的回答不是“权限不足”吗？"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我没敢问，总觉得这个智能体比其他的要聪明。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "苏尔",
+            "content": "其他智能体发现不对可能只会回答“权限不足”，但她像是那种会直接拉警报的类型。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不是帕斯卡你说的别冒进嘛，我就回来听听你们的意见。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你做的没错……询问这样的目标的确会有危险。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "苏尔",
+            "content": "所以怎么说？要不我们还是冒个险？"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……等等！"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "",
+            "content": "话音未落，苏尔忽地一把将我们扯入角落，打断了谈话。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "",
+            "content": "紧接着，街口走出了成排的净化者。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "苏尔",
+            "content": "她不会发现我们了吧？真就直接拉警报啊？！这么狠的吗？！"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "别慌，这些净化者的目标好像不是我们。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "净化者",
+            "content": "【清肃任务进行中，请出示你的特征码并提供<a href=Des:42>检查接口</a>。】"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "智能体",
+            "content": "【……】"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "净化者",
+            "content": "【感谢配合，正在接入心智系统进行扫描，请勿进行其他操作以防连接中断。】"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "苏尔",
+            "content": "它们这是在做什么？"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "苏尔，你说的智能体是她吗？"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "",
+            "content": "顺着帕斯卡所指的方向看去，一个少女模样的智能体在规矩的队伍里分外显眼。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "",
+            "content": "她低垂着眉眼不断地打量四周，似乎是在计划怎么离开。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "",
+            "content": "然而没过多久，检查的队伍就轮到了少女。"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "净化者",
+            "content": "【错误，检测到待验指数超出阈值。重复，检测到待验指数超出阈值……】"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "净化者",
+            "content": "【智能体编号T1641，检查结果：心智异常，根据净化条例第十四条，确定目标为异常智能体。】"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "净化者",
+            "content": "【净化开始。】"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "智能体少女",
+            "content": "！！！"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "苏尔",
+            "content": "怎么回事？净化者的目标是她吗？！"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "苏尔",
+            "content": "可她不是智能体吗？什么时候净化者开始对普通智能体下手了？！"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "苏尔别冲动！这里是罗萨姆扇区，不是我们自己的地盘！"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "苏尔",
+            "content": "难道要我们就这么看着吗？！"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "当然不是！我也想救她，可是……"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "bravo",
+            "content": "帕斯卡，你在这里进行掩护攻击。苏尔上去救人。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，这样做我们可能会暴露的……"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "bravo",
+            "content": "别担心，我自有安排。"
+        },
+        "prop": "name"
+    },
+    "node303": {
+        "id": "node303",
+        "attributes": {
+            "content": "<b>>> CHAPTER 1 //     莫 比 乌 斯 . . .</b>"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node302": {
+        "id": "node302",
+        "attributes": {
+            "content": "> 是沉沦安逸，还是一往无前？"
+        },
+        "prop": "Subtitle",
+        "nextId": 303
+    },
+    "node301": {
+        "id": "node301",
+        "attributes": {
+            "content": "> 权责与付出相依，渴求与代价交叠。"
+        },
+        "prop": "Subtitle",
+        "nextId": 302
+    },
+    "node300": {
+        "id": "node300",
+        "attributes": {
+            "content": "> 相悖的二者被稳定在同一个面。"
+        },
+        "prop": "Subtitle",
+        "nextId": 301
+    }
+}

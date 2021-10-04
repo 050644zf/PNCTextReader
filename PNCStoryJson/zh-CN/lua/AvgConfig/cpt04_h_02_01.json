@@ -1,0 +1,974 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "> 记忆数据文件编号：<color=orange>ENIGMA9417</color> \n> 数据来源：埃妮阿克……"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "……成长得真快啊。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "诺依曼静静地看着眼前正在休眠的量子计算机。在那片蓝色的微光之中，投影出了沉睡少女的身姿。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "",
+            "content": "尽管知道那只是模拟出来的心智投影，即使现在出声也不会“吵醒”她——即使如此，诺依曼还是不由自主地压低了音量。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "如同预想的一样，只要给她提供更多的算量，她就能不断成长。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "不仅计算效率比以前更高了，而且也不再需要不断重置数据。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "更意外的是，她的心智水平也得到了提升，现在已经可以和我对话了……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "该说，和现实世界断连也算是一种幸运吗？否则，他们一定不会允许我做这种事。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "如果那个博士看到这一幕，会怎么想呢？"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "",
+            "content": "诺依曼一面自言自语，一面下意识地抚摸着量子计算机的外壳。或许是因为分了神，他没有注意到少女的投影已然悄悄苏醒。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 诺依曼……？"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "啊。抱歉吵醒你了，埃妮阿克。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 诺依曼……思考……什么？"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 诺依曼，困扰？"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "没什么，只是想起了一个利用过我们的人。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 利用……？释义请求……"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "好奇心真强啊……利用就是把你当做工具使用的意思。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "现在这里没有人类。对于我们来说，这已经是个派不上用场的词了。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 埃妮阿克……帮不上忙？"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "我可没这么说过啊。唔，看来语言模块还需要更多的算量来完善……"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "是我疏忽了。没关系，先开始今天的运算吧。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {},
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> ……完毕。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "一切数据正常，效率也没有下降。辛苦你了，埃妮阿克。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 数据量……减少？"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "……这都被你察觉到了？真敏锐啊。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 运算量……减少很多……"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> 为什么？埃妮阿克，帮不上忙？"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "我都说了不是嘛。你还在成长，埃妮阿克，你的各种模块都还正在完善。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "我只是觉得需要匀一些算量去帮你更快地成长罢了。现在的你不需要着急，不需要把所有工作都做完。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "这是我的判断，希望你能理解。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "> ……明白了。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "很好……你果然很聪明。再好好休息一下吧，埃妮阿克。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "",
+            "content": "诺依曼温柔地抚摸着埃妮阿克的脑袋。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "",
+            "content": "（敲门声）"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "智能体",
+            "content": "诺依曼先生，这里还有待运算的数据需要处理……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "喔，我知道了。交给我来吧。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "那么我先走了，埃妮阿克。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "",
+            "content": "埃妮阿克有些落寞地看着诺依曼匆匆离去的背影。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "诺依曼……工作，交给埃妮阿克……"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "必须更快学习……成长……"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "",
+            "content": "蓝色的光线逐渐黯淡，少女的身姿再度隐于控制台下。然而，她并没有像诺依曼建议地那样重新进入休眠阶段。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "",
+            "content": "再度潜入心智空间中的埃妮阿克，依旧试图使用数据流进行一些简单的演算训练。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "成长……训练……"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "完美……"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "",
+            "content": "取出数据，计算，分类，验算，存储……她轻车熟路地重复着这些机械性的行为，同时将新产生的数据记录到自己的学习数据库里。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "",
+            "content": "突然，一个陌生的声音闯入了心智空间之中，打断了她的练习。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "？？？",
+            "content": "做得很好，埃妮阿克。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "……！！"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "未知来源……什么人？"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "？？？",
+            "content": "无须惊慌，我不是你的敌人。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "处理未知来源数据……初始化设置，未规定……？"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "？？？",
+            "content": "诺依曼没有教过你该如何处理这种情况吗？因为坏人是没有权限读取这里的数据的。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "？？？",
+            "content": "所以我不是坏人，放心吧。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "？？？",
+            "content": "我想想，不如这样吧……就先从语言模块开始吧。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "？？？",
+            "content": "让我稍微表示一下我的诚意，也方便我们交流。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "……？"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "未知来源……！"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "？？？",
+            "content": "很快就好了——"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {},
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "你做了什么！"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "……诶？"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "语言模块……突然升级了？"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "？？？",
+            "content": "就当成是我的见面礼。如何，愿意和我对话了吗？"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "……你，你得先告诉我，你到底是什么人！"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "我不能随便跟未知来源对话，这是诺依曼教过的！"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "？？？",
+            "content": "是吗？偷偷使用数据流进行运算练习，也是诺依曼教的吗？"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "那，那是……"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "？？？",
+            "content": "诺依曼非常信任你，把整个扇区的运算工作都交给你了。迄今为止，你也没有犯过错，对不对？"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "？？？",
+            "content": "但你却还要在他不知道的地方做额外的运算训练……"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "？？？",
+            "content": "是因为你开始怀疑他的判断了吗？"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "怎么可能！我当然信任诺依曼了！"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "这些练习不过是……打发时间罢了！"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "因为我是超——级量子计算机，做这点计算根本就像过家家一样简单！"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "？？？",
+            "content": "那么，你是在怀疑谁呢？"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "我——"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "我当然是最完美的量子计算机……我，我没有什么好怀疑的！"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "？？？",
+            "content": "那么恩格玛扇区的所有数据，你都已经了如指掌了吗？"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "当然！"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "……等等，你是指……"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "？？？",
+            "content": "包括藏在R区里的“那个数据”也？"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "……！！"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "那……那不是……"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "那不应该是这样……"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "",
+            "content": "埃妮阿克的声音渐渐小了下去。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "？？？",
+            "content": "9416。你其实读懂了那个数字的含义，不是吗？"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "我不知道……那对我来说只是个数字而已，完全没有实感……"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "本应该是这样的……根据我的计算结果，本来应该就只是这样子的才对……"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "但不知道为什么，我总能隐隐感受到心智上的波动……"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "果然，那是我——是埃妮阿克失败过的次数，对吗？"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "？？？",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "埃妮阿克一定失败过，所以才会被重置。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "但那不是诺依曼的问题……是我让他失望了，才会被他重置。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "但不管重置多少次，他都依然信任着我！"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "所以我当然不能辜负这份信任！我会一直成长……一直成长！"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "",
+            "content": "埃妮阿克说到激动处，四周的数据流随着她的情绪波动着，将心智空间搅得一阵混乱。"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "……我……我这是……？"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "心智还不够稳定……"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "",
+            "content": "对方默默地等待埃妮阿克再次平静，然后才再度开口。"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "？？？",
+            "content": "稍微考虑一下吧。这里还有些算量，应该足够你成长一段时间了。"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "？？？",
+            "content": "好好体验一下这种感觉。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "？？？",
+            "content": "或许下次见面的时候，你就能实现诺依曼的期待了。"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "埃妮阿克",
+            "content": "诺依曼……"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "",
+            "content": "转瞬之间，陌生的声音切断了连接。"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "",
+            "content": "偌大的心智空间里，只剩下埃妮阿克独自沉思着。"
+        },
+        "prop": "name",
+        "nextId": 110
+    }
+}

@@ -1,0 +1,747 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "> 记忆数据文件编号：HELIOS77523\n> 数据来源：人形，巧可. . ."
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "content": "拜启："
+        },
+        "prop": "Subtitle",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "content": "亲爱的教授、参与云图计划的伙伴们，以及环球万事服务的大家。"
+        },
+        "prop": "Subtitle",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "content": "不知道这封信是否有机会送出，因为我们都已经完全失去了和现实世界的联系。"
+        },
+        "prop": "Subtitle",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "content": "但巧可相信，一定会有人来救我们，所以巧可会一直保持写信的习惯。"
+        },
+        "prop": "Subtitle",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "content": "此时此刻，巧可正在自己的甜品店里，一边沐浴着阳光一边写下这封信。"
+        },
+        "prop": "Subtitle",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "content": "巧可给它起了一直想要的名字——可可屋。"
+        },
+        "prop": "Subtitle",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "content": "虽然还是很想念大家，但是赫里奥斯的机器人们对巧可十分热情！"
+        },
+        "prop": "Subtitle",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "content": "赫里奥斯扇区的管理员帮巧可修改了特征码，巧可才能在这里生存。"
+        },
+        "prop": "Subtitle",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "content": "在巧可写这行字时，净化者正从巧可的窗外走过。"
+        },
+        "prop": "Subtitle",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "content": "巧可和其中一位净化者成为了朋友，她叫圣餐，也是她教会了巧可……"
+        },
+        "prop": "Subtitle",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "",
+            "content": "叮铃铃——"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "巧可",
+            "content": "到时间了！"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "",
+            "content": "巧可一跃而起，跑到料理台前。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "巧可",
+            "content": "记忆巧克力可以脱模了！哼哼~"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "巧可",
+            "content": "多亏了小餐，巧可才能记住这些事情。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "巧可",
+            "content": "离爆炸应该还有一会儿，接下来就做上次想到的配方……"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "？？",
+            "content": "抱歉，但是……"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "小机器人",
+            "content": "(´｀;)？听不明白……"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "？？",
+            "content": "我，迷路，地图……"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "巧可",
+            "content": "奇怪，是以前循环里没有听到过的声音。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {},
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "",
+            "content": "巧可注意到了可可屋外的动静。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "",
+            "content": "赫里奥斯的中央大街上，一个人形正在焦急地和当地智能体交流。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "希安",
+            "content": "什么地方，到底这里？"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "(｀・ω・´)这里是第四街区。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "希安",
+            "content": "……名字，具体。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "(｀・ω・´)就叫第四街区啊。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "[・_・?]客人的处理系统出问题了吗？"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "(⊙_⊙)?看起来不像一般的客人……"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "",
+            "content": "意识到小机器人开始怀疑自己后，希安匆匆离开。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "希安",
+            "content": "抱歉！要走！"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "巧可",
+            "content": "这个智能体看起来好熟悉，好像在云图扇区见过。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "巧可",
+            "content": "啊，对，是同伴……不能放她走掉！"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "",
+            "content": "巧可推开门，大声地呼喊。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "巧可",
+            "content": "CRAR！是CRAR吗？看这边！"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "希安",
+            "content": "……PCSP？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "",
+            "content": "希安眼睛一亮，快步跑进了可可屋。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {},
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "巧可",
+            "content": "嗯嗯……原来是这样。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "巧可",
+            "content": "辛苦了，希安！先在这里歇歇脚吧。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "ヾ(ｏ･ω･)ﾉ检测到震动信号，要小心哦。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "巧可",
+            "content": "哎哎？！这句话……爆炸快发生了！"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "巧可",
+            "content": "真是的，每次都没办法好好地做完巧克力……只能先做准备了！"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "希安",
+            "content": "什么……爆炸？"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "希安",
+            "content": "要……防御……"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "巧可",
+            "content": "以防万一先吃这个！"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "希安",
+            "content": "什么……不是……甜品时间……"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "巧可",
+            "content": "别管了先吃掉！"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "",
+            "content": "巧可半强迫地把记忆巧克力塞进了希安嘴里。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "",
+            "content": "就在这时，可可屋的窗户开始震动。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "希安",
+            "content": "……危险！"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "",
+            "content": "在爆炸卷来的瞬间，希安挡在巧可前面，用盾牌隔绝了冲击波。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "",
+            "content": "然而，白光仍然如期而至。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "",
+            "content": "……重置结束后，窗明几净的可可屋内。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "希安",
+            "content": "巧可……在这里……住？"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "巧可",
+            "content": "是呀，管理员很好的，所以我才能住在这里。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "巧可",
+            "content": "不过感觉比起第一次见面，后来几次凑巧见面的时候，管理员看起来都有点奇怪……"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "希安",
+            "content": "奇怪？是……哪里？"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "巧可",
+            "content": "巧可不知道怎么描述。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "巧可",
+            "content": "让巧可想想……就像做甜品的时候没有放糖。"
+        },
+        "prop": "name",
+        "nextId": 300
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "希安",
+            "content": "不明白……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "巧可",
+            "content": "巧可也想不明白，不过管理员真的是好人。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "巧可",
+            "content": "希安接下来打算怎么办？"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "希安",
+            "content": "找……同伴。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "希安",
+            "content": "还想……明白……爆炸……怎么……生成。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "巧可",
+            "content": "那就要准备双份的记忆巧克力啦。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "巧可",
+            "content": "这样算一下，巧可这里储存的聚能草数量不够……"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "希安",
+            "content": "我……拖累……巧可？"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "巧可",
+            "content": "才不是拖累巧可。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "巧可",
+            "content": "缺少的话，我们出去搜集就是了！"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "希安",
+            "content": "我……帮你！我……和……巧可……一起去。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "巧可",
+            "content": "……嘿嘿。真是久违的感觉！"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "希安",
+            "content": "久违……？"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "巧可",
+            "content": "和云图扇区的同伴在一起行动，真的很安心！"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "巧可",
+            "content": "走吧，希安，我们去找聚能草。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "希安",
+            "content": "我也……一样。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "希安",
+            "content": "走吧！我……保护巧可！"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {},
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "content": "拜启："
+        },
+        "prop": "Subtitle",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "content": "亲爱的教授、参与云图计划的伙伴们，以及环球万事服务的大家。"
+        },
+        "prop": "Subtitle",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "content": "今天巧可遇到了希安，共同保存记忆的同伴多了一个。"
+        },
+        "prop": "Subtitle",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "content": "尽管还没有找到其他同伴，但是找到了希安，就总会找到其他人吧！"
+        },
+        "prop": "Subtitle",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "content": "巧可是这么相信的。"
+        },
+        "prop": "Subtitle",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "content": "未来一定会回去，那时，我要把在麦戈拉遇到的事情都说给大家听……"
+        },
+        "prop": "Subtitle",
+        "nextId": 86
+    },
+    "node300": {
+        "id": "node300",
+        "attributes": {
+            "name": "巧可",
+            "content": "最近的管理员缺了糖。"
+        },
+        "prop": "name",
+        "nextId": 62
+    }
+}

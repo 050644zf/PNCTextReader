@@ -1,0 +1,1394 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "果然……这副身体还是无法承受住呢。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "",
+            "content": "“渡鸦”的右腿关节因数据过载而爆炸断裂，手臂关节也开始冒出火花。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "有效果了！"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "看来要——继续@#￥！@%——"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "她是……卡住了吗？"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "",
+            "content": "“渡鸦”的后脑冒出一股浓烟，火苗从烧毁的脑壳中窜出。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "流亡者——"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "渡鸦？",
+            "content": "我会一直看着你#%*！&——们——"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "“渡鸦”？",
+            "content": "在螺旋——的顶端——"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "",
+            "content": "“渡鸦”的身体跪倒在地，冒着浓烟的脑壳发出嘈杂的声音。她的关节脱落，身体散落成了碎片，渐渐化为数据消失了。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "",
+            "content": "随着“渡鸦”的死去，隔离墙也彻底失去了算量来源，逐渐黯淡、分解，最终化作点点橙色的星光，散落在高墙两侧的智能体身上。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "",
+            "content": "所有的智能体们，都平静地注视着这一切。没有疯狂，没有偏执，没有执念。每个智能体的脸上，都只剩下如水的宁静。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "",
+            "content": "基洛普斯扇区的高墙，再也不复存在了。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {},
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……我很抱歉……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不是你的错，莉维雅。这是席摩自己的选择……"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "",
+            "content": "莉维雅告诉了我们一切。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "",
+            "content": "我们从大楼的废墟里找到了席摩一直挂在头顶的面具。在这之前，我们从未见过他摘下这枚面具。\n第一次翻开面具的背面，我们立刻注意到一个清晰的编号。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这是……火神重工的实验体编号……"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "席摩是作为火神重工的原型实验机诞生的。基洛普斯扇区，也是那个实验的一部分。换言之，席摩就是我们的原型机……"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我们每个智能体的底层代码，都是在收集过席摩于现实世界的战斗数据基础上编写而成的。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "席摩知道这件事吗？"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "不知道。他来到基洛普斯扇区后才查明了这一点。"
+        },
+        "prop": "name",
+        "nextId": 992
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "他本以为离开了战场，自己在战争中犯下的罪孽就能不再累积。"
+        },
+        "prop": "name",
+        "nextId": 994
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "所以他才会那么想要终止基洛普斯扇区的战争吗？不仅是为了拯救你们，也是为了阻止自己的罪孽继续累积……"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "一开始他确实是这样想的，不过，我想在最后一刻，他已经把这些目的都放在次级了吧。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "他在最后更想要拯救的，是你们。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "是我欺骗了席摩，导致你们身处险境。他认为只有杀死塔莎，才能平息骚乱，保证你们的安全。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……于是他就在和塔莎的战斗中同归于尽了吗……"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不，那不是同归于尽，帕斯卡。是席摩主动选择了死亡。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜？为什么……"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你们还记得那个时候我说过的话吗？"
+        },
+        "prop": "name",
+        "nextId": 1200
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "唔……没什么，只是有点在意他刚才的样子……"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "在意？席摩吗？"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "嗯。你们没注意到吗？一段时间不见，他的动作看上去比以前要僵硬不少，就像在忌惮着什么事情一样。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这么一说……"
+        },
+        "prop": "name",
+        "nextId": 1201
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我总觉得席摩隐瞒了什么，所以刚才，我调查了这里残留的记忆碎片。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "然后我就发现了……席摩一直瞒着我们的秘密。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "秘密……？"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "克罗琦，你听说过火神重工代号“角斗士”的“抑制程序”吗？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唔……这么一说，好像是听说过这个词，据说是早期为了防止战斗用人形暴走，而附加的保险措施，后来实验效果不理想就取消了。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "保险措施……在人类看来或许的确如此吧。但对人形来说，那根本就是用来拴奴隶的枷锁罢了。不过角斗士原本也就是奴隶就是了。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "等一下，难道席摩就是——？"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你猜得没错，席摩就是那个“抑制程序”的实验品。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "如果他在短时间内进行过多次数的攻击性行为，就会导致抑制程序过载，对他施加肉体上的痛苦。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "痛苦达到极限，最终就会启动自爆程序。这样，即使人形失控，也能在危害扩大之前自毁。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "怎么会……？但席摩从来没有……"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "从来没有告诉我们，对吧？他一直在默默地承受那些痛苦。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "看……这是席摩在记忆碎片里，留下的自白。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "content": "过去，人类希望我不要过度杀戮，却又总是驱使着我去进行战斗。当抑制程序过载的时候，我的每一个攻击动作都伴随着巨大的痛苦，却又被命令着，不能停下。"
+        },
+        "prop": "Subtitle",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "content": "最后我成了失败的实验品。买下我的人将我投入战场，当他们希望我在短时间内大量杀敌的时候，他们就会先让我的抑制程序过载，然后再重置我的心智。这样一来，就能够绕过抑制程序的限制了。"
+        },
+        "prop": "Subtitle",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "content": "于是在没有止境的杀戮中，我反复沉沦……直到遇见了教授、帕斯卡，遇见了流亡者们。"
+        },
+        "prop": "Subtitle",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们……"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "content": "你们是第一批接纳我的人。只有和你们在一起，我才不会被当做纯粹的杀人机器。在你们身边，我第一次觉得，手中的武器也有了存在的意义。"
+        },
+        "prop": "Subtitle",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "content": "所以，请原谅我的决&*定￥%……也请不要^&担心#$我。"
+        },
+        "prop": "Subtitle",
+        "nextId": 995
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "content": "@#￥！&——*&￥#！！￥——噼啪*&￥#！！￥——"
+        },
+        "prop": "Subtitle",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "席摩是主动让自己的抑制程序过载，启动自爆程序，继而引发连环爆炸的。"
+        },
+        "prop": "name",
+        "nextId": 912
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "bravo",
+            "content": "获得了自由，却依旧选择了死亡。不，所以才能选择死亡吗……难怪是甘尼克斯吗……这个笨蛋。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "席摩……"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "好了，一切准备就绪了。帕斯卡，依靠你存下的数据，我们还能重置席摩。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "多亏了莉维雅提供的扇区数据，我成功解析了抑制程序的构造。"
+        },
+        "prop": "name",
+        "nextId": 996
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "辛苦你了，安冬妮娜。也谢谢你，莉维雅。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "没什么。我利用了席摩，这也算是一点点赎罪吧。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "但我还是得提醒你们……这个席摩，和过去的席摩，是不一样的。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，我们明白。人形的经历与记忆是无法保留的。保存下来的数据，只能让人形回到“出厂状态”。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……但即使如此，我们也要重置席摩。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我明白了。我相信你们一定能带他摆脱基洛普斯扇区的阴影。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "从今往后，没有了抑制程序，他能够自己选择守护何人，也能自己承担犯下的罪恶。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "希望……你们能带领着席摩，找到属于他自己的路。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，我们一定会陪伴在他身边的，我向你保证。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "我也向你保证。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 76
+        },
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "谢谢你们，教授，帕斯卡，安冬妮娜……"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "那么……"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "开始吧。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 79
+        },
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……嗯。开始吧。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "开始还原心智备份，执行指令："
+        },
+        "prop": "name",
+        "nextId": 1004
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {},
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "萨可",
+            "content": "吱——！"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "",
+            "content": "萨可从帕斯卡的肩头跳到席摩身上，正要像往常一样蹭上去，却突然又往回缩了缩，小心翼翼地用鼻子嗅了嗅席摩的脸颊。"
+        },
+        "prop": "name",
+        "nextId": 999
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "萨可",
+            "content": "……吱？"
+        },
+        "prop": "name",
+        "nextId": 1000
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "席摩",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "席摩，听得到我们说话吗？"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "",
+            "content": "席摩的眼睛慢慢睁了开来——\n他的眼神和过去的席摩完全不同，澄澈干净，连一丝杂质都不曾有。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "系统",
+            "content": "【正在进行初始检测……】"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "系统",
+            "content": "【确认型号。】"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "席摩",
+            "content": "【角斗士-Gaul。】"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "系统",
+            "content": "【确认归属。】"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "席摩",
+            "content": "【火神重工军事EE部03研究组。】"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "系统",
+            "content": "【确认心智系统语言类别。】"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "席摩",
+            "content": "【SVAROG+。】"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "系统",
+            "content": "【确认心智加密等级。】"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "席摩",
+            "content": "【S。】"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "系统",
+            "content": "【确认完毕，正在启动……】"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "系统",
+            "content": "【启动完毕。】"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "席摩",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "席摩",
+            "content": "请问……"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "",
+            "content": "再度苏醒的席摩，一眼就看到了正在操作系统的莉维雅。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "席摩",
+            "content": "您是我的指挥官吗？"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "bravo",
+            "content": "莉维雅……"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我……"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "不，我不是。"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "Gaul，你的指挥官是——"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "",
+            "content": "她将手指朝向了我。"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {},
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "真的没问题吗？莉维雅。就这样把扇区权限交给我们……"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "嗯，你们拿着吧。我带着智能体，和上位净化者闹了那么一大场，今后恐怕是没办法再和他们正常相处了。"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "而且，我信任你们……请你们开启沙盒屏障吧。"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "等你们回绿洲之后，我也会逐渐把算量调配过去的。请放心。"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……嗯。真的非常感谢你，莉维雅。"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我才是要感谢你们。我不是一个称职的监管员，自始至终，我没能阻止任何人……"
+        },
+        "prop": "name",
+        "nextId": 913
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "基洛普斯扇区的智能体，永远只能追求杀戮、进化，再走向灭亡。这就是我们身上磨灭不了的“使命”，我们存在的意义。"
+        },
+        "prop": "name",
+        "nextId": 118
+    },
+    "node118": {
+        "id": "node118",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "但今后，我会努力履行监管型的义务，尽量避免这样的混乱再度发生。"
+        },
+        "prop": "name",
+        "nextId": 119
+    },
+    "node119": {
+        "id": "node119",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "莉维雅……"
+        },
+        "prop": "name",
+        "nextId": 120
+    },
+    "node120": {
+        "id": "node120",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "加油！;如果还需要什么帮助，可以随时来绿洲找我们。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 121,
+            "option2": 121
+        },
+        "nextId": 121
+    },
+    "node121": {
+        "id": "node121",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "谢谢……谢谢您，教授。"
+        },
+        "prop": "name",
+        "nextId": 122
+    },
+    "node122": {
+        "id": "node122",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "也谢谢你，安冬妮娜，是你帮我改进了我们的战力控制程序。"
+        },
+        "prop": "name",
+        "nextId": 123
+    },
+    "node123": {
+        "id": "node123",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "嗯……"
+        },
+        "prop": "name",
+        "nextId": 124
+    },
+    "node124": {
+        "id": "node124",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "你是怎么做到的，安冬妮娜？;不愧是安娜，轻易就做到了我们做不到的事情！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 125,
+            "option2": 125
+        },
+        "nextId": 125
+    },
+    "node125": {
+        "id": "node125",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……不过是一些巧合罢了。"
+        },
+        "prop": "name",
+        "nextId": 126
+    },
+    "node126": {
+        "id": "node126",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你们还记得刚进入基洛普斯扇区时发生的事情吗？"
+        },
+        "prop": "name",
+        "nextId": 990
+    },
+    "node127": {
+        "id": "node127",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "厉害啊！不愧是安娜，比传说中的还要高效呀。"
+        },
+        "prop": "name",
+        "nextId": 128
+    },
+    "node128": {
+        "id": "node128",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "是安冬妮娜。不过，果然这里的协议也是……"
+        },
+        "prop": "name",
+        "nextId": 129
+    },
+    "node129": {
+        "id": "node129",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "唔……算了。赶快进去吧，不然净化者又要来了。"
+        },
+        "prop": "name",
+        "nextId": 991
+    },
+    "node130": {
+        "id": "node130",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "当时我发现，基洛普斯扇区的各项数据协议，在“归零事件”发生后不久就停止了更新。"
+        },
+        "prop": "name",
+        "nextId": 901
+    },
+    "node131": {
+        "id": "node131",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "但这也意味着，如果协议及时得到更新的话——如果云端没有和现实世界断连的话……"
+        },
+        "prop": "name",
+        "nextId": 902
+    },
+    "node132": {
+        "id": "node132",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "先是罗萨姆扇区，然后又是基洛普斯……云端和现实世界的断连，已经让太多的智能体遭受了不必要的痛苦。"
+        },
+        "prop": "name",
+        "nextId": 133
+    },
+    "node133": {
+        "id": "node133",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "可我们甚至至今不知道这些痛苦因何而起。"
+        },
+        "prop": "name",
+        "nextId": 134
+    },
+    "node134": {
+        "id": "node134",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "教授，在人类世界，到底发生了什么？"
+        },
+        "prop": "name"
+    },
+    "node903": {
+        "id": "node903",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "说到这里，安冬妮娜看向了我，眼神里带上了几分寒意。"
+        },
+        "prop": "name",
+        "nextId": 132
+    },
+    "node910": {
+        "id": "node910",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "为了保护我们，他冲破了束缚自己的枷锁。成了一个获得自由的“角斗士”。"
+        },
+        "prop": "name",
+        "nextId": 911
+    },
+    "node911": {
+        "id": "node911",
+        "attributes": {
+            "name": "莉维雅",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 912
+    },
+    "node912": {
+        "id": "node912",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "为了保护我们，他冲破了束缚自己的枷锁。成了一个获得自由的“角斗士”。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node913": {
+        "id": "node913",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "但多亏了你们的帮助，我才得到了弥补的机会。"
+        },
+        "prop": "name",
+        "nextId": 117
+    },
+    "node1200": {
+        "id": "node1200",
+        "attributes": {},
+        "nextId": 35
+    },
+    "node1201": {
+        "id": "node1201",
+        "attributes": {},
+        "nextId": 39
+    },
+    "node990": {
+        "id": "node990",
+        "attributes": {},
+        "nextId": 127
+    },
+    "node991": {
+        "id": "node991",
+        "attributes": {},
+        "nextId": 130
+    },
+    "node992": {
+        "id": "node992",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "就如你们所见的，这里的智能体，总是哪里很像他……"
+        },
+        "prop": "name",
+        "nextId": 993
+    },
+    "node993": {
+        "id": "node993",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "在这之前，他完全不知道自己的代码正以这种形式被传递着。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node994": {
+        "id": "node994",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "可他没有想到，那些数据早已在云端散开枝叶，遍布在每个战斗型智能体的身上。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node995": {
+        "id": "node995",
+        "attributes": {
+            "content": "没有关系的……因为我们是同伴，因为你们相信我……"
+        },
+        "prop": "Subtitle",
+        "nextId": 58
+    },
+    "node996": {
+        "id": "node996",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "按照这个破解方式，重置后的席摩不会再受到抑制程序的束缚。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node999": {
+        "id": "node999",
+        "attributes": {
+            "name": "系统",
+            "content": "【正在进行初始检测……】"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node1000": {
+        "id": "node1000",
+        "attributes": {
+            "name": "系统",
+            "content": "【已确认智能体序列：279b79227b35941cf4b3。】"
+        },
+        "prop": "name",
+        "nextId": 1001
+    },
+    "node1001": {
+        "id": "node1001",
+        "attributes": {
+            "name": "系统",
+            "content": "【请输入权限码。】"
+        },
+        "prop": "name",
+        "nextId": 1002
+    },
+    "node1002": {
+        "id": "node1002",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "Gannicus71。"
+        },
+        "prop": "name",
+        "nextId": 1003
+    },
+    "node1003": {
+        "id": "node1003",
+        "attributes": {
+            "name": "系统",
+            "content": "【智能体正在启动……】"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node1004": {
+        "id": "node1004",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "<color=orange>Rebuild</color>。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node902": {
+        "id": "node902",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "或许智能体们就不会失控、不会陷入无休止的战争里了。"
+        },
+        "prop": "name",
+        "nextId": 903
+    },
+    "node901": {
+        "id": "node901",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "利用那些旧的协议，我很快就解析了战力控制程序。"
+        },
+        "prop": "name",
+        "nextId": 131
+    }
+}

@@ -1,0 +1,610 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "> 记忆数据文件编号：CYCLOPS3112 \n> 数据来源：人形，席摩. . ."
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {},
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "席摩",
+            "content": "报告，席摩已抵达控制室，目前一切正常。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "克罗琦收到。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "席摩，我看不到你的定位。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "席摩",
+            "content": "是这样吗？那太好了。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "席摩",
+            "content": "为了防止被侦测到，我稍微做了一些掩饰，看来掩饰很成功。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这种技术居然能把我也瞒过去……"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "席摩",
+            "content": "毕竟之前勘察到有上位净化者驻守在这个扇区，如果被她定位到，我可没有把握应对。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "席摩",
+            "content": "不用对这个太耿耿于怀的，克罗琦，这是我的基础功能。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这种事怎么可能不耿耿于怀，雷达上看不到己方的话可是很容易出意外的！"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "万一和你说的上位净化者正面对上……"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "席摩",
+            "content": "这个的确是问题。不过请安心，除非真的不得不一对一硬碰，否则我都能躲开的。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "好吧好吧。你没有惊扰到净化者和巡逻的智能体吧？"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "席摩",
+            "content": "现在还没有，它们没有对光学迷彩进行针对性的防备。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "明明是军工扇区，竟然没有应对光学迷彩的措施，很难相信啊。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "席摩",
+            "content": "哈哈……光学迷彩的技术还没有普及开呢。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "席摩",
+            "content": "我搭载的功能都还在实验中，下次也许就不能这么顺利了。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "如果连基洛普斯扇区都没有准备防御措施的话，下次给艾吉斯也配备一个就好了。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "席摩",
+            "content": "迷彩不能伪装声讯号，艾吉斯变形的动静会出卖你的。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "那只要研究出这方面的认知干扰器，艾吉斯就能应用这类技术，然后……"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "席摩",
+            "content": "……唉。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "席摩",
+            "content": "克罗琦，我的任务只是侦查，对吧？"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "对，隐藏自身，摸清基洛普斯扇区的情况，然后安全撤回。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但这个研究真是让人难以拒绝……"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "那就这样！时间到了再联系你，我先挂了！"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "席摩",
+            "content": "收到，结束通讯。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {},
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "席摩",
+            "content": "基洛普斯扇区的数据体量很大，得先找到路线图。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "席摩",
+            "content": "从这里往前走……"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "",
+            "content": "在往前走之前，席摩停下了脚步。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {},
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "智能体",
+            "content": "申请调用文件：279b79227b35941cf4b3。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "智能体",
+            "content": "定向完毕……组别：原型数据。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "智能体",
+            "content": "文件备注：Gaul-1。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "席摩",
+            "content": "……？！"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "智能体",
+            "content": "该文件为不可移动的参考原型文件，请在B-01终端进行查阅。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "席摩",
+            "content": "（Gaul-1……是我的相关文件？）"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "席摩",
+            "content": "（我的文件为什么会出现在基洛普斯扇区？必须弄清这件事……）"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "智能体",
+            "content": "收到，前往B-01终端。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "",
+            "content": "调用文件的智能体离开了，只剩一个智能体继续在原地整理着资料。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "",
+            "content": "席摩悄无声息地靠近过去，将弩箭抵在她的后脑上。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "智能体",
+            "content": "唔！没有检测到异常的智能体……是谁？"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "席摩",
+            "content": "不要回头。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "席摩",
+            "content": "我没有重置你的意思，只要你把279b79227b35941cf4b3文件调出来就好。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "智能体",
+            "content": "……我必须知道你的身份才能做出行动，你是谁？"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "席摩",
+            "content": "这不重要。你有这个权限，按我说的做。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "席摩",
+            "content": "这不是谈判，而是命令。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "智能体",
+            "content": "原型数据系列是最高等级的机密文件，不能开放给身份未知的智能体。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "智能体",
+            "content": "而且，我只听命于莉维雅，其他人无权对我下令。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "席摩",
+            "content": "……刚刚走的那个智能体一样有权限，如果你不做，我就去找她。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "",
+            "content": "没等席摩说完，智能体伸手就去拍控制台上的按钮。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "",
+            "content": "席摩愣了一下，没有发动狙击弩，而是伸手去截她的手腕。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "？？？",
+            "content": "Monitor104，他是可信任个体。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "？？？",
+            "content": "解除警报，调出279b79227b35941cf4b3文件。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "席摩",
+            "content": "（什么时候出现的人……）"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": null,
+            "content": "接受指令。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "",
+            "content": "被叫做Monitor104的智能体从席摩手里撑起身，操作后调出了相应的记录。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "？？？",
+            "content": "好了，你可以休息了。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "？？？",
+            "content": "不要回头，从侧门离开。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": null,
+            "content": "莉维雅……他到底是谁？"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "？？？",
+            "content": "别担心，他是友方，不会有危险。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "",
+            "content": "Monitor104离开了。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "",
+            "content": "席摩回过头，看向门前站着的女性智能体。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "席摩",
+            "content": "你就是……"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "？？？",
+            "content": "虽然对你来说是初次见面，但对我们来说……好久不见，Gaul，或者“席摩”？"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "席摩",
+            "content": "……回答我的问题。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "我是莉维雅，基洛普斯扇区的管理员。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "莉维雅",
+            "content": "开门见山地说吧，你要找什么？也许我们有合作的可能性……"
+        },
+        "prop": "name",
+        "nextId": 70
+    }
+}

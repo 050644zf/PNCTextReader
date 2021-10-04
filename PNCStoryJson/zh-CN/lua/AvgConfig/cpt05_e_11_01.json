@@ -1,0 +1,952 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "突破熵的重重包围，我们前往博物馆去取权限密钥。但博物馆外聚集着大量的熵，我们并没有太多喘息的机会。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "苏尔",
+            "content": "它们数量太多了！"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "席摩",
+            "content": "身后，跟上来了！"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "苏尔",
+            "content": "好像整个扇区里的熵都被吸引过来了……",
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "奥吉塔，拜托你去博物馆取权限密钥！;我们一同回撤到博物馆里面吧！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 5,
+            "option2": 9
+        },
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "诶？就、就我吗……"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我和奥吉塔一起去吧，里面也未必完全安全。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "我",
+            "content": "好吧，我们掩护你们！"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，那就拜托大家守住博物馆了！"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，再往后退就到博物馆的范围了。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们得守住这条阵线，让熵进入博物馆会很危险的。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……教授，我先带奥吉塔一起去取权限密钥！"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "各位，拜托大家守住博物馆，保护好教授！"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "",
+            "content": "嗅到猎物的熵狰狞着向我们袭来，而同时，席摩和苏尔的攻击也落在了最前排的熵的身上。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "",
+            "content": "被打散的熵狞叫着被后面跟上来的盖了过去，接着，它们又三三两两地聚合成更加奇形怪状的构体。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "它们一直在吞噬花园里数据的算量，然后增殖分化……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "只要有数据作为食量，它们的数量就只会多不会少。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "席摩",
+            "content": "看来消耗战对我们很不利。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "席摩",
+            "content": "安吉拉！你那一侧有敌人！"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "",
+            "content": "席摩看到几只落单的熵已经朝安吉拉发起了攻击，但自己的身位却无法狙击到它们。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "呜——糟了！"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "琴",
+            "content": "交给我——"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "",
+            "content": "琴晃动着手里的调酒器，接着迅速向空中抛洒。\n经过悉心调制的酒品在空中化作酒雾，意外地具有疗愈的功效。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "谢谢……咦，刚才的伤竟然那么快就好了。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这……这是怎么做到的！好神奇！"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "琴",
+            "content": "在庇厄里亚的这段时间里，我将可以用于修复心智的程序补丁模拟成了酒。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "琴",
+            "content": "毕竟，我只有这一技之长嘛。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "琴",
+            "content": "在关键时候如果帮不上忙，可有点说不过去。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "苏尔",
+            "content": "太厉害了吧……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "",
+            "content": "苏尔看了看自己手里“简单粗暴”的阿尔瓦克和阿尔斯维，又看了看琴手里的调酒器，一时竟有些羡慕。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "席摩",
+            "content": "别看了苏尔，专心作战！"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "席摩",
+            "content": "这些熵的行动似乎也不是没有规律可循。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你发现什么了吗？"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "席摩",
+            "content": "它们虽然顽固，但似乎不会单独进行作战。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "席摩",
+            "content": "总是几个几个共同进行协同攻击或一起撤退。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "席摩",
+            "content": "它们如果没有所谓的“自主意识”，那背后恐怕就有一个有意识的人在控制着它们。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "苏尔",
+            "content": "可是对方在哪里呢？"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "席摩",
+            "content": "不知道，也许就在它们之中，也许正躲在哪个角落欣赏我们也说不定。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "各位！再坚持一段时间就好了！"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "苏尔",
+            "content": "帕斯卡，奥吉塔，你们回来了！"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "嗯！帕斯卡小姐已经用权限打开沙盒模式了。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "等完全启动之后，外面的熵应该就无法进入庇厄里亚了。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "苏尔",
+            "content": "然后把眼前的这些解决掉就行了，对吧？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……！！！"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呜……"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "",
+            "content": "当我们反应过来时，苏尔正用手里的长刀支撑着身体。\n她的身上已经中了一枪。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "苏尔——！"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "以太力场展开！琴，麻烦你帮忙！"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "席摩",
+            "content": "子弹……是狙击枪！这不是熵造成的！"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "难道说……还有别的敌人吗？！"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "席摩",
+            "content": "萨可，拜托你去侦查！",
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "我们还是得退回博物馆里！;帕斯卡，带苏尔撤回到博物馆里面！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 51,
+            "option2": 56
+        },
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "可是那样一来，熵也可能会……"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "我",
+            "content": "比起数据，还是大家的生命更重要。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "席摩",
+            "content": "教授说的有道理。外面还是过于宽阔，不适合防守。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我明白了……大家后撤！"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "大家后撤！席摩，克罗琦，拜托你们掩护！"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "我",
+            "content": "拜托你治疗苏尔，我们尽量在外面拖延时间。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "可是……"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "席摩",
+            "content": "教授，恕我直言了……少了苏尔这名主力输出，我们恐怕拖不了多久。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "席摩",
+            "content": "特别是打伤苏尔的那名狙击手，我们完全不知道对方的身份。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，让大家一起后撤吧，我们进入博物馆内防守。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那样，地形也会对我们更有利些。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "奥吉塔，跟上我们！"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {},
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呜……我是不是……要死了……"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你在瞎说什么，别质疑我和琴的治疗修复能力！"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "席摩，萨可有带什么情报回来吗？"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "席摩",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "席摩？"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "席摩",
+            "content": "我联络不到萨可了！"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "？？？",
+            "content": "你们是在找这只小老鼠吗？"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "席摩",
+            "content": "谁？！"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "",
+            "content": "一个净化者模样的少女站在博物馆穹顶的窗户上，手持着一把比她的身形还要大上不少的狙击枪。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "",
+            "content": "少女手中提着的，正是萨可。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "席摩",
+            "content": "萨可——！！！"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "那、那那个是净化者！"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "奥吉塔，你上报净化者了吗？"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "当然不是我！我可没有做那种事！"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "沙盒模式还没启动完全，让她溜进来了么……"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "？？？",
+            "content": "啊，难道你们不记得我的名字了吗？以前我们可交手过不少次呢。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我们才不会浪费存储空间来记那些没有价值的名字。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "？？？",
+            "content": "噢？那这一次，可是免不了要多耗费一些你们的存储空间了。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "？？？",
+            "content": "我的名字，叫智。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "",
+            "content": "说着，她手一松，萨可从高空中跌落下来。\n席摩看准了位置后一个滑铲，将萨可接在了怀里。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "萨可",
+            "content": "吱唔……"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "",
+            "content": "席摩翻身立刻回退到阵型之中，将萨可小心翼翼地放在了他的兜帽之中。"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "智",
+            "content": "接得不错。"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "智",
+            "content": "你们知道吗，每个净化者都拥有一块属于自己的“圣典”，存储他们的备份。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "智",
+            "content": "而死后，他们也会从存放圣典的地方再次重生。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "",
+            "content": "自称为“智”的净化者冷笑了一下，从窗框上跳了下来，轻巧地落在地面上。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "智",
+            "content": "所以，每当我在圣典处苏醒的时候……即使没有了记忆，也能确定一件事。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "智",
+            "content": "我，再一次失败了。",
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "我们可不记得你是谁。;我倒是对你有点印象。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 92,
+            "option2": 96
+        },
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "智",
+            "content": "噢？好令人沮丧啊。"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "智",
+            "content": "或许你们没有和我直接对话过，不过……"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "智",
+            "content": "过去，我曾经在罗萨姆帮助过信对抗你们。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "智",
+            "content": "罢了，这些不重要。"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "智",
+            "content": "呵呵呵，不愧是教授。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "智",
+            "content": "就算你们没有和我直接对话过，竟然也能记起我。"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你要做什么？！"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "智",
+            "content": "我不知道我究竟有多少次死在你们手里……那个无所谓了。"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "智",
+            "content": "我只知道，这一次，将会是我的胜利。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "",
+            "content": "智举起手中的枪，对着帕斯卡扣动了扳机。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "！！！"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "席摩",
+            "content": "帕斯卡！快躲开——"
+        },
+        "prop": "name",
+        "nextId": 104
+    }
+}

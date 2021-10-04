@@ -1,0 +1,1214 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "恩格玛扇区。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡快速翻阅着数量惊人的演算公式，并不时和诺依曼确认数据。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "他们低声地交流着，语速很快，我并不能听清全部内容。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "bravo",
+            "content": "如果埃妮阿克失控了，绿洲有可能抵抗住她吸收算量吗？"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我和诺依曼针对这种假设进行了计算，结论是……几乎不可能。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "埃妮阿克的能力非常强大，可以突破防火墙进行大范围深度检索，再从扇区内部获取算量。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "在吸收算量的过程中，这份能力会得到进一步的加强，继而波及整个云端……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "bravo",
+            "content": "等等，你刚才说，量子数据库可以在云端进行大范围检索？"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "！您是指……"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "bravo",
+            "content": "这很可能是一个突破口，找到和现实连接手段的突破口。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "你们的意思是……用埃妮阿克搜索云端，寻找和现实的通讯或传输接口？"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "bravo",
+            "content": "有可能吗？"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "我从没考虑过这种可能性……我需要计算数据。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "",
+            "content": "诺依曼在机器上不断操作着，各种数据公式在虚拟屏幕上不断闪现。数分钟后，他从屏幕后抬起头来。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "原本是绝对不可能的，因为需要足够庞大的算量支持，但……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "……以现在埃妮阿克的状态来看，或许真的可以做到。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "要是能找到和现实的连接手段，或许我们就能回到现实——"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "bravo",
+            "content": "看起来我们多了一个进入黑洞的理由。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "",
+            "content": "空气再度安静了下来。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……让我去吧，教授。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我进入算量黑洞，您尝试和安冬妮娜取得联系，找找看有没有其他办法。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "bravo",
+            "content": "不行，要去也是我去，算量波动对我的影响更小。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我不会让您承担这么大的风险……"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "bravo",
+            "content": "帕斯卡，相信我。我能结束这场灾难，然后从里面活着出来。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡凝视着我。片刻之后，她将视线从我的脸上移开。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "至少让我和您一起进入黑洞。我对心智的情况更加了解，或许能在关键时候帮上忙。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "bravo",
+            "content": "好。我们会一起阻止这场灾难的。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {},
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "",
+            "content": "算量黑洞前，我和帕斯卡已经做好了进入的准备。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "真的非常感谢你们。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "我根据你们的心智数据调整了代码，这个程序能减轻算量波动对于心智的影响。还有……"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "",
+            "content": "诺依曼取出管理员密钥，递给我们。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "有了管理员权限，应该就能对埃妮阿克执行强制关停。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但这样一来，埃妮阿克也会就此消失……"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "我当然希望你们能救下她，但我也不能放任她破坏恩格玛乃至整个云端。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "要是我可以替代她，要是能牺牲我自己阻止这一切……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "但我也知道，那是不可能的。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……诺依曼。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "不说这个了。这段时间我会在外界配合你们，全力压制黑洞的数据乱流。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "我没办法做到更多，所以，拜托你们了。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们会尽力的。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "同样的，按照我们的约定，外面也……拜托你了。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡接过密钥，准备连接我的心智输入程序。她在神经网络分析仪上操作着，我忽然听见她在我身后轻声说话。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "您对流亡者来说是无可替代的。无论到何种绝境，您都能带领流亡者扭转局势。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "",
+            "content": "我意识到了什么，试图阻止她继续操作，却发现无法控制自己的身体。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "就算我无法出来，我相信您也一定能找到其他办法。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "所以，对不起，教授。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡站起身来，向算量黑洞走去。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "",
+            "content": "她的身形和四周的景象逐渐扭曲，仿佛被黑洞一点点吞噬。我挣扎着，试图发出声音。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "bravo",
+            "content": "……帕斯卡——"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "",
+            "content": "她似乎停顿了一下，回头说了些什么，但依旧离黑洞越来越近。直到被深不见底的黑暗完全吞噬。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {},
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "",
+            "content": "数秒后，我感到禁锢程序渐渐失效。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "试图追赶进入黑洞的帕斯卡。;向诺依曼询问情况。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 55,
+            "option2": 61
+        },
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "别去！"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "bravo",
+            "content": "给我一个理由。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "黑洞内部的情况瞬息万变。你没有和她一起进入，很难在里面找到她！"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "现在进入算量黑洞已经来不及了。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "bravo",
+            "content": "……我明白，但……"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "她不希望你去冒险……很抱歉，短期禁锢插件已经失效了，你目前使用的程序，确实能够减轻算量波动影响。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "bravo",
+            "content": "这个程序是怎么回事？！"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "她不希望你去冒险……很抱歉，短期禁锢插件已经失效了，你目前使用的程序，确实能够减轻算量波动影响。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "bravo",
+            "content": "如果我现在进入算量黑洞……"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "太晚了。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "黑洞内部的情况瞬息万变，如果没有和她一起进入黑洞，你们就很难再相遇。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "",
+            "content": "我回想起了他们一起低声交流的情景。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "bravo",
+            "content": "你们是商量好的。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "……我无法否认。只为一个人压制乱流，比同时保护两个人要简单。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "也许这让你难以接受，但我认为她的做法是合理的。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "她应该……真的很重视你。我能理解这种心情。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "",
+            "content": "我想起帕斯卡之前的话，拿出移动终端试图联络安冬妮娜。\n受算量波动影响，通讯迟迟无法接通。翻看着终端上显示的各种数据，我的脑中一团乱麻。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "bravo",
+            "content": "我……"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "小心！！"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "",
+            "content": "咻——"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "",
+            "content": "还未出口的话被破风而来的箭矢突兀打断。诺依曼扯着我的衣服勉强避开，箭矢没入算量黑洞中。"
+        },
+        "prop": "name",
+        "nextId": 500
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "系统",
+            "content": "> 检测到净化者的越界行为——【净化者在无违规情况下主动伤害管理员】，伤害检测中……"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "系统",
+            "content": "<color=red>伤害检定——低微伤害，警告一次！多次越界行为将会进行降权处罚！</color>"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "信使",
+            "content": "……射偏了呢。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "咳……信、信使大人！"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "信使",
+            "content": "你就是恩格玛扇区的管理员吗？"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "是的，我的名字是诺依曼……"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "信使",
+            "content": "诺依曼……"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "",
+            "content": "信使瞥了一眼旁边不断运作的机器。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "信使",
+            "content": "本来想问你为何不向净化者及时汇报，甚至与异常智能体合作……"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "信使",
+            "content": "但看在你尽力抑制量子计算机的份上，我给你一个解释的机会。"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "因为，因为通讯受到了影响，我没办法传输信息……"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "信使",
+            "content": "给你解释的机会不是可让你找借口搪塞我呢。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "",
+            "content": "信使微笑着吐出锋利的话语。尽管语气温柔，依旧让人感到一股寒意。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "是、是……"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "信使",
+            "content": "算了，反正摧毁量子计算机之后，整个扇区都会重置。无论你说不说，结局也不会有什么改变就是了。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "",
+            "content": "信使将箭矢搭上长弓对准算量黑洞。箭身上光芒流转，且能量愈发剧烈——"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "阻止信使。;让诺依曼阻止信使。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 93,
+            "option2": 100
+        },
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "",
+            "content": "我挡在黑洞前，直视着信使。信使高高在上，周身的光线使其如太阳般耀眼，但我没有退却半步。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "信使",
+            "content": "你应该没有战斗能力吧？"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "信使",
+            "content": "而且现在也不会有圣餐护着你了——不知道她现在是怎么在晨星大人面前解释自己的所作所为呢，呵呵。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "信使",
+            "content": "仅凭你，能挡下我这个攻击的可能性无限接近于零哦。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "bravo",
+            "content": "……我明白。"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "信使",
+            "content": "明知不可为而为之，有意思……"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "信使",
+            "content": "但是，也就到此为止了。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "信使大人，请不要这么做！"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "如果就这样破坏量子计算机，其中巨额算量如果无法控制会在瞬间释放……整个扇区都会毁掉的。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "信使",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "",
+            "content": "望着诺依曼，信使的神色有些松动。但当她看向旁边的我时，目光又一次变得锋利了。"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "信使",
+            "content": "但是，我无法信任一个与异常智能体合作的管理员。"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "",
+            "content": "说着，信使将弓箭对准了我。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "等等，信使大人！"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "",
+            "content": "眼见信使就要发动攻击，诺依曼张开双臂，挡在了我和信使中间。"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "",
+            "content": "信使皱了皱眉，只得把弓箭挪开了。"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "信使",
+            "content": "诺依曼，这可不算明智的选择哦。"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "信使",
+            "content": "净化者是为了保护你们而存在，但这不代表你能利用我们的规则。"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "对不起，但是……我不能让您伤害这位教授。"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "bravo",
+            "content": "不如听听我的提议吧。我有一种对你我来说都更好的方法。"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "",
+            "content": "信使饶有兴趣地看着我。"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "bravo",
+            "content": "比起直接毁掉量子计算机导致算量爆发，然后让整个恩格玛扇区遭受灾难——"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "bravo",
+            "content": "——以和平的方式关停，显然更能让你受到那位“晨星大人”的夸奖吧？"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "信使",
+            "content": "“晨星大人”的看法，对我来说倒是并非那么重要……"
+        },
+        "prop": "name",
+        "nextId": 117
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "bravo",
+            "content": "而且你应该也想知道，圣餐为什么要这样保护我们吧？"
+        },
+        "prop": "name",
+        "nextId": 118
+    },
+    "node118": {
+        "id": "node118",
+        "attributes": {
+            "name": "信使",
+            "content": "呵呵……你的说法很有趣。"
+        },
+        "prop": "name",
+        "nextId": 119
+    },
+    "node119": {
+        "id": "node119",
+        "attributes": {
+            "name": "信使",
+            "content": "能让圣餐和扇区管理员都出手保护的人……"
+        },
+        "prop": "name",
+        "nextId": 120
+    },
+    "node120": {
+        "id": "node120",
+        "attributes": {
+            "name": "信使",
+            "content": "让我先听听看，你们要怎样“以和平的方式关停”你们口中的这个“算量黑洞”吧。"
+        },
+        "prop": "name",
+        "nextId": 121
+    },
+    "node121": {
+        "id": "node121",
+        "attributes": {
+            "name": "",
+            "content": "我舒了一口气，悄悄看向手中显示着数据的通讯装置，心中有了计划。"
+        },
+        "prop": "name",
+        "nextId": 122
+    },
+    "node122": {
+        "id": "node122",
+        "attributes": {
+            "name": "bravo",
+            "content": "我们收到了诺依曼的求救信息，也同样是来阻止算量黑洞不断吸收算量的。"
+        },
+        "prop": "name",
+        "nextId": 123
+    },
+    "node123": {
+        "id": "node123",
+        "attributes": {
+            "name": "bravo",
+            "content": "刚才诺依曼教会了我们关停量子计算机的方法，而我的同伴已经进入了算量黑洞。"
+        },
+        "prop": "name",
+        "nextId": 124
+    },
+    "node124": {
+        "id": "node124",
+        "attributes": {
+            "name": "bravo",
+            "content": "她是这方面的专家，我相信给她一段时间，她一定能顺利解决问题。"
+        },
+        "prop": "name",
+        "nextId": 125
+    },
+    "node125": {
+        "id": "node125",
+        "attributes": {
+            "name": "",
+            "content": "我在移动终端上调出诺依曼的求救信息展示给信使，并向诺依曼使了个眼色。"
+        },
+        "prop": "name",
+        "nextId": 126
+    },
+    "node126": {
+        "id": "node126",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "没错！我知道这位教授和帕斯卡小姐能解决问题，所以才不想劳烦信使大人。"
+        },
+        "prop": "name",
+        "nextId": 127
+    },
+    "node127": {
+        "id": "node127",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "现在情况还在控制之内，请您多给我们一些时间吧！"
+        },
+        "prop": "name",
+        "nextId": 128
+    },
+    "node128": {
+        "id": "node128",
+        "attributes": {
+            "name": "",
+            "content": "信使放下手中的弓箭，箭矢上的光芒渐渐熄灭。我暗暗舒了一口气。"
+        },
+        "prop": "name",
+        "nextId": 129
+    },
+    "node129": {
+        "id": "node129",
+        "attributes": {
+            "name": "信使",
+            "content": "虽然与规定不合……但扇区管理员担保能控制住情况，我也不介意多耗费一些时间。"
+        },
+        "prop": "name",
+        "nextId": 130
+    },
+    "node130": {
+        "id": "node130",
+        "attributes": {
+            "name": "信使",
+            "content": "只不过我要提前说明，我的耐心并不多。"
+        },
+        "prop": "name",
+        "nextId": 131
+    },
+    "node131": {
+        "id": "node131",
+        "attributes": {
+            "name": "",
+            "content": "信使飞到我的身前，脚尖轻点落在地上，随手找了张椅子坐下。\n尽管这一系列动作没有任何攻击性，但我却觉得汗毛倒竖。"
+        },
+        "prop": "name",
+        "nextId": 132
+    },
+    "node132": {
+        "id": "node132",
+        "attributes": {
+            "name": "信使",
+            "content": "为了打发这段无聊的时间，你就和我说说看，为什么圣餐要保护你们吧。"
+        },
+        "prop": "name",
+        "nextId": 133
+    },
+    "node133": {
+        "id": "node133",
+        "attributes": {
+            "name": "信使",
+            "content": "让我看看你的回答，能否让这段时间变得有价值呢？"
+        },
+        "prop": "name",
+        "nextId": 134
+    },
+    "node500": {
+        "id": "node500",
+        "attributes": {
+            "name": "",
+            "content": "霎时间黑洞四周的算量剧烈波动，诺依曼捂住胸口，算量从他的口中涌出来。"
+        },
+        "prop": "name",
+        "nextId": 76
+    }
+}

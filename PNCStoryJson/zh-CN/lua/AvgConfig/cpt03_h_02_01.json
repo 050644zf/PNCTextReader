@@ -1,0 +1,456 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "绿洲，宿舍。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "在忙，马上来。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "敲门声停了一会儿，再次响起。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "在忙，马上——"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "<color=red>再不开门我就拆了你的门。</color>"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦不情不愿地放下手里拼装到一半的模型，把门开了一条缝，看向外面的同伴。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "是你啊，安冬妮娜……有什么事吗？"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我待会儿还有外勤工作，太麻烦的委托就先去帕斯卡那里登记一下，等我回来会处理的。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我就是为了外勤来的。你知道两个小时后就要出发了吗？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "什么啊，还有两个小时呢……"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "是只剩两个小时了。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "总之就是还有这么长的时间，没什么问题的啦。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我的日程表很准确的，这两个小时要做什么排得很满，你看。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦调出一个光幕，一闪就灭掉了。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "等等，再调出来让我看看。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你这么认真干嘛啊！"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你不心虚闪这么快做什么？给我看看！"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦还在磨蹭，安冬妮娜往前走了一步，直接推着克罗琦进了门。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "",
+            "content": "门在她们身后哐当合上了。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {},
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦的宿舍里。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜环视一周，视线依次扫过凌乱摆放的各种零件、模型和动画光盘，目光定在克罗琦脸上。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这就是你两个小时要收拾完的东西吗？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "嗯……啊……这个……"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我其实有非常严重的社交尴尬症所以你在这里我就想不起来下一步要做什么所以——"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "所以把你的日程表调出来，不要废话了。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……喏。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "让我看看……哦。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "1，看两集机兵sood，2，拼好艾吉斯进化5形态HG模型，3，吃两根棒棒糖。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……9，看看理子的进货单有没有传媒扇区的新动画光碟。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "10，在房间里走一圈伸个懒腰。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "11，准备到赫里奥斯扇区后可能用到的拍立得和签名板。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜的语速越来越快，表情越来越冷漠，克罗琦缩了缩肩膀，往衣服堆的方向挪去。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……18，给安冬妮娜发消息确认行程，19，开始清点要带的东西，20，出门。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "整整20项，只有三项是收拾，现在还有两个小时，你还在看机兵动画是吗？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "别生气，安冬妮娜……"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "平时你在工程局的手脚可比现在利索多了。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "工作是工作，出门是出门，这也不是一类事。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "所以你就列出这种行程表？"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "",
+            "content": "在克罗琦整个人都快缩进衣服堆的时候，安冬妮娜一把抓住了她。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "帕斯卡让我来监督你，说你会拖延，我还不太相信你会这样……"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "<size=60>现在，立刻，马上，给我开始收拾！</size>"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "",
+            "content": "二十分钟后，控制中枢。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……诶？"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "bravo",
+            "content": "怎么了，帕斯卡？"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "离出发还有一个小时四十分钟，克罗琦就提交了任务准备的申请。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这可以被称之为奇观了，教授。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡端起咖啡杯望向窗外，语气平和而愉快。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯……下次也让安冬妮娜帮忙吧。"
+        },
+        "prop": "name",
+        "nextId": 52
+    }
+}

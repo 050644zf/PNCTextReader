@@ -1,0 +1,915 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "赫里奥斯扇区，3号反应堆。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "智能体",
+            "content": "录入：第5025次坍塌观测，结果为差。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "智能体",
+            "content": "该能源在现有能量刺激下仍然呈现惰性，粒子聚合情况观测如……咯咯……"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "？？",
+            "content": "你好呀。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "智能体",
+            "content": "……？"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {},
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "",
+            "content": "智能体看向声音的来处，一位体型娇小的少女正站在他身边。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "",
+            "content": "对智能体而言，她的身份相当明显——是净化者。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "小个子净化者",
+            "content": "你暂时结束工作了，对吧？"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "智能体",
+            "content": "啊，是的，请问你有什么事吗？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "智能体",
+            "content": "我没有违纪现象吧，不是异常智能体。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "小个子净化者",
+            "content": "当然啦，你很乖又很可爱，我观察你好一阵子啦。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "智能体",
+            "content": "观察我……好一阵子？"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "小个子净化者",
+            "content": "当然啦。可爱的孩子应该得到奖励，所~以~说~"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "小个子净化者",
+            "content": "你有疑问，我怎么会不给你答案呢~？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "小个子净化者",
+            "content": "去这个坐标，你就能发现原因哦。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "",
+            "content": "小个子净化者将一枚银色的标识放在智能体手中，转身离去了。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "智能体",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "content": "巧可的可可屋。"
+        },
+        "prop": "Subtitle",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "巧可",
+            "content": "欢迎光临可可屋，请问有什么需要吗？"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "圣餐",
+            "content": "你好呀，巧可。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "圣餐",
+            "content": "这次你也说了一样的台词，真有意思。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "巧可",
+            "content": "诶，你怎么知道巧可的名字？"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "巧可",
+            "content": "“这次”又是什么意思……"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嗯~让我想想。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "圣餐",
+            "content": "因为这边的牌子上写着你的名字，很明显嘛。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "巧可",
+            "content": "啊，的确！是巧可粗心了。这位客人需要什么呢？"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "圣餐",
+            "content": "一份牛奶榛子巧克力，谢谢啦~"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "",
+            "content": "巧可点点头，低头从柜台里取货包装。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "",
+            "content": "圣餐在柜台前撑着脑袋，百无聊赖地看向外面。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "巧可",
+            "content": "30底格币，感谢惠顾！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "圣餐",
+            "content": "没问题！"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "圣餐",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "圣餐",
+            "content": "啊……我今天出来好像没有带钱呢。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "巧可",
+            "content": "诶，没带钱的话不能拿走商品哦。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "圣餐",
+            "content": "没关系的啦，我下次来会给钱的。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "巧可",
+            "content": "但是巧可这里没有赊账的前例……"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "圣餐",
+            "content": "安心安心~我是净化者，怎么会干欠钱不还的事呢？"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "",
+            "content": "说着，圣餐拆开巧克力，当面咬了一口。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "",
+            "content": "在巧可担忧又怀疑的眼神下，她往门外走去。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "圣餐",
+            "content": "唔唔，真好吃！我这就去拿底格……"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "巧可",
+            "content": "小心！"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "",
+            "content": "圣餐脚步一停，一个智能体大步从她面前跑了过去。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "巧可",
+            "content": "啊……好险，你差点被撞到了。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "巧可",
+            "content": "真奇怪，平时这些研究员都不会这么急的，今天难道有什么事吗？"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "圣餐",
+            "content": "哈哈……谁知道呢。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {},
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "智能体",
+            "content": "序号0001，错误原因：1号反应堆异常活跃，修正已结束，扇区重置完毕。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "智能体",
+            "content": "序号0075，错误原因：1号反应堆异常活跃。序号5025，错误原因：1号反应堆异常活跃……"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "智能体",
+            "content": "这些记录……全部是今天的，为什么我们的所有数据全部都保存着，没有经过筛选？！"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "智能体",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "",
+            "content": "智能体跑进了控制中心。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "智能体",
+            "content": "管理员！该坐标存有过量未梳理信息，申请排查。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "这个坐标……感谢反馈，我会进行排查。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "……经过检测，该地点存有的档案数据没有问题。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "智能体",
+            "content": "这些冗余信息堆积起来，会让所有智能体停摆的！"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "报告已处理完毕，请回到你的位置上。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "",
+            "content": "控制中心的地面开始震动。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "智能体",
+            "content": "这么做下去……我们会变成数据积累的容器！"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "我们是为了世界之火而生的，即使变成这样的容器，也无可厚非。"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {},
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "",
+            "content": "智能体闭上了眼睛。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "",
+            "content": "在它的运算核心里，遥远的冲击波正穿透扇区的建筑，向着控制中心的方向而来。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "智能体",
+            "content": "爆炸就要来了。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "智能体",
+            "content": "我所做出的一切，都已经在激烈爆炸的反应堆里灰飞烟灭……"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "智能体",
+            "content": "我们会在彻底停摆前成功吗，管理员？"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "我们……"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "",
+            "content": "算量在袭来的高热下扭曲，轰鸣声与白光中，一切化作单一的噪音。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "电子女声",
+            "content": "序号5053，修正开始。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "电子女声",
+            "content": "……反馈，数据冗余过多，全部复杂智能体将在三次重置内彻底停机。"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "电子女声",
+            "content": "降级完成。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "",
+            "content": "……巧可的可可屋。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {},
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "巧可",
+            "content": "欢迎光临可可屋，请问有什么需要吗？"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "圣餐",
+            "content": "你好呀，巧可。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "圣餐",
+            "content": "你还是在说一样的台词啊……真是的，有点没意思了呢。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "巧可",
+            "content": "诶，你怎么知道我的名字？"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "巧可",
+            "content": "“还是”又是什么意思……"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嗯~让我想想。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "圣餐",
+            "content": "因为这边的牌子上写着你的名字，很明显嘛。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "巧可",
+            "content": "啊，的确！是巧可粗心了。这位客人需要什么呢？"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "圣餐",
+            "content": "我是来还账的。喏，30底格币。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "巧可",
+            "content": "诶，还账？客人是不是记错了？"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "巧可",
+            "content": "巧可这里是不允许赊账的，所以不会有欠账……"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "圣餐",
+            "content": "哎呀，也是呢！"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "圣餐",
+            "content": "那就要一份牛奶榛子巧克力，谢谢啦~"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "巧可",
+            "content": "好的，一份牛奶榛子巧克力，请收好！"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嗯……用聚能草做巧克力再吃掉的话，说不定有特殊的效果哦。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "巧可",
+            "content": "诶？"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "",
+            "content": "圣餐没有继续回答巧可，带着巧克力离开了可可屋。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "小机器人A",
+            "content": "【(〃'▽'〃)你好呀！】"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "圣餐",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "",
+            "content": "望着从身边过去的小机器人，她拆开巧克力的包装。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "圣餐",
+            "content": "这点变化好像不够。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "圣餐",
+            "content": "可是再做什么就太没意思了，还容易被晨星大人警告……还是继续看着吧！"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "圣餐",
+            "content": "……到什么时候才会继续往前走呢，赫里奥斯扇区？"
+        },
+        "prop": "name"
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {},
+        "nextId": 19
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "智能体",
+            "content": "异常。检测到数据冗余……有停机风险。"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "",
+            "content": "智能体有些迷惑地敲了敲自己的头。"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "智能体",
+            "content": "检索原因……检索失败。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "我们需要更加详尽的数据，分析每一个因素造成的影响。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "智能体",
+            "content": "……即使我们都会因此停机？"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "扇区管理员",
+            "content": "请回到你的位置上，继续完成观察工作……"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "电子女声",
+            "content": "使用智能体操作的效率显著降低，申请实施者的智能降级。"
+        },
+        "prop": "name",
+        "nextId": 71
+    }
+}

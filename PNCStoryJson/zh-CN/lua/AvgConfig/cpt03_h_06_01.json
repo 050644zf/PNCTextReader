@@ -1,0 +1,595 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "> 记忆数据文件编号：*****W** \n> 数据来源：未知.  .  "
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "",
+            "content": "麦戈拉云端上，一处不起眼的空值区内。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "未知的存在正在它们的国度里夜以继日地狂欢。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "真是太难找了，这个地方。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "",
+            "content": "少女的身影登陆了这片土地。而在她的面前的，是无法看清的“阴影”。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "",
+            "content": "仿佛能够将所有光线都吸收的黑洞一般，少女无法描述她看到的一切，形状、大小、体量、数据构建模式……"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "",
+            "content": "没有任何一个概念适合描述这片“阴影”。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "",
+            "content": "连理解都做不到……难怪呢，定位、扫描、搜索，都是徒劳而已。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "",
+            "content": "“阴影”显然是被闯入者的声音吸引了。“它们”——如果可以用“它们”来指代的话——“它们”狰狞地将黑色可怖的面容在少女的面前铺展开来，巨大的压迫感仿佛要将她卷入其中一般。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "",
+            "content": "但少女完全没有颤抖哪怕一下。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "欢迎仪式就免了吧。直接进入正题如何？"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "",
+            "content": "听到这句话，“阴影”忽然停止了扩张，随后竟如同潮水般地向后退去。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "就派来你一个？"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "",
+            "content": "一个巨大的影子从褪却的“潮水”中浮现出来，伴随着淅淅嗖嗖的摩擦声，来到闯入者的面前。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "还是个中位的，真是失望。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "",
+            "content": "说完，阴影的身体多余的部分渐渐聚合，直到变成人的形状。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "上头可不想太过招摇。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "再说，没有比我更适合的人选了。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "……是在小看我吗？"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "请不要误会。当下，这是最稳妥的做法。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "你？你难道不觉得不公平吗？"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "要知道这意味着你很可能会成为牺牲品。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "我不认为“牺牲品”三个字是对我的准确概括。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "我也没觉得自己会沦落到成为弃子的地步。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "哦？勇气倒是可嘉。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "可接下来你要做的事情，在我看来和“自寻死路”无异。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "有句话叫“置之死地而后生”。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "我是同位阶当中最聪明的一个，和那些只会依靠指令和执念行动的家伙们可不一样。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "而且我也知道，要获得利益，就要付出代价。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "……呵。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "伸出手来。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "嗯？"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "开始履行先前的约定，有异议吗？"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "不……我以为会是某种……更加疼痛的方式。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "",
+            "content": "面对从阴影中伸出的手，少女闭上眼睛，深吸了一口气，随后握了上去。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "唔……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "",
+            "content": "从手与手的交接处生出藤蔓般的触角，顺着胳膊爬上少女的身体，继而开始向血脉中融合。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "呜……啊……啊！"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "",
+            "content": "异质融入身体之中后，清晰可见的“阴影”般的颜色终于逐渐消褪，没入肌理。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "原来是……这种感觉啊。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "怎么样？"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "太棒了……呵呵呵，太棒了！"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "那么交换的东西，我就取走了。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "唔……"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "",
+            "content": "阴影的双手围住了少女的身躯，从她的身后，浮现出一块金色的数据构体。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "不要得意太早，你已经无法回头了，早晚会变得和它们一样。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "",
+            "content": "少女意识到对方说的是刚才那些似乎有自主意识的“阴影”们。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "那可未必。我相信我会比你想象中活得更久一点。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "而且，我也不想自己就这么快的死去。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "毕竟现在的我，已经打碎了枷锁。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "呵呵，虽然自信是好事，但别忘了还有一个词语叫“妄自菲薄”。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "这次的口信是什么？"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "时机快到了。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "哦？比我想象得要快一些。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "不过在那之前，为了降低风险——"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "我们需要做一次实验。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "风险？你们总是这样畏手畏脚。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "不，这次的“风险”并非你所想象的那样简单。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "总之，交给我们就好。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "混沌的声音",
+            "content": "算了。已经等了如此之久，倒也不差这几日。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "",
+            "content": "阴影中的人没有再给少女留下说话的时间，重新回到了那片黑色的“潮水”中。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "呼……"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "还好没有露怯。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "机敏的少女",
+            "content": "哼哼……呵呵呵呵……"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "",
+            "content": "少女伸出自己的手看了许久，然后轻轻地握住。"
+        },
+        "prop": "name",
+        "nextId": 67
+    }
+}

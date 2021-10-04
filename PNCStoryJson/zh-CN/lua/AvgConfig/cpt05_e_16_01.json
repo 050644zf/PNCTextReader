@@ -1,0 +1,888 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "吞噬……吞噬……呜！！！"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐姐！"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "奥吉里的身上浮现出微微的白光，而花园里的数据则在渐渐消散……"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "我们……创造的花园……真的不见了。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "后悔了吗？"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "不，怎么会呢！只要能救姐姐……"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "这些数据，可是奥吉里最珍惜的东西。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "也许姐姐会怪我吧，擅自做了这样的决定……"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "不会的。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "诶？是吗……"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "因为我想，如果你们身份互换，奥吉里也会用这些数据来修复你的。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐……姐姐……"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "姐姐她……很聪明。能从人类的艺术作品中提取出精华……"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "她总是希望能得到人类的认可，也因此而不断努力着。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "这也是她的潜意识能干涉我们的原因吧……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "不过，姐姐她不是坏人！"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "……我听到了，奥吉塔。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "诶？！姐姐！！！"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "我听到了哦。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "你回来了！太好了！太好了——"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "",
+            "content": "奥吉塔将姐姐奥吉里紧紧地抱住，后者几乎快要喘不过气来了。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "我明白的……重要的，从来不是那些数据。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "而是我们在一起，共同经历……共同创造……"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "真的很谢谢大家……为庇厄里亚做的一切。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "成功了……"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "接下来，你们准备怎么办呢？"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "庇厄里亚那么大……我们可以换一片空值区，重新建立家园。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "我们也可以帮助你们，把保存下来的这部分艺术作品的数据转移过去。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "绿洲的资源，你们也可以调用。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "奥吉塔",
+            "content": "真、真的吗？！"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "嗯，花园的设计和布置，就交给你了哦。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "能做到这一切，多亏了安冬妮娜呢……"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "唔，没什么啦。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不过，我们在被潜意识干涉的时候，外面到底发生了什么事？"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……和熵交战时，奥吉里受到了攻击。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "虽然我开启防护进程，但熵的速度太快了……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不知道为什么，受到攻击之后，奥吉里就陷入了昏迷。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "前来查看她的状况的你们……也受到了感染。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "只有我……我不知道为什么……只有我……"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "即使受到了熵的侵蚀……也不会陷入干涉之中……"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "呜！"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "苏尔",
+            "content": "安娜！你怎么了？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "抱歉……不知道为什么……"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "只要想起那些熵……我的脑袋就……疼得像要裂开一样……"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……那就先不想这些了，我们回到绿洲之后可以慢慢说。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "还好……坚持到了你们出来……"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "下一次……要快一点啊，教授……帕斯卡……"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……哈……哈。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜！安冬妮娜！！！"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜呼吸紊乱，嘴巴一张一合，似乎在说着什么。",
+            "values": [
+                "option1"
+            ],
+            "options": "安冬妮娜！你还好吗？！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 51
+        },
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……整合线……马尔科夫链条……交叉编码……",
+            "values": [
+                "option1"
+            ],
+            "options": "你在说什么？"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 52
+        },
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "认知语言……图腾崇拜……白名单……"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "偏差与纠正……管制与约束……怀疑与笃信……"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "",
+            "content": "昏迷中的安冬妮娜越发地语无伦次。",
+            "values": [
+                "option1"
+            ],
+            "options": "发生了什么？！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 55
+        },
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "丛林法则……黑匣子……流水线工厂……"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "死线……洋娃娃……渡轮灯光……汽车旅馆……"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "五月蔷薇……灯塔坠落……发霉的橘子……泥浆里的金鱼……盲肠气球……"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "重复执行中……重复执行中……"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜！！！"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "0069……0073006900760061……"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {},
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "",
+            "content": "同一时间，庇厄里亚扇区外围……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "席摩",
+            "content": "找到合适的隐蔽点了，坐标(α9718.2, β8803.4, γ40.0)。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "很靠谱嘛。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "席摩",
+            "content": "嘿嘿，谢啦。追踪信号显示智处于目标点前方没有再移动。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "希望她不要折返就好，不然我怕苏尔真的会当场崩溃。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "席摩",
+            "content": "嘘……有人。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {},
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "智",
+            "content": "不会失败……不会失败……"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "？？？",
+            "content": "找到了。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "智",
+            "content": "昏……昏星！"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "昏星",
+            "content": "嘁，真是狼狈啊。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "昏星",
+            "content": "一个净化者，居然会和那些下等的东西厮混在一起。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "智",
+            "content": "你怎么会……出现在这里……"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "昏星",
+            "content": "为了收拾你和你主人的这堆烂摊子。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "智",
+            "content": "圣、圣餐大人……"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "昏星",
+            "content": "贝欧尼斯，不配被称作“圣餐”。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "智",
+            "content": "你们把圣餐大人怎么了？！"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "昏星",
+            "content": "呵呵，结果到最后你还是这幅样子。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "昏星",
+            "content": "圣餐大人、圣餐大人地叫着，真难看。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "昏星",
+            "content": "扰乱信使处理那帮该死的流亡者……"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "昏星",
+            "content": "偷走你的圣典，派你去和熵接触……"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "昏星",
+            "content": "贝欧尼斯就是个叛徒。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "智",
+            "content": "你们处死了她……"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "昏星",
+            "content": "这是叛徒应得的下场。"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "智",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "智",
+            "content": "庇厄里亚的沙盒模式……开启了……"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "昏星",
+            "content": "呵，又丢了一个扇区。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "昏星",
+            "content": "净化者内部，就是因为你们这些家伙，被搅得乱七八糟。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "昏星",
+            "content": "晨星就是太心慈手软了。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "智",
+            "content": "赫希佩勒斯——"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "智",
+            "content": "——唔！"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "",
+            "content": "智的身体一下子被刺穿了。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "昏星",
+            "content": "你没资格喊我的名字。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "",
+            "content": "名为赫希佩勒斯的净化者头也不回地离开了。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "",
+            "content": "智跪在地上，双手紧紧捂着腹部，口中吐出黑色的黏液。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "",
+            "content": "结束了，结束了……谁也不会再接受她。\n她将永远被遗弃在这片数据荒漠之中。"
+        },
+        "prop": "name",
+        "nextId": 98
+    }
+}

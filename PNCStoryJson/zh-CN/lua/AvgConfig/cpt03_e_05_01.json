@@ -1,0 +1,1092 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "问题不在于核心熔炉，而在于次级传导模块机械组错位？"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "希安",
+            "content": "是的……这个……结构……不对。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "明白了，我说怎么感觉哪里怪怪的，原来是机械组设计的结构不对。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你们敢信吗？他们竟然在这么紧凑的位置加上了楔形结构，导致整个系统的剪力过大……"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "苏尔",
+            "content": "唔……完全听不懂！"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "就像是设计师开门的时候用错了钥匙？"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不，这种情况相当于拿擀面杖往锁孔里怼。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "别管了，希安，来搭把手。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "希安",
+            "content": "好的……克罗琦……工具……给你……"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "希安",
+            "content": "克罗琦……好厉害……希安……没有……知识……"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "嘿嘿，也没有啦。希安也很厉害，完全不懂机械知识还能做到这个份上。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "怎么样，顺利吗？"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "没问题，希安提供的这些资料实在太充分了。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "她对1号反应炉的每一个零件都清清楚楚，我都怀疑她从遗迹工程员转行了！"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "希安",
+            "content": "希安……巧可……很多次……很多次……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这就是传说中的“熟练得让人心疼”吗？"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你们被困在这里很久了吧？对不起，如果早知道……"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "希安",
+            "content": "没关系……帕斯卡……不难过……"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "希安",
+            "content": "现在……大家都在……整整齐齐……"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "希安",
+            "content": "一定可以……一起出去……"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "当然，我可是机械专家，没有问题的！"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦自信地开始对1号反应堆进行改造。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {},
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "苏尔",
+            "content": "怎么样怎么样？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "当然是全部搞定了，不信你们等等看好了。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "",
+            "content": "在大家紧张地注视下，时间来到了过往爆炸发生的时刻。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "希安",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你看！我就说没事吧？！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦的表情率先从紧张转为放松，还有些许得意。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "希安",
+            "content": "克罗琦……厉害！"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "希安",
+            "content": "希安……要回去……巧可……一起！"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，走吧，我们去接巧可，然后一起离开。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {},
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "巧可",
+            "content": "快一点快一点，要爆炸啦，巧克力不快点出炉的话，又要重新开始了。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "巧可",
+            "content": "虽然材料总是会恢复原状，可以重复使用，但浪费可不是好习惯。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "",
+            "content": "叮——"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "巧可",
+            "content": "出来了！尝一下味道。唔……"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "巧可",
+            "content": "好吃！这个配方成功了，得记下来，下次出发前做给希安！"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "巧可",
+            "content": "还有小餐，算算时间她也快来了。她们一定会喜欢新配方的！"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "巧可",
+            "content": "不对！要爆炸了，记忆巧克力，记忆巧克力。呜，好像弄混了——"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "",
+            "content": "巧可不小心将刚出炉的巧克力与专门为防止遗忘记忆制作的巧克力混在了一起。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "巧可",
+            "content": "……好像只能一起吃下去了。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "",
+            "content": "巧可苦着脸把不同味道的巧克力混在一起，强行塞到了嘴里。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "巧可",
+            "content": "唔——呜——呃咳咳……水……水。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "巧可",
+            "content": "咕咚咕咚——"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "巧可",
+            "content": "呼——活过来了。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "巧可",
+            "content": "好！这样就不会忘记事情了，也不知道希安怎么样了。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "巧可",
+            "content": "虽然每个循环都有新的数据可以做成巧克力，但是味道一成不变也让人很苦恼呢。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "希安",
+            "content": "巧可……回来了……"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "巧可",
+            "content": "欢迎来到巧可的可可屋……咦，不对！"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "巧可",
+            "content": "希安你怎么回来了，1号反应炉的问题解决了吗？"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "苏尔",
+            "content": "当然都解决啦~~"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "",
+            "content": "苏尔笑嘻嘻地从希安身后窜了出来，向巧可伸出了双手。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我们也来啦，惊不惊喜意不意外？！"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "巧可",
+            "content": "哇！"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "",
+            "content": "巧可发出了惊喜地呼喊，从椅子上跳了起来，跑向苏尔。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "",
+            "content": "而后越过了她，紧紧地抱住了帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "巧可",
+            "content": "呜——你们终于来了，巧可等你们回来等好久了。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "巧可",
+            "content": "从茧里出来以后我们两个就到了这里，出也出不去，还以为以后都见不到你们了。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是啊，我们来接你回家了。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "噗嗤——"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "苏尔",
+            "content": "笑什么笑，不准笑。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我没有笑，我只是想起了高兴的事情。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "希安",
+            "content": "巧可……走吧……大家……一起离开……"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "巧可",
+            "content": "等等，我得带上这些巧克力。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "巧可",
+            "content": "来，你们也拿着，这些巧克力都可好吃了。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "啊。好久没吃到这么美味的巧克力了。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "巧可",
+            "content": "还有记忆巧克力，也要带上。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "巧可",
+            "content": "这里还有一些巧克力原料……"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "巧可",
+            "content": "啊，对了，还得给小餐留点巧克力和纸条，不然她过来找不到巧可一定会着急的。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "小餐？是赫里奥斯扇区的智能体吗？"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "巧可",
+            "content": "不是哦，小餐是巧可和希安新认识的朋友。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "巧可",
+            "content": "她可喜欢巧可做的巧克力了，每隔一段时间就会来这里做客。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "巧可",
+            "content": "记忆巧克力的原料也是她带给我们的。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "希安",
+            "content": "小餐，很强，不用担心。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {},
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "",
+            "content": "我们朝着扇区入口的方向前行，一路上，帕斯卡都在和巧可互相交流彼此的经历。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "巧可",
+            "content": "原来我们已经在云端建立自己的地盘了？"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "巧可",
+            "content": "那巧可可以在绿洲开一家可可屋吗？拜托了，这对我来说真的很重要。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "bravo",
+            "content": "啊……对智能体来说，虚拟的食物有那么好吗？"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "巧可",
+            "content": "好吧……那我会想办法自己制作巧克力的。"
+        },
+        "prop": "name",
+        "nextId": 301
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "",
+            "content": "谈及自己特长的巧可显得认真而严肃，但是一转眼，巧可又换上了一副高兴的表情。"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "巧可",
+            "content": "啊！是小餐！这里这里！"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "",
+            "content": "顺着巧可的目光看去，一个娇小的身影浮在半空，朝我们飞来。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "苏尔",
+            "content": "你喊的小餐就是这个家伙？！"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "",
+            "content": "看清了来人后的苏尔一个哆嗦，猛地将双刀抽了出来。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "苏尔",
+            "content": "而且你居然还把她招呼过来了，克罗琦准备！"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "大家后退！教授站到我们后面来！"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "巧可",
+            "content": "诶……？你们怎么了？"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "希安",
+            "content": "小餐……不是坏人……"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这家伙是净化者！是我们，是绿洲的敌人！"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "？？？",
+            "content": "哎呀呀，这种说法可太让人伤心啦，我可不是你们的敌人，至少现在不是。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "圣餐",
+            "content": "自我介绍一下，我叫圣餐，巧可的好朋友兼粉丝，一个孤独的美食家。"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "圣餐",
+            "content": "巧可，你们这是要去哪里呢？"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "巧可",
+            "content": "巧可的朋友们解决了赫里奥斯扇区的问题，来接我回家啦。"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "圣餐",
+            "content": "解决了赫里奥斯扇区的问题？"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "",
+            "content": "圣餐复述着这句话，忽地露出了古怪的微笑。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "圣餐",
+            "content": "巧可，好孩子可是不能说谎的喔。"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "巧可",
+            "content": "才没有骗你呢，大家真的把1号反应堆修好了！"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "希安",
+            "content": "巧可……说的……真的……"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "巧可",
+            "content": "小餐是害怕我们离开以后吃不到巧克力吗？"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "巧可",
+            "content": "没关系的，巧可在居住的地方留下了好多好多巧克力，足够你吃上一阵子啦。"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "圣餐",
+            "content": "我指的不是这个哟，巧可。"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "圣餐",
+            "content": "解决了赫里奥斯扇区的问题——你是不是太看得起你的朋友们了？"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你这话什么意思？"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "圣餐",
+            "content": "当然是字面上的意思咯，要想解决赫里奥斯扇区的问题，你们还差得远呢。"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "圣餐",
+            "content": "不过你们也不用太紧张，我是不会和你们动手的，因为没有必要。"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "",
+            "content": "圣餐笑着向上飞去，拉高了身位。"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "",
+            "content": "巧可，一会见。记得吃聚能草做的巧克力喔~"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "希安",
+            "content": "大家……小心……"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "",
+            "content": "希安意识到了什么，转身低呼着竖起了屏障。"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "",
+            "content": "扇区深处，一个和先前截然不同的地方，陡然炸起了一朵蘑菇云。"
+        },
+        "prop": "name",
+        "nextId": 117
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "",
+            "content": "焰浪，接踵而至。"
+        },
+        "prop": "name",
+        "nextId": 118
+    },
+    "node118": {
+        "id": "node118",
+        "attributes": {},
+        "nextId": 119
+    },
+    "node119": {
+        "id": "node119",
+        "attributes": {
+            "name": "",
+            "content": "刹那间，视界内的所有景象都消失了，耳边的声响也逐渐演化为单一的鸣噪。"
+        },
+        "prop": "name",
+        "nextId": 120
+    },
+    "node120": {
+        "id": "node120",
+        "attributes": {
+            "name": "电子女声",
+            "content": "序号99859，修正开始。"
+        },
+        "prop": "name"
+    },
+    "node303": {
+        "id": "node303",
+        "attributes": {
+            "name": "巧可",
+            "content": "在“烹调”做成“食物”之后，就很容易吸收了哟。对我们来说，“美食”是很重要的！"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node302": {
+        "id": "node302",
+        "attributes": {
+            "name": "巧可",
+            "content": "这些巧克力的原料，都是对智能体来说很难吸收的数据或者代码。"
+        },
+        "prop": "name",
+        "nextId": 303
+    },
+    "node301": {
+        "id": "node301",
+        "attributes": {
+            "name": "巧可",
+            "content": "对人类来说，是先有“进食”这个行为，才有了“食物”，但智能体正好相反。"
+        },
+        "prop": "name",
+        "nextId": 302
+    }
+}

@@ -1,0 +1,621 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "苏尔",
+            "content": "迅、迅炎……呜……"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "席摩",
+            "content": "苏尔小心！"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "飞射而出的弩箭扎进净化者的中枢，后者发出含混的叫声后倒下。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这下没了吧……"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不是我说，苏尔……"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "从恩格玛扇区回来之后，你的胆量一点都没有长进啊。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "苏尔",
+            "content": "超出认知范围的东西就是很恐怖嘛！"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这次任务结束后，我要强迫你看一百部恐怖电影。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不、不用这么狠吧？！"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不过，这些被感染的净化者比以前更棘手了……"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这种病毒的侵蚀能力超乎了我的预想。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "下位净化者的防火墙直接就能被攻破，连多进程自我保护都不起作用。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "竟然可以做到这一步……"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这件事确实很奇怪……"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "扇区里明明有病毒存在，净化者却只有寥寥几个，还都是下位……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "苏尔",
+            "content": "说是扇区，但这里确实没有什么数据啊。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "苏尔",
+            "content": "没有太多净化者驻扎在这里也是正常的吧？"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不，我刚才试着连接了扇区外部的数据端口。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "和其他扇区一样，这里是有名字的。这个扇区叫做“庇厄里亚”。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "庇厄里亚……是缪斯的别称？"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这你也知道？"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "只是在动画里看到过而已……"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "而且和我们过去的认知不同的是，这里也不从属于任何企业。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "所以这里的数据都是个人的吗？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，个人或小型组织的可能性比较大。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "缺少企业支撑，加上区域封闭……也难怪会变成这幅样子。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "简直就像是……任由病毒肆虐的温床。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "说到那些病毒，你有什么发现吗？"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "通过被感染的程序只能简单分析这种病毒的类型而已。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "要进一步调查的话，必须要通过病毒原体才行。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那……你决定继续深入吗？"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……那样会很危险的吧。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "就算我能调用算量，给我们的心智系统额外增加防护，但教授的我做不到……"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "所以，就地搜索一下扇区内是否有同伴吧。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "如果没有什么新发现，我们还是回绿洲比较好。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……喂，你们听到什么声音了吗？"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你又幻听了吧？疑神疑鬼的。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……不，是真的有声音！"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "苏尔",
+            "content": "帕斯卡，你听到了吧？"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "啊……？"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……好像是有……什么东西撞击的声音。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "萨可",
+            "content": "吱唔！"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "席摩",
+            "content": "萨可也听到了！"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "苏尔",
+            "content": "对吧！萨可，拜托你带路了！"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "萨可",
+            "content": "唔！"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "",
+            "content": "我们跟随着萨可一路向前行进，苏尔所听到的声音渐渐清晰起来——"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "",
+            "content": "越过数据沙丘的最高点，我们看到尚未被感染的净化者正在与一群难以名状的程序体作战。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "那是……病毒！"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "",
+            "content": "病毒吐出了黑色的孢子，将冲在前面守护者的盾牌融化。被孢子感染的守护者突然开始扭曲变型，机体被病毒腐蚀着。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "",
+            "content": "黑色的病毒一点点蚕食着可怜的下位净化者们，它们被一点点同化，剩下的净化者徒然地抵抗着。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "怎么办，我们要插手吗？"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这些净化者绝对不是它们的对手，病毒这一侧的优势就像滚雪球一样……",
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "帮助净化者消灭病毒。;还是再观察一下吧。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 53,
+            "option2": 60
+        },
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "真的要这么做吗？"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "处理完病毒之后，净化者还是会与我们为敌的。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我认为教授的判断没有问题。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那些病毒会将净化者同化成为自己的阵营。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果放任它们的话，我们将会面临的是病毒，以及被病毒感染的净化者。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "也对……好吧，那就这么办。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "艾吉斯防护进程启动，大家跟在我身后！"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "教授，我还是要提醒你一下，我们没有那么多时间犹豫。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "虽然谨慎是好事，但如果放任它们将所有净化者都吞噬了的话……"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我们之后搜索人形同伴的行动也许会受到严重干扰。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，这一点上我同意安冬妮娜。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不过……还是您来决定吧。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜……",
+            "values": [
+                "option1"
+            ],
+            "options": "好，那就一起去处理那些病毒吧！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 66
+        },
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "那就出动了！艾吉斯防护进程启动！"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呜……等、等等我……！"
+        },
+        "prop": "name",
+        "nextId": 68
+    }
+}

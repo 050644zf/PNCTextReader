@@ -1,0 +1,497 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "病毒依然猛烈，我们合力抵抗也无法阻止它们的疯狂进攻。"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "大家小心，千万不要接触到它们！"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "真是难缠啊……"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦用巨盾将一只无法辨识模样的病毒砸了个稀烂——这下更加无法辨别它的样貌了。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "苏尔！"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "",
+            "content": "另一边，苏尔正在用力地甩着阿尔瓦克，试图将一块缠在上面的胶状病毒甩掉。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呜……快走开！快走开啊！"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "",
+            "content": "一只弩箭破空而来击中病毒的核心，后者终于松开了纠缠，无力地摊到地上。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "苏尔",
+            "content": "Thank you，席摩！"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "席摩",
+            "content": "小意思啦！"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "",
+            "content": "病毒蜂拥而上，克罗琦的艾吉斯号喷出火舌，机兵轰鸣过后留下一堆狼藉，很快又被覆潮所湮盖。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这些东西难道没有“性命”的概念吗，疯了似的往前冲。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "它们没有个体意识，认知范围内甚至只有“攻击”这一种行为。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "听上去也挺惨的……"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我正在试图分析它们的构造，再给我一点时间……"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "席摩",
+            "content": "你们快看，它们中间好像有一个不一样的家伙！"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "苏尔",
+            "content": "在哪？"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "",
+            "content": "顺着席摩所指的方向，我似乎看到一个身影在黑色的覆潮之中一闪而过。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我没有看到啊。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "席摩",
+            "content": "诶？难道是我看错了……那个影子看起来很明显和其它的熵不同。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "也许是病毒聚合在一起形成的堆积块。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "苏尔",
+            "content": "噫，好恶心！"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "席摩",
+            "content": "我们的行动范围在缩减，各个方向都要注意防守。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "安娜，分析完成了吗？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "马上——"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "有一个终端正在源源不断地向熵发送着指令：不惜一切代价占领花园。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "等等……"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "不，不能让它们毁掉我们的花园！"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "",
+            "content": "似乎是因为安冬妮娜分析的指令结果，愤怒的奥吉里自顾自地向前方冲了出去。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "奥吉里！那里危险！"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "",
+            "content": "看到脱离阵型的奥吉里，一处的熵迅速聚合增殖，顷刻间，硕大的异体从黑潮之中浮现而出。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "",
+            "content": "异体冲向了奥吉里，在行进的过程中愈发扩张，直到身躯如海啸般遮天蔽日。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "奥吉里——"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "",
+            "content": "几乎是在同一时刻，安冬妮娜冲向奥吉里，死死地抱住了她。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "呜！！！"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜的防护进程没能阻挡住异体的攻击，二人被巨大的冲击力震退。即便是摔向地面时，安冬妮娜依旧死死地将奥吉里护在身后。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "席摩",
+            "content": "安娜——！"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "苏尔",
+            "content": "席摩！掩护她们！"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "席摩",
+            "content": "明白——"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "",
+            "content": "我们的攻击同时落在异体身上，异体散落分裂，嚎叫着重新汇入病毒群中。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "",
+            "content": "我们放弃了阵地冲到安冬妮娜和奥吉里的身前。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你们没事吧……呜！"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "安吉拉",
+            "content": "咳咳……奥吉里交给我。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜！"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我……"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜！安冬妮娜！糟了，她昏过去了！"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "抱歉……抱歉……安冬妮娜！都怪我……"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "必须得快点转移才行！"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们必须撤回花园再想办法了……"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "那……那花园会不会……"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "奥吉里",
+            "content": "不……不能那么自私，奥吉里……"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "席摩，克罗琦，麻烦你们开路！"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "",
+            "content": "我们向花园内撤退，临走之前，我再次看向那些蠕虫般扭动的病毒。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "",
+            "content": "一个暗色的身影被病毒所环绕，虽然看不清样子，但透过它的轮廓，我似乎依稀看见了人影。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "",
+            "content": "倏尔，它再次被淹没在黢黑的潮水之中。"
+        },
+        "prop": "name",
+        "nextId": 56
+    }
+}

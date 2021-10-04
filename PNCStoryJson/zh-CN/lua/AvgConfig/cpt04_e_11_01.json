@@ -1,0 +1,965 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "信使",
+            "content": "<size=40>呜</size>……"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "信使",
+            "content": "呵呵……看来我还是太小看你们了呢……"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "信使的弓箭早已破烂不堪，身上也遍布战斗的痕迹。即便如此，她依旧搭起箭矢试图瞄准我们。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "苏尔",
+            "content": "最后一击——"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "",
+            "content": "信使被克罗琦正面牵制，没能来得及抵挡住苏尔的突袭，终于应声倒地。\n她仍然狼狈地挣扎着想从地面上爬起来。但此时，她已完全失去了早先那股凌人的盛气。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "信使",
+            "content": "呵，我居然也会到这一步……"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "信使",
+            "content": "……动手吧。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "——等等！"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "",
+            "content": "听到帕斯卡的阻止，原本把刀架在信使脖颈前的苏尔停下了动作。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……诶？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "信使",
+            "content": "怎么了……连解决一个敌人这样的事也做不到吗？"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……不，我们不是你想象中那样的邪灵。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们只是立场和你们不同而已。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "信使",
+            "content": "……别自以为是地说这些漂亮话。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "",
+            "content": "信使说着，终于勉强支撑着站了起来。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "苏尔",
+            "content": "喂，你现在连站都站不稳了，真的还要和我们打吗？"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "我们不会趁人之危的。;回去吧，信使。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 18,
+            "option2": 18
+        },
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "信使",
+            "content": "你们……是小看我么？"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不，我们尊重你。你所做的一切也都是为了恩格玛。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我想，圣餐也不希望你被我们处决的。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "信使",
+            "content": "圣餐……那家伙……"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "信使",
+            "content": "原来是这个意思啊……"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "信使",
+            "content": "一直为你们说话，认为你们不同于其他邪灵……"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "信使",
+            "content": "她看上去已经完全被你们说服了。"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "信使",
+            "content": "不过我……还是要把话说清楚。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "信使",
+            "content": "我有自己的原则和信仰。下一次交手，我也不会因此而对你们网开一面的。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，我们当然知道。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "信使",
+            "content": "……再见了。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "",
+            "content": "信使转过身，拖着疲惫不堪的身躯离开了我们的视线。\n回头望去，算量黑洞已然消失，算量渐渐回到了原住智能体和建筑之内，庞大的计算机也逐渐运转起来。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {},
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "苏尔",
+            "content": "真的就让她这样走了啊……净化者可是追着我们的屁股打了这么久诶！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "我们本质没有区别，只是立场不同，没必要赶尽杀绝。;净化者死后也会重置数据并重生，放走她对我们来说或许会有好处。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 33,
+            "option2": 35
+        },
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，要么就是永无止尽的战斗，要么就是彼此互相让步和解……"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "净化者虽然有算量和权限，但本质上还是和我们一样被困在这些扇区里。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这么说也有道理。教授的想法还真是长远啊……"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "苏尔",
+            "content": "唔，不过幸好恩格玛没事了！"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "bravo",
+            "content": "不过，其实还有一个更为关键的原因吧？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "",
+            "content": "我向帕斯卡眨了眨眼，而帕斯卡长长地出了一口气。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……没想到这都被您看穿了呀。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "确实，因为是暂时调用恩格玛的算量，所以我没办法坚持更久。而信使并没有完全陷入绝境。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "当时如果苏尔真的动手，可能就会被信使的箭矢刺穿脖颈了。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呜哇，原来这么可怕吗……"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "而且随着恩格玛的通讯恢复正常，信使便可以向逆巴比伦塔申请调用算量。这样下去我们迟早会陷入劣势，不如尽快结束战斗。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "bravo",
+            "content": "你想了很多嘛，帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "在教授身边这么久，也该耳濡目染一些啦。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "bravo",
+            "content": "不过，这样一来，也总算可以松一口气——"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "",
+            "content": "我躺倒在地上，恩格玛扇区的天空无比澄澈明亮。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教、教授？您没事吧？是不是受伤了……"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "把帕斯卡也拽倒。;让帕斯卡扶我起来。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 50,
+            "option2": 56
+        },
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "——呜哇！"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡本想凑近确认我的情况，却冷不防被我拽倒，躺在了我的旁边。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授！吓我一跳！"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "bravo",
+            "content": "还是之前在绿洲商量的那个话题——你也该好好松一口气，休息一下啦。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "真是的……"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡本来有些气鼓鼓的，但抱怨的话还没出口，却忍不住笑了出来。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡本想将我扶起来，却一个没站稳，倒在了我的旁边。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "——呜哇！"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "对、对不起！教授，您还好吗？没撞到您吧？"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "",
+            "content": "哈哈哈，我没事啦。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "",
+            "content": "不过，这样也挺好的。还是之前在绿洲商量的那个话题——你也该好好松一口气，休息一下啦。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "太好了，吓我一跳……"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡舒了一口气，看着我的脸，忍不住笑了起来。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "bravo",
+            "content": "怎么了？"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "您的衣服破破烂烂的，头发也乱糟糟的，还从没见过您这样……噗……"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……哈哈哈……"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "bravo",
+            "content": "你还笑我，你不也是嘛……"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "",
+            "content": "我望向帕斯卡，她的身上同样布满战斗的痕迹，显得有些狼狈。但看着她开怀大笑，我却忽然觉得，这才是她本该有的样子。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "摸摸她的头。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 69
+        },
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "诶？教、教授？"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "bravo",
+            "content": "辛苦了，帕斯卡。一直以来你都很努力了，谢谢你。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡愣了一下，随即微笑起来，眼里好像闪烁着光彩。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……嗯，您也是。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {},
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "你们要出发了吗？或许可以在恩格玛再休整一段时间……"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "已经没问题了。感谢你的帮助，诺依曼。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "不，应该我说感谢才对。毕竟你们完成了几乎不可能完成的事……我不知道该怎样才能表达我的谢意。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但……现在还无法做到在可控范围内唤醒埃妮阿克……"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "没关系，有这个可能性，那就足够了。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "更何况你还告诉了我如何输入底层指令……在此基础上不断研究，相信总有一天，我能再见到埃妮阿克的。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "到时候，埃妮阿克也能履行诺言，当面和你道歉了。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "真的等到那一天，我可要好好问问她是怎么回事。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "在此之前，我就像她所说的，边进行研究，边好好建设恩格玛吧。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，我也会帮助你进行研究的。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "还有克罗琦——她也能帮助恩格玛进行基础设施的重建。对吧，克罗琦？"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……我知道啦。毕竟开启了沙盒屏障，就和绿洲统一战线了嘛。"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "呵呵，这次恩格玛之行，克罗琦也出了不少力呢。看来确实是有所成长啦。"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……那是不是该有点实际表示？"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "之前我就考虑过了，给工程局的拨款翻倍——"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "好耶！"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "——不过相对应的，外出勘察任务的比例也会上升哦。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "呃啊……"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我、我明白啦……"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "你们能帮助恩格玛回到正轨真是太好了。如果遇到什么困难，我们也会倾尽全力提供帮助！"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这么说来……我确实有非常在意的事……"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那个……不然的话，我们还是说回这个……“黑盒演化论”，对吧？"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "伊莉塔",
+            "content": "没错。不过，要理解这个理论，或许还得从“底层指令”说起。你应该对此有所了解吧？"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "现有搭载“二代心智”的人形，应该都会受到“底层指令”的束缚吧？"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "伊莉塔",
+            "content": "与其说是受到束缚，不如说是只有依靠“底层指令”才能得以运行。"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "“黑盒演化论”……这应该是属于42Lab的资料。在你的印象里，埃妮阿克有存储过相关的数据吗？"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "诺依曼",
+            "content": "抱歉，我没有印象……但埃妮阿克的体量非常庞大，我所知晓的也不过是其中的一小部分数据。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "看来，还是需要尽快唤醒埃妮阿克呢。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（“黑盒演化论”……）"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（虽然那本该是我的记忆，但我却对其毫无印象……）"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（伊莉塔教授……）"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "（您究竟隐瞒了什么？）"
+        },
+        "prop": "name",
+        "nextId": 106
+    }
+}

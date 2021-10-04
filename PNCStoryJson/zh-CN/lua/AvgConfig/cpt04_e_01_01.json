@@ -1,0 +1,1315 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "> 无法控制地. . . 想要更多的算量. . ."
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "content": "> 想要. . . 变得更加强大. . ."
+        },
+        "prop": "Subtitle",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "content": "> 吞噬.  .  . 吞噬.  .  ."
+        },
+        "prop": "Subtitle",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "content": "> 一定要成为那个.  .  . 完美的孩子.  .  ."
+        },
+        "prop": "Subtitle",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {},
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "content": "<b>>> CHAPTER 4 //      残   影 . . .</b>"
+        },
+        "prop": "Subtitle",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "",
+            "content": "绿洲内，总控制室。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授，工作辛苦了。这是给您的咖啡。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "谢谢你，帕斯卡。;啊，咖啡吗？还是不用啦……"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 10,
+            "option2": 12
+        },
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不用跟我客气的，教授。咖啡的口味需要再做调整吗？"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "",
+            "content": "现在这样就好。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "就算不需要咖啡，您连轴转了这么久，也该休息一下了。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我知道您想早点完成绿洲的重建，尽快推进搜寻其他人形的工作。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但要是因为工作过度倒下了，可就得不偿失啦。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2",
+                "option3"
+            ],
+            "options": "你也要注意身体呀，帕斯卡。;我对你说这句话还差不多。;帕斯卡好像老妈子啊……"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 17,
+            "option2": 17,
+            "option3": 16
+        },
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "诶、诶？老妈子？"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "bravo",
+            "content": "我听苏尔说你已经连续工作30小时了。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "bravo",
+            "content": "就算你的心智足够稳定，不用担心过载导致宕机，也不能这样勉强自己。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这、这是另一回事。毕竟我们好不容易有了三个扇区的算量，需要尽快安排才行……"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "总之，您也知道，现在绿洲的各项设施都已经顺利重建并运作了，勘察工作也在稳步推进。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这样看来，您也是时候松一口气，给自己放个假啦。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {},
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "是吗？看来我要让你们的休假美梦破碎了。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜？我记得这个时候你应该在核对检索终端的数据……发生什么事了吗？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "检索终端检测到了来自其他扇区的求救信息。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "虽然信号很弱，而且信息本身残缺不全，甚至加密过……但我还是找到了其中的关键信息。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "真可靠呀，安冬妮娜不愧是42Lab的高级网络安全工程师！"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "咳，我也不是想被夸赞啦……总之，相关数据和信息已经发送到控制中枢这边了。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我看看……信息中的这个坐标……是存放量子数据库的<a href=Des:54>恩格玛扇区</a>？"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我记得在之前的检索记录中，我们没有发现其中存在人形的信号。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "没错，现在也还是没有。这封求救信息是无差别发送的，我只是恰好拦住了一条。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "为了弄清楚究竟发生了什么，我追溯回源头，探了探恩格玛扇区的情况。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这个扇区内部如同存在着一个“算量黑洞”一般，不断地吸收外界的算量……"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "在此之前我们还从未遇到过这样的情况。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "吸收算量？！会对绿洲产生影响吗？"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "暂时还没有，应该是扇区内的智能体控制住了影响范围。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这封求救信息的署名为“诺依曼”，我推测他可能就是扇区内的原住智能体。"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "但扇区内的情况并不稳定。一旦情况脱离控制，可能数分钟后就会波及到绿洲。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……看来这也是恩格玛扇区的智能体向外发送求救信号的原因。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们该怎么做，教授？"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "加固防御系统，削弱对绿洲的影响。;前往恩格玛扇区，关停“算量黑洞”。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 42,
+            "option2": 46
+        },
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，无论如何我们都要做好最坏的准备。我马上联系克罗琦加固沙盒屏障。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我也会持续提供那个扇区的检索数据，确保加固工作更有方向性。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "但检索终端收集的数据毕竟是有限的。我们缺少扇区内部的数据。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你的意思是……需要派遣人员去扇区实地勘察？\t"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "从根源解决问题吗……真有教授的风格。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我们这边也需要更有针对性的数据，以便在恩格玛扇区脱离控制的情况下作出应对。"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "要是能派遣人员实地勘察并传回数据，就再好不过了。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但以现有的数据来看，恩格玛扇区内部算量波动很可能异常剧烈，会对心智造成影响。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果心智不够坚固，前往勘察的人形很容易因为运算速度和战斗力下降而陷入险境。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果要挑选一个前去勘察的人……"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我知道你想说什么，帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你的心智是人形中最坚固的没错，可你并非战斗人员，独自前往太危险了。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但如果因为人数太多成为净化者的目标，就得不偿失了。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我和你一起去，有什么事也能彼此照应。"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "绿洲需要一个能够分析勘察数据，指挥防御工作的人。现在这种情况下，绿洲不能没有你，安冬妮娜。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜一言不发地看向我，用眼神示意我帮忙劝说。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "和帕斯卡一同前往恩格玛扇区。;让帕斯卡独自前往恩格玛扇区。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 60,
+            "option2": 71
+        },
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "bravo",
+            "content": "我和你一起去，帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡和安冬妮娜一时之间都愣住了。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "诶？！但、但是……"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那个……虽然您作为人类，心智超越所有人形，不会受到算量波动的影响，但毕竟没有作战能力……"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……帕斯卡，你是在说教授太弱了吗？"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我当然不是这个意思！教授对于局势的判断和指挥能力绝对是顶尖的，只是……"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "那就行了。既然你认可教授的能力，也该相信他能帮助你在危机关头做出最佳的判断。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "至少我是信任教授的。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这不是信任问题！我只是担心会让教授陷入危险……"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我们也同样担心你会陷入危险。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "多一个人，多一份保障。教授也是这么想的，对吧？"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "bravo",
+            "content": "我相信帕斯卡的能力。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我不能认同。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我们并不清楚算量黑洞的情况，让我和帕斯卡同行是最好的方案。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "bravo",
+            "content": "那么绿洲的检索系统和对外侦查由谁主持？"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "克罗琦在全力加固沙盒屏障，席摩还在重新熟悉绿洲。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "苏尔能提供的只有武力上的支援，希安也一样。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜，这里需要你。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "但你是绿洲的处理中枢，如果你遇到危险，我们谁也没法帮教授把绿洲维持得像现在一样好。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我不会轻易地……"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "bravo",
+            "content": "不要争论了，我跟着去。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "诶？！"
+        },
+        "prop": "name",
+        "nextId": 301
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……如果是这个方案，我同意。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我见识过教授在战场上的魄力，优秀的领导者不会只依赖作战能力。"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜边说着，边悄悄腾出手来操作了几下终端，我的界面上立刻弹出了消息。"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我会一直在这里等着你们的消息。"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "遇到任何危险立刻联络，ok？ "
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "嗯，交给我吧！;（点头）"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 89,
+            "option2": 89
+        },
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "所以说，既然教授都这么说了，帕斯卡你就别坚持了。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "时间紧迫，我们就别在争论上浪费时间了。快收拾好装备出发吧。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "唔，可是……"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "对了！鉴于之前外派勘察的人员总是出现各种各样的问题，我特地改装了移动终端，不仅加强了通讯信号……"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "就算……"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "没错！现在只要到了定期联络的时间，通讯就会自动接通，实时传达勘察者那边的画面和声音。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我是说……"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "当然！如果遇到不方便接入通讯的情况，也可以手动设置定期联络是否自动接通，非常人性化……"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜！"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……总之，无论如何我都不会让你一个人去的。"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我是想说，谢谢你担心我。我们会平安回来的。"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……咳，我只是想提升行动的成功率罢了。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不过你既然承诺了会和教授一起平安回来，就要说到做到。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我会的。 "
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那么，之后就要麻烦您了。准备出发吧，教授。"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {},
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "",
+            "content": "数十分钟后。\n恩格玛扇区内，我和帕斯卡谨慎地向着求救信息内所标示的坐标点进发。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "bravo",
+            "content": "联系上安冬妮娜了吗？"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "信号很微弱。扇区内部的算量波动过于剧烈，通讯也同样受到了影响。"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "所幸安冬妮娜此前加强过通讯信号，我可以分批传送收集的数据和简单的信息。"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但……到底为什么会变成这样……"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡看向扇区内部，映入眼帘的景象远比想象中更加诡异。"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……我们已经进入扇区十多分钟了，还没有遇到过一个智能体。"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不……准确地说，是“活着的”智能体。"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "",
+            "content": "庞大的服务器早已停止运作，冰冷的器械旁，随处可见已经变成空壳的智能体。"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "bravo",
+            "content": "能判断这些智能体的状态吗？"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，我检查过。无论是原住智能体，亦或是净化者，体内的算量都接近干涸。"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "由于并非真正地“死亡”，只是没有足够的算量驱动心智运转，所以也无法被重置。"
+        },
+        "prop": "name",
+        "nextId": 117
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那位发送信息的“诺依曼”也不知道在哪里……"
+        },
+        "prop": "name",
+        "nextId": 118
+    },
+    "node118": {
+        "id": "node118",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "真让人不舒服。;从另一方面来说，我们不用担心净化者的攻击了。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 119,
+            "option2": 125
+        },
+        "nextId": 119
+    },
+    "node119": {
+        "id": "node119",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……我也这样认为。"
+        },
+        "prop": "name",
+        "nextId": 120
+    },
+    "node120": {
+        "id": "node120",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "而且扇区内部的算量波动非常剧烈，我体内的算量像是被拉扯一样……"
+        },
+        "prop": "name",
+        "nextId": 121
+    },
+    "node121": {
+        "id": "node121",
+        "attributes": {
+            "name": "bravo",
+            "content": "你还好吗？"
+        },
+        "prop": "name",
+        "nextId": 122
+    },
+    "node122": {
+        "id": "node122",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "暂时还没问题，行动和战斗都没有受到影响。我得感谢帕斯卡博士和……为我安装了足够坚固的心智。"
+        },
+        "prop": "name",
+        "nextId": 123
+    },
+    "node123": {
+        "id": "node123",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "只不过，一些心智比较简单的原住智能体和净化者，或许就没有这么好运了。"
+        },
+        "prop": "name",
+        "nextId": 124
+    },
+    "node124": {
+        "id": "node124",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "即便能活下来，行动力和战力也会大打折扣。"
+        },
+        "prop": "name",
+        "nextId": 129
+    },
+    "node125": {
+        "id": "node125",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是的。扇区内部的算量波动非常剧烈，连我都能感受到体内的算量像是被拉扯一样。"
+        },
+        "prop": "name",
+        "nextId": 126
+    },
+    "node126": {
+        "id": "node126",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那些心智比较简单的下位净化者，即便没有丧失行动能力，战力也会大打折扣。"
+        },
+        "prop": "name",
+        "nextId": 127
+    },
+    "node127": {
+        "id": "node127",
+        "attributes": {
+            "name": "bravo",
+            "content": "你的情况还好吗，帕斯卡？"
+        },
+        "prop": "name",
+        "nextId": 128
+    },
+    "node128": {
+        "id": "node128",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "暂时还没问题。我得感谢帕斯卡博士和……为我安装了足够坚固的心智。"
+        },
+        "prop": "name",
+        "nextId": 129
+    },
+    "node129": {
+        "id": "node129",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "总之，我先按照计划将收集到的数据发送给安冬妮娜……"
+        },
+        "prop": "name",
+        "nextId": 130
+    },
+    "node130": {
+        "id": "node130",
+        "attributes": {
+            "name": "bravo",
+            "content": "嘘！"
+        },
+        "prop": "name",
+        "nextId": 131
+    },
+    "node131": {
+        "id": "node131",
+        "attributes": {
+            "name": "",
+            "content": "我将帕斯卡拽到角落。寂静的道路上，几个下位净化者正成队走过。"
+        },
+        "prop": "name",
+        "nextId": 132
+    },
+    "node132": {
+        "id": "node132",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "怎么会……照理来说，下位净化者的行动不该像平常一样高效。"
+        },
+        "prop": "name",
+        "nextId": 133
+    },
+    "node133": {
+        "id": "node133",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "谢谢您及时提醒我，要是被它们发现就危险了……"
+        },
+        "prop": "name",
+        "nextId": 134
+    },
+    "node134": {
+        "id": "node134",
+        "attributes": {
+            "name": "bravo",
+            "content": "不，帕斯卡，你的说法错了。"
+        },
+        "prop": "name",
+        "nextId": 135
+    },
+    "node135": {
+        "id": "node135",
+        "attributes": {
+            "name": "bravo",
+            "content": "不是“被它们发现”，而是“我们发现了它们”。"
+        },
+        "prop": "name",
+        "nextId": 136
+    },
+    "node136": {
+        "id": "node136",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "您是说……"
+        },
+        "prop": "name",
+        "nextId": 137
+    },
+    "node137": {
+        "id": "node137",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡和我交换了一个眼神。"
+        },
+        "prop": "name",
+        "nextId": 138
+    },
+    "node138": {
+        "id": "node138",
+        "attributes": {
+            "name": "bravo",
+            "content": "让我们来看看这个送上门的情报吧。"
+        },
+        "prop": "name",
+        "nextId": 139
+    },
+    "node139": {
+        "id": "node139",
+        "attributes": {
+            "name": "bravo",
+            "content": "不过，在这之前……"
+        },
+        "prop": "name",
+        "nextId": 140
+    },
+    "node140": {
+        "id": "node140",
+        "attributes": {
+            "name": "系统",
+            "content": "【信息模块初始化完成，正在尝试传输……】"
+        },
+        "prop": "name",
+        "nextId": 141
+    },
+    "node141": {
+        "id": "node141",
+        "attributes": {
+            "name": "系统",
+            "content": "【……传输完成。】"
+        },
+        "prop": "name"
+    },
+    "node302": {
+        "id": "node302",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但毕竟没有作战能力……"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node301": {
+        "id": "node301",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "虽然您作为人类，心智超越所有人形，不会受到算量波动的影响。"
+        },
+        "prop": "name",
+        "nextId": 302
+    }
+}

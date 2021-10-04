@@ -1,0 +1,1102 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "过去，战场。"
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "席摩",
+            "content": "通……通讯已接通。S-WG汇报，敌方指挥部已经镇压完毕……"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "男人的声音",
+            "content": "喔，干得不错，S-WG。\n每次都能这么快搞定，火神重工的新技术果然名不虚传。这笔买卖可真划算！"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "席摩",
+            "content": "感……感谢您的肯定。关于我方的受损情况……"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "男人的声音",
+            "content": "不用汇报了。营地附近的875高地可能还藏匿不少负隅顽抗的游击队，搜索与歼灭。明白吗？"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "席摩",
+            "content": "报告……近三个小时内的作战数据堆栈，有导致<color=#ffa500ff>抑制程序</color>过载的风险……"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "男人的声音",
+            "content": "咳。S-WG，你是想给我上人工智能课吗？\n你觉得我不明白这些吗？"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "男人的声音",
+            "content": "你是台单价54万卢布的军用机器，你也许在某些人眼里很特别，但是在我这里服从命令，执行命令，完成命令就是你全部的价值！"
+        },
+        "prop": "name",
+        "nextId": 991
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "席摩",
+            "content": "抱歉，长官……我失言了。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "男人的声音",
+            "content": "听不见。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "席摩",
+            "content": "Gaul收到命令！保证完成任务！"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "男人的声音",
+            "content": "我要在16：00前收到你完成任务的报告。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "席摩",
+            "content": "……明白。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "",
+            "content": "席摩沉默着跨过敌方将领的尸体，走出指挥部的大门。空气中弥漫着云爆弹燃烧后的焦味。\n敌人营地所藏身的村庄被自己引导的空袭几乎摧毁了，而还能反抗的人在刚刚也被自己打倒了。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "席摩",
+            "content": "该死，外面已经完全烧起来了……\n这种地方还会有多少活人？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "席摩",
+            "content": "十二，十四，十六，十七……\n等一下，我记得那里应该还有个黄头发的小伙子——"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "",
+            "content": "砰！"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "席摩",
+            "content": "啧！老实点！"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "士兵的声音",
+            "content": "唔啊……"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "",
+            "content": "席摩闪过背后射来的子弹，顺势一个滑步，将突然冒出的士兵扑倒在地。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "席摩",
+            "content": "……为什么？半边身子都烧成那样了，为什么还站得起来？"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "士兵的声音",
+            "content": "可恶的……怪物……\n抱歉……战友们……我……"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "席摩",
+            "content": "……人类真是复杂得难以理解。安息吧……\n唔？！"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "电子音",
+            "content": "【警告：战斗抑制程序即将过载，请与监管员联系】"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "席摩",
+            "content": "过载……可恶……\n【肃清程序……执行……】\n&￥#！！￥——噼啪*&￥#！！￥——"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "电子音",
+            "content": "【警告：战斗抑制程序已过载，心智系统将受到抑制，请与监管员联系】"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "？？？",
+            "content": "摩……席摩……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "？？？",
+            "content": "席摩！你在听吗？"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "席摩",
+            "content": "啊！唔……是克罗琦啊……"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "在作战会议上开小差，这可不像火神重工的精英人形啊。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "没事吧，席摩？"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "席摩",
+            "content": "不知道，总感觉有些冗余的信息莫名其妙冒了出来，我平时不会这样的……"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "席摩，你应该让帕斯卡帮你检查一下心智系统。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "席摩",
+            "content": "……等事情结束再说吧。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "咳咳，那我就继续了！安娜，你刚刚说隔离墙的单节点防御力是多少？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "1.5Tb每秒。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "真是夸张的数字……"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "哼哼。确实很夸张没错，但是——在我的秘密武器面前，这根本不值一提！"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "就是克罗琦刚才不小心说漏嘴的那个吗？"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "说漏嘴就别提了啦。总之，之前留守绿洲的战斗，让我充分意识到了我们在战力上的不足。"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "确实，那之后你就经常一个人把自己关在房间里。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "虽然克罗琦平时也经常宅在屋子里啦。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "啊哈哈……帕斯卡你有时候讲话也真是不留情面……"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "所以呢，克罗琦是在房间里训练吗？"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "当然不是！我可是在房间里造了一台机兵！"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……？为什么是机兵……"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这可是照着《武装机兵》里的变形战机狄拉克/δ设计出来的！"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但是，你的艾吉斯盾牌不是已经可以变形成机兵了吗？你不要你的艾吉斯号了？"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "嘿嘿，这台狄拉克可不一样！它的规模和火力都远远超过了艾吉斯号！！"
+        },
+        "prop": "name",
+        "nextId": 901
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "意思是说，你口中的“狄拉克”可以帮助我们摧毁那面隔离墙？"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "当然！因为狄拉克号可以将<a href=Des:39>算力</a>聚集，峰值最大输出高达2.3Tb每秒！"
+        },
+        "prop": "name",
+        "nextId": 903
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "席摩",
+            "content": "抱歉在这个时候打断你。但是，克罗琦，你有没有考虑过——如果隔离墙的节点之间有高防分流呢？"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "哈哈，怎么会呢那种高级技术…………你不会是说……"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "席摩",
+            "content": "很遗憾，那面隔离墙的各个节点之间会相互支援，临近的每个节点最高可以支援1Tb每秒的算力。"
+        },
+        "prop": "name",
+        "nextId": 904
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唔……啊……这……啊……"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你没事吧，克罗琦……"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "为什么……我的计划总是……明明是老旧军工区的隔离墙……怎么会……"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "席摩",
+            "content": "不过，这倒是为我们提供了一个突破口。"
+        },
+        "prop": "name",
+        "nextId": 905
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "！！那不就是说！"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "席摩",
+            "content": "是的。本来只是针对隔离墙发信器研究的副产物，毕竟监管型智能体手里并没有强大的输出武器。"
+        },
+        "prop": "name",
+        "nextId": 906
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "那不简直是天赐良机嘛！既然这样，就放心交给狄拉克吧！"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你的情绪变化还真快啊……"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "席摩",
+            "content": "但是很遗憾，那台仪器的体积并不小，必须要走大路才能运输过去。"
+        },
+        "prop": "name",
+        "nextId": 907
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不要紧！这不是还有狄拉克嘛！"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "席摩",
+            "content": "……你的意思是……"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "狄拉克不仅可以用来轰那面墙，也可以用来和净化者作战的！"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "bravo",
+            "content": "而且我们也能够直接提供火力支援，突破净化者的防线并非不可能。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "席摩",
+            "content": "但带着那么显眼的目标，如果引来渡鸦出手……"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "别担心，到那时我也有我的对策。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 72
+        },
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "席摩",
+            "content": "……等一下，教授你……"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "bravo",
+            "content": "总之，这个方案有一试的价值。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "",
+            "content": "我向席摩眨了眨眼。席摩沉吟良久，终于下定决心似地点了点头。"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "席摩",
+            "content": "……既然教授都这么说了，那我去向她们借屏蔽仪，顺便带一点儿补给算量给狄拉克。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "好耶！你可真周到，席摩！\n大家，准备出发吧！"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "提到机甲的克罗琦简直就像换了个人似的……"
+        },
+        "prop": "name",
+        "nextId": 993
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {},
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "冲啊！"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "净化者",
+            "content": "【检测到非法运载单位，尝试拦截。】"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "谁管你啊！狄拉克——dash——！"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "净化者",
+            "content": "【检测到非法运载单位。请停——】"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "",
+            "content": "砰！！！"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "诶嘿，抱歉。刚刚有撞到什么吗？"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "净化者",
+            "content": "【检测到非法运载单位的攻击性行为，尝试进行肃清。】"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "哦？要来动枪了吗？那好，来吧！"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "",
+            "content": "净化者们聚集在狄拉克前方，瞄准狄拉克展开了齐射。\n然而，一轮射击过后，狄拉克的护甲依然锃亮，几乎没能留下任何伤痕。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "那么，到我了！\n自动火力轰炸，启动！"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "",
+            "content": "狄拉克展开两翼，将数量惊人的炮火毫不留情地倾泻在净化者们身上。\n转眼间，挡在前方的净化者列阵被炸得四分五裂。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "",
+            "content": "轰轰轰！！！"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "二轮自动火力，装填！\n机身重组完毕，开始同步充能！\n还没结束呢！"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "净化者",
+            "content": "【遭到强力威胁，请求呼叫增——】"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "",
+            "content": "咻——"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "席摩",
+            "content": "抱歉呢，增援暂时来不了了。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "",
+            "content": "席摩从侧面的建筑物楼顶，一箭命中净化者的小头目。\n在他的身后，驻守在巷子里的净化者散兵的残骸倒了一路。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "Thank you啦，席摩！\n教授，要上了！"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "values": [
+                "option1"
+            ],
+            "options": "上吧！"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 98
+        },
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "",
+            "content": "我踩下油门，让装载着屏蔽仪的货车紧跟在狄拉克身后。\n许多净化者被我们吸引了火力，接着纷纷倒在克罗琦和席摩两面的夹击之下。"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "bravo",
+            "content": "准备正面突破了！安冬妮娜！"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "是是。早就搞定了。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "",
+            "content": "安冬妮娜话音一落，净化者设置的关卡防御瞬间瘫痪，环绕在那些机械路障上的电流纷纷黯淡了下来。\n我逐渐加速，朝着路障和残余的净化者们撞去，直到它们全都消失在我的视野两侧。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不愧是教授……一下子就突破关卡了！"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "让狄拉克和我们吸引火力，同时安冬妮娜和席摩在两侧游击，截断增援……真是了不起的布局！"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "也没什么大不了的。;多夸夸我也可以哦，帕斯卡。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 106,
+            "option2": 105
+        },
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "是的！您真是太厉害了，教授！"
+        },
+        "prop": "name",
+        "nextId": 994
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "bravo",
+            "content": "咳咳。总之，还不能松懈。接下来到了隔离墙才是关键呢。"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "bravo",
+            "content": "克罗琦，按我刚刚告诉你的，去和席摩汇合。顺便让安冬妮娜到我们这边来。"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "欸？现在就？唔……收到！"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "咦？刚刚告诉她的？教授，你们还有什么计划吗？"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "bravo",
+            "content": "只是一道保险措施。放心交给我就好了，帕斯卡。"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "bravo",
+            "content": "让我们继续前进吧！"
+        },
+        "prop": "name"
+    },
+    "node994": {
+        "id": "node994",
+        "attributes": {
+            "name": "bravo",
+            "content": "额，你这么认真我反而……算了，是我不好。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node993": {
+        "id": "node993",
+        "attributes": {
+            "name": "bravo",
+            "content": "总比她碎碎念的时候让人放心吧，而且我不讨厌有热情的人。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node991": {
+        "id": "node991",
+        "attributes": {
+            "name": "男人的声音",
+            "content": "所以我不需要你的数字。还是说，你的数字比你现在放过这些游击队后，让我们下一批运输车队的军人牺牲的生命更重要？"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node907": {
+        "id": "node907",
+        "attributes": {
+            "name": "席摩",
+            "content": "你们刚才走的应该是小巷吧？所以才没有遇到太多净化者。可是大马路上有净化者设下的卡，正面很难突破……"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node906": {
+        "id": "node906",
+        "attributes": {
+            "name": "席摩",
+            "content": "现在如果用那台机器屏蔽高防分流的话，狄拉克的火力就足够打破隔离墙了。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node905": {
+        "id": "node905",
+        "attributes": {
+            "name": "席摩",
+            "content": "事实上，监管型智能体最近刚刚造出了一台屏蔽仪，可以截断隔离墙节点之间的流量传递。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node904": {
+        "id": "node904",
+        "attributes": {
+            "name": "席摩",
+            "content": "也就是说，我们至少需要3.5Tbps的峰值流量才能打破它。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node903": {
+        "id": "node903",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "虽然还有改进的余地，但是要击破1.5Tb每秒的防御力也是绰绰有余了！"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node902": {
+        "id": "node902",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但是呀！眼下正是需要英雄的时候，狄拉克又怎能袖手旁观！"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node901": {
+        "id": "node901",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "虽然现在还是半成品，原本我打算等全部完成再告诉你们的。"
+        },
+        "prop": "name",
+        "nextId": 902
+    }
+}

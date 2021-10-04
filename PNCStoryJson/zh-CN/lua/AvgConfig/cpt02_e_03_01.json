@@ -1,0 +1,1069 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "呼……这帮净化者，真是螳螂捕蝉，黄雀在后……它们从什么时候开始跟在后面的？"
+        },
+        "prop": "name",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "席摩",
+            "content": "这一带是净化者的巡逻范围。你们跟踪其他智能体的时候被它们注意到了吧。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "席摩",
+            "content": "毕竟这里到处都是高楼，视野很不开阔嘛。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "确实，是我们疏忽了……等等，席摩怎么知道我们是跟踪来的……"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "席摩",
+            "content": "哈哈，总不会是智能体主动带你们过来的吧？这里可是她们的总部。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "为什么你会对这些智能体的事情这么清楚？还有，为什么你会在智能体的总部？"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "席摩",
+            "content": "这些不是一时半会可以解释清楚的。虽然不知道大家为什么会出现在这里……"
+        },
+        "prop": "name",
+        "nextId": 300
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "那算什么意思嘛，席摩！我们就是因为你迟迟不接通定期联络，才来这里找你的呀！"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "席摩",
+            "content": "……我很抱歉，因为出了点意外，让我没办法第一时间联系你们。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "席摩",
+            "content": "负责基洛普斯扇区的上位净化者渡鸦，正在这附近巡查。"
+        },
+        "prop": "name",
+        "nextId": 301
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "居然是上位净化者……比罗萨姆扇区的“信”还要高一级别的对手？"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "席摩",
+            "content": "嗯，看起来你们也可以理解事态的严重程度了。所以，安全起见，我建议大家还是尽早离开吧。"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "席摩",
+            "content": "我在这里还有一些事情要处理，之后还会与你们联系……"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "等等！我们可是特意来找你的欸，你总得把事情说清楚吧！"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "而且，如果上位净化者要来巡视，你一个人也应付不过来吧？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们是因为担心你，才会专程来到基洛普斯扇区的，席摩……"
+        },
+        "prop": "name",
+        "nextId": 302
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "席摩",
+            "content": "……帕斯卡……"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们不能让同伴独自面对危险。方便的话，还希望你能把这里的情况告诉我们。"
+        },
+        "prop": "name",
+        "nextId": 303
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "不要把什么事情都扛在自己身上。。;既然已经来了，我们先收集一些情报再做判断。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 20,
+            "option2": 20
+        },
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "席摩",
+            "content": "教授……"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "席摩",
+            "content": "……我明白了。大家先进来说吧。"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {},
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唔……这里也有枪战留下的痕迹啊……"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "基洛普斯扇区的智能体都是在这种地方工作的吗？跟我想象中完全不一样……"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "欸？那是——"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "智能体",
+            "content": "……！！"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "席摩",
+            "content": "别紧张，他们是我的同伴。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "智能体",
+            "content": "……？"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "席摩",
+            "content": "我已经向莉维雅汇报过了。不用担心，责任我承担。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "智能体",
+            "content": "……好的。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "喔喔，真可靠啊，席摩。不过莉维雅是？"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "席摩",
+            "content": "是基洛普斯扇区的管理员——确切地说，只是“半个”管理员。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我记得你说过，基洛普斯扇区有两种类型的智能体和两位管理员？"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "席摩",
+            "content": "是的。在基洛普斯扇区设立之初，火神重工就投放了两种不同功能的智能体——监管型和战斗型。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "席摩",
+            "content": "在这里的都是监管型智能体，而墙里互相厮杀的那些，就是战斗型智能体了。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "智能体",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你的意思是……他们让一部分智能体自相残杀，然后用另一部分智能体监控自相残杀？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "席摩",
+            "content": "不，恰恰相反。监管型智能体的职责是<color=#ffa500ff>“阻止过度训练”</color>。"
+        },
+        "prop": "name",
+        "nextId": 304
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "席摩",
+            "content": "墙里的战斗型智能体只是被下达了“不断战斗”的命令而已，并不是一定要杀到你死我活的。"
+        },
+        "prop": "name",
+        "nextId": 305
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "呵，也就是说，人类让智能体互相训练，但又怕训练得过头。真是可笑。"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "席摩",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "可是，她们只是在墙外面看着，该怎么阻止战斗型智能体？直接下达指令吗？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不，我刚才看过了，那面墙不仅阻拦通行，还可以阻隔通讯。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "为什么？既然如此，为什么要立那面墙……"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "从代码上来看，那面墙并不是基洛普斯扇区原本的东西。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "席摩",
+            "content": "没错，是上位净化者渡鸦玛拉立起了那堵墙。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "渡鸦？就是刚刚你说的，正在这附近巡视的家伙？"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "席摩",
+            "content": "嗯，是的。自从那面墙立起来以后，监管型智能体和战斗型智能体就被强行分隔在了两边。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "席摩",
+            "content": "失去控制的战斗型智能体逐渐沉湎于互相攻击，最终发展成自相残杀……"
+        },
+        "prop": "name",
+        "nextId": 306
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这都是净化者立起的墙导致的？可是，净化者的使命不应该是维护扇区的秩序吗？"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "唔……严格来说，渡鸦确实没有破坏规则。毕竟战斗型的杀戮行为也只是在遵循自己的<a href=Des:43>底层指令</a>而已。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "席摩",
+            "content": "而且渡鸦那家伙，据莉维雅说……是个比较特别的家伙。"
+        },
+        "prop": "name",
+        "nextId": 307
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "席摩",
+            "content": "无休止的战争——对她来说，这大概就是她乐意遵守的“秩序”吧。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "“秩序”么？你说战斗型还在战斗，这我还可以理解，可是监管型不是没事可做了吗？"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "智能体",
+            "content": "我们并非无事可做！我们……我们一直在为达成监管目标而日夜工作，矢志不渝……"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "怎么工作？"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "智能体",
+            "content": "迄今为止，我们针对破坏隔离墙的目标制定了1231个方案，其中947个方案已经被执行，最高造成0.34Tb……"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "简而言之，你们无法突破隔离墙的封锁，也就没办法恢复对战斗型智能体的掌控，对吧？"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "智能体",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "智能体",
+            "content": "隔离墙的算量供给来自上位净化者，我们难以与其抗衡。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "智能体",
+            "content": "但我们不会背弃守护基洛普斯扇区的“使命”，即使花上漫长的岁月，即使算量逐渐枯竭。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "席摩",
+            "content": "……所以，监管型智能体也是有在好好工作的，一切依然符合净化者心目中的“秩序”。"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "这就是净化者们所维持的“秩序”？呵。真是自以为是的秩序。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "谢谢解释，已经开始生气了。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "席摩",
+            "content": "我在侦查期间和莉维雅接触后她便向我告诉了我这些事情。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "席摩",
+            "content": "你们也知道……在进入云端之前，我曾经上过战场……你们不会明白那是什么样的场景。"
+        },
+        "prop": "name",
+        "nextId": 308
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "席摩",
+            "content": "选择帮助他们，是我自己的决定，我不会给大家添麻烦。\n当然，我也不会因此影响大家交给我的侦查任务。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "席摩",
+            "content": "莉维雅答应我了，等隔离墙倒下，她重新控制住基洛普斯扇区的状况之后，她会交给我一大笔算量作为报酬。"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "席摩……你……"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "席摩",
+            "content": "总之，我参与了一部分破墙行动，但收效甚微。"
+        },
+        "prop": "name",
+        "nextId": 309
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "那你现在岂不是很危险？"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "席摩",
+            "content": "没事，莉维雅已经提前出发去拖住她了，就说那些异常攻击是监管型智能体新发明的武器造成的。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "席摩",
+            "content": "倒是各位，还是尽快离开这里吧。这么多流亡者，要是被渡鸦发现了，可就要被一锅端了。"
+        },
+        "prop": "name",
+        "nextId": 311
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "以我指挥作战的经验来说，我不能同意你的这句话。;最好的防御，就是进攻。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 991,
+            "option2": 75
+        },
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "就是就是！你不在的这段时间，我们可是大幅度提升了战力，而且我还带来了秘密武器……"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "秘密武器？"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "啊，糟糕……<size=24>本打算藏到最后再飒爽登场的……</size>"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "bravo",
+            "content": "就是这样，席摩。别老想着一个人完成所有工作，我们是一个队伍。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "bravo",
+            "content": "我们来这里的目的，就是希望确认你的安危，以及获取绿洲需要的算量。\n既然现在有机会一次性达成两个目标，我们何乐而不为呢？"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……教授说得有道理，基洛普斯扇区的算量对我们来说非常宝贵。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "而且，既然听说了这里的情况，我们就更不能坐视不管了。席摩的伙伴也是我们的伙伴，对吧？"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "对啊，刚才我就想吐槽了，席摩你太见外了吧。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "席摩",
+            "content": "大家……"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "席摩",
+            "content": "可是打破隔离墙的任务不是那么容易达成的，而且老实说，我也不确定破墙之后还会不会有其他的麻烦……"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "席摩",
+            "content": "尤其是眼下渡鸦还在这里，她绝不会善罢甘休的。"
+        },
+        "prop": "name",
+        "nextId": 312
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "bravo",
+            "content": "安心吧，就像克罗琦说的，我们的战斗力比之前强多了，而且还有你这位火神重工的王牌狙击手在呢。"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "bravo",
+            "content": "更何况，我已经观察过基洛普斯扇区的地形了。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "席摩",
+            "content": "……我知道了。真的……非常感谢大家。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "哎呀，跟我们还客气什么呢！"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "席摩",
+            "content": "那么……请各位稍等。我去和其他智能体说明一下现在的情况。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {},
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "呼——看样子要大干一场了！真叫人热血沸腾啊！"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜，你怎么了？看你好像一直在想什么事情的样子。"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "唔……没什么，只是有点在意他刚才的话……"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "在意？席摩吗？"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你们没注意到吗？一段时间不见，他的动作看上去比以前要僵硬不少，就像在忌惮着什么事情一样。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "这么一说……"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "而且提到战争的时候，他显然比平时要激动得多。"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "就像他自己说的那样，他是亲历过战争的人形。"
+        },
+        "prop": "name",
+        "nextId": 313
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "他不是也说了嘛，正因为亲身经历过，才会那么积极地想要帮助管理员停止战争。"
+        },
+        "prop": "name",
+        "nextId": 314
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "嗯，或许吧。"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "只是希望他不会回想起什么不好的回忆……"
+        },
+        "prop": "name"
+    },
+    "node991": {
+        "id": "node991",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授的意思是……"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node314": {
+        "id": "node314",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果计划能成功的话，或许他也能多少解开一些心结。"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node313": {
+        "id": "node313",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "如今在云端再次目睹那种场景，不知道会不会让他回忆起什么创伤。"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node312": {
+        "id": "node312",
+        "attributes": {
+            "name": "席摩",
+            "content": "她可是非常强悍的上位净化者，据说她手里的投掷型双枪威力堪比重型火炮……"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node311": {
+        "id": "node311",
+        "attributes": {
+            "name": "席摩",
+            "content": "不用担心我，要是有个万一，还能用光学迷彩装备躲一阵子呢。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node310": {
+        "id": "node310",
+        "attributes": {
+            "name": "席摩",
+            "content": "这件事惊动了渡鸦本人。据说她打算亲自检查隔离墙的异动。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node309": {
+        "id": "node309",
+        "attributes": {
+            "name": "席摩",
+            "content": "最近的一次行动中，我尝试攻击隔离墙的发信装置，没想到被净化者监测到了异常的攻击方式。"
+        },
+        "prop": "name",
+        "nextId": 310
+    },
+    "node308": {
+        "id": "node308",
+        "attributes": {
+            "name": "席摩",
+            "content": "人们只是想要过上安宁的生活，却被迫为此拿起枪，瞄准自己的同胞。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node307": {
+        "id": "node307",
+        "attributes": {
+            "name": "席摩",
+            "content": "她是上位净化者中最年轻的一个，是个一根筋的战斗派，会享受战斗本身。"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node306": {
+        "id": "node306",
+        "attributes": {
+            "name": "席摩",
+            "content": "她们开始反复杀死彼此，又反复重置彼此，最终变成了你们看到的那副样子——一群只会杀戮的机器。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node305": {
+        "id": "node305",
+        "attributes": {
+            "name": "席摩",
+            "content": "而监管型智能体，则需要在她们做出过激行为的时候出手阻止。"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node304": {
+        "id": "node304",
+        "attributes": {
+            "name": "席摩",
+            "content": "按照原版的设计，是不会出现智能体自相残杀的情况的。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node303": {
+        "id": "node303",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果有什么我们可以帮得上忙的地方，我们也会全力协助的，请不要客气。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node302": {
+        "id": "node302",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "虽然不知道你和这里的智能体之间发生了什么，但无论如何，你都是我们的同伴。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node301": {
+        "id": "node301",
+        "attributes": {
+            "name": "席摩",
+            "content": "我担心贸然接通通讯，会暴露我和绿洲的存在。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node300": {
+        "id": "node300",
+        "attributes": {
+            "name": "席摩",
+            "content": "不过，趁着现在还安全，我建议你们还是先离开基洛普斯扇区吧。"
+        },
+        "prop": "name",
+        "nextId": 8
+    }
+}

@@ -1,0 +1,1050 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "> “这是荒唐的误解”.  .  . \n> “以为艺术是只有匠人才会理解的手艺”.  .  ."
+        },
+        "prop": "Subtitle",
+        "nextId": 2
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "content": "<b>>> CHAPTER 5 //      乐 园 与 温 床 . . .</b>"
+        },
+        "prop": "Subtitle",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "安冬妮娜，这几天在绿洲过得还习惯吗？"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……嗯。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "没想到这里变化那么大。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "苏尔",
+            "content": "是哇，现在已经有四个扇区在绿洲的管理之下了！"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "它们提供的算量，我们的搜索和建设触及到了云端更深更远的地方。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "从这四个扇区里，能找到任何关于云图扇区的信息吗？"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……暂时还没有。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "或许是因为“云图计划”的机密性，和其他扇区完全没有来往……"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "苏尔",
+            "content": "哎呀帕斯卡，不要皱着眉头了！"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "苏尔",
+            "content": "至少我们现在有了安全温馨的家，也不会被净化者追在屁股后面跑了嘛！"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "也是啦。谢谢你，苏尔。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……这确实是单凭我们无法做到的事。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "什么？"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我是说，建设起“绿洲”这样的地方……"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "如果没有教授和帕斯卡你，我们是做不到的。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "因此，我还是想对我先前擅自决定脱离流亡者的决定道歉。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "苏尔",
+            "content": "都过去这么久了你怎么还在想这些！"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "苏尔",
+            "content": "安娜酱——你再这样“抱歉抱歉”的，以后我就要叫你“抱歉娜”了！"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "都说了！是安、冬、妮、娜！"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "苏尔",
+            "content": "嘿嘿，这才对嘛。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "呼……不过话说回来，我们现在只能这样无目的地一个一个扇区去寻找吗？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我们确实还没找到明确的方向。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不过鉴于各个扇区里或许都有同伴存在，无论如何也得去看看。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "关于寻找云图扇区，我有一个想法。"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "诶？你有办法了吗？"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "只是试想而已，我不确定能否做到。"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "按照你们先前和我说的关于赫里奥斯里发生的事来看……"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "净化者内部看上去也并不是那么“团结一心”，对吧？"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "苏尔",
+            "content": "是的说，至少那个叫贝欧尼斯的家伙，居然还帮了我们。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "但我们并不清楚她是不是有自己的目的。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "如果她能够认同我们的想法，选择和我们合作当然更好……"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "如果不能，按照现在的节奏走下去，若是能获得足够多的扇区的算量支持的话……"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "要对抗净化者，并不是不可能。"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "要对抗净化者？……你是指……对抗整个净化者？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "没错，直接夺取他们的权限。"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "苏尔",
+            "content": "……喂喂，你真的不是在开玩笑吗安娜？"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你看我像开玩笑吗？"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "据我所知，净化者的职责范围覆盖整个麦戈拉云端。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "如果能用他们的权限进行搜索……"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "嗯，就是这样——直接搜索整个云端，是最直接的。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "那样一来，或许人形心智也能直接回收。"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "我这就整理一下思路，把这件事报告给教授！"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不过我的建议是……我们不要将目的展示得过于明显比较好。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "你的意思是……"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你们也还记得罗萨姆扇区信息中心的爆炸吧？"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "还有那个叫玛拉的上位净化者的异常状态……"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {},
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "玛拉",
+            "content": "来吧客人们，让我看看你们的手段。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {},
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "虽然无法确定是不是同一个人所为，但一定有人在暗中观察着我们。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "苏尔",
+            "content": "只要有你在，这些都不是问题啦！对吧？"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "苏尔",
+            "content": "对方不管怎么隐藏，肯定躲不过头号黑客安娜酱的眼睛！"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我会尽力调查，不过可以请你松开我的肩膀吗？"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "诶，是克罗琦的通讯请求。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "她出去执行任务了吗？"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，我让她带着席摩熟悉一下侦查工作。"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "克罗琦，你们那里有什么发现吗？有新扇区吗？"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "嗯，有……不过也不知道算不算扇区。"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不知道算不算扇区？"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "是的……按理来说，我们确实跨过了扇区的防火墙，进入内部了。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但这里完全就是一片荒漠。"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "扇区里面是一片荒漠？难道是被废除的数据区域吗？"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "不，我不觉得是废除区域。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "按照42Lab的习惯，数据区域如果彻底格式化成空值区的话，不会设立防火墙的。"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "克罗琦，你们确定里面什么都没有？"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "倒也不能说什么都没有，这就是我们要报告的第二项内容。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "席摩",
+            "content": "让我来让我来！"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "席摩",
+            "content": "哟！帕斯卡，苏尔……啊，还有安娜！"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "席……席摩……"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "席摩",
+            "content": "是这样的，在这片区域里，我们遇到了一种奇怪的净化者。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "奇怪的净化者？什么意思？"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "席摩",
+            "content": "克罗琦的初步判断是，它们可能是受到了某种异常程序的影响，心智产生了偏离。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "异常程序……你是指病毒？"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "席摩",
+            "content": "也许吧，我还没搞清“异常程序”和“病毒”两个概念的区别……"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "（我说过了是一样的！）"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "席摩",
+            "content": "（哎我就是想让帕斯卡她们确认一下嘛……）"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "席摩！"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "席摩",
+            "content": "啊，抱歉抱歉，我在听！"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "保持距离，千万不要和它们接触！"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "席摩",
+            "content": "诶？"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "病毒会无差别感染正常程序，贸然接近会很危险的！"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "席摩",
+            "content": "不过我们的心智也有防火墙吧？"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "连净化者都能感染的病毒，绝对不一般。"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "净化者……病毒……"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "你们能够在那里接应我们吗？"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "席摩",
+            "content": "……可以是可以，不过你们真的要过来吗？"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "席摩",
+            "content": "这个扇区里好像没有什么资源。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "帕斯卡，拜托了！"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……怎么了？"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "我想去调查！拜托你和教授说一声！"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "苏尔",
+            "content": "喂安娜酱！要去也不能你自己一个人去啊……"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "席摩，拜托你把坐标发给我。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "席摩",
+            "content": "啊，好的！"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "席摩",
+            "content": "那我和克罗琦……就在这里等你们咯。"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "席摩",
+            "content": "待会见！"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {},
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "苏尔",
+            "content": "这里还真是荒芜啊……"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "苏尔",
+            "content": "让我想起绿洲建立前被净化者追杀的日子，真是讨厌的余悸啊！"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "奇怪，坐标是这里没错，克罗琦和席摩呢？",
+            "values": [
+                "option1",
+                "option2"
+            ],
+            "options": "我们到附近找找吧，应该不会很远。;试着联络一下他们吧。"
+        },
+        "prop": "Decision",
+        "targetLine": {
+            "option1": 103,
+            "option2": 108
+        },
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "嗯，我和教授搜索这边，那侧就交给苏尔和安冬妮娜了。"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "苏尔",
+            "content": "会不会是克罗琦定位定错了？"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "克罗琦又不是你，怎么可能犯这种错误。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "苏尔",
+            "content": "好过分啊安娜酱！"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "是安冬……"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "啊，好。"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "奇怪，没有人接……"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "难道是遇到什么麻烦了？"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "安冬妮娜",
+            "content": "啊，帕斯卡，教授！这边！！！"
+        },
+        "prop": "name",
+        "nextId": 112
+    },
+    "node112": {
+        "id": "node112",
+        "attributes": {
+            "name": "",
+            "content": "我们小跑到安冬妮娜的身边，被废弃的数据沙丘遮挡住的不远处，席摩和克罗琦的身影出现在我们的视野范围内。 而追在他们身后的，就是席摩提到的那种被感染的净化者。"
+        },
+        "prop": "name",
+        "nextId": 113
+    },
+    "node113": {
+        "id": "node113",
+        "attributes": {
+            "name": "净化者",
+            "content": "发&%异常%#程#！启%肃清@式！"
+        },
+        "prop": "name",
+        "nextId": 114
+    },
+    "node114": {
+        "id": "node114",
+        "attributes": {
+            "name": "苏尔",
+            "content": "呜哇！好恶心！"
+        },
+        "prop": "name",
+        "nextId": 115
+    },
+    "node115": {
+        "id": "node115",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "快去支援席摩和克罗琦！"
+        },
+        "prop": "name",
+        "nextId": 116
+    },
+    "node116": {
+        "id": "node116",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡话音还没落下，安冬妮娜已经向那一侧冲去了。"
+        },
+        "prop": "name",
+        "nextId": 117
+    },
+    "node117": {
+        "id": "node117",
+        "attributes": {
+            "name": "苏尔",
+            "content": "等等我！安娜酱！"
+        },
+        "prop": "name",
+        "nextId": 118
+    }
+}

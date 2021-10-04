@@ -1,0 +1,1394 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "name": "",
+            "content": "在又一次重置之后，大家开始了改造世界之火的计划。"
+        },
+        "prop": "name",
+        "nextId": 400
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "",
+            "content": "改造工作紧张地推进着。直到距离删档仅剩2次重置机会时，我们才终于完成了一次完整的改造。"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "",
+            "content": "然而就在此时，大家突然注意到在巧克力屋的阴影里早就来了一位不速之客。"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "圣餐",
+            "content": "啊呀呀，真是了不起呢！居然真的能做到啊，完成世界之火的计划。"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "大家戒备！"
+        },
+        "prop": "name",
+        "nextId": 450
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "圣餐",
+            "content": "不要紧张不要紧张，我当然只是来白嫖巧克力哒。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "圣餐",
+            "content": "顺便见证一下可能即将被点燃的世界之火。"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "圣餐",
+            "content": "这可是历史性的一刻，不是吗？<size=30>当然主要还是为了巧克力～</size>"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "bravo",
+            "content": "请你下回编个更好的借口，你只是在等待时机而已。\n之前对我们的放任不是因为什么兴趣或者巧克力，只是单纯因为你觉得我们逃不出去。"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "bravo",
+            "content": "而现在，克罗琦的努力让它变成了可能。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "圣餐",
+            "content": "我可不喜欢这么直接的人，拆开糖纸的过程也是一种乐趣哦！"
+        },
+        "prop": "name",
+        "nextId": 451
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "呵，没想到净化者还这么在意社交呢？"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "圣餐",
+            "content": "那你可就误会啦，虽然我圣餐不是一个社交无能自闭人，但是真正算得上我朋友的，巧可算一个。"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "圣餐",
+            "content": "而且巧可的巧克力可是花钱都买不到的存在，我也不舍得就这么失去她呀。唔～真好吃。"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但你终究是净化者。"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "圣餐",
+            "content": "没错，人家终究是个净化者，有不得已的立场呐。"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "",
+            "content": "圣餐摇了摇头，长叹一口气，指向了已经完工的某个反应堆。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {
+            "name": "圣餐",
+            "content": "不过比起还没出手的我，还是把精力放在快出事的反应堆会好一些喔。"
+        },
+        "prop": "name",
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "",
+            "content": "话音刚落，圣餐指向的反应堆及其所在的区域陡然间震颤了起来。"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "",
+            "content": "整个区域开始不断地扭曲变形，先前我们努力实施的改造工程眼看着就要毁于一旦。"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<size=42>混账，你都做了什么！</size>"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦见状，登时红了眼，扛起盾牌直接砸向了圣餐。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "圣餐",
+            "content": "我可什么都没做呐，这是删除重置哦。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "撒谎也要找一个好点的理由，你当我们不会记数吗？"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "克罗琦",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "圣餐",
+            "content": "所以说，你们都忽略了一个问题呀。"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "圣餐",
+            "content": "为什么这里的原住智能体宁可不断重置，也不离开扇区去寻找外界的技术呢？"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "圣餐",
+            "content": "自然是因为离开会发生更糟糕的事情呀。"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "……你什么意思……"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "圣餐",
+            "content": "你其实已经听懂了呀，这里可是高度保密的工业实验扇区。"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "圣餐",
+            "content": "如果发现有外界数据进入，而且对实验造成了影响，那么也会引发删档重置的指令噢。"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "圣餐",
+            "content": "好在你们还有机会，完成实验的优先级是比重置更高一些的。不过，你们能完成吗？"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦恨恨地看了一眼圣餐，咬着牙跑向出问题的反应堆。"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "",
+            "content": "就在我将要跟上去的时候，圣餐忽地低笑着对我说了几句话。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "圣餐",
+            "content": "你是特别的，教授。太过特别了～为什么呢？"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "圣餐",
+            "content": "你明明还没吃下巧克力时，但是你就像是已经保留记忆一样～"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "bravo",
+            "content": "……你想说什么？"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "圣餐",
+            "content": "没准，你也跟我一样呢？"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "圣餐",
+            "content": "好啦，想说的已经说完了，人家要接着吃巧克力看戏啦~"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {},
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "",
+            "content": "我赶到反应堆前，其他人也都跟了过来。"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "bravo",
+            "content": "克罗琦，情况怎么样？"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "一切都完了……教授。"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "苏尔",
+            "content": "怎么会，这个隔离墙看起来还很结实啊？"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "没错，隔离墙是真的够结实的。你看，里面的AI中控系统已经彻底毁了，隔离墙还没事。"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "",
+            "content": "我们顺着克罗琦的手指一看，只见暗红色的数据流已经渗透进了隔离墙内部，将中控系统蚕食殆尽。"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……现在强行开始启动计划的话会怎么样？"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "没有AI中控系统控制能源运转的方向，我们只能和之前无数次一样，赌它自己运转通畅。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但你们也知道，这等于把全部运气赌在最后两抽里。"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "苏尔",
+            "content": "而且还没有保底……"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "希安",
+            "content": "希安……进去……手动……控制……"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "不可能的，现在整个区域都在进行删档重置，我们要是敢直接进去……"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦朝反应堆所在的区域丢了一块石头。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "",
+            "content": "只是一个眨眼，石头便被彻底删除。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "",
+            "content": "看着眼前的这一幕，圣餐的话语突然回荡在我的耳旁。"
+        },
+        "prop": "name",
+        "nextId": 300
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "圣餐",
+            "content": "没准，你也跟我一样呢？"
+        },
+        "prop": "name",
+        "nextId": 301
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "",
+            "content": "那句话让我一直很在意。"
+        },
+        "prop": "name",
+        "nextId": 460
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "bravo",
+            "content": "那就让我试试，圣餐究竟有没有骗人吧。"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "教授？！绝对不行！"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "bravo",
+            "content": "没事的。"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "苏尔",
+            "content": "不行！我们怎么可以让教授冒险，还不如我去！"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "bravo",
+            "content": "相信我！"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "",
+            "content": "不顾众人劝阻，我将一只手臂伸进了反应堆所在的区域。"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "bravo",
+            "content": "我本来就是要协助你们观察的，而之前的每一次都是失败的结果，或者说其实我们根本不知道结果。"
+        },
+        "prop": "name",
+        "nextId": 470
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "不行，不可以，绝对不可以！……哪怕真的是您说的那样也不知道如何手动操作啊！"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "好！那我来支援教授！"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "克罗琦你说什么……你知不知道教授他想做什么！？"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我说，我相信教授。我来支援他！"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "之前教授那样地相信我，所以，我也会相信教授。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "",
+            "content": "克罗琦拉住了想要阻止我的帕斯卡，一脸认真地看着我。"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "教授，一切就拜托你了。"
+        },
+        "prop": "name",
+        "nextId": 480
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {},
+        "nextId": 490
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "bravo",
+            "content": "克罗琦，我到了。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>教授，描述一下你看到的画面。</b>"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "bravo",
+            "content": "控制管道彻底拧成了一团麻花，我分不清哪个是哪个。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>先进行一下简单的测试，希安，一次能量流通，AC接口，最小阈值。</b>"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "",
+            "content": "数分钟后，我面前的蓝色管道微微亮了一下。"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "bravo",
+            "content": "蓝色的管道亮起来了。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>希安，一次能量流通，BC接口，最小阈值。</b>"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "",
+            "content": "数分钟后，我面前的红色管道微微亮了一下。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "bravo",
+            "content": "红色的管道亮起来了。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "",
+            "content": "紧接着，克罗琦和希安又进行了几次测试。"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "",
+            "content": "时间越来越紧张，站在反应堆内的我已经明显开始感受到整个建筑正在逐渐走向毁灭的边缘。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "<b>没有时间了，克罗琦，测试的怎么样了？</b>"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>……</b>"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>……还有问题没有解决，我现在不知道能量到底是走蓝色的管道稳定，还是走红色的稳定。</b>"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>我不在现场，有很多细节我都看不到，没法下决断。</b>"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "bravo",
+            "content": "我就是你的眼睛，告诉我，你要看什么？！"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>我……我不知道。</b>"
+        },
+        "prop": "name",
+        "nextId": 601
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "bravo",
+            "content": "相信我，也相信你自己！"
+        },
+        "prop": "name",
+        "nextId": 620
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "",
+            "content": null
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "bravo",
+            "content": "那么怎么样，克罗琦？是哪个呢？"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>我……我……</b>"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "",
+            "content": "耳麦里，克罗琦的喘息声愈发厚重。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "",
+            "content": "脚下的建筑震颤愈发的剧烈，我很清楚，再不动手，一切都要来不及了。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "",
+            "content": "但我同时也很明白克罗琦此时身上背负的压力。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "",
+            "content": "一切只差这最后一步，她相信这是绝对不容失败的一步。"
+        },
+        "prop": "name",
+        "nextId": 630
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "bravo",
+            "content": "相信你自己，打开盒子的瞬间，活着猫必然决定了观测者的存在。"
+        },
+        "prop": "name",
+        "nextId": 631
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>……</b>"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>你说的对，教授，我可是机械专家啊。</b>"
+        },
+        "prop": "name",
+        "nextId": 101
+    },
+    "node101": {
+        "id": "node101",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>拉蓝色！</b>"
+        },
+        "prop": "name",
+        "nextId": 102
+    },
+    "node102": {
+        "id": "node102",
+        "attributes": {
+            "name": "",
+            "content": "在拉下闸门的一刻，液态能量散发着浓郁的光芒自我眼前奔腾而过。"
+        },
+        "prop": "name",
+        "nextId": 103
+    },
+    "node103": {
+        "id": "node103",
+        "attributes": {
+            "name": "",
+            "content": "脚下的震颤在某一瞬突兀停止，一切仿佛归于死寂。"
+        },
+        "prop": "name",
+        "nextId": 104
+    },
+    "node104": {
+        "id": "node104",
+        "attributes": {
+            "name": "",
+            "content": "下一秒，更加剧烈的震颤陡然迸发，随之而来的还有响天彻地的欢呼。"
+        },
+        "prop": "name",
+        "nextId": 105
+    },
+    "node105": {
+        "id": "node105",
+        "attributes": {
+            "name": "",
+            "content": "世界之火，于赫里奥斯扇区中央熊熊燃烧。"
+        },
+        "prop": "name",
+        "nextId": 106
+    },
+    "node106": {
+        "id": "node106",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>教授我做到了，我们做到了！</b>"
+        },
+        "prop": "name",
+        "nextId": 107
+    },
+    "node107": {
+        "id": "node107",
+        "attributes": {
+            "name": "bravo",
+            "content": "是的，我观测到了，我们做到了。"
+        },
+        "prop": "name",
+        "nextId": 108
+    },
+    "node108": {
+        "id": "node108",
+        "attributes": {
+            "name": "",
+            "content": "耳麦里响起众人的欢呼声，而我也松了口气。"
+        },
+        "prop": "name",
+        "nextId": 109
+    },
+    "node109": {
+        "id": "node109",
+        "attributes": {
+            "name": "",
+            "content": "然而就在这个时候，一道不合时宜的声音插了进来。"
+        },
+        "prop": "name",
+        "nextId": 110
+    },
+    "node110": {
+        "id": "node110",
+        "attributes": {
+            "name": "圣餐",
+            "content": "所以说，你们让我真的很为难呀。"
+        },
+        "prop": "name",
+        "nextId": 111
+    },
+    "node111": {
+        "id": "node111",
+        "attributes": {
+            "name": "",
+            "content": "净化者少女的身影，再次挡在了我们面前。"
+        },
+        "prop": "name"
+    },
+    "node630": {
+        "id": "node630",
+        "attributes": {
+            "name": "bravo",
+            "content": "只是结果早已经确定了。"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node631": {
+        "id": "node631",
+        "attributes": {
+            "name": "bravo",
+            "content": "所以相信自己就好，你可是专家啊，克罗琦。"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node400": {
+        "id": "node400",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "这一次的计划，可能会有很高的风险。"
+        },
+        "prop": "name",
+        "nextId": 401
+    },
+    "node401": {
+        "id": "node401",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "甚至有可能影响到大家的心智。"
+        },
+        "prop": "name",
+        "nextId": 402
+    },
+    "node402": {
+        "id": "node402",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "但是我还是想请大家相信我。"
+        },
+        "prop": "name",
+        "nextId": 403
+    },
+    "node403": {
+        "id": "node403",
+        "attributes": {
+            "name": "苏尔",
+            "content": "我们都相信你，克罗琦。"
+        },
+        "prop": "name",
+        "nextId": 404
+    },
+    "node404": {
+        "id": "node404",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "谢谢……我解释一下接下来大家要做的事情。"
+        },
+        "prop": "name",
+        "nextId": 405
+    },
+    "node405": {
+        "id": "node405",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "我们等下需要对反应堆进行改造。在这个过程中，我们可能会承担巨大的计算量。"
+        },
+        "prop": "name",
+        "nextId": 406
+    },
+    "node406": {
+        "id": "node406",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "在这个时候，除了我和教授，大家需要逐渐关闭自我意识的运算，只保留接受我和教授指令的功能。"
+        },
+        "prop": "name",
+        "nextId": 407
+    },
+    "node407": {
+        "id": "node407",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "因为我们要把为数不多的运算空间全都留给反应堆。"
+        },
+        "prop": "name",
+        "nextId": 408
+    },
+    "node408": {
+        "id": "node408",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "巧可负责为大家“料理”那些比较难以消化的代码。"
+        },
+        "prop": "name",
+        "nextId": 409
+    },
+    "node409": {
+        "id": "node409",
+        "attributes": {
+            "name": "巧可",
+            "content": "交给我吧！"
+        },
+        "prop": "name",
+        "nextId": 410
+    },
+    "node410": {
+        "id": "node410",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "接下来是教授您需要做的事情。"
+        },
+        "prop": "name",
+        "nextId": 411
+    },
+    "node411": {
+        "id": "node411",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "在重启反应堆的时候，大家的心智会逐渐关闭，也就是没办法进行有效的观察和反馈。所以需要教授您代替我们观察，必要的时候给大家下达行动指令。"
+        },
+        "prop": "name",
+        "nextId": 412
+    },
+    "node412": {
+        "id": "node412",
+        "attributes": {
+            "name": "bravo",
+            "content": "交给我吧。"
+        },
+        "prop": "name",
+        "nextId": 413
+    },
+    "node413": {
+        "id": "node413",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "一切就拜托你了！"
+        },
+        "prop": "name",
+        "nextId": 414
+    },
+    "node414": {
+        "id": "node414",
+        "attributes": {},
+        "nextId": 2
+    },
+    "node450": {
+        "id": "node450",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "你来这里做什么？！"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node451": {
+        "id": "node451",
+        "attributes": {
+            "name": "圣餐",
+            "content": "毕竟人家跟巧可还有希安可是很要好很要好的朋友呢~"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node460": {
+        "id": "node460",
+        "attributes": {
+            "name": "",
+            "content": "一样，她为什么要说一样呢？为什么不会被重置呢？"
+        },
+        "prop": "name",
+        "nextId": 461
+    },
+    "node461": {
+        "id": "node461",
+        "attributes": {
+            "name": "",
+            "content": "我们做的事情完全不同。她明明只是在观察而已……"
+        },
+        "prop": "name",
+        "nextId": 462
+    },
+    "node462": {
+        "id": "node462",
+        "attributes": {
+            "name": "",
+            "content": "……对啊，只是在观察而已。"
+        },
+        "prop": "name",
+        "nextId": 463
+    },
+    "node463": {
+        "id": "node463",
+        "attributes": {
+            "name": "bravo",
+            "content": "对，因为我也在观察，这就对了。"
+        },
+        "prop": "name",
+        "nextId": 464
+    },
+    "node464": {
+        "id": "node464",
+        "attributes": {
+            "name": "",
+            "content": "我无法确认她所说话语的真实性，但我明白，我必须尝试，这是唯一的机会。"
+        },
+        "prop": "name",
+        "nextId": 465
+    },
+    "node465": {
+        "id": "node465",
+        "attributes": {
+            "name": "",
+            "content": "说着，我向前踏出了一步。"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node470": {
+        "id": "node470",
+        "attributes": {
+            "name": "bravo",
+            "content": "那也就是说，只有我才有可能是那个证明叠加是否存在的观测者了。"
+        },
+        "prop": "name",
+        "nextId": 471
+    },
+    "node471": {
+        "id": "node471",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "等等，您在说什……"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node480": {
+        "id": "node480",
+        "attributes": {
+            "name": "bravo",
+            "content": "很好，支援就麻烦克罗琦了，帕斯卡，相信我，必须的条件已经凑齐了。"
+        },
+        "prop": "name",
+        "nextId": 481
+    },
+    "node481": {
+        "id": "node481",
+        "attributes": {
+            "name": "帕斯卡",
+            "content": "……好吧。"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node490": {
+        "id": "node490",
+        "attributes": {
+            "name": "",
+            "content": "帕斯卡和苏尔接管了AI系统，她们的行动渐渐缓慢起来。但有效地控制了反应堆的崩溃速度。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node622": {
+        "id": "node622",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>…………</b>"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node621": {
+        "id": "node621",
+        "attributes": {
+            "name": "bravo",
+            "content": "蓝色。"
+        },
+        "prop": "name",
+        "nextId": 622
+    },
+    "node620": {
+        "id": "node620",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>……教授，哪条管道是向上走向的。</b>"
+        },
+        "prop": "name",
+        "nextId": 621
+    },
+    "node611": {
+        "id": "node611",
+        "attributes": {
+            "name": "bravo",
+            "content": "不重要，克罗琦，这都不重要。你只需要告诉我你要看什么。我观测到的事实就是你选择的结果！"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node610": {
+        "id": "node610",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>你在说什么啊！教授！</b>"
+        },
+        "prop": "name",
+        "nextId": 611
+    },
+    "node609": {
+        "id": "node609",
+        "attributes": {
+            "name": "bravo",
+            "content": "我是箱中的观测者，你是箱外的猫，所以你就是我。我们彼此观测的事实已经纠缠锚定。在打开盒子之前结果就已经确定了！"
+        },
+        "prop": "name",
+        "nextId": 610
+    },
+    "node608": {
+        "id": "node608",
+        "attributes": {
+            "name": "bravo",
+            "content": "是啊，那也太蠢了。所以我才不要当那只猫。我才不需要什么随机决定的运气，我才不会在叠加的可能性里坍缩。"
+        },
+        "prop": "name",
+        "nextId": 609
+    },
+    "node607": {
+        "id": "node607",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>那也太蠢了！</b>"
+        },
+        "prop": "name",
+        "nextId": 608
+    },
+    "node606": {
+        "id": "node606",
+        "attributes": {
+            "name": "bravo",
+            "content": "他们决定不打开那个门，只要不去看，就永远不知道猫死了没有。"
+        },
+        "prop": "name",
+        "nextId": 607
+    },
+    "node605": {
+        "id": "node605",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>……他们怎么做了？</b>"
+        },
+        "prop": "name",
+        "nextId": 606
+    },
+    "node604": {
+        "id": "node604",
+        "attributes": {
+            "name": "bravo",
+            "content": "所以没人知道屋里那只猫死了还是没有，除非打开门去看。你知道他们最后怎么做了吗？"
+        },
+        "prop": "name",
+        "nextId": 605
+    },
+    "node603": {
+        "id": "node603",
+        "attributes": {
+            "name": "bravo",
+            "content": "从前有一只可怜的猫，被一个残忍的混蛋锁进一个毒气室里。可是问题是这个毒气是否释放是随机决定的，"
+        },
+        "prop": "name",
+        "nextId": 604
+    },
+    "node602": {
+        "id": "node602",
+        "attributes": {
+            "name": "克罗琦",
+            "content": "<b>哈？什么猫？</b>"
+        },
+        "prop": "name",
+        "nextId": 603
+    },
+    "node601": {
+        "id": "node601",
+        "attributes": {
+            "name": "bravo",
+            "content": "克罗琦，你听说过盒中猫的故事吗？"
+        },
+        "prop": "name",
+        "nextId": 602
+    },
+    "node301": {
+        "id": "node301",
+        "attributes": {},
+        "nextId": 57
+    },
+    "node300": {
+        "id": "node300",
+        "attributes": {},
+        "nextId": 56
+    }
+}

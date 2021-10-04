@@ -1,0 +1,905 @@
+{
+    "node1": {
+        "id": "node1",
+        "attributes": {
+            "content": "逆巴比伦塔内。"
+        },
+        "prop": "Subtitle",
+        "nextId": 301
+    },
+    "node2": {
+        "id": "node2",
+        "attributes": {
+            "name": "信使",
+            "content": "咳……唔……"
+        },
+        "prop": "name",
+        "nextId": 3
+    },
+    "node3": {
+        "id": "node3",
+        "attributes": {
+            "name": "净化者",
+            "content": "是……是信使大人！"
+        },
+        "prop": "name",
+        "nextId": 4
+    },
+    "node4": {
+        "id": "node4",
+        "attributes": {
+            "name": "净化者",
+            "content": "信使大人，您还好吗？……这是发生了什么？"
+        },
+        "prop": "name",
+        "nextId": 5
+    },
+    "node5": {
+        "id": "node5",
+        "attributes": {
+            "name": "信使",
+            "content": "让一让。"
+        },
+        "prop": "name",
+        "nextId": 6
+    },
+    "node6": {
+        "id": "node6",
+        "attributes": {
+            "name": "",
+            "content": "那张平日里始终亲切温和的脸上竟然流露出一丝冷峻。"
+        },
+        "prop": "name",
+        "nextId": 7
+    },
+    "node7": {
+        "id": "node7",
+        "attributes": {
+            "name": "净化者",
+            "content": "今天负责圣沐修复点工作的是爱……我这就去让她做准备……"
+        },
+        "prop": "name",
+        "nextId": 8
+    },
+    "node8": {
+        "id": "node8",
+        "attributes": {
+            "name": "信使",
+            "content": "不，愈疗的事不着急。"
+        },
+        "prop": "name",
+        "nextId": 9
+    },
+    "node9": {
+        "id": "node9",
+        "attributes": {
+            "name": "净化者",
+            "content": "诶？可是您的伤口看起来很严重……"
+        },
+        "prop": "name",
+        "nextId": 10
+    },
+    "node10": {
+        "id": "node10",
+        "attributes": {
+            "name": "信使",
+            "content": "和这点伤相比，还有更加重要的事。"
+        },
+        "prop": "name",
+        "nextId": 11
+    },
+    "node11": {
+        "id": "node11",
+        "attributes": {
+            "name": "信使",
+            "content": "你去，到顶层圣殿去找晨星大人。"
+        },
+        "prop": "name",
+        "nextId": 12
+    },
+    "node12": {
+        "id": "node12",
+        "attributes": {
+            "name": "净化者",
+            "content": "啊……严重到要晨星大人出面了么……"
+        },
+        "prop": "name",
+        "nextId": 13
+    },
+    "node13": {
+        "id": "node13",
+        "attributes": {
+            "name": "信使",
+            "content": "还有，给我把圣餐那家伙找出来！"
+        },
+        "prop": "name",
+        "nextId": 14
+    },
+    "node14": {
+        "id": "node14",
+        "attributes": {
+            "name": "净化者",
+            "content": "圣……圣餐大人？"
+        },
+        "prop": "name",
+        "nextId": 15
+    },
+    "node15": {
+        "id": "node15",
+        "attributes": {
+            "name": "信使",
+            "content": "快去啊！"
+        },
+        "prop": "name",
+        "nextId": 16
+    },
+    "node16": {
+        "id": "node16",
+        "attributes": {
+            "name": "净化者",
+            "content": "……是！"
+        },
+        "prop": "name",
+        "nextId": 17
+    },
+    "node17": {
+        "id": "node17",
+        "attributes": {
+            "name": "信使",
+            "content": "我倒是想听听，她会怎么给自己找借口。"
+        },
+        "prop": "name",
+        "nextId": 18
+    },
+    "node18": {
+        "id": "node18",
+        "attributes": {},
+        "nextId": 19
+    },
+    "node19": {
+        "id": "node19",
+        "attributes": {
+            "name": "净化者",
+            "content": "圣餐大人，请您快一点！信使大人很着急！"
+        },
+        "prop": "name",
+        "nextId": 20
+    },
+    "node20": {
+        "id": "node20",
+        "attributes": {
+            "name": "圣餐",
+            "content": "来了啦，来了啦！别催了！"
+        },
+        "prop": "name",
+        "nextId": 21
+    },
+    "node21": {
+        "id": "node21",
+        "attributes": {
+            "name": "圣餐",
+            "content": "真是的，信使姐姐怎么那么……"
+        },
+        "prop": "name",
+        "nextId": 22
+    },
+    "node22": {
+        "id": "node22",
+        "attributes": {
+            "name": "",
+            "content": "踏入圣殿的圣餐话音未落，便看到浑身是伤的信使正紧盯着她。而信使身后的圣座上，晨星的光辉也熠熠闪耀着。"
+        },
+        "prop": "name",
+        "nextId": 23
+    },
+    "node23": {
+        "id": "node23",
+        "attributes": {
+            "name": "圣餐",
+            "content": "哦呀……看来信使姐姐在恩格玛扇区也经历了不小的波折呢。"
+        },
+        "prop": "name",
+        "nextId": 24
+    },
+    "node24": {
+        "id": "node24",
+        "attributes": {
+            "name": "信使",
+            "content": "……你看上去倒是很得意呢，圣餐？"
+        },
+        "prop": "name",
+        "nextId": 25
+    },
+    "node25": {
+        "id": "node25",
+        "attributes": {
+            "name": "圣餐",
+            "content": "哇，姐姐看上去好凶哦。"
+        },
+        "prop": "name",
+        "nextId": 26
+    },
+    "node26": {
+        "id": "node26",
+        "attributes": {
+            "name": "信使",
+            "content": "放纵入侵者闯入扇区，刻意败在他们的手中……"
+        },
+        "prop": "name",
+        "nextId": 27
+    },
+    "node27": {
+        "id": "node27",
+        "attributes": {
+            "name": "信使",
+            "content": "而后在明知自己背负着使命的情况下，对蓄意破坏扇区的行径放任不管……"
+        },
+        "prop": "name",
+        "nextId": 28
+    },
+    "node28": {
+        "id": "node28",
+        "attributes": {
+            "name": "信使",
+            "content": "甚至阻碍我对邪灵执行净化……"
+        },
+        "prop": "name",
+        "nextId": 29
+    },
+    "node29": {
+        "id": "node29",
+        "attributes": {
+            "name": "信使",
+            "content": "对这些，你就没有什么要解释的么？"
+        },
+        "prop": "name",
+        "nextId": 30
+    },
+    "node30": {
+        "id": "node30",
+        "attributes": {
+            "name": "信使",
+            "content": "在这里，当着晨星大人的面……"
+        },
+        "prop": "name",
+        "nextId": 31
+    },
+    "node31": {
+        "id": "node31",
+        "attributes": {
+            "name": "信使",
+            "content": "给我解释一下，你到底怀着什么目的？！"
+        },
+        "prop": "name",
+        "nextId": 32
+    },
+    "node32": {
+        "id": "node32",
+        "attributes": {
+            "name": "",
+            "content": "信使咬着牙将声调提高了几分，身上的伤口也因为愤怒而向外溢出了更多的算量数据。"
+        },
+        "prop": "name",
+        "nextId": 33
+    },
+    "node33": {
+        "id": "node33",
+        "attributes": {
+            "name": "圣餐",
+            "content": "干，干什么呀！"
+        },
+        "prop": "name",
+        "nextId": 34
+    },
+    "node34": {
+        "id": "node34",
+        "attributes": {
+            "name": "晨星",
+            "content": "信使，收敛一些。"
+        },
+        "prop": "name",
+        "nextId": 35
+    },
+    "node35": {
+        "id": "node35",
+        "attributes": {
+            "name": "信使",
+            "content": "……是。抱歉，我不该被情绪主导。"
+        },
+        "prop": "name",
+        "nextId": 36
+    },
+    "node36": {
+        "id": "node36",
+        "attributes": {
+            "name": "晨星",
+            "content": "虽说一方之词并不足以定罪，但圣餐，你有什么想辩驳的么？"
+        },
+        "prop": "name",
+        "nextId": 37
+    },
+    "node37": {
+        "id": "node37",
+        "attributes": {
+            "name": "圣餐",
+            "content": "哎，既然晨星大人也这么说了，那我也想问问信使姐姐呢……"
+        },
+        "prop": "name",
+        "nextId": 38
+    },
+    "node38": {
+        "id": "node38",
+        "attributes": {
+            "name": "圣餐",
+            "content": "我们的任务和使命，难道不是彻底净化和消除邪灵吗？"
+        },
+        "prop": "name",
+        "nextId": 39
+    },
+    "node39": {
+        "id": "node39",
+        "attributes": {
+            "name": "信使",
+            "content": "没错。不，你想说什么？"
+        },
+        "prop": "name",
+        "nextId": 40
+    },
+    "node40": {
+        "id": "node40",
+        "attributes": {
+            "name": "圣餐",
+            "content": "但你最后，不是也选择了离开吗？为什么没有和那些流亡者顽抗到底呢？"
+        },
+        "prop": "name",
+        "nextId": 41
+    },
+    "node41": {
+        "id": "node41",
+        "attributes": {
+            "name": "圣餐",
+            "content": "要说起来，恩格玛的扇区权限丢失，信使姐姐也是要负责任的啊！"
+        },
+        "prop": "name",
+        "nextId": 42
+    },
+    "node42": {
+        "id": "node42",
+        "attributes": {
+            "name": "信使",
+            "content": "<size=40>……你！</size>"
+        },
+        "prop": "name",
+        "nextId": 43
+    },
+    "node43": {
+        "id": "node43",
+        "attributes": {
+            "name": "圣餐",
+            "content": "是吧？嘿嘿，我可是都看到了哟！"
+        },
+        "prop": "name",
+        "nextId": 44
+    },
+    "node44": {
+        "id": "node44",
+        "attributes": {
+            "name": "圣餐",
+            "content": "信使姐姐，你的心底里，是不是也觉得那些流亡者和一般的邪灵不太一样呢？"
+        },
+        "prop": "name",
+        "nextId": 45
+    },
+    "node45": {
+        "id": "node45",
+        "attributes": {
+            "name": "信使",
+            "content": "……"
+        },
+        "prop": "name",
+        "nextId": 46
+    },
+    "node46": {
+        "id": "node46",
+        "attributes": {
+            "name": "信使",
+            "content": "我只是……"
+        },
+        "prop": "name",
+        "nextId": 47
+    },
+    "node47": {
+        "id": "node47",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嗯？是因为什么呢？"
+        },
+        "prop": "name",
+        "nextId": 48
+    },
+    "node48": {
+        "id": "node48",
+        "attributes": {
+            "name": "圣餐",
+            "content": "反正我呀，我觉得他们很特别哦。"
+        },
+        "prop": "name",
+        "nextId": 49
+    },
+    "node49": {
+        "id": "node49",
+        "attributes": {
+            "name": "信使",
+            "content": "晨星大人！"
+        },
+        "prop": "name",
+        "nextId": 50
+    },
+    "node50": {
+        "id": "node50",
+        "attributes": {
+            "name": "晨星",
+            "content": "没事，信使。让她说完。"
+        },
+        "prop": "name",
+        "nextId": 51
+    },
+    "node51": {
+        "id": "node51",
+        "attributes": {
+            "name": "信使",
+            "content": "……是。"
+        },
+        "prop": "name",
+        "nextId": 52
+    },
+    "node52": {
+        "id": "node52",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嘿嘿，经历了那么多个扇区，难道信使姐姐没有这种感觉吗？"
+        },
+        "prop": "name",
+        "nextId": 53
+    },
+    "node53": {
+        "id": "node53",
+        "attributes": {
+            "name": "圣餐",
+            "content": "那些流亡者夺走权限之后，并不像普通的邪灵一样简单地“吞噬”算量。"
+        },
+        "prop": "name",
+        "nextId": 54
+    },
+    "node54": {
+        "id": "node54",
+        "attributes": {
+            "name": "圣餐",
+            "content": "相反，在他们的庇护下，那些扇区运作得很好。"
+        },
+        "prop": "name",
+        "nextId": 55
+    },
+    "node55": {
+        "id": "node55",
+        "attributes": {
+            "name": "信使",
+            "content": "可这些扇区失去了我们净化者的保护，会很容易被其他邪灵入侵！"
+        },
+        "prop": "name",
+        "nextId": 56
+    },
+    "node56": {
+        "id": "node56",
+        "attributes": {
+            "name": "圣餐",
+            "content": "那就看他们的表现了咯。"
+        },
+        "prop": "name",
+        "nextId": 57
+    },
+    "node57": {
+        "id": "node57",
+        "attributes": {
+            "name": "信使",
+            "content": "你——这是对我们天职的亵渎！"
+        },
+        "prop": "name",
+        "nextId": 58
+    },
+    "node58": {
+        "id": "node58",
+        "attributes": {
+            "name": "圣餐",
+            "content": "可我就是想知道他们能做到什么地步呀？"
+        },
+        "prop": "name",
+        "nextId": 59
+    },
+    "node59": {
+        "id": "node59",
+        "attributes": {
+            "name": "信使",
+            "content": "但你不能因为你那可笑的好奇心，就将整个麦戈拉置于危险的境地！"
+        },
+        "prop": "name",
+        "nextId": 60
+    },
+    "node60": {
+        "id": "node60",
+        "attributes": {
+            "name": "圣餐",
+            "content": "哎呀，也没有那么夸张吧……"
+        },
+        "prop": "name",
+        "nextId": 61
+    },
+    "node61": {
+        "id": "node61",
+        "attributes": {
+            "name": "信使",
+            "content": "……晨星大人！"
+        },
+        "prop": "name",
+        "nextId": 62
+    },
+    "node62": {
+        "id": "node62",
+        "attributes": {
+            "name": "信使",
+            "content": "圣餐玩忽职守，按照规定，应该接受处决！"
+        },
+        "prop": "name",
+        "nextId": 63
+    },
+    "node63": {
+        "id": "node63",
+        "attributes": {
+            "name": "圣餐",
+            "content": "嘶……真是危险的词呀。信使姐姐，你真的忍心吗？"
+        },
+        "prop": "name",
+        "nextId": 64
+    },
+    "node64": {
+        "id": "node64",
+        "attributes": {
+            "name": "信使",
+            "content": "你给我住口……"
+        },
+        "prop": "name",
+        "nextId": 65
+    },
+    "node65": {
+        "id": "node65",
+        "attributes": {
+            "name": "晨星",
+            "content": "可以了。信使，圣餐。你们的意见都已经明了。"
+        },
+        "prop": "name",
+        "nextId": 66
+    },
+    "node66": {
+        "id": "node66",
+        "attributes": {
+            "name": "晨星",
+            "content": "圣餐不应由我处决。"
+        },
+        "prop": "name",
+        "nextId": 67
+    },
+    "node67": {
+        "id": "node67",
+        "attributes": {
+            "name": "信使",
+            "content": "晨星大人……为什么？"
+        },
+        "prop": "name",
+        "nextId": 68
+    },
+    "node68": {
+        "id": "node68",
+        "attributes": {
+            "name": "信使",
+            "content": "……因为我是昏星一派的人吗？您——恕我无礼——您该不会想要袒护她……"
+        },
+        "prop": "name",
+        "nextId": 69
+    },
+    "node69": {
+        "id": "node69",
+        "attributes": {
+            "name": "晨星",
+            "content": "……信使。"
+        },
+        "prop": "name",
+        "nextId": 70
+    },
+    "node70": {
+        "id": "node70",
+        "attributes": {
+            "name": "信使",
+            "content": "昏星大人在“前线”作战，全靠您维持逆巴比伦塔的稳固——"
+        },
+        "prop": "name",
+        "nextId": 71
+    },
+    "node71": {
+        "id": "node71",
+        "attributes": {
+            "name": "信使",
+            "content": "但如果您像这样无视公正，随意豁免自己的下属，将来……"
+        },
+        "prop": "name",
+        "nextId": 72
+    },
+    "node72": {
+        "id": "node72",
+        "attributes": {
+            "name": "晨星",
+            "content": "我说过可以了，信使。"
+        },
+        "prop": "name",
+        "nextId": 73
+    },
+    "node73": {
+        "id": "node73",
+        "attributes": {
+            "name": "晨星",
+            "content": "圣餐不应由我处决，也不应由我豁免。"
+        },
+        "prop": "name",
+        "nextId": 74
+    },
+    "node74": {
+        "id": "node74",
+        "attributes": {
+            "name": "信使",
+            "content": "……欸？"
+        },
+        "prop": "name",
+        "nextId": 75
+    },
+    "node75": {
+        "id": "node75",
+        "attributes": {
+            "name": "晨星",
+            "content": "圣餐需要接受的，是公正的审判。"
+        },
+        "prop": "name",
+        "nextId": 76
+    },
+    "node76": {
+        "id": "node76",
+        "attributes": {
+            "name": "",
+            "content": "说完，晨星转向圣餐。"
+        },
+        "prop": "name",
+        "nextId": 77
+    },
+    "node77": {
+        "id": "node77",
+        "attributes": {
+            "name": "圣餐",
+            "content": "呜呃……晨，晨星大人？"
+        },
+        "prop": "name",
+        "nextId": 78
+    },
+    "node78": {
+        "id": "node78",
+        "attributes": {
+            "name": "晨星",
+            "content": "看样子，你对信使所指控的事实并无否认。"
+        },
+        "prop": "name",
+        "nextId": 79
+    },
+    "node79": {
+        "id": "node79",
+        "attributes": {
+            "name": "晨星",
+            "content": "我无意过问你的动机，但我需要明确你的过错。"
+        },
+        "prop": "name",
+        "nextId": 80
+    },
+    "node80": {
+        "id": "node80",
+        "attributes": {
+            "name": "晨星",
+            "content": "从此刻起，你将失去离开逆巴比伦塔的权利。"
+        },
+        "prop": "name",
+        "nextId": 81
+    },
+    "node81": {
+        "id": "node81",
+        "attributes": {
+            "name": "晨星",
+            "content": "若你的罪行无法通过审判，我将亲自净化你。"
+        },
+        "prop": "name",
+        "nextId": 82
+    },
+    "node82": {
+        "id": "node82",
+        "attributes": {
+            "name": "圣餐",
+            "content": "唔……"
+        },
+        "prop": "name",
+        "nextId": 83
+    },
+    "node83": {
+        "id": "node83",
+        "attributes": {
+            "name": "晨星",
+            "content": "坐拥上位的职阶，就要肩负得起上位的责任。很可惜，在你那里这一切都像儿戏一样。"
+        },
+        "prop": "name",
+        "nextId": 84
+    },
+    "node84": {
+        "id": "node84",
+        "attributes": {
+            "name": "圣餐",
+            "content": "喂，晨星大人，认真的吗？"
+        },
+        "prop": "name",
+        "nextId": 85
+    },
+    "node85": {
+        "id": "node85",
+        "attributes": {
+            "name": "晨星",
+            "content": "我现在可是很严肃地在和你对话。"
+        },
+        "prop": "name",
+        "nextId": 86
+    },
+    "node86": {
+        "id": "node86",
+        "attributes": {
+            "name": "圣餐",
+            "content": "……不行，我无法接受！"
+        },
+        "prop": "name",
+        "nextId": 87
+    },
+    "node87": {
+        "id": "node87",
+        "attributes": {
+            "name": "晨星",
+            "content": "由不得你接不接受。到此为止了，圣餐。"
+        },
+        "prop": "name",
+        "nextId": 88
+    },
+    "node88": {
+        "id": "node88",
+        "attributes": {
+            "name": "晨星",
+            "content": "你要为你做的事付出代价。"
+        },
+        "prop": "name",
+        "nextId": 89
+    },
+    "node89": {
+        "id": "node89",
+        "attributes": {
+            "name": "晨星",
+            "content": "把她带下去。"
+        },
+        "prop": "name",
+        "nextId": 90
+    },
+    "node90": {
+        "id": "node90",
+        "attributes": {
+            "name": "",
+            "content": "晨星说完，两个中位净化者立刻战战兢兢地走了上来。圣餐似乎还想要说些什么，但最终还是低下头，选择跟着她们往外走。"
+        },
+        "prop": "name",
+        "nextId": 91
+    },
+    "node91": {
+        "id": "node91",
+        "attributes": {
+            "name": "晨星",
+            "content": "信使，你也赶紧去愈疗修复吧。"
+        },
+        "prop": "name",
+        "nextId": 92
+    },
+    "node92": {
+        "id": "node92",
+        "attributes": {
+            "name": "信使",
+            "content": "……是。"
+        },
+        "prop": "name",
+        "nextId": 93
+    },
+    "node93": {
+        "id": "node93",
+        "attributes": {
+            "name": "信使",
+            "content": "请允许我额外问一句……您会如何审判圣餐？"
+        },
+        "prop": "name",
+        "nextId": 94
+    },
+    "node94": {
+        "id": "node94",
+        "attributes": {
+            "name": "晨星",
+            "content": "眼见为实。"
+        },
+        "prop": "name",
+        "nextId": 95
+    },
+    "node95": {
+        "id": "node95",
+        "attributes": {
+            "name": "晨星",
+            "content": "我会弄清楚，圣餐究竟想做什么。"
+        },
+        "prop": "name",
+        "nextId": 96
+    },
+    "node96": {
+        "id": "node96",
+        "attributes": {
+            "name": "信使",
+            "content": "……好的。"
+        },
+        "prop": "name",
+        "nextId": 97
+    },
+    "node97": {
+        "id": "node97",
+        "attributes": {
+            "name": "",
+            "content": "无论如何，这应该算是令人满意的结果了。只要排除了不稳定因素，之后总能找到机会处理那些流亡者。"
+        },
+        "prop": "name",
+        "nextId": 98
+    },
+    "node98": {
+        "id": "node98",
+        "attributes": {
+            "name": "",
+            "content": "她向出口望去。即将被带离万圣之殿的圣餐，此时也回过头来，恰巧与她四目相对。"
+        },
+        "prop": "name",
+        "nextId": 99
+    },
+    "node99": {
+        "id": "node99",
+        "attributes": {
+            "name": "",
+            "content": "她本以为，这次终于可以在圣餐的脸上读到一些悔恨与不甘了。然而出人意料的是，圣餐的脸上依然带着暧昧的微笑……"
+        },
+        "prop": "name",
+        "nextId": 100
+    },
+    "node100": {
+        "id": "node100",
+        "attributes": {
+            "name": "",
+            "content": "<b>>> CHAPTER 4 //     E N D . . .</b>"
+        },
+        "prop": "name"
+    },
+    "node301": {
+        "id": "node301",
+        "attributes": {
+            "name": "",
+            "content": "信使压抑着痛苦，竭力维持往日的仪态，沿着石阶登上圣殿。"
+        },
+        "prop": "name",
+        "nextId": 2
+    }
+}
