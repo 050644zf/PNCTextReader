@@ -143,7 +143,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "（让帕斯卡检查扇区的密钥）;（让克罗琦检查净化者的残骸）"
+            "options": {
+                "option1": "（让帕斯卡检查扇区的密钥）",
+                "option2": "（让克罗琦检查净化者的残骸）"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -207,7 +210,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "（让帕斯卡检查扇区的密钥）;（让克罗琦检查净化者的残骸）"
+            "options": {
+                "option1": "（让帕斯卡检查扇区的密钥）",
+                "option2": "（让克罗琦检查净化者的残骸）"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -280,7 +286,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "（让帕斯卡检查扇区的密钥）;（让克罗琦检查净化者的残骸）"
+            "options": {
+                "option1": "（让帕斯卡检查扇区的密钥）",
+                "option2": "（让克罗琦检查净化者的残骸）"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -353,7 +362,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "（让帕斯卡检查扇区的密钥）;（让克罗琦检查净化者的残骸）"
+            "options": {
+                "option1": "（让帕斯卡检查扇区的密钥）",
+                "option2": "（让克罗琦检查净化者的残骸）"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -896,7 +908,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "（让帕斯卡检查扇区的密钥）;（让克罗琦检查净化者的残骸）"
+            "options": {
+                "option1": "（让帕斯卡检查扇区的密钥）",
+                "option2": "（让克罗琦检查净化者的残骸）"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -913,7 +928,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "（让帕斯卡检查扇区的密钥）;（让克罗琦检查净化者的残骸）"
+            "options": {
+                "option1": "（让帕斯卡检查扇区的密钥）",
+                "option2": "（让克罗琦检查净化者的残骸）"
+            }
         },
         "prop": "Decision",
         "targetLine": {

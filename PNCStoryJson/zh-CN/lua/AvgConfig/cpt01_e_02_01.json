@@ -636,7 +636,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "替帕斯卡解围;缓和气氛"
+            "options": {
+                "option1": "替帕斯卡解围",
+                "option2": "缓和气氛"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -1075,7 +1078,9 @@
             "values": [
                 "option1"
             ],
-            "options": "我同意你的看法"
+            "options": {
+                "option1": "我同意你的看法"
+            }
         },
         "prop": "Decision",
         "targetLine": {

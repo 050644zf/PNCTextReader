@@ -458,7 +458,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "共同应战，将净化者击退！;撤离这里，寻找一个安全点！"
+            "options": {
+                "option1": "共同应战，将净化者击退！",
+                "option2": "撤离这里，寻找一个安全点！"
+            }
         },
         "prop": "Decision",
         "targetLine": {

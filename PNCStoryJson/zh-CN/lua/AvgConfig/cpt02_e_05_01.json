@@ -42,7 +42,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "解释起来需要时间，总之我们先到那里再说。;包在我身上，你们就看好了吧！"
+            "options": {
+                "option1": "解释起来需要时间，总之我们先到那里再说。",
+                "option2": "包在我身上，你们就看好了吧！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -235,7 +238,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "危险！;（扑开安冬妮娜）"
+            "options": {
+                "option1": "危险！",
+                "option2": "（扑开安冬妮娜）"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -350,7 +356,9 @@
             "values": [
                 "option1"
             ],
-            "options": "别慌，她瞄准的是后面！"
+            "options": {
+                "option1": "别慌，她瞄准的是后面！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -460,7 +468,9 @@
             "values": [
                 "option1"
             ],
-            "options": "别着急，我们还有反击的机会。"
+            "options": {
+                "option1": "别着急，我们还有反击的机会。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -540,7 +550,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "没错！很惊讶吗？;怎么，我还以为你对“虫子”没兴趣呢。;……"
+            "options": {
+                "option1": "没错！很惊讶吗？",
+                "option2": "怎么，我还以为你对“虫子”没兴趣呢。",
+                "option3": "……"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -629,7 +643,9 @@
             "values": [
                 "option1"
             ],
-            "options": "就是现在！散开！！"
+            "options": {
+                "option1": "就是现在！散开！！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -671,7 +687,9 @@
             "values": [
                 "option1"
             ],
-            "options": "我没事。"
+            "options": {
+                "option1": "我没事。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -920,7 +938,9 @@
             "values": [
                 "option1"
             ],
-            "options": "击中了！就是现在！"
+            "options": {
+                "option1": "击中了！就是现在！"
+            }
         },
         "prop": "Decision",
         "targetLine": {

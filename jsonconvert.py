@@ -51,7 +51,7 @@ def reader(avgcfg, avglang):
             if line['branch']:
                 lineDict['prop'] = 'Decision'
                 values = [f"option{value}" for value in list(line['branch']) if isinstance(value, int)]
-                options = ';'.join([avglang[line['branch'][value]['content']] for value in list(line['branch'])  if isinstance(value, int)])
+                options = {f"option{value}":avglang[line['branch'][value]['content']] for value in list(line['branch'])  if isinstance(value, int)}
                 lineDict['attributes']['values'] = values
                 lineDict['attributes']['options'] = options
                 lineDict['targetLine'] = {f"option{value}":line['branch'][value]['jumpAct'] for value in list(line['branch'])  if isinstance(value, int)}

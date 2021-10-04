@@ -903,7 +903,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "我们到附近找找吧，应该不会很远。;试着联络一下他们吧。"
+            "options": {
+                "option1": "我们到附近找找吧，应该不会很远。",
+                "option2": "试着联络一下他们吧。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

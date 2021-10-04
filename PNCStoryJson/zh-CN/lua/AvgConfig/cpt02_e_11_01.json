@@ -661,7 +661,9 @@
             "values": [
                 "option1"
             ],
-            "options": "我也向你保证。"
+            "options": {
+                "option1": "我也向你保证。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -694,7 +696,9 @@
             "values": [
                 "option1"
             ],
-            "options": "开始吧。"
+            "options": {
+                "option1": "开始吧。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -1071,7 +1075,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "加油！;如果还需要什么帮助，可以随时来绿洲找我们。"
+            "options": {
+                "option1": "加油！",
+                "option2": "如果还需要什么帮助，可以随时来绿洲找我们。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -1115,7 +1122,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "你是怎么做到的，安冬妮娜？;不愧是安娜，轻易就做到了我们做不到的事情！"
+            "options": {
+                "option1": "你是怎么做到的，安冬妮娜？",
+                "option2": "不愧是安娜，轻易就做到了我们做不到的事情！"
+            }
         },
         "prop": "Decision",
         "targetLine": {

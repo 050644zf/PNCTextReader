@@ -128,7 +128,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "看来之后也不是没有和净化者合作的可能性。;但她毕竟是净化者，还是不可信。"
+            "options": {
+                "option1": "看来之后也不是没有和净化者合作的可能性。",
+                "option2": "但她毕竟是净化者，还是不可信。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -190,7 +193,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "接近并抓住这个智能体。;和这个智能体沟通。"
+            "options": {
+                "option1": "接近并抓住这个智能体。",
+                "option2": "和这个智能体沟通。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -370,7 +376,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "就是你向外界发送求救信息的吗？;到底为什么会形成“算量黑洞”？;我们该如何帮你？"
+            "options": {
+                "option1": "就是你向外界发送求救信息的吗？",
+                "option2": "到底为什么会形成“算量黑洞”？",
+                "option3": "我们该如何帮你？"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -723,7 +733,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "你说得对。;……总之，先了解情况再做决定吧。;……"
+            "options": {
+                "option1": "你说得对。",
+                "option2": "……总之，先了解情况再做决定吧。",
+                "option3": "……"
+            }
         },
         "prop": "Decision",
         "targetLine": {

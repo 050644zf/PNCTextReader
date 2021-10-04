@@ -182,7 +182,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "不试一试怎么知道呢？;事到如今也没有其他办法了。"
+            "options": {
+                "option1": "不试一试怎么知道呢？",
+                "option2": "事到如今也没有其他办法了。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -380,7 +383,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "没关系，我已经做好战斗的准备了。;等一切结束了，我可要好好放个假！;（点头）"
+            "options": {
+                "option1": "没关系，我已经做好战斗的准备了。",
+                "option2": "等一切结束了，我可要好好放个假！",
+                "option3": "（点头）"
+            }
         },
         "prop": "Decision",
         "targetLine": {

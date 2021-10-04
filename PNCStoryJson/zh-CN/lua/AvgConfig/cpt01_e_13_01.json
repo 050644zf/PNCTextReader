@@ -227,7 +227,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "我们确实需要一个了解麦戈拉情况的人。;虽然但是，理子开出的价格太贵了。"
+            "options": {
+                "option1": "我们确实需要一个了解麦戈拉情况的人。",
+                "option2": "虽然但是，理子开出的价格太贵了。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -595,7 +598,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "我是代替她来的。;我真的就是教授。"
+            "options": {
+                "option1": "我是代替她来的。",
+                "option2": "我真的就是教授。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -1106,7 +1112,9 @@
             "values": [
                 "option1"
             ],
-            "options": "嗯，没问题。"
+            "options": {
+                "option1": "嗯，没问题。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

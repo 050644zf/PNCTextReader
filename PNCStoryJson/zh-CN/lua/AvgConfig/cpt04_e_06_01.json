@@ -1146,7 +1146,9 @@
             "values": [
                 "option1"
             ],
-            "options": "——因为我相信帕斯卡。"
+            "options": {
+                "option1": "——因为我相信帕斯卡。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

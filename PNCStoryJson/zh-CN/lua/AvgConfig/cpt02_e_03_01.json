@@ -168,7 +168,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "不要把什么事情都扛在自己身上。。;既然已经来了，我们先收集一些情报再做判断。"
+            "options": {
+                "option1": "不要把什么事情都扛在自己身上。。",
+                "option2": "既然已经来了，我们先收集一些情报再做判断。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -667,7 +670,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "以我指挥作战的经验来说，我不能同意你的这句话。;最好的防御，就是进攻。"
+            "options": {
+                "option1": "以我指挥作战的经验来说，我不能同意你的这句话。",
+                "option2": "最好的防御，就是进攻。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

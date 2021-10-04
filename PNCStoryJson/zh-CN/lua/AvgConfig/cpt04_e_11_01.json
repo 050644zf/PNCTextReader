@@ -150,7 +150,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "我们不会趁人之危的。;回去吧，信使。"
+            "options": {
+                "option1": "我们不会趁人之危的。",
+                "option2": "回去吧，信使。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -289,7 +292,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "我们本质没有区别，只是立场不同，没必要赶尽杀绝。;净化者死后也会重置数据并重生，放走她对我们来说或许会有好处。"
+            "options": {
+                "option1": "我们本质没有区别，只是立场不同，没必要赶尽杀绝。",
+                "option2": "净化者死后也会重置数据并重生，放走她对我们来说或许会有好处。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -450,7 +456,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "把帕斯卡也拽倒。;让帕斯卡扶我起来。"
+            "options": {
+                "option1": "把帕斯卡也拽倒。",
+                "option2": "让帕斯卡扶我起来。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -628,7 +637,9 @@
             "values": [
                 "option1"
             ],
-            "options": "摸摸她的头。"
+            "options": {
+                "option1": "摸摸她的头。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

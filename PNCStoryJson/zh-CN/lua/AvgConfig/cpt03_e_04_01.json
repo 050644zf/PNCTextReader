@@ -758,7 +758,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "这又不是动画片……;净化者你们算计我？;说了这个谁懂啊……"
+            "options": {
+                "option1": "这又不是动画片……",
+                "option2": "净化者你们算计我？",
+                "option3": "说了这个谁懂啊……"
+            }
         },
         "prop": "Decision",
         "targetLine": {

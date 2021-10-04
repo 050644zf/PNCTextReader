@@ -143,7 +143,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "这次也许没有人能在干涉之外帮助我们了……;乐观点，我们一起从内部寻找突破点！"
+            "options": {
+                "option1": "这次也许没有人能在干涉之外帮助我们了……",
+                "option2": "乐观点，我们一起从内部寻找突破点！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -279,7 +282,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "有道理呢，我偶尔也会想喝得醉醺醺的……;但是也有人抱有最单纯坚定的决心。"
+            "options": {
+                "option1": "有道理呢，我偶尔也会想喝得醉醺醺的……",
+                "option2": "但是也有人抱有最单纯坚定的决心。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -1012,7 +1018,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "你一直在一个人抵抗着熵的所有攻击吗？;谢谢你的照顾，安冬妮娜。"
+            "options": {
+                "option1": "你一直在一个人抵抗着熵的所有攻击吗？",
+                "option2": "谢谢你的照顾，安冬妮娜。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -1265,7 +1274,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "但愿这次，不会给你留下可怕的回忆。;准备好了么，你的噩梦名单只会被加长。"
+            "options": {
+                "option1": "但愿这次，不会给你留下可怕的回忆。",
+                "option2": "准备好了么，你的噩梦名单只会被加长。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

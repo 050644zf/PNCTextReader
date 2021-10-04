@@ -212,7 +212,9 @@
             "values": [
                 "option1"
             ],
-            "options": "隔离墙！"
+            "options": {
+                "option1": "隔离墙！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -272,7 +274,9 @@
             "values": [
                 "option1"
             ],
-            "options": "人工智能研究。"
+            "options": {
+                "option1": "人工智能研究。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

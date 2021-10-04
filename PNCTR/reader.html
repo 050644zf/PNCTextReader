@@ -39,7 +39,7 @@
                           {{line.attributes.text}}
                       </div>
                       <div v-if="line.prop == 'Decision'" :class="line.prop">
-                          <div v-for="(option, index) in line.attributes.values.split(';')" class="option" @click="jumpTo(line.targetLine['option'+option])" @mouseover="changeColor(line.targetLine['option'+option],'rgba(255,255,255,0.4)')" @mouseout="changeColor(line.targetLine['option'+option],'rgba(0,0,0,0.4)')">
+                          <div v-for="(option, index) in line.attributes.values" class="option" @click="jumpTo(line.targetLine['option'+option])" @mouseover="changeColor(line.targetLine['option'+option],'rgba(255,255,255,0.4)')" @mouseout="changeColor(line.targetLine['option'+option],'rgba(0,0,0,0.4)')">
                               {{line.attributes.options.split(';')[index]}}
                           </div>
                       </div>

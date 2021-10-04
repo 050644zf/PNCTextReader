@@ -456,7 +456,9 @@
             "values": [
                 "option1"
             ],
-            "options": "是<color=#ffa500ff>人形武器</color>，对吗？"
+            "options": {
+                "option1": "是<color=#ffa500ff>人形武器</color>，对吗？"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -873,7 +875,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "席摩或许和她有过接触。;席摩或许在这里做了什么事情。"
+            "options": {
+                "option1": "席摩或许和她有过接触。",
+                "option2": "席摩或许在这里做了什么事情。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

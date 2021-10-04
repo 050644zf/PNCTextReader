@@ -436,7 +436,9 @@
             "values": [
                 "option1"
             ],
-            "options": "这么说你的背包里有很多算量？"
+            "options": {
+                "option1": "这么说你的背包里有很多算量？"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -641,7 +643,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "忽悠;诚恳"
+            "options": {
+                "option1": "忽悠",
+                "option2": "诚恳"
+            }
         },
         "prop": "Decision",
         "targetLine": {

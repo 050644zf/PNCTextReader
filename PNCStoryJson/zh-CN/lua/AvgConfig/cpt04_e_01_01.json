@@ -69,7 +69,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "谢谢你，帕斯卡。;啊，咖啡吗？还是不用啦……"
+            "options": {
+                "option1": "谢谢你，帕斯卡。",
+                "option2": "啊，咖啡吗？还是不用啦……"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -132,7 +135,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "你也要注意身体呀，帕斯卡。;我对你说这句话还差不多。;帕斯卡好像老妈子啊……"
+            "options": {
+                "option1": "你也要注意身体呀，帕斯卡。",
+                "option2": "我对你说这句话还差不多。",
+                "option3": "帕斯卡好像老妈子啊……"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -371,7 +378,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "加固防御系统，削弱对绿洲的影响。;前往恩格玛扇区，关停“算量黑洞”。"
+            "options": {
+                "option1": "加固防御系统，削弱对绿洲的影响。",
+                "option2": "前往恩格玛扇区，关停“算量黑洞”。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -541,7 +551,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "和帕斯卡一同前往恩格玛扇区。;让帕斯卡独自前往恩格玛扇区。"
+            "options": {
+                "option1": "和帕斯卡一同前往恩格玛扇区。",
+                "option2": "让帕斯卡独自前往恩格玛扇区。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -810,7 +823,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "嗯，交给我吧！;（点头）"
+            "options": {
+                "option1": "嗯，交给我吧！",
+                "option2": "（点头）"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -1084,7 +1100,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "真让人不舒服。;从另一方面来说，我们不用担心净化者的攻击了。"
+            "options": {
+                "option1": "真让人不舒服。",
+                "option2": "从另一方面来说，我们不用担心净化者的攻击了。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

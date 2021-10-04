@@ -830,7 +830,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "你是谁？;你有什么目的？"
+            "options": {
+                "option1": "你是谁？",
+                "option2": "你有什么目的？"
+            }
         },
         "prop": "Decision",
         "targetLine": {

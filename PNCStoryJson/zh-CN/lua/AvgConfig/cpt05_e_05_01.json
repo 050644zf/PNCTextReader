@@ -206,7 +206,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "说实话，我并不清楚。;比起病毒……现在我还是对战斗更熟悉来着……"
+            "options": {
+                "option1": "说实话，我并不清楚。",
+                "option2": "比起病毒……现在我还是对战斗更熟悉来着……"
+            }
         },
         "prop": "Decision",
         "targetLine": {

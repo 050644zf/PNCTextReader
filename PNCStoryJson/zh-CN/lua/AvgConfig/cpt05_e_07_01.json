@@ -260,7 +260,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "当然可以，我很期待。;日后慢慢看也不迟，现在还有更重要的事。"
+            "options": {
+                "option1": "当然可以，我很期待。",
+                "option2": "日后慢慢看也不迟，现在还有更重要的事。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -315,7 +318,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "好吧，那就麻烦奥吉里带路了。;其他人的意见呢？"
+            "options": {
+                "option1": "好吧，那就麻烦奥吉里带路了。",
+                "option2": "其他人的意见呢？"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -451,7 +457,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "虽然难以理解，但非常厉害。;我觉得很棒，甚至可以说是……惊为天人。"
+            "options": {
+                "option1": "虽然难以理解，但非常厉害。",
+                "option2": "我觉得很棒，甚至可以说是……惊为天人。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -766,7 +775,9 @@
             "values": [
                 "option1"
             ],
-            "options": "抱歉，我也必须要回绿洲。"
+            "options": {
+                "option1": "抱歉，我也必须要回绿洲。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -811,7 +822,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "这个可能做不到……;比起这个，我还在头痛要如何回到现实世界呢。"
+            "options": {
+                "option1": "这个可能做不到……",
+                "option2": "比起这个，我还在头痛要如何回到现实世界呢。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

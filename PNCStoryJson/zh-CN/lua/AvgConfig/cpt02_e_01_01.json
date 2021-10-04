@@ -230,7 +230,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "只要做好充足的计划、准备，我相信我们能应对任何困难。;风险总是有的。即便遇到它，我们去解决它就可以了。"
+            "options": {
+                "option1": "只要做好充足的计划、准备，我相信我们能应对任何困难。",
+                "option2": "风险总是有的。即便遇到它，我们去解决它就可以了。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -256,7 +259,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "咳……语录那里。;刚刚才到。"
+            "options": {
+                "option1": "咳……语录那里。",
+                "option2": "刚刚才到。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -624,7 +630,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "冷静点，帕斯卡。席摩还不一定有事。;别紧张，克罗琦。这不是你的错。"
+            "options": {
+                "option1": "冷静点，帕斯卡。席摩还不一定有事。",
+                "option2": "别紧张，克罗琦。这不是你的错。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

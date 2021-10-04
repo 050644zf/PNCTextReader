@@ -286,7 +286,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "没有关系，因为我们是同伴，所以我相信你们。;没有关系，因为我们是同伴，所以我相信你们。;没有关系，因为我们是同伴，所以我相信你们。"
+            "options": {
+                "option1": "没有关系，因为我们是同伴，所以我相信你们。",
+                "option2": "没有关系，因为我们是同伴，所以我相信你们。",
+                "option3": "没有关系，因为我们是同伴，所以我相信你们。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -1073,7 +1077,9 @@
             "values": [
                 "option1"
             ],
-            "options": "准备迎战！"
+            "options": {
+                "option1": "准备迎战！"
+            }
         },
         "prop": "Decision",
         "targetLine": {

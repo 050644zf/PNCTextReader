@@ -65,7 +65,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "净化者……？;我有些混乱，从头解释一下情况吧。"
+            "options": {
+                "option1": "净化者……？",
+                "option2": "我有些混乱，从头解释一下情况吧。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -335,7 +338,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "别担心，帕斯卡。我一定会让你们平安回来的。;我什么大风大浪没见过，听我指挥！;相信我。"
+            "options": {
+                "option1": "别担心，帕斯卡。我一定会让你们平安回来的。",
+                "option2": "我什么大风大浪没见过，听我指挥！",
+                "option3": "相信我。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

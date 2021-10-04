@@ -1320,7 +1320,9 @@
             "values": [
                 "option1"
             ],
-            "options": "全员，战斗准备！"
+            "options": {
+                "option1": "全员，战斗准备！"
+            }
         },
         "prop": "Decision",
         "targetLine": {

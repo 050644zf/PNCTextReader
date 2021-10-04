@@ -417,7 +417,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "你到底有什么目的？;只要救下我们，巧克力要多少有多少！;没问题。"
+            "options": {
+                "option1": "你到底有什么目的？",
+                "option2": "只要救下我们，巧克力要多少有多少！",
+                "option3": "没问题。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

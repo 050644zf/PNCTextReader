@@ -129,7 +129,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "那倒也不必。;我的话还没说完呢。;……"
+            "options": {
+                "option1": "那倒也不必。",
+                "option2": "我的话还没说完呢。",
+                "option3": "……"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -173,7 +177,9 @@
             "values": [
                 "option1"
             ],
-            "options": "——我也相信流亡者！"
+            "options": {
+                "option1": "——我也相信流亡者！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -271,7 +277,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "你们太慢了吧！;据说“可能会再也见不到”是很吉利的话。\n要好过“回老家结婚”哦。;……"
+            "options": {
+                "option1": "你们太慢了吧！",
+                "option2": "据说“可能会再也见不到”是很吉利的话。\n要好过“回老家结婚”哦。",
+                "option3": "……"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -369,7 +379,9 @@
             "values": [
                 "option1"
             ],
-            "options": "保护算量黑洞，为帕斯卡争取时间！"
+            "options": {
+                "option1": "保护算量黑洞，为帕斯卡争取时间！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -512,7 +524,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "当然不是。;就算真的是陪葬，你们也会来的吧。;你觉得呢？"
+            "options": {
+                "option1": "当然不是。",
+                "option2": "就算真的是陪葬，你们也会来的吧。",
+                "option3": "你觉得呢？"
+            }
         },
         "prop": "Decision",
         "targetLine": {

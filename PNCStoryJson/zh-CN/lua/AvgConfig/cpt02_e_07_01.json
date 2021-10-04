@@ -1036,7 +1036,9 @@
             "values": [
                 "option1"
             ],
-            "options": "克罗琦，小心！"
+            "options": {
+                "option1": "克罗琦，小心！"
+            }
         },
         "prop": "Decision",
         "targetLine": {

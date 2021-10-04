@@ -352,7 +352,9 @@
             "values": [
                 "option1"
             ],
-            "options": "抵挡爆炸"
+            "options": {
+                "option1": "抵挡爆炸"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -697,7 +699,9 @@
             "values": [
                 "option1"
             ],
-            "options": "远离爆炸"
+            "options": {
+                "option1": "远离爆炸"
+            }
         },
         "prop": "Decision",
         "targetLine": {

@@ -253,7 +253,9 @@
             "values": [
                 "option1"
             ],
-            "options": "帕斯卡！！"
+            "options": {
+                "option1": "帕斯卡！！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -314,7 +316,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "尝试谈判。; 尝试逃走。"
+            "options": {
+                "option1": "尝试谈判。",
+                "option2": " 尝试逃走。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

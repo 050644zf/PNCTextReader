@@ -120,7 +120,9 @@
             "values": [
                 "option1"
             ],
-            "options": "这个解释起来有点复杂……"
+            "options": {
+                "option1": "这个解释起来有点复杂……"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -574,7 +576,9 @@
             "values": [
                 "option1"
             ],
-            "options": "真是令人惊叹啊……"
+            "options": {
+                "option1": "真是令人惊叹啊……"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -673,7 +677,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "不过我说的是实话，这座花园真的很美。;能让你高兴的话，我可以夸很久很久哦。"
+            "options": {
+                "option1": "不过我说的是实话，这座花园真的很美。",
+                "option2": "能让你高兴的话，我可以夸很久很久哦。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -899,7 +906,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "嗯，我们一定会帮助你们的。;嗯，人类的艺术非常重要，这些数据不能丢失。"
+            "options": {
+                "option1": "嗯，我们一定会帮助你们的。",
+                "option2": "嗯，人类的艺术非常重要，这些数据不能丢失。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

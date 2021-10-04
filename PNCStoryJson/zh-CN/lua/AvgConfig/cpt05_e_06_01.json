@@ -419,7 +419,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "感谢你们，即使算量无几也愿意守望在这里。;我并不了解艺术，但美的事物总能打动人心。"
+            "options": {
+                "option1": "感谢你们，即使算量无几也愿意守望在这里。",
+                "option2": "我并不了解艺术，但美的事物总能打动人心。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -528,7 +531,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "艺术是拯救人们走向娱乐至死的良药。;娱乐不是什么沉重的话题，它的存在本身没有错。"
+            "options": {
+                "option1": "艺术是拯救人们走向娱乐至死的良药。",
+                "option2": "娱乐不是什么沉重的话题，它的存在本身没有错。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -772,7 +778,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "（接下权限密钥）;还是和奥吉塔说明情况比较好。"
+            "options": {
+                "option1": "（接下权限密钥）",
+                "option2": "还是和奥吉塔说明情况比较好。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

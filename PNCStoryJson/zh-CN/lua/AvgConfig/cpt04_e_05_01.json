@@ -475,7 +475,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "试图追赶进入黑洞的帕斯卡。;向诺依曼询问情况。"
+            "options": {
+                "option1": "试图追赶进入黑洞的帕斯卡。",
+                "option2": "向诺依曼询问情况。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -825,7 +828,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "阻止信使。;让诺依曼阻止信使。"
+            "options": {
+                "option1": "阻止信使。",
+                "option2": "让诺依曼阻止信使。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

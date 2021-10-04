@@ -61,7 +61,11 @@
                 "option2",
                 "option3"
             ],
-            "options": "你们也辛苦了，快去好好休息吧。;不过是发挥了我的一般水平，过奖啦。;（点头）"
+            "options": {
+                "option1": "你们也辛苦了，快去好好休息吧。",
+                "option2": "不过是发挥了我的一般水平，过奖啦。",
+                "option3": "（点头）"
+            }
         },
         "prop": "Decision",
         "targetLine": {

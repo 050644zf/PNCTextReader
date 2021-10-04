@@ -467,7 +467,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "帮助净化者消灭病毒。;还是再观察一下吧。"
+            "options": {
+                "option1": "帮助净化者消灭病毒。",
+                "option2": "还是再观察一下吧。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -593,7 +596,9 @@
             "values": [
                 "option1"
             ],
-            "options": "好，那就一起去处理那些病毒吧！"
+            "options": {
+                "option1": "好，那就一起去处理那些病毒吧！"
+            }
         },
         "prop": "Decision",
         "targetLine": {

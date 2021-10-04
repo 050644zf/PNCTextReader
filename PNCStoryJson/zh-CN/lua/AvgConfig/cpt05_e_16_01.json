@@ -448,7 +448,9 @@
             "values": [
                 "option1"
             ],
-            "options": "安冬妮娜！你还好吗？！"
+            "options": {
+                "option1": "安冬妮娜！你还好吗？！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -465,7 +467,9 @@
             "values": [
                 "option1"
             ],
-            "options": "你在说什么？"
+            "options": {
+                "option1": "你在说什么？"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -500,7 +504,9 @@
             "values": [
                 "option1"
             ],
-            "options": "发生了什么？！"
+            "options": {
+                "option1": "发生了什么？！"
+            }
         },
         "prop": "Decision",
         "targetLine": {

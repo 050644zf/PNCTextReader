@@ -35,7 +35,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "奥吉塔，拜托你去博物馆取权限密钥！;我们一同回撤到博物馆里面吧！"
+            "options": {
+                "option1": "奥吉塔，拜托你去博物馆取权限密钥！",
+                "option2": "我们一同回撤到博物馆里面吧！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -459,7 +462,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "我们还是得退回博物馆里！;帕斯卡，带苏尔撤回到博物馆里面！"
+            "options": {
+                "option1": "我们还是得退回博物馆里！",
+                "option2": "帕斯卡，带苏尔撤回到博物馆里面！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -834,7 +840,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "我们可不记得你是谁。;我倒是对你有点印象。"
+            "options": {
+                "option1": "我们可不记得你是谁。",
+                "option2": "我倒是对你有点印象。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

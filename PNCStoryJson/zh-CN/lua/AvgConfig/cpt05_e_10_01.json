@@ -359,7 +359,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "我觉得艺术创作没有贵贱之分。;你能那么想真是太好了。"
+            "options": {
+                "option1": "我觉得艺术创作没有贵贱之分。",
+                "option2": "你能那么想真是太好了。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -404,7 +407,9 @@
             "values": [
                 "option1"
             ],
-            "options": "那我们答应你，一定会保护好博物馆的。"
+            "options": {
+                "option1": "那我们答应你，一定会保护好博物馆的。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -439,7 +444,9 @@
             "values": [
                 "option1"
             ],
-            "options": "那我们答应你，一定会保护好博物馆的。"
+            "options": {
+                "option1": "那我们答应你，一定会保护好博物馆的。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

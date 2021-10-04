@@ -175,7 +175,9 @@
             "values": [
                 "option1"
             ],
-            "options": "罗萨姆扇区发生了什么？"
+            "options": {
+                "option1": "罗萨姆扇区发生了什么？"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -353,7 +355,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "作出分析;安抚帕斯卡"
+            "options": {
+                "option1": "作出分析",
+                "option2": "安抚帕斯卡"
+            }
         },
         "prop": "Decision",
         "targetLine": {

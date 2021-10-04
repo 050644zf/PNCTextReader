@@ -766,7 +766,9 @@
             "values": [
                 "option1"
             ],
-            "options": "嗯，乐意效劳。"
+            "options": {
+                "option1": "嗯，乐意效劳。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

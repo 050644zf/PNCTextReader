@@ -97,7 +97,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "我想他所经历的那些事，还是暂时先不说比较好。;我们可以将他的经历慢慢讲给他听。"
+            "options": {
+                "option1": "我想他所经历的那些事，还是暂时先不说比较好。",
+                "option2": "我们可以将他的经历慢慢讲给他听。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -214,7 +217,9 @@
             "values": [
                 "option1"
             ],
-            "options": "嗯，我准备好了。唤醒席摩吧。"
+            "options": {
+                "option1": "嗯，我准备好了。唤醒席摩吧。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -524,7 +529,9 @@
             "values": [
                 "option1"
             ],
-            "options": "席摩？"
+            "options": {
+                "option1": "席摩？"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -550,7 +557,9 @@
             "values": [
                 "option1"
             ],
-            "options": "“席摩”，“S-I-M-O”，是你的名字。"
+            "options": {
+                "option1": "“席摩”，“S-I-M-O”，是你的名字。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -612,7 +621,9 @@
             "values": [
                 "option1"
             ],
-            "options": "我也很高兴……能再见到你。"
+            "options": {
+                "option1": "我也很高兴……能再见到你。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

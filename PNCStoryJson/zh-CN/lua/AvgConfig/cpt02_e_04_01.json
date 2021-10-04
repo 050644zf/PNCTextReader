@@ -634,7 +634,9 @@
             "values": [
                 "option1"
             ],
-            "options": "别担心，到那时我也有我的对策。"
+            "options": {
+                "option1": "别担心，到那时我也有我的对策。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -870,7 +872,9 @@
             "values": [
                 "option1"
             ],
-            "options": "上吧！"
+            "options": {
+                "option1": "上吧！"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -940,7 +944,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "也没什么大不了的。;多夸夸我也可以哦，帕斯卡。"
+            "options": {
+                "option1": "也没什么大不了的。",
+                "option2": "多夸夸我也可以哦，帕斯卡。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

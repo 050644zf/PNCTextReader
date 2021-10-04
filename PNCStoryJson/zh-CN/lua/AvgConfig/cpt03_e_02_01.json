@@ -514,7 +514,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "可能是病毒或者骇客的影响。;可能是电子羊的催眠。"
+            "options": {
+                "option1": "可能是病毒或者骇客的影响。",
+                "option2": "可能是电子羊的催眠。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

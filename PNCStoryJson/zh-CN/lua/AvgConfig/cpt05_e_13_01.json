@@ -296,7 +296,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "刚才我们好像见过这种花。;挺漂亮的，和花园很衬。"
+            "options": {
+                "option1": "刚才我们好像见过这种花。",
+                "option2": "挺漂亮的，和花园很衬。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

@@ -359,7 +359,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "在保住博物馆内数据的情况下，尽力救助奥吉里。;不管要耗费掉多少算量，都要救回奥吉里。"
+            "options": {
+                "option1": "在保住博物馆内数据的情况下，尽力救助奥吉里。",
+                "option2": "不管要耗费掉多少算量，都要救回奥吉里。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -702,7 +705,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "明白。不过不要追得太深。;外面不知道什么情况，还是不要去比较好。"
+            "options": {
+                "option1": "明白。不过不要追得太深。",
+                "option2": "外面不知道什么情况，还是不要去比较好。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -802,7 +808,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "（立刻开启）;奥吉塔，你可要好好谢谢我们哦。"
+            "options": {
+                "option1": "（立刻开启）",
+                "option2": "奥吉塔，你可要好好谢谢我们哦。"
+            }
         },
         "prop": "Decision",
         "targetLine": {

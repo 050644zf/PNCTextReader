@@ -129,7 +129,9 @@
             "values": [
                 "option1"
             ],
-            "options": "向绿洲求援？"
+            "options": {
+                "option1": "向绿洲求援？"
+            }
         },
         "prop": "Decision",
         "targetLine": {
@@ -492,7 +494,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "先去寻找算量;先去查询地图"
+            "options": {
+                "option1": "先去寻找算量",
+                "option2": "先去查询地图"
+            }
         },
         "prop": "Decision",
         "targetLine": {

@@ -1020,7 +1020,10 @@
                 "option1",
                 "option2"
             ],
-            "options": "谢谢你，克罗琦。;下回想个变身台词吧。"
+            "options": {
+                "option1": "谢谢你，克罗琦。",
+                "option2": "下回想个变身台词吧。"
+            }
         },
         "prop": "Decision",
         "targetLine": {
